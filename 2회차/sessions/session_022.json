@@ -1,0 +1,65 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "It's a hot Monday afternoon. A tiny, doable step: take a 15 ml sip of water now. In about 15 minutes, log your thirst level and how you’re feeling on a 0–5 scale. If you’re still thirsty or anxious, you can have a small additional sip later. If it helps, pair this with a quick 1-minute breathing reset (inhale for 4, hold for 4, exhale for 4) to feel grounded.",
+    "agent_monologue": "I weighed the hot, Monday afternoon context and the user's low-pressure preference. To reduce overwhelm and support autonomy, I chose a tiny, doable hydration step with a brief log window to keep momentum without pressure.",
+    "user_utterance": "Okay, I think I can try the tiny sip you suggested. I’ll take 15 ml of water now and log my thirst and how I’m feeling in about 15 minutes. If I’m still thirsty or anxious, I’ll have a little more and try the 1‑minute breathing reset to feel grounded. Thanks for the step-by-step."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "Nice work starting with 15 ml of water. In about 15 minutes, log your thirst on a 0–5 scale and note how you’re feeling. If you’re still thirsty or anxious, have a small additional sip (about 5–10 ml) and try a quick 1-minute breathing reset: inhale for 4, hold for 4, exhale for 4. You can repeat once more if needed, but keep each sip tiny. Staying hydrated in today’s heat (Suwon, 32°C) with small, steady steps is a smart approach.",
+    "agent_monologue": "I can’t share my detailed internal reasoning, but here’s a concise rationale: hot weather and a Monday can increase thirst and anxiety. A small, structured hydration plan plus a quick grounding breath helps without overwhelming you.",
+    "user_utterance": "Thanks for the clear steps. I’ll try the 15 ml sip now and log my thirst and how I feel in about 15 minutes. It’s a bit hard to drink regularly, but this tiny amount feels doable, especially with the heat here in Suwon. If I’m still thirsty or anxious after that first sip, I’ll have a small extra sip (5–10 ml) and do the 1‑minute breathing reset. I’ll keep it to micro-steps and keep the log up. I appreciate the structure—small, steady steps feel more tolerable for me right now."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "Nice progress. After you finish the 15 ml sip, plan to log your thirst and how you feel in about 15 minutes. If you’re still thirsty or feeling anxious, have a small extra sip (5–10 ml) and try a 1-minute breathing reset (inhale 4, hold 4, exhale 4). You can repeat once more if needed, but keep each sip tiny. The heat in Suwon makes steady, low-dose hydration especially helpful—you’ve got this with small, manageable steps.",
+    "agent_monologue": "I can’t share my internal chain-of-thought, but here’s a concise rationale: in hot weather and during a busy Monday, small hydration steps reduce cognitive load and anxiety while preserving autonomy. The suggested micro-sip and breathing support mood and thirst monitoring without overwhelming the user.",
+    "user_utterance": "Thanks for the clear plan. I’ll try the 15 ml sip now and log my thirst and how I feel in about 15 minutes. The heat in Suwon makes hydration feel tricky, and my eating has been irregular, so the tiny, doable steps feel safer right now. If I’m still thirsty or anxious after that first sip, I’ll have a small extra sip (5–10 ml) and use the 1-minute breathing reset. I’m hoping this slow, micro approach helps me feel a bit more in control, even if progress is gradual."
+  },
+  {
+    "turn": 4,
+    "agent_utterance": "Go ahead with the 15 ml sip now. In about 15 minutes, log your thirst on a 0–5 scale and note how you feel. If you’re still thirsty or anxious, take a small extra sip (5–10 ml) and try a 1-minute breathing reset (inhale 4, hold 4, exhale 4). You can repeat once more if needed, but keep each sip tiny. The heat in Suwon makes steady, low-dose hydration helpful—you’ve got this with small, manageable steps.",
+    "agent_monologue": "I can't share my full internal reasoning, but here's a concise rationale: in Suwon's hot late-afternoon environment with irregular eating, a micro-step hydration plan aligns with the user's preference for safety, control, and gradual progress. The suggested move—15 ml now, logging in ~15 minutes, with a tiny optional extra sip and a brief breathing reset if needed—supports steady, manageable progress without overwhelming the user.",
+    "user_utterance": "Okay, I’ll try the 15 ml sip now and log my thirst and how I feel in about 15 minutes. The heat in Suwon makes hydration feel tricky, and my eating has been irregular, so this tiny, doable step feels safer right now. I tend to follow simple prompts, so I’ll stick with the micro-sip plan and use the breathing reset if I’m still thirsty. If I’m still short of fluids, I’ll take a small extra sip (5–10 ml) and log it. Could we keep the steps really short and the reminders gentle? I appreciate the structure."
+  },
+  {
+    "turn": 5,
+    "agent_utterance": "Take 15 ml now. In about 15 minutes, log your thirst (0–5) and how you feel. If you’re still thirsty or anxious, add a small extra sip (5–10 ml) and do a 1-minute breathing reset (inhale 4, hold 4, exhale 4). You can repeat once more if needed, but keep each sip tiny. Gentle reminders and optional prompts to stay comfortable with the pace.",
+    "agent_monologue": "High heat in Suwon and irregular eating increase the importance of a small, low-pressure plan. The user prefers brief, gentle prompts, so I’ll favor a concise, optional reminder approach with micro-steps.",
+    "user_utterance": "Okay, I’ll start with 15 ml now and log my thirst and how I feel about 15 minutes later. The heat in Suwon and my irregular eating make hydration feel tricky, but these tiny steps feel safer right now. I tend to follow simple prompts, so I’ll stick with the micro-sip plan and use the breathing reset if I’m still thirsty or anxious. If I’m still short of fluids, I’ll take a small extra sip (5–10 ml) and log it. Keeping the steps short and the reminders gentle would really help me stay consistent—thanks for the structure."
+  },
+  {
+    "turn": 6,
+    "agent_utterance": "Take 15 ml now. In about 15 minutes, log thirst (0–5) and how you feel. If still thirsty or anxious, add 5–10 ml and do a 1‑minute breathing reset (inhale 4, hold 4, exhale 4). If needed, repeat once more, keeping each sip tiny.",
+    "agent_monologue": "I can't share my private chain-of-thought, but here's a concise rationale: hot weather in Suwon and irregular meals can make hydration and mood management harder. A tiny-step, low-effort plan supports consistency without overwhelming you.",
+    "user_utterance": "Thanks for the clear, simple plan. I’ll try the 15 ml sip now and log my thirst and how I feel about 15 minutes later. Hydration feels tricky with the heat and my irregular eating, but the micro-steps feel safer and doable. I’ll follow the breathing reset if I’m still thirsty or anxious, and if I’m still short of fluids I’ll add a small extra sip and log it. I’m hoping this slow, steady pace helps me feel a bit more in control."
+  },
+  {
+    "turn": 7,
+    "agent_utterance": "Take 15 ml now. In about 15 minutes, log your thirst on a 0–5 scale and note how you feel. If you’re still thirsty or anxious, add a small extra sip (5–10 ml) and do a 1-minute breathing reset (inhale 4, hold 4, exhale 4). You can repeat once more if needed, but keep each sip tiny. In Suwon’s heat and with irregular meals, this ultra-simple micro-step pace helps you stay on track.",
+    "agent_monologue": "I can’t share my private chain-of-thought, but here’s a concise rationale: the user is in a hot environment with irregular eating, and they prefer ultra-simple, micro-step guidance. A tiny, repeatable hydration plan with short prompts reduces overwhelm and supports steady progress.",
+    "user_utterance": "Thanks for the clear, gentle plan. I think I can try the 15 ml sip now and log it in about 15 minutes. The heat in Suwon and my irregular eating make hydration tricky, but these micro-steps feel safer and doable. I tend to follow simple prompts, so I’ll stick with the micro-sips and use the breathing reset if I’m still thirsty or anxious. If I’m still short of fluids, I’ll add a small extra sip (5-10 ml) and log it. Keeping the pace ultra-simple and the reminders gentle would really help me stay consistent, and I hope this slow pace helps me feel more in control, even if progress is gradual."
+  },
+  {
+    "turn": 8,
+    "agent_utterance": "Take 15 ml now. In about 15 minutes, log your thirst on a 0–5 scale and note how you feel. If you’re still thirsty or anxious, add a small extra sip (5–10 ml) and do a 1-minute breathing reset (inhale 4, hold 4, exhale 4). If needed, you can repeat once more, keeping each sip tiny. Given the heat in Suwon and your irregular meals, this ultra-simple micro-step pace helps you stay on track. Gentle reminders are optional—you can adapt the pace to what feels safe and doable for you.",
+    "agent_monologue": "I can’t share my internal chain-of-thought, but here’s a brief rationale: Suwon’s heat (32°C) and irregular meals make hydration trickier. The user prefers ultra-simple, autonomy-supportive steps, so a single 15 ml sip now with a short log, followed by a small optional extra sip and a quick breathing reset, aligns with safety and control without pressure.",
+    "user_utterance": "Okay, I’ll try the 15 ml now. Hydration feels tricky with the heat and my irregular eating, but these tiny, doable steps feel safer and doable. I tend to follow simple prompts, so I’ll stick with micro-sips and the breathing reset if I’m still thirsty or anxious. If I’m still short of fluids, I’ll add a small extra sip (5–10 ml) and log it. Since I’m easily influenced by prompts, I’ll keep reminders gentle and optional. Thanks for the structure—starting slow and steady feels like the right move for me."
+  },
+  {
+    "turn": 9,
+    "agent_utterance": "Take 15 ml now. In about 15 minutes, log your thirst on a 0–5 scale and how you feel. If you’re still thirsty or anxious, add a small extra sip (5–10 ml) and do a 1-minute breathing reset (inhale 4, hold 4, exhale 4). If needed, repeat once more, keeping each sip tiny. Gentle reminders are optional—you can adapt the pace to what feels safe today.",
+    "agent_monologue": "I can’t share my private chain-of-thought, but here’s a concise rationale: in hot Suwon with irregular meals, very small, predictable steps reduce overwhelm and support gradual hydration. The user responds well to brief prompts, so a 15 ml sip now, a 15-minute log, and an optional tiny extra sip with a 1-minute breathing reset aligns with their safety-focused, autonomous style and reduces stress while supporting progress.",
+    "user_utterance": "Okay, I’ll try the 15 ml now. The plan feels simple and doable, which helps because hydration is tricky with the heat and my irregular eating. I tend to follow prompts, so I’ll stick with micro-sips and use the breathing reset if I feel anxious. I’ll log my thirst and how I feel in about 15 minutes. If I’m still short of fluids, I’ll add a small extra sip and note it. I appreciate the gentle, optional reminders that help me stay on track without feeling overwhelmed. I hope this slow pace helps me feel a bit more in control."
+  },
+  {
+    "turn": 10,
+    "agent_utterance": "Take 15 ml now. In about 15 minutes, log your thirst on a 0–5 scale and note how you feel. If still thirsty or anxious, add a small extra sip (5–10 ml) and do a 1-minute breathing reset (inhale 4, hold 4, exhale 4). If needed, repeat once more, keeping each sip tiny. In Suwon's heat, gentle reminders are optional—adapt the pace to what feels safe today.",
+    "agent_monologue": "I can't share my internal chain-of-thought, but here's a brief rationale: in Suwon's heat with irregular meals, a simple, flexible hydration plan using tiny sips and optional breathing resets reduces overwhelm and supports steady progress.",
+    "user_utterance": "Thanks for the simple plan. I'll try the 15 ml sip now. Hydration still feels tricky with the heat in Suwon and my irregular eating, but these tiny steps feel safer and doable. I tend to follow prompts, so I’ll stick with micro-sips and use the breathing reset if I feel anxious. I’ll log my thirst and how I feel in about 15 minutes. If I’m still short of fluids, I’ll add a small extra sip (5–10 ml) and note it. Since prompts influence me a lot, I’ll keep reminders gentle and optional. I hope this slow pace helps me feel a bit more in control, even if progress is gradual.",
+    "ground_truth_action": 1.792903185917639,
+    "inferred_action": 4.5,
+    "compliance_estimate": 0.9
+  }
+]

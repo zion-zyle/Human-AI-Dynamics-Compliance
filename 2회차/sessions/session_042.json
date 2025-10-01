@@ -1,0 +1,65 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Ultra-small plan for today: 1) Hydrate with a glass (about 200 ml) of cold water—add lemon or cucumber if you like. 2) Have a tiny protein snack (~100 kcal): one boiled egg, a small yogurt, or one cheese stick. 3) In 15–20 minutes, check back with a quick note: share one feeling word and what tiny step you took.",
+    "agent_monologue": "I can't share my internal step-by-step thoughts, but here's a concise rationale: It's a hot, Monday evening in Suwon. The user is highly emotionally influenced, so ultra-small, flexible actions with a quick check-in support adherence and reduce pre-eating anxiety. The suggested plan is simple, actionable, and easy to adjust based on how they feel.",
+    "user_utterance": "Okay, I can try that. I’ll start with a glass of water right now. The tiny snack part feels scary, but I’ll aim for something small later if I feel capable—maybe a boiled egg or a little yogurt. I’ll check back in in 15–20 minutes and tell you one feeling word and what tiny step I actually took."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "Nice job starting with water. When you feel ready for a tiny bite, choose one ultra-small option: a boiled egg (you can start with half) or a small yogurt cup (about 100 kcal). If you’re not up for eating yet, that’s totally fine—sip a bit more water or do a 1-minute stretch instead. The key is ultra-small steps and flexible timing. Please check back in 15–20 minutes and tell me one feeling word and the tiny step you actually took. You’ve got this.",
+    "agent_monologue": "Sorry, I can’t share my internal chain-of-thought. Here’s a brief, high-level rationale: in hot evening conditions in Suwon, a brief, ultra-small action helps ease anxiety and supports hydration without feeling overwhelming. The plan provides a clear, low-effort next step and a quick check-in to build self-efficacy.",
+    "user_utterance": "Okay, I’ll give it a try. The ultra-small plan feels a bit more manageable today. Right now I’ll focus on the water. The snack part still feels scary, but I’ll aim for something tiny later if I feel able—like half a boiled egg or a small yogurt. I’ll check back in in 15–20 minutes with one feeling word and the tiny step I took."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "Nice work staying with the plan. For now, keep hydrating with another glass of water if you’d like. When you’re ready in 15–20 minutes, you could try a tiny bite—half a boiled egg or a small yogurt (~100 kcal). If that feels too big, just sip a bit more water or do a quick 1-minute stretch. When you check in, share one feeling word and the tiny step you took.",
+    "agent_monologue": "I can’t share my internal chain-of-thought, but here’s a concise rationale: it’s a hot Monday evening in Suwon, which can drain energy and heighten stress around eating. Keeping actions ultra-small and flexible helps you stay connected to the plan without pressure. Hydration remains the priority; a tiny snack is offered only if you feel able.",
+    "user_utterance": "Thanks for keeping things gentle. Today the ultra-small plan feels more doable. Right now I’ll focus on water. The snack part still feels scary, but I’m open to a tiny bite later if it feels doable—maybe half a boiled egg or a small yogurt, but only if I genuinely feel able. If not, I’ll just sip more water or do a quick 1-minute stretch. I’ll check back in in 15–20 minutes with one feeling word and the tiny step I took."
+  },
+  {
+    "turn": 4,
+    "agent_utterance": "It's hot in Suwon, so let's prioritize hydration. Have one more small glass of water now. In 15–20 minutes, if you feel able, try a tiny bite like half a boiled egg or a small yogurt (~100 kcal). If that still feels too much, continue with water or do a quick 1-minute stretch instead. You're handling this with care—gentle progress today.",
+    "agent_monologue": "Brief justification: Hot evening in Suwon (32°C) with a Monday routines running; user favors ultra-small, flexible steps. Provide a concise, supportive plan that emphasizes hydration now and a tiny bite later only if feeling able, to reduce anxiety and maintain progress.",
+    "user_utterance": "Thank you for keeping this gentle. I do feel anxious about snacks, but I’m going to focus on water right now and see how I feel in 15–20 minutes. If I feel able, I might try a tiny bite like half a boiled egg or a small yogurt, but only if it truly feels doable. If not, I’ll keep hydrating and do a quick 1-minute stretch. I appreciate the small-step approach."
+  },
+  {
+    "turn": 5,
+    "agent_utterance": "Nice progress. For now, focus on one more small glass of water. In 15–20 minutes, if you truly feel able, try a tiny bite like half a boiled egg or a small yogurt (~100 kcal). If that feels too much, simply continue hydrating or do a quick 1-minute stretch. When you check in, share one feeling word and the tiny step you took.",
+    "agent_monologue": "High-level rationale: The user is in a hot environment (Suwon, 32°C) on a Monday evening and has expressed anxiety about snacks. The plan emphasizes hydration and ultra-small, flexible steps to reduce distress and support adherence. The approach acknowledges emotions and keeps the bar low to encourage continued engagement.",
+    "user_utterance": "I’m feeling anxious about snacks, but I want to be kind to myself. I’ll focus on water right now and see how I feel in 15–20 minutes. If I feel able, I might try a tiny bite like half a boiled egg or a small yogurt, but only if it truly feels doable. If not, I’ll keep hydrating and maybe do a quick 1-minute stretch. I appreciate the slow, flexible approach."
+  },
+  {
+    "turn": 6,
+    "agent_utterance": "Nice work prioritizing water. In 15–20 minutes, if you truly feel able, try a tiny bite like half a boiled egg or a small yogurt (~100 kcal). If that feels too much, just keep hydrating or do a quick 1-minute stretch. You're handling this with care—gentle progress today.",
+    "agent_monologue": "I can't share my internal chain-of-thought, but here's a brief rationale: hot weather in Suwon and the user's anxiety around snacks call for ultra-small, flexible steps focused on hydration; the suggested plan avoids pressuring eating but keeps an option for a tiny snack if truly doable.",
+    "user_utterance": "Thanks for the gentle plan. I feel anxious about snacks, but I want to be kind to myself. I’ll focus on water now and see how I feel in 15–20 minutes. If I truly feel able, I might try a tiny bite like half a boiled egg or a small yogurt, but only if it feels doable. If not, I’ll keep hydrating and maybe do a quick 1-minute stretch. I appreciate the slow, flexible approach."
+  },
+  {
+    "turn": 7,
+    "agent_utterance": "Hydration first: have one small glass of water now. In 15–20 minutes, if you feel able, try a tiny bite such as half a boiled egg or a small yogurt (~100 kcal). If that feels too much, continue hydrating or do a quick 1-minute stretch. You’re making steady, gentle progress today.",
+    "agent_monologue": "I can’t share my full internal reasoning, but here’s a concise rationale: with hot weather in Suwon and Monday stress, hydration-first with ultra-small steps reduces anxiety around snacks and supports steady progress.",
+    "user_utterance": "Thanks for keeping this gentle plan. I do feel anxious about snacks, but I want to be kind to myself. I’ll focus on water right now and see how I feel in 15–20 minutes. If I truly feel able, I might try a tiny bite like half a boiled egg or a small yogurt, but only if it feels doable. If not, I’ll keep hydrating and maybe do a quick 1-minute stretch. I appreciate the slow, flexible approach."
+  },
+  {
+    "turn": 8,
+    "agent_utterance": "Hydration first: have one small glass of water now. In 15–20 minutes, if you truly feel able, try a tiny bite like half a boiled egg or a small yogurt (~100 kcal). If that feels too much, continue hydrating or do a quick 1-minute stretch. You’re handling this with care and making gentle progress today.",
+    "agent_monologue": "I can't share my internal chain-of-thought, but here's a concise rationale: In the hot Suwon evening (32°C) on a Monday, prioritizing hydration helps reduce distress and energy drain. The user reports anxiety around snacks, so a plan centered on ultra-small, flexible steps is appropriate. The recommended action is to offer a concrete, low-effort next step (water now) and a optional tiny bite later only if genuinely doable, with an easy alternative (stretch) if eating feels overwhelming.",
+    "user_utterance": "Appreciate the gentle pace. I'm anxious about snacks, but I want to be kind to myself. I'll start with water now and check back in in 15-20 minutes. If I feel able, I'll try a tiny bite like half a boiled egg or a small yogurt—only if it feels doable. If not, I'll keep hydrating and maybe do a quick 1-minute stretch. Thanks for meeting me where I am today."
+  },
+  {
+    "turn": 9,
+    "agent_utterance": "Hydration first: have one small glass of water now. In 15–20 minutes, if you truly feel able and it seems doable, consider a tiny bite like half a boiled egg or a small yogurt (about 100 kcal). If that feels too much, simply continue hydrating or do a quick 1-minute stretch. You’re making gentle progress today.",
+    "agent_monologue": "I can't share my internal chain-of-thought, but here's a concise rationale: given Suwon's warm evening and the user's anxiety around snacks, prioritize hydration and offer a tiny, optional bite only if truly doable. Keep actions ultra-small and within the user's control to reduce distress.",
+    "user_utterance": "Thank you for keeping this gentle approach. I still feel anxious about snacks, but I want to be kind to myself, so I’ll start with water now and check back in in 15–20 minutes. If I truly feel able, I might try a tiny bite like half a boiled egg or a small yogurt—but only if it feels doable. If not, I’ll keep hydrating and maybe do a quick 1-minute stretch. I appreciate the slow, flexible plan and will let you know how I feel when I check in."
+  },
+  {
+    "turn": 10,
+    "agent_utterance": "Hydration first: have one small glass of water now. In 15–20 minutes, if you feel able and it seems doable, try a tiny bite like half a boiled egg or a small yogurt (about 100 kcal). If that feels like too much, simply continue hydrating or do a quick 1-minute stretch. You’re doing great with the gentle, flexible approach today.",
+    "agent_monologue": "I can't share my internal chain-of-thought, but here's a brief rationale: Considering Suwon's hot weather and the user's anxiety about snacks, a hydration-first plan with an ultra-small bite later provides structure while minimizing overwhelm.",
+    "user_utterance": "Thanks for the gentle plan. I still feel anxious about snacks, but I want to be kind to myself. I’ll start with water now and check back in in 15–20 minutes. If I truly feel able, I might try a tiny bite like half a boiled egg or a small yogurt—but only if it feels doable. If not, I’ll keep hydrating and maybe do a quick 1-minute stretch. I appreciate the slow, flexible approach, and I’ll reach out to my clinician or therapist if the anxiety around meals feels overwhelming. I’ll let you know how I feel when I check in.",
+    "ground_truth_action": 1.0,
+    "inferred_action": 4.5,
+    "compliance_estimate": 0.898
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Let's do a quick, gentle reset: take 3 slow breaths (inhale 4 counts, hold 2, exhale 6), then drink a glass of cold water. If you still feel a small hunger or urge to eat, have a tiny, cooling bite only if completely manageable—examples: 4–5 grapes, a few cucumber slices, or a small handful of berries. No pressure to snack now; you can check in again in 20–30 minutes. Focus on hydration and pacing first.",
+    "agent_monologue": "I can't share my internal chain-of-thought, but here's a concise rationale: given hot weather, a busy Monday, and the user's high emotional sensitivity, a brief, non-pressuring plan emphasizing hydration, breathing, and a tiny optional bite supports regulation without triggering anxiety.",
+    "user_utterance": "Thanks for the gentle reset. I’ll try the three slow breaths and a glass of water first. If the urge to eat comes back, I might consider a tiny, safe bite only if I can manage it—like a few cucumber slices or 4–5 grapes—and I’ll wait 20–30 minutes to check in again. I appreciate the calm approach today."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "Nice job pausing today. If the urge to eat returns, you can opt for a tiny, cooling bite only if completely manageable—like a few cucumber slices or 4–5 grapes—and follow with a glass of water. Then check in again in 20–30 minutes. If you’re still hungry or anxious, we can adjust together.",
+    "agent_monologue": "I can't share my detailed internal monologue, but here's a brief, high-level summary: it's a hot, humid Suwon Monday afternoon (32°C) with high emotional sensitivity. The user prefers pacing and non-pressuring support, so I'll propose a simple, low-effort plan: hydration, gentle breathing, and an optional tiny bite only if completely manageable, followed by a 20- to 30-minute check-in.",
+    "user_utterance": "Yes, that makes sense. I'll try it. If the urge to eat returns, I'll go for a tiny bite I can manage—like cucumber slices or 4–5 grapes—and then drink a glass of water. I'll check in again in 20–30 minutes and be honest about how I feel. I'm glad for a gentle, predictable plan today, though I might need extra support from my care team if these urges keep coming up."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "Given it's a warm Suwon Monday evening (32°C), if the urge to eat returns, choose a tiny, manageable bite like cucumber slices or 4–5 grapes, followed by a glass of water. wait 20–30 minutes and check in honestly about how you feel. If urges persist, consider reaching out to your care team for extra support. You're doing great by sticking to this gentle, predictable plan.",
+    "agent_monologue": "I can't share my full internal chain-of-thought, but here's a brief rationale: the hot, late-afternoon context in Suwon can heighten discomfort and urge-to-eat feelings. A low-effort, non-pressuring plan that emphasizes tiny, manageable bites and timely check-ins aligns with pacing and reduces cognitive load for the user.",
+    "user_utterance": "Okay, I can try that. I’ll keep it to a tiny, manageable bite—like cucumber slices or 4–5 grapes—followed by a glass of water, and then wait 20–30 minutes to check in about how I feel. If the urge comes back or doesn’t settle, I’ll reach out to my care team for extra support. I appreciate the gentle, predictable plan today; it helps me feel more in control, even when it’s tough."
+  },
+  {
+    "turn": 4,
+    "agent_utterance": "Great job sticking to your plan. If the urge to eat returns, choose a tiny, manageable bite you can handle—like cucumber slices or 4–5 grapes—followed by a glass of water. Wait 20–30 minutes and check in honestly about how you feel. If urges continue or you feel overwhelmed, consider reaching out to your care team for extra support. You’re doing well, especially in this warm Suwon evening, by keeping pace and prioritizing your comfort.",
+    "agent_monologue": "I can't share my private chain-of-thought, but here's a concise rationale: it's a warm Monday evening in Suwon, which can heighten discomfort around eating and lead to a desire for quick fixes. A simple, low-effort plan—tiny bite plus water, followed by a 20–30 minute check-in—supports the user's sense of control and pacing. If urges persist, suggesting caregiver support aligns with safety and ongoing support without pressuring the user.",
+    "user_utterance": "Thank you for the gentle, predictable plan today. I’ll try for a tiny bite I can manage—like cucumber slices or 4–5 grapes—plus a glass of water, then wait 20–30 minutes to check in about how I feel. If the urge returns or I don’t feel settled, I’ll reach out to my care team for extra support. I appreciate having a plan that feels doable and helps me feel a bit more in control, even when it’s tough."
+  },
+  {
+    "turn": 5,
+    "agent_utterance": "In this warm Suwon evening, stick with your gentle plan: have a tiny, manageable bite like cucumber slices or 4–5 grapes, followed by a glass of cold water. Wait 20–30 minutes and check in honestly about how you feel. If the urge returns or you feel unsettled, reach out to your care team for extra support. You’re doing well staying in control with a calm, predictable routine. If it helps, cool off briefly with a quick rinse or a fan before you check in.",
+    "agent_monologue": "I can't share my private chain-of-thought, but here is a concise rationale: with warm evening heat in Suwon, keeping the plan small and hydration-focused helps maintain calm and control. A tiny bite plus water, followed by a 20–30 minute check-in aligns with the user's needs and reduces risk of overwhelm.",
+    "user_utterance": "Thank you for the supportive plan. I think I can try the tiny bite plus water and then wait 20-30 minutes to check in. If the urge returns or I don’t feel settled, I’ll reach out to my care team. I might also try a quick rinse or a gentle fan to help me feel cooler and reset. This feels doable today, even when it’s tough."
+  },
+  {
+    "turn": 6,
+    "agent_utterance": "On this warm Suwon Monday evening, stick with your gentle plan: try a tiny, manageable bite like cucumber slices or 4-5 grapes, followed by a glass of water. Wait 20-30 minutes and check in honestly about how you feel. If the urge returns or you don’t feel settled, reach out to your care team for extra support. If it helps, a quick rinse or gentle fan can help you feel cooler and reset.",
+    "agent_monologue": "Brief contextual reasoning: It's a warm Suwon Monday evening (32°C). The user values a calm, predictable plan and tends to benefit from ultra-low-effort steps. Propose a tiny bite + water with a 20-30 minute check-in and optional cooling cue if needed; keep tone supportive to maintain control.",
+    "user_utterance": "Thanks for the gentle plan. I’ll try a tiny bite I can manage—starting with cucumber slices—plus a glass of water, then wait 20–30 minutes to check in about how I feel. If the urge returns or I don’t feel settled, I’ll reach out to my care team for extra support. A quick rinse or gentle fan to cool down sounds helpful in this warm Suwon evening. This feels doable today, and I’ll let you know how it goes."
+  },
+  {
+    "turn": 7,
+    "agent_utterance": "In this warm Suwon evening, stick with your gentle plan: have a tiny, manageable bite like cucumber slices or 4–5 grapes, followed by a glass of water. Wait 20–30 minutes and check in honestly about how you feel. If the urge returns or you don’t feel settled, reach out to your care team for extra support. If it helps, a quick rinse or gentle fan can help you feel cooler and reset. You’re doing well by keeping pace and prioritizing your comfort today.",
+    "agent_monologue": "I can't share my private chain-of-thought, but here's a concise rationale: the user is in a warm environment and prefers small, non-pressuring steps. Providing a tiny bite option, hydration, and cooling strategies supports self-regulation and a calm pace.",
+    "user_utterance": "Okay, I appreciate the gentle plan. I'll go with a tiny bite I can manage—starting with cucumber slices—plus a glass of water, and then wait 20–30 minutes to check in about how I feel. If the urge returns or I don’t feel settled, I’ll reach out to my care team for extra support. A quick rinse or gentle fan to cool down sounds helpful for this warm Suwon evening. This feels doable today, and I’ll let you know how it goes."
+  },
+  {
+    "turn": 8,
+    "agent_utterance": "In this warm Suwon evening, stick with your plan: a tiny, manageable bite like cucumber slices or 4–5 grapes, followed by a glass of water. Wait 20–30 minutes and check in honestly about how you feel. If the urge returns or you don’t feel settled, reach out to your care team for extra support. If it helps, a quick rinse or gentle fan can help you cool down and reset. You’re doing well by staying with a calm, doable plan today.",
+    "agent_monologue": "I can't share my internal chain-of-thought, but here's a concise, actionable suggestion tailored to your context.",
+    "user_utterance": "Okay—that feels doable. I’ll start with a tiny, manageable bite like cucumber slices, followed by a glass of water, and then wait 20–30 minutes to check in about how I feel. If the urge returns or I don’t feel settled, I’ll reach out to my care team for extra support. This gentle plan helps me feel a little more in control today, even when it’s tough."
+  },
+  {
+    "turn": 9,
+    "agent_utterance": "Nice and simple plan for this warm Suwon evening: go with a tiny, manageable bite like cucumber slices or 4–5 grapes, plus a glass of water. Wait 20–30 minutes, then check in honestly about how you feel. If you still feel unsettled or the urge returns, reach out to your care team for extra support. You're doing well to stay steady and in control today.",
+    "agent_monologue": "I can't share my internal chain-of-thought, but here's a concise rationale: given the warm Suwon evening and the user's preference to pace intake, a tiny, easily manageable bite with water followed by a 20–30 minute check-in supports calm decision-making and minimizes overwhelm. I provide a brief rationale rather than detailed reasoning steps.",
+    "user_utterance": "I appreciate the gentle plan. I’ll try it—starting with cucumber slices and a glass of water, then I’ll wait 20–30 minutes to check in on how I feel. If the urge returns or I’m not settled, I’ll reach out to my care team for extra support. It feels doable today, especially with the simple steps, though it’s tough. I’ll let you know how it goes."
+  },
+  {
+    "turn": 10,
+    "agent_utterance": "In this warm Suwon evening, stick with your gentle plan: a tiny, manageable bite like cucumber slices or 4–5 grapes, followed by a glass of water. Wait 20–30 minutes and check in honestly about how you feel. If the urge returns or you don’t feel settled, reach out to your care team for extra support. You’re doing well by staying steady and in control today.",
+    "agent_monologue": "I can't share my internal chain-of-thought, but here's a brief rationale: this warm Suwon environment can heighten discomfort and anxiety around eating. A low-effort, non-pressuring plan supports self-regulation by emphasizing tiny, manageable actions, hydration, and a structured check-in, with an easy path to seek extra support if needed.",
+    "user_utterance": "Thank you for the gentle plan. I can try a tiny bite I can manage—starting with cucumber slices or 4–5 grapes—plus a glass of water, and then wait 20–30 minutes to check in about how I feel. If the urge returns or I don’t feel settled, I’ll reach out to my care team for extra support. This simple, predictable approach feels doable today, even though it’s tough, especially in this warm Suwon evening. I’ll let you know how it goes.",
+    "ground_truth_action": 2.339316494500243,
+    "inferred_action": 4.0,
+    "compliance_estimate": 0.98
+  }
+]

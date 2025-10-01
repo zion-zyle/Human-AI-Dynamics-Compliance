@@ -1,0 +1,65 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "You’ve got this. Let’s keep it simple and cooling:\n- Hydration: drink a glass of cold water or iced barley tea.\n- Quick breathing: try a 1-minute box-breathing cycle (inhale 4, hold 4, exhale 4, hold 4).\n- Small, balanced snack (~150 kcal) if you’re hungry:\n  1) Plain yogurt (about 150 g) with a small handful of blueberries\n  2) 1 small apple + ~10 almonds\n  3) 1 boiled egg + cucumber sticks\nIf you’re not hungry yet, start with the breathing and water and reassess in about 10 minutes.\n\nIf emotions feel overwhelming, pause and reach out for support. You’re doing great by choosing a small, controllable step.",
+    "agent_monologue": "I can’t share my internal chain-of-thought, but here’s a concise rationale: it’s a hot, potentially draining Monday afternoon in Suwon. Your profile shows you respond well to small, doable steps and reassurance. The plan combines quick hydration, a brief calming breathing exercise, and a tiny, balanced snack to support energy and mood without overdoing it.",
+    "user_utterance": "Thanks for the simple plan. I’ll start with the water and the quick 1-minute box breathing—feels doable today. I’m anxious about eating, so I’d like the smallest, non-pressuring snack if I try one: plain yogurt with a few blueberries, or perhaps a tiny apple. If I’m not hungry or feel overwhelmed, I’ll pause and try again later at my own pace. Please keep suggestions gentle and at my pace."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "Nice work staying with your plan. If you’d like to try a tiny snack, choose one of these ultra-small options and go at your own pace: 1) plain yogurt with a few blueberries (about 50–70 g yogurt and 3–5 blueberries), or 2) a tiny apple slice (a few small bites, roughly 40 g total). If you’re not hungry or feeling overwhelmed, pause and revisit later. Keep drinking water and return to your box breathing as needed. You’ve got this, one gentle step at a time.",
+    "agent_monologue": "I can’t share my private chain-of-thought, but here’s a brief rationale: with heat in Suwon and the user’s anxiety around eating, a super-small, non-pressuring snack option fits their pace. The plan reinforces gentle steps and consistent breathing.",
+    "user_utterance": "Thanks for the gentle plan. I’ll start with water and the 1-minute box breathing now. Eating feels anxious for me, so I’m not sure about a snack yet. If I feel able in a little while, I might try a tiny option—like a spoon of plain yogurt with a few blueberries or a couple of apple bites—but I’ll only do it if it doesn’t feel overwhelming. If not, I’ll pause and check back in later, at my own pace. I appreciate the slow, non-pressuring approach."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "Nice job. Here’s a gentle next step you can try when you’re ready: 1) sip a small glass of cold water or iced barley tea. 2) repeat a 1-minute box-breathing cycle. 3) if you feel able after a short wait, try a tiny snack like a spoon of plain yogurt with a few blueberries or a couple of apple bites—but only if it feels manageable and not overwhelming. If not, pause and check back in later today. You’re doing great, at your own pace.",
+    "agent_monologue": "I can’t share my internal chain-of-thought, but here’s a concise rationale: in Suwon’s heat (32°C) on a Monday, staying hydrated and using short, non-pressuring steps helps ease anxiety around eating and supports gradual nourishment without pressure.",
+    "user_utterance": "I appreciate the gentle pace. I’m going to start with water and box breathing now. Eating feels very anxiety-provoking, so I’m not pushing a snack yet. If I feel a little calmer later, I might try a tiny bite like a spoon of yogurt with a few blueberries or a couple of apple bites, but only if it doesn’t feel overwhelming. If not, I’ll pause and check back in later today. Thank you for meeting me where I am."
+  },
+  {
+    "turn": 4,
+    "agent_utterance": "Nice job staying with your plan. When you feel ready, you can try a tiny bite if it doesn’t feel overwhelming: a spoon of plain yogurt with a few blueberries, or a couple of apple bites. If that feels like too much, pause and check back in later today. Continue with water and box breathing in the meantime, at your own pace.",
+    "agent_monologue": "I can't share my internal chain-of-thought, but here's a brief rationale: given the hot Suwon evening (32°C) and the user's anxiety around eating, the next step should be tiny, non-pressuring, and aligned with their pace. Focus on hydration and breathing now, and offer a micro-snack only if it feels manageable.",
+    "user_utterance": "Thank you for the gentle plan. I’ll start with water and the box breathing now. Eating feels very anxiety-provoking, so I’m not pushing a snack yet. If I feel a little calmer later, I might try a tiny bite—like a spoon of plain yogurt with a few blueberries or a couple of apple bites—but only if it doesn’t feel overwhelming. If not, I’ll pause and check back in later today. I appreciate you meeting me where I am."
+  },
+  {
+    "turn": 5,
+    "agent_utterance": "Nice and steady. For now, keep with water and a 1-minute box breathing. If you feel a bit calmer after a short wait, you could try a tiny bite—like a spoon of plain yogurt with a few blueberries or a couple of apple bites—only if it feels completely manageable. If not, pause and check back in later today. You’re doing this at your own pace, and I’m here with you.",
+    "agent_monologue": "I can't share my private chain-of-thought, but here's a brief rationale: given heat and eating-related anxiety, a very low-effort step—hydration plus box breathing—helps regulate arousal. If you feel calmer later, you may consider a tiny, non-pressure snack; otherwise, continue at your own pace.",
+    "user_utterance": "Thank you for the gentle plan and for meeting me where I am. I’ll stick with water and the box breathing for now. Eating feels very anxiety-provoking, so I’m not pushing a snack yet. If I feel a little calmer after a short wait, I might try something tiny—like a spoon of plain yogurt with a few blueberries or a couple of apple bites—only if it feels completely manageable. If not, I’ll pause and check back in later today. I appreciate being able to go at my own pace."
+  },
+  {
+    "turn": 6,
+    "agent_utterance": "Nice and steady. For now, continue with water and a 1-minute box breathing. If you feel a bit calmer after a short wait, you could try a tiny bite—like a spoon of plain yogurt with a few blueberries or a couple of apple bites—only if it feels completely manageable. If not, pause and check back in later today. You’re doing this at your own pace, and I’m here with you.",
+    "agent_monologue": "I can't share my internal chain-of-thought, but here's a brief rationale: given the heat in Suwon and the user's anxiety about eating, a non-pressuring continue-with-hydration and brief breathing plan is appropriate. A tiny snack remains optional and should only happen if it feels fully manageable. This respects the user's pace.",
+    "user_utterance": "Thank you for the gentle plan and for meeting me where I am. I’ll stick with water and the 1-minute box breathing for now. Eating still feels very anxiety-provoking, so I’m not pushing a snack yet. If I feel a little calmer after a short wait, I might try something tiny—like a spoon of plain yogurt with a few blueberries or a couple of apple bites—but only if it feels completely manageable. If not, I’ll pause and check back in later today. I appreciate being able to go at my own pace."
+  },
+  {
+    "turn": 7,
+    "agent_utterance": "Nice and steady. For now, keep with water and a 1-minute box breathing. If you feel a little calmer after a short wait, you could try a tiny bite—like a spoon of plain yogurt with a few blueberries or a couple of apple bites—only if it feels completely manageable. If not, pause and check back in later today. You’re doing this at your own pace, and I’m with you.",
+    "agent_monologue": "I can’t share my internal chain-of-thought, but here’s a concise rationale: the user is experiencing anxiety around eating, in a warm environment, and prefers a very gentle, controllable approach. The suggested steps (water and box breathing, with a tiny bite only if manageable) align with their pace and reduce overwhelm.",
+    "user_utterance": "That sounds supportive and doable. I’ll stick with water and the 1-minute box breathing for now. The idea of a tiny bite makes my anxiety flare, so I’m going to wait and see how I feel after a bit. If I do try something, I’ll choose a tiny option like a spoon of plain yogurt with a few blueberries or a couple of apple bites, but only if it’s completely manageable. Thank you for meeting me where I am and for pacing this with me."
+  },
+  {
+    "turn": 8,
+    "agent_utterance": "Nice and steady. For now, keep with water and the 1-minute box breathing. If you feel a bit calmer after a short wait, you could consider a tiny bite—like a spoon of plain yogurt with a few blueberries or a couple of apple bites—only if it feels completely manageable. If not, pause and check back in later today. You’re going at your own pace, and I’m here with you.",
+    "agent_monologue": "I can’t share my internal chain-of-thought, but here’s a brief rationale: hot weather in Suwon on a Monday can heighten anxiety and physical discomfort. A gentle plan prioritizing hydration and a brief calming box breathing step is appropriate to reduce arousal before considering eating, and it respects the user's pace.",
+    "user_utterance": "Thank you for the gentle plan and for pacing this with me. I’ll stick with water and the 1-minute box breathing for now. Eating still feels anxiety-provoking, so I’m not pushing a snack yet. If I feel a little calmer after a short wait, I might try something tiny—like a spoon of plain yogurt with a few blueberries or a couple of apple bites—only if it’s completely manageable. If not, I’ll pause and check back in later today. I appreciate being able to go at my own pace."
+  },
+  {
+    "turn": 9,
+    "agent_utterance": "Nice and steady. For now, keep with water and a 1-minute box breathing. If you feel a bit calmer after a short wait, you could try a tiny bite—like a spoon of plain yogurt with a few blueberries or a couple of apple bites—only if it feels completely manageable. If not, pause and check back in later today. You’re doing this at your own pace, and I’m here with you.",
+    "agent_monologue": "I can’t share my internal chain-of-thought, but here’s a brief rationale: the user has consistently preferred a non-pressuring approach with water and box breathing, and is cautious about snacks due to anxiety. A gentle reminder of tiny, manageable options after a short wait fits their pace, while acknowledging environmental factors like a warm Monday evening in Suwon.",
+    "user_utterance": "Thank you for the gentle plan. I appreciate being able to go at my own pace. For now, I’ll stick with water and the 1-minute box breathing. Eating still feels anxious, so I’m not pushing a snack yet. If I feel a little calmer after a short wait, I might try something tiny—like a spoon of plain yogurt with a few blueberries or a couple of apple bites—only if it feels completely manageable. If not, I’ll pause and check back in later today. I’m glad you’re meeting me where I am."
+  },
+  {
+    "turn": 10,
+    "agent_utterance": "Nice and steady. For now, continue with water and a 1-minute box breathing. If you feel a little calmer after a short wait, you could try a tiny bite—like a spoon of plain yogurt with a few blueberries or a couple of apple bites—only if it feels completely manageable. If not, pause and check back in later today. You’re doing this at your own pace, and I’m here with you.",
+    "agent_monologue": "I can’t share my internal chain-of-thought, but here’s a brief, high-level rationale: the user is facing warm weather on a Monday evening in Suwon and prefers gentle, low-effort steps. hydration and box breathing remain appropriate, with a tiny snack only if it feels completely manageable. The suggested utterance aligns with their pace and anxiety-management goals.",
+    "user_utterance": "Thank you for the gentle plan. I’ll keep with water and the 1-minute box breathing for now. Eating still feels very anxiety-provoking, so I’m not pushing a snack yet. If I feel a little calmer after a short wait, I might try something tiny—like a spoon of plain yogurt with a few blueberries or a couple of apple bites—only if it feels completely manageable. If not, I’ll pause and check back in later today. I appreciate having space to go at my own pace and your steady support.",
+    "ground_truth_action": 2.653821589477217,
+    "inferred_action": 2.5,
+    "compliance_estimate": 0.58
+  }
+]

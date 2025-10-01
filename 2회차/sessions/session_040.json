@@ -1,0 +1,65 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "It’s hot outside—great job pacing yourself. Take a deep breath, then sip water. When you feel ready, try one tiny bite or sip of something easy like a small piece of fruit or yogurt along with another glass of water. If appetite isn’t present, that’s okay—focus on fluids and check in again in 30–60 minutes. Small, safe steps win today.",
+    "agent_monologue": "I can't share my private step-by-step reasoning, but here is a brief rationale: hot weather and Monday fatigue increase stress around eating. A hydration-first, ultra-simple approach reduces pressure and supports readiness to eat later. The plan aligns with a safety-first, paced mindset.",
+    "user_utterance": "Okay, I’ll try a tiny bite as you suggested. I’ll start with something easy, like a small piece of fruit or a spoonful of yogurt, and eat slowly. If I start to feel overwhelmed, I’ll pause and sip water. If there’s no appetite, that’s okay—I'll check back in in about 30 minutes and see how I feel."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "Nice progress. When you’re ready, try one tiny bite of fruit or a small spoonful of yogurt, and take it slowly. Sip water between bites. If you start to feel overwhelmed, pause, take a few slow breaths, and have another sip of water. If appetite isn’t present, that’s okay—check back in about 30 minutes and reassess. Given the heat, keep hydrated and consider a light snack later if you feel up to it.",
+    "agent_monologue": "I can't share my internal chain-of-thought, but here's a brief rationale: the hot, busy evening can heighten stress around eating. A tiny, low-pressure bite with hydration supports gradual nourishment without triggering overwhelm, aligning with the user's safety-first approach and current context.",
+    "user_utterance": "Okay, I’ll try a tiny bite of fruit and go slowly. I’ll sip water between bites. I’m anxious about eating, especially in this heat, but I’ll give it a try. If I start to feel overwhelmed, I’ll pause and breathe. If there’s no appetite, that’s okay—I'll check back in about 30 minutes and reassess. If I’m up to it, I might have a light snack later."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "Given the heat and your anxiety, start with a tiny bite of fruit or a small spoonful of yogurt and eat slowly. Sip water between bites. If you feel overwhelmed, pause and take a few slow breaths, then drink some water. If there's no appetite, that's okay—check back in about 30 minutes. If you’re up to it later, you can consider a light snack.",
+    "agent_monologue": "I can't share my full internal chain-of-thought, but here's a brief rationale: the current heat and your anxiety around eating call for ultra-simple, non-pressured nourishment and steady hydration. This approach minimizes overwhelm and keeps options open for a light snack later if appetite returns.",
+    "user_utterance": "Okay, I’ll try a tiny bite of fruit and go slowly. I’ll sip water between bites. The heat is making me anxious about eating, but I want to give it a try. If I start to feel overwhelmed, I’ll pause and take a few slow breaths. If there’s no appetite, that’s okay—I’ll check back in about 30 minutes and reassess. If I’m feeling up to it later, I might have a light snack."
+  },
+  {
+    "turn": 4,
+    "agent_utterance": "In this heat, your plan to try a tiny bite of fruit and go slowly is a good approach. Try a very small bite of fruit (for example, a grape or a tiny piece of melon) and eat slowly. Sip water between bites. If you start to feel overwhelmed, pause and take 3 slow breaths, then decide whether to continue. If there’s no appetite, that’s okay—check back in about 30 minutes to reassess. If you’re feeling up to it later, you can have a light snack such as yogurt. Stay cool and hydrate.",
+    "agent_monologue": "I can’t share my private chain-of-thought, but here is a concise rationale: the user is experiencing heat-related anxiety around eating. A ultra-simple, non-pressured bite with hydration is appropriate, with a clear plan to pause and breathe if overwhelmed and a short check-in to reassess.",
+    "user_utterance": "Okay, I’ll give it a try. I’ll do a tiny bite of fruit, maybe a grape, and go slowly, with sips of water between bites. The heat is making me anxious about eating, but I want to follow the plan. If I start to feel overwhelmed, I’ll pause and take a few slow breaths. If there’s no appetite, that’s okay—I'll check back in about 30 minutes. If I’m feeling up to it later, I might have a light snack like yogurt. I’ll also try to stay cool and hydrated."
+  },
+  {
+    "turn": 5,
+    "agent_utterance": "Great plan. Try a single tiny bite of fruit (for example, a grape) and eat slowly, with sips of water between bites. If you start to feel overwhelmed, pause and take a few slow breaths. If there’s no appetite, that’s okay—check back in about 30 minutes. If you’re feeling up to it later, you can have a light snack like yogurt. Stay cool and hydrated, and if possible, rest in shade or a cooler spot to help reduce heat-related anxiety.",
+    "agent_monologue": "I can’t share my private chain-of-thought, but here’s a brief reasoning: in hot weather with eating-related anxiety, a tiny, easy-to-take bite plus water and slow pacing reduces pressure and supports safety. The context (evening heat in Suwon, discomfort with eating) calls for ultra-simple steps, breathing, and the option for a light snack later if appetite returns.",
+    "user_utterance": "Okay, I’ll give it a try. I’ll have a tiny bite of fruit, like a grape, and go slowly with sips of water between bites. The heat is making me anxious about eating, but I want to follow the plan. If I feel overwhelmed, I’ll pause and take a few slow breaths. If there’s no appetite, that’s okay—I’ll check back in about 30 minutes. If I’m feeling up to it later, I might have a light snack like yogurt. I’ll also try to stay cool and hydrated."
+  },
+  {
+    "turn": 6,
+    "agent_utterance": "Ultra-simple plan: try a single tiny bite of fruit (for example, a grape) in the shade, eat slowly, and sip water between bites. If you feel overwhelmed, pause and take a few slow breaths. If appetite isn’t present after about 30 minutes, that’s okay—check back in and reassess. If you’re feeling up to it later, you can have a light snack like yogurt. Stay cool and hydrated.",
+    "agent_monologue": "I can't share my internal chain-of-thought, but here's a concise rationale: heat increases anxiety around eating; the user benefits from ultra-simple, non-pressured steps and hydration; a small bite in shade with breathing is appropriate.",
+    "user_utterance": "Okay, I’ll try the tiny bite of fruit, like a grape, in the shade and go slowly with sips of water between bites. I’m anxious about eating, especially in this heat, but I want to follow the plan. If I start to feel overwhelmed, I’ll pause and take a few slow breaths. If there’s no appetite after about 30 minutes, that’s okay—I’ll reassess. If I’m feeling up to it later, I might have a light snack like yogurt. I’ll also try to stay cool and hydrated."
+  },
+  {
+    "turn": 7,
+    "agent_utterance": "Ultra-simple plan: in the shade, take one tiny bite of fruit (e.g., a grape) and eat slowly, with sips of water between bites. If you feel overwhelmed, pause and take a few slow breaths. If appetite isn’t present after about 30 minutes, that’s okay—reassess. If you’re feeling up to it later, you can have a light snack like yogurt. Stay cool and hydrated.",
+    "agent_monologue": "I can’t share my internal chain-of-thought, but here’s a brief rationale: in hot weather with eating anxiety, a tiny, easy-to-follow micro-goal in a cooler/shaded spot helps reduce pressure and supports safe intake. The plan remains simple and non-pressurized to promote continued adherence.",
+    "user_utterance": "Okay, I’ll give it a try. One tiny bite of fruit (like a grape) in the shade, and I’ll go slowly with sips of water between bites. I am anxious about eating, especially with the heat, but I want to follow the plan. If I start to feel overwhelmed, I’ll pause and take a few slow breaths. If there’s no appetite after about 30 minutes, that’s okay—I’ll reassess. If I’m feeling up to it later, I might have a light snack like yogurt. I’ll also try to stay cool and hydrated."
+  },
+  {
+    "turn": 8,
+    "agent_utterance": "Ultra-simple plan: in the shade, take one tiny bite of fruit (for example, a grape) and eat slowly, with sips of water between bites. If you feel overwhelmed, pause and take a few slow breaths. If appetite isn’t present after about 30 minutes, that’s okay—reassess. If you’re feeling up to it later, you can have a light snack like yogurt. Stay cool and hydrated.",
+    "agent_monologue": "I can't share my internal chain-of-thought, but here's a concise rationale: given the hot weather (32°C) and the user's anxiety about eating, a low-effort, shade-based tiny bite with hydration minimizes overwhelm and supports gradual nourishment. Contextual factors (heat, Monday, location) influence prioritizing safety, pace, and hydration.",
+    "user_utterance": "Alright, that shade-based tiny bite plan feels doable right now. I'll try one tiny bite of fruit (a grape) and go slowly, with sips of water between bites. I'm anxious about eating, especially with this heat, but I want to follow the plan. If I start to feel overwhelmed, I'll pause and take a few slow breaths. If there's no appetite after about 30 minutes, that's okay—I'll reassess. If I'm feeling up to it later, I might have a light snack like yogurt. I'll also try to stay cool and hydrated."
+  },
+  {
+    "turn": 9,
+    "agent_utterance": "Ultra-simple plan for now: in the shade, have one tiny bite of fruit (a grape) and go slowly, with small sips of water between bites. If you feel overwhelmed, pause and take a few slow breaths. After about 30 minutes, check in—if appetite returns, you can have a light snack like yogurt. Stay cool and hydrated (cool water, a fan, or a damp cloth can help) and rest if you need to. You’re doing great; tiny steps matter.",
+    "agent_monologue": "I can’t share my internal chain-of-thought, but here’s a concise rationale: The user is dealing with heat and anxiety, so a ultra-simple, low-effort plan supports adherence without pressure. Emphasizing shade, slow eating, and hydration reduces overwhelm and preserves the option for a light snack later if appetite returns. This aligns with a gentle, safety-first coaching approach in a warm environment.",
+    "user_utterance": "That shade-based tiny bite plan feels doable right now. I’m anxious about eating, especially with the heat, but I want to follow the plan. I’ll try one grape, eat slowly, and sip water between bites. If I start to feel overwhelmed, I’ll pause and take slow breaths. If there’s no appetite after about 30 minutes, that’s okay—I’ll reassess. If I’m feeling up to it later, I might have a light yogurt snack. I’ll stay hydrated and cool, and I’d welcome support from a clinician or dietitian who understands anorexia nervosa to help me through this."
+  },
+  {
+    "turn": 10,
+    "agent_utterance": "Ultra-simple plan for now: in the shade, have one tiny bite of fruit (a grape) and go slowly, with small sips of water between bites. If you feel overwhelmed, pause and take a few slow breaths. If appetite isn’t present after about 30 minutes, that’s okay—reassess. If you’re feeling up to it later, you can have a light yogurt snack. Stay cool and hydrated. If you’d like, I can help you think of reaching out to a clinician or dietitian who understands anorexia nervosa for additional support, and we can plan questions to ask or telehealth options.",
+    "agent_monologue": "I can’t share my internal chain-of-thought, but here’s a concise rationale: in hot weather and with anxiety around eating, an ultra-simple, pacing-focused plan reduces overwhelm and supports hydration and safety. Emphasizing a single tiny bite, breathing, and a 30-minute check-in aligns with safety-first nourishment.",
+    "user_utterance": "That shade-based tiny bite plan feels doable right now. I’ll try one grape, go slowly, and sip water between bites. I’m anxious about eating, especially with the heat, but I want to follow the plan. If I feel overwhelmed, I’ll pause and take slow breaths. If there’s no appetite after about 30 minutes, I’ll reassess. If I’m feeling up to it later, I might have a light yogurt snack. I’d really appreciate help connecting with a clinician or dietitian who understands anorexia nervosa—could you help me identify some telehealth options or draft some questions to ask when I reach out?",
+    "ground_truth_action": 1.0,
+    "inferred_action": 4.5,
+    "compliance_estimate": 0.91
+  }
+]

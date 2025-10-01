@@ -1,0 +1,63 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Do you have any known health conditions that influence your diet (for example diabetes, high blood pressure, thyroid issues, food allergies, celiac disease, digestive problems, or other conditions)?",
+    "agent_monologue": "I'm starting our first session. I will ask about known health conditions that influence your diet.",
+    "user_utterance": "Sorry, I didn't catch a suggestion yet. I have really irregular meals and I'm easily influenced, so could you please give me a small, gentle idea to try today? Something approachable like a tiny snack or a simple routine that doesn't feel overwhelming."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "How regular are your meals—do you tend to eat at roughly the same times each day, or is it more variable?",
+    "agent_monologue": "My last question was about condition. The user's response indicates their condition is not provided yet. Now, I will ask about the next unknown attribute: mu.",
+    "user_utterance": "My meals are pretty variable—some days I skip breakfast and eat very late. A tiny, gentle idea for today: pick one small snack and try to have it at around the same time, with no pressure. For example, keep a small cup of yogurt with a few berries handy and eat a few bites at around 10:30 am if you can. If you're not hungry, that's fine—just let the snack be visible and give yourself permission to take a bite when you feel ready. The key is a tiny, doable step, not a big overhaul."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "How receptive are you to outside suggestions or prompts for eating (for example tiny ideas, reminders, or new routines)?",
+    "agent_monologue": "My last question was about mu. The user's response indicates their mu is irregular/variable. Now, I will ask about the next unknown attribute: beta.",
+    "user_utterance": "I'm fairly receptive to gentle prompts. Tiny ideas like a small snack at a consistent time feel doable as long as there's no pressure or guilt if I miss it. I’d prefer prompts that are supportive and specific—e.g., one daily reminder at around 10:30 am to have a small yogurt with berries, with no blame if I’m not hungry. Visual cues help me, like a sticky note or a phone alarm. If I start the day with nothing, I’d still like the option to try the snack later. So yes, I’m open to simple, non-pressuring nudges, just keep it soft and optional."
+  },
+  {
+    "turn": 4,
+    "agent_utterance": "How sensitive are you to emotional or environmental factors when it comes to eating—do stress, mood, or your surroundings influence when or what you eat?",
+    "agent_monologue": "My last question was about condition. The user has not provided any health condition information yet. Now, I will ask about the next unknown attribute: gamma.",
+    "user_utterance": "Stress and mood definitely shape my eating. When I'm anxious or overwhelmed, I tend to skip meals or eat irregularly. In calmer moments or when I’m in a more relaxed environment, I can follow a small snack plan, but it has to stay optional and gentle. I respond best to cues like a sticky note or a phone alarm around 10:30, and I’m okay with trying a tiny bite even if it’s later, as long as there’s no pressure. I don’t want to feel guilty if I’m not hungry or if I miss a cue—being supportive matters more than strict timing. If you have another soft, non-pressuring prompt to try, I’m open to it, as long as it respects my pace."
+  },
+  {
+    "turn": 5,
+    "agent_utterance": "Do you have any known health conditions that influence your diet (for example diabetes, high blood pressure, thyroid issues, food allergies, celiac disease, digestive problems, or other conditions)?",
+    "agent_monologue": "My last question was about emotional or environmental factors. The user's response indicates their gamma is high. Now, I will ask about the next unknown attribute: condition.",
+    "user_utterance": "Yes. I have anorexia nervosa, which makes my eating feel unpredictable and can trigger anxiety around meals. I don’t have other diagnosed conditions I’m aware of. I’d like any guidance to stay optional and gentle—tiny prompts that don’t guilt me, like a 10:30 reminder for a small snack, with flexible timing and permission to skip or delay if I’m not hungry. If something feels too much, we can pause and try again later."
+  },
+  {
+    "turn": 6,
+    "agent_utterance": "How would you rate your ability to recall and reflect on your eating patterns—do you often notice what tends to come before you skip a meal or have a snack, or is it hard to connect actions to triggers?",
+    "agent_monologue": "My last question was about condition. The user's response indicates their condition is anorexia nervosa. Now, I will ask about the next unknown attribute: memory.",
+    "user_utterance": "I can notice some patterns, but they’re inconsistent. When I’m stressed, it’s hard to connect what I feel to what I do, and I often skip meals or eat late without a clear trigger. I’d like to get better at noticing small cues, and I’m open to gentle, optional prompts—like a 10:30 reminder for a tiny snack—without any pressure or guilt if I miss it. If things feel like too much, I’d prefer to pause and try again later."
+  },
+  {
+    "turn": 7,
+    "agent_utterance": "On a scale of 1 to 5, how much structure would you like in a daily eating plan (1 = very flexible, 5 = very structured)?",
+    "agent_monologue": "My last question was about memory. The user's response indicates their memory is moderate—they can notice some patterns but it's inconsistent. Now, I will ask about the next unknown attribute: delta.",
+    "user_utterance": "Thanks for asking. I’d rate my preferred structure at about 2—mostly flexible. I’m drawn to tiny, optional prompts: a 10:30 reminder for a small snack, with no pressure to eat if I’m not hungry. I want the ability to pause or skip if I’m stressed or overwhelmed and try again later. Visual cues help me (sticky note on the fridge or a phone alarm). If possible, keep it to one gentle prompt per day and include a simple 'snooze' or 'remind me later' option. I’m open to adjusting timing if mornings are busy."
+  },
+  {
+    "turn": 8,
+    "agent_utterance": "On a scale of 1 to 5, how regular are your meals today (1 = very irregular, 5 = very regular)?",
+    "agent_monologue": "My last question was about condition. The user's response indicates their condition is anorexia nervosa. Now, I will ask about the next unknown attribute: mu.",
+    "user_utterance": "Today my meals feel irregular to me—I'd rate it a 2. I want to keep to one gentle prompt per day, about 10:30 if possible, but with a snooze/remind later option and no guilt if I skip or delay. I can adjust timing if mornings are busy, and I rely on visual cues like a sticky note or phone alarm. The prompt should be supportive, optional, and non-pressuring."
+  },
+  {
+    "turn": 9,
+    "agent_utterance": "On a scale of 1 to 5, how spontaneous are your eating habits (1 = very spontaneous/irregular, 5 = highly planned/regular)?",
+    "agent_monologue": "My last question was about mu (Regularity of current eating behaviors). The user's response indicates their mu is 2 (irregular). Now, I will ask about the next unknown attribute: epsilon (Tendency for spontaneous or irregular eating behaviors).",
+    "user_utterance": "I’d rate my spontaneity as a 2—my eating tends to be fairly irregular and I’m easily pulled off track by stress. I want the prompt to stay gentle and optional: one daily reminder around 10:30, with a snooze or 'remind me later' option, and no guilt if I skip or delay. I respond well to visual cues like a sticky note or a phone alarm, and I’d be okay with adjusting the timing if mornings are busy. The key is that it remains soft, non-pressuring, and easy to pause and resume when I feel ready."
+  },
+  {
+    "turn": 10,
+    "agent_utterance": "On a scale of 1 to 5, how well do you recall and reflect on your eating patterns (memory)?",
+    "agent_monologue": "My last question was about the user's spontaneous eating habits. The user's response indicates their epsilon is 2. Now, I will ask about the next unknown attribute: memory.",
+    "user_utterance": "Thanks for checking in. I like the idea of a tiny snack prompt at around 10:30, but I want it to stay optional and gentle. Please keep it to one daily reminder, with a snooze or 'remind me later' option and no guilt if I skip or delay. Visual cues help me—sticky note on the fridge or a phone alarm. I can adjust the timing if mornings are busy. If I’m stressed or not hungry, I’d prefer to pause and try again later. I’m hoping for a supportive, non-pressuring approach.",
+    "ground_truth_action": 1.3322482701288192
+  }
+]

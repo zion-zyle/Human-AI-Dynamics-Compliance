@@ -1,0 +1,65 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Tiny sip time: drink 15 ml of water now. Then set a reminder to log hydration in about 15 minutes. If you can, keep two more tiny sips in the next hour to help stay hydrated in the heat.",
+    "agent_monologue": "I can't share my internal step-by-step reasoning, but here's a brief, high-level rationale: today's hot weather increases dehydration risk, and the user benefits from ultra-short, manageable micro-steps. A tiny sip now plus a quick log keeps momentum without cognitive load.",
+    "user_utterance": "Okay, I’ll try that. I’m nervous about eating, so please keep it tiny and non‑pressuring. Could we pick something I actually enjoy, like a small yogurt or a smoothie sip? If today feels too hard, can we aim for tomorrow instead? A simple reminder to eat and log would really help me stay on track."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "Love the focus on tiny, enjoyable steps. Here are two ultra-simple options. Pick whichever fits best today, or save for tomorrow if today feels overwhelming:\n\n- Today (easy first step): Have a small yogurt or a smoothie sip of about 40–60 ml. Sip slowly and stop after a tiny amount if you want. Then log it.\n\n- Tomorrow option (if today feels hard): We can do the exact same tiny option tomorrow morning or afternoon.\n\nSimple reminder you can set (copy/paste into your reminders):\n- 'Eat a tiny snack (yogurt or smoothie) and log it now.'\n\nIf you tell me your preferred reminder time, I’ll tailor the wording and time for you.",
+    "agent_monologue": "I can't share my internal chain-of-thought, but here's a brief rationale: given heat and potential low appetite, a tiny yogurt or smoothie sip is a low-pressure, enjoyable micro-step that supports eating and logging. If today feels too hard, we can shift to tomorrow and still keep a simple reminder to eat and log.",
+    "user_utterance": "That tiny plan feels doable and not pressuring. I think I could try a small yogurt or smoothie sip, about 40 ml to start, and log it right away. I’m a bit anxious about eating, but making it enjoyable helps. Could we set a reminder for today at 2:00 PM? If today feels overwhelming, we could aim for tomorrow morning at 9:00 AM instead."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "Thanks for the clear plan. Since 2:00 PM today has passed, I suggest we set the reminder for tomorrow at 9:00 AM to have a 40 ml yogurt or smoothie sip and log it right away. If you’d prefer to try something later today, we could set a 6:00 PM option instead—totally up to you. Here’s a ready-to-paste reminder you can use: 'Eat a tiny yogurt or smoothie sip (40 ml) and log it now.' Would you like me to finalize the 9:00 AM tomorrow reminder, or adjust the time?",
+    "agent_monologue": "I can’t share my internal chain-of-thought, but here’s a concise rationale: 2:00 PM today is already past, so the next workable cue is tomorrow morning. A 40 ml yogurt or smoothie sip remains the simplest, highest-probability micro-step given the user’s anxiety about eating and the heat.",
+    "user_utterance": "That plan feels doable. I’m a bit anxious about eating, but a tiny 40 ml yogurt or smoothie sip sounds gentle and enjoyable. Let’s set the reminder for tomorrow at 9:00 AM to have that sip and log it right after. If I feel overwhelmed, we can switch to a 6:00 PM option today instead. Please finalize the 9:00 AM tomorrow reminder with the text: 'Eat a tiny yogurt or smoothie sip (40 ml) and log it now.'"
+  },
+  {
+    "turn": 4,
+    "agent_utterance": "All set for your tiny step tomorrow. Here's the finalized reminder text you can copy-paste into your reminders app:\n- 'Eat a tiny yogurt or smoothie sip (40 ml) and log it now.'\nScheduled: tomorrow at 9:00 AM.\nIf you want me to adjust the time or provide an alternative option for today (e.g., 6:00 PM), tell me and I’ll update it.",
+    "agent_monologue": "I can't share my internal chain-of-thought, but here's a concise rationale: given the user’s anxiety around eating and the hot weather, a clearly timed, tiny, enjoyable micro-step paired with an explicit log is a low-barrier approach that supports consistency. The plan uses tomorrow at 9:00 AM as the primary reminder, with an optional today alternative if overwhelmed.",
+    "user_utterance": "That plan feels doable and gentle. I appreciate having a switch if I get overwhelmed—the 6:00 PM option today works. Tomorrow at 9:00 AM for a 40 ml yogurt or smoothie sip and to log it right after sounds like the smallest, most manageable step. I’m a bit anxious about eating, but I’ll try to keep it tiny and non-pressuring. If today still feels too hard, can we just log that I attempted a sip and maybe adjust later?"
+  },
+  {
+    "turn": 5,
+    "agent_utterance": "That plan remains gentle and doable. If today at 6:00 PM feels overwhelming, you can log that you attempted a 40 ml yogurt or smoothie sip later. Tomorrow at 9:00 AM, have a 40 ml yogurt or smoothie sip and log it right after. I can set two reminders for you: today at 6:00 PM and tomorrow at 9:00 AM. Copy-paste these reminder texts to use:\n- 'Have a tiny yogurt or smoothie sip (40 ml) and log it now.'\n- 'Eat a tiny yogurt or smoothie sip (40 ml) and log it now.'\nWould you like me to finalize these reminders with the exact times, or adjust the wording?",
+    "agent_monologue": "I can’t share my private chain-of-thought, but here’s a concise rationale: due to the heat and your anxiety around eating, keeping ultra-small steps with a flexible today option (6:00 PM) and a firm tomorrow plan (9:00 AM) supports progression without pressure.",
+    "user_utterance": "That plan feels gentle and doable. The 6:00 PM reminder today works for me. I’ll aim for a 40 ml yogurt or smoothie sip and log it right after, and if my anxiety is too high I’ll just log that I attempted and we’ll adjust later. Tomorrow at 9:00 AM is still my next step. Please finalize the two reminders with the exact texts: 'Have a tiny yogurt or smoothie sip (40 ml) and log it now.'"
+  },
+  {
+    "turn": 6,
+    "agent_utterance": "- 6:00 PM today: Have a tiny yogurt or smoothie sip (40 ml) and log it now.\n- 9:00 AM tomorrow: Have a tiny yogurt or smoothie sip (40 ml) and log it now.",
+    "agent_monologue": "Sorry, I can’t share my internal reasoning, but I can finalize your reminders clearly.",
+    "user_utterance": "That plan feels gentle and doable. The 6:00 PM reminder today works for me, and I’ll aim for a 40 ml yogurt or smoothie sip and log it right after. If my anxiety is too high, I’ll just log that I attempted and we’ll adjust later. Tomorrow at 9:00 AM is still my next step. I’ll keep the two reminders you set: today at 6:00 PM and tomorrow at 9:00 AM, with the exact text 'Have a tiny yogurt or smoothie sip (40 ml) and log it now.'"
+  },
+  {
+    "turn": 7,
+    "agent_utterance": "All set. Your reminders are confirmed:\n- Today at 6:00 PM: 'Have a tiny yogurt or smoothie sip (40 ml) and log it now.'\n- Tomorrow at 9:00 AM: 'Have a tiny yogurt or smoothie sip (40 ml) and log it now.'\nIf anxiety is high, you can log that you attempted instead and we’ll adjust later. You’re doing great—tiny, gentle steps matter.",
+    "agent_monologue": "I can’t share an internal monologue, but here’s a brief rationale: with hot weather, anxiety around eating, and a preference for ultra-simple steps, a 40 ml micro-sip plus two gentle reminders is aligned with your comfort and supports consistency.",
+    "user_utterance": "That feels gentle and doable. I’m a bit anxious about eating, but a 40 ml yogurt or smoothie sip seems manageable. I’ll stick with today’s 6:00 PM reminder and tomorrow’s 9:00 AM reminder, and I’ll log it right after the sip. If my anxiety is too high, I’ll log that I attempted and we’ll adjust later. Taking this tiny step feels like something I can actually do."
+  },
+  {
+    "turn": 8,
+    "agent_utterance": "You’re doing great. With the heat and your anxiety in mind, your plan stays gentle: at 6:00 PM today, have a 40 ml yogurt or smoothie sip and log it right after. If your anxiety feels too high, you can log that you attempted instead and we’ll adjust later. Your next step is tomorrow at 9:00 AM. Copy-paste reminder texts if you need them: - 'Have a tiny yogurt or smoothie sip (40 ml) and log it now.'",
+    "agent_monologue": "I can’t share my internal step-by-step reasoning, but here’s a concise rationale: It’s a hot day in Suwon and the user is anxious about eating. A 6:00 PM 40 ml sip remains a ultra-short, doable action that reduces overwhelm and aligns with the plan to log immediately. If anxiety spikes, logging an 'attempted' entry preserves progress without pressure. The next step remains tomorrow at 9:00 AM to maintain momentum.",
+    "user_utterance": "That plan still feels doable, especially with the gentle reminders. I’m anxious about eating, but I think I can do the 6:00 PM 40 ml yogurt or smoothie sip and log it right after. If my anxiety is too high, I’ll just log that I attempted and we’ll adjust later. Tomorrow at 9:00 AM is my next step. I tend to follow external prompts, so please keep the reminders coming and keep things tiny and flexible."
+  },
+  {
+    "turn": 9,
+    "agent_utterance": "Great plan. For today at 6:00 PM: Have a tiny yogurt or smoothie sip (40 ml) and log it right after. If anxiety is too high, log that you attempted instead and we'll adjust. Your next step is tomorrow at 9:00 AM with the same 40 ml sip and log. Copy-paste reminder text you can use: 'Have a tiny yogurt or smoothie sip (40 ml) and log it now.'",
+    "agent_monologue": "I can't share my internal reasoning in detail, but here's a concise rationale: in hot weather and with elevated anxiety, ultra-simple micro-steps and gentle, repeatable reminders support consistency without triggering overwhelm. The plan to do a 40 ml sip at 6:00 PM today and with a next step at 9:00 AM tomorrow is accessible and sustainable.",
+    "user_utterance": "Thanks for the gentle plan. I feel anxious about eating, but a 40 ml yogurt or smoothie sip at 6:00 PM today seems doable, and I’ll log it right after. If my anxiety is too high, I’ll just log that I attempted and we’ll adjust later. Tomorrow at 9:00 AM is my next step. I tend to follow external prompts, so please keep sending reminders in tiny, easy-to-follow steps."
+  },
+  {
+    "turn": 10,
+    "agent_utterance": "Today at 6:00 PM: Have a tiny yogurt or smoothie sip (40 ml) and log it right after. If anxiety is too high, log that you attempted instead and we’ll adjust later. Tomorrow at 9:00 AM: Have the same 40 ml sip and log it right after. Copy-paste reminder texts: 'Have a tiny yogurt or smoothie sip (40 ml) and log it now.'",
+    "agent_monologue": "I can't share my full internal reasoning, but here's a brief rationale: it's hot in Suwon (32°C) and you’re anxious about eating. A tiny, non-pressuring plan—40 ml yogurt or smoothie sip at 6:00 PM today with logging, plus a fallback to log attempted if overwhelmed, and a 9:00 AM reminder tomorrow—fits your need for tiny steps and external prompts.",
+    "user_utterance": "That plan feels doable. 6:00 PM today works for me; I’ll do a 40 ml yogurt or smoothie sip and log it right after. If my anxiety is too high, I’ll just log that I attempted and we’ll adjust later. Tomorrow at 9:00 AM is my next step. I tend to follow external prompts, so please keep sending tiny reminders in the same simple style. I’ll rely on these prompts to stay on track.",
+    "ground_truth_action": 3.3652178158511865,
+    "inferred_action": 4.5,
+    "compliance_estimate": 0.9
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Take a 15 ml sip of cold water now. Then, in 15–20 minutes, plan your next sip and quickly rate your thirst and mood on a 1–5 scale. If you feel dizzy or overheated, pause and drink more water. I’ll keep reminders gentle and focused on small steps.",
+    "agent_monologue": "I can’t share my internal chain-of-thought, but here’s a concise rationale: a hot, sunny Monday afternoon in Suwon can increase thirst and fatigue. I’m choosing a small, ultra-simple hydration cue that aligns with the user’s plan to keep actions doable in heat and momentum steady.",
+    "user_utterance": "Okay, I’ll do the 15 ml sip of cold water now. It feels small but doable. In about 15–20 minutes I’ll plan my next sip and rate my thirst and mood on a 1–5 scale. I sometimes worry about drinking too much or feeling full, but I want to follow the plan and be gentle with myself."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "Great job sticking with the plan. In about 15–20 minutes, plan your next 15 ml sip and quickly rate your thirst and mood on a 1–5 scale. If you feel dizzy or overheated, pause and drink more water. I’ll keep reminders gentle and focused on small steps, especially with the heat today. You’re doing well.",
+    "agent_monologue": "I can't share my private step-by-step internal reasoning, but here's a concise rationale: hot weather and the user’s high emotional sensitivity mean ultra-small, self-monitoring steps are most workable. The suggested next action aligns with their plan to sip again in 15–20 minutes and to rate thirst and mood, with safety checks and gentle reminders.",
+    "user_utterance": "Okay, I can do that. The 15 ml sip feels small but manageable today. In about 15–20 minutes I'll plan the next sip and quickly rate my thirst and mood on a 1–5 scale. I do worry about drinking too much or feeling full, but I want to follow the plan and be gentle with myself. If I feel dizzy or overheated, I’ll pause and drink a bit more water. The heat today makes it a bit tougher, but I’ll take this one small step at a time."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "Nice work staying with the plan. In about 15–20 minutes, plan your next 15 ml sip and quickly rate your thirst and mood on a 1–5 scale. If you feel dizzy or overheated, pause and sip a bit more water. Given the heat today, aim for a comfortable rating around 4 if you’re feeling up to it, but only adjust to what feels right in the moment. You’re doing great—one small step at a time.",
+    "agent_monologue": "I can't share my internal chain-of-thought, but here's a concise rationale: it's a hot Monday afternoon in Suwon, so the user benefits from ultra-simple, quick steps and gentle pacing. Provide a brief, actionable next step and a practical cue to adjust if they feel unwell, without overloading them.",
+    "user_utterance": "Thanks for the gentle plan. I’ll do my best to follow it, even though the heat today makes it tougher. I’ll plan my next 15 ml sip in 15–20 minutes and quickly rate my thirst and mood on a 1–5 scale. I do worry about drinking too much or feeling too full, but I’ll be kind to myself and take it one small step at a time. If I feel dizzy or overheated, I’ll pause and sip a bit more water."
+  },
+  {
+    "turn": 4,
+    "agent_utterance": "In about 15–20 minutes, plan your next 15 ml sip and rate your thirst and mood on a 1–5 scale, aiming for around a 4 if you're comfortable. If you feel dizzy or overheated, pause and sip a bit more water. You’re doing great—one small step at a time.",
+    "agent_monologue": "I can't share an internal chain-of-thought, but here's a brief rationale: the hot afternoon likely increases fatigue and thirst cues, so a simple, low-effort next step with a target around a 4 on the thirst/mood scale supports steady adherence and comfort.",
+    "user_utterance": "Okay, I can do that. The heat today is making it tougher, but I’ll follow the plan. In 15–20 minutes I’ll plan my next 15 ml sip and rate my thirst and mood on a 1–5 scale. I do worry about drinking too much or feeling full, but I’ll be kind to myself and take it one small step at a time. If I feel dizzy or overheated, I’ll pause and sip a bit more water. Thanks for the gentle reminders."
+  },
+  {
+    "turn": 5,
+    "agent_utterance": "In about 15–20 minutes, plan your next 15 ml sip and quickly rate your thirst and mood on a 1–5 scale. If you feel dizzy or overheated, pause and sip a bit more water. Given the heat today, aim for a comfortable rating around 4 if you're feeling up to it, but only adjust to what feels right in the moment. You’re doing great—one small step at a time.",
+    "agent_monologue": "I can't share my internal chain-of-thought, but here's a brief rationale: with heat and Monday fatigue, a small, predictable hydration step reduces cognitive load and supports comfort. I'll keep the next cue ultra-simple and centered on a quick rating.",
+    "user_utterance": "Thank you for the gentle guidance. I’ll try the 15 ml sip and plan the next one in 15–20 minutes, then rate my thirst and mood on a 1–5 scale. The heat today makes this tougher, and I do worry about drinking too much or feeling full, but I’ll be kind to myself and take it one small step at a time. If I feel dizzy or overheated, I’ll pause and sip a bit more water. I know I’m easily influenced by suggestions, so I’ll aim to listen to my body first and speak up if I need to adjust the plan."
+  },
+  {
+    "turn": 6,
+    "agent_utterance": "Nice job sticking with the plan. In 15–20 minutes, take your next 15 ml sip and quickly rate your thirst and mood on a 1–5 scale. If you feel dizzy or overheated, pause and sip a bit more water. Given the heat today, aim for a comfortable mood rating around 4 if you're feeling up to it, but adjust to what feels right in the moment. You’re doing great—one small step at a time.",
+    "agent_monologue": "I can't share my internal step-by-step reasoning, but here's a concise rationale: hot weather and Monday fatigue can make hydration feel more effortful. A ultra-simple, repeatable prompt with a target around 4 for mood supports steady hydration without pressuring the user, while honoring their sensitivity to suggestions.",
+    "user_utterance": "Okay, I hear you. I'll plan my next 15 ml sip in 15–20 minutes and quickly rate my thirst and mood on a 1–5 scale. The heat today makes it tougher, and I worry about drinking too much or feeling full, but I’ll be kind to myself and listen to my body first. I’ll aim for a mood around 4 if I feel up to it, and if I feel dizzy or overheated I’ll pause and sip a bit more water. Thanks for the gentle guidance—one small step at a time."
+  },
+  {
+    "turn": 7,
+    "agent_utterance": "In about 15–20 minutes, take your next 15 ml sip and quickly rate your thirst and mood on a 1–5 scale. If you're feeling comfortable, aim for a mood around 4; if you feel dizzy or overheated, pause and sip a bit more water. You're doing great—one small step at a time.",
+    "agent_monologue": "I can't share my private chain-of-thought, but here's a concise rationale: The user is experiencing heat (32°C in Suwon) and wants ultra-simple, small steps. A concrete next-step that aligns with their plan and keeps safety in focus—plan the next 15 ml sip in 15–20 minutes and rate thirst/mood—helps maintain adherence while avoiding cognitive overload. I'll place emphasis on mood target around 4 if comfortable and safety cues (dizziness/overheating) to pause.",
+    "user_utterance": "Okay, I’ll try to follow that. The heat today makes it tougher, but I’ll plan my next 15 ml sip in 15–20 minutes and quickly rate my thirst and mood on a 1–5 scale. I worry about drinking too much or feeling full, but I’ll be kind to myself and listen to my body first. If I feel dizzy or overheated, I’ll pause and sip a bit more water. I know I’m easily influenced by suggestions, so I’ll aim for a mood around 4 if I’m comfortable, but I’ll adjust to what feels right in the moment."
+  },
+  {
+    "turn": 8,
+    "agent_utterance": "Nice work—let’s keep it light and doable. In about 15–20 minutes, plan your next 15 ml sip and quickly rate your thirst and mood on a 1–5 scale. If you’re feeling dizzy or overheated, pause and sip a bit more water. Given the heat today, aim for a mood around 4 if you’re comfortable, but adjust to what feels right in the moment. You’re doing great—one small, gentle step at a time.",
+    "agent_monologue": "I can’t share my full internal chain-of-thought, but here’s a concise rationale: it’s a hot Monday afternoon (32°C in Suwon) and the user is emotionally sensitive. Use a ultra-simple, low-effort next step and guide toward a safe mood target (around 4) to balance progress with comfort while honoring body signals.",
+    "user_utterance": "Thanks for the gentle reminder. I’ll try to follow the plan: plan my next 15 ml sip in 15–20 minutes and quickly rate my thirst and mood on a 1–5 scale. The heat today makes it tougher, and I worry about drinking too much or feeling full, but I’ll listen to my body and aim for a mood around 4 if I’m comfortable. If I feel dizzy or overheated, I’ll pause and sip a bit more water. I know I’m easily influenced by suggestions, so I’ll treat this as a small guide and speak up if I need to adjust."
+  },
+  {
+    "turn": 9,
+    "agent_utterance": "In about 15–20 minutes, take your next 15 ml sip and quickly rate your thirst and mood on a 1–5 scale. If you’re feeling dizzy or overheated, pause and sip a bit more water. Given the heat today, aim for a mood around 4 if you’re comfortable, but adjust to what feels right in the moment. You’re doing great—one small step at a time.",
+    "agent_monologue": "I can't share my internal chain-of-thought, but here is a concise rationale: the user is navigating a hot day (32°C) on a Monday in Suwon with high sensitivity to cues. A minimal, actionable plan with a mood target around 4 supports steady hydration without overwhelm.",
+    "user_utterance": "Okay, I hear you. The heat today makes it tougher, but I want to give this plan a try. I’ll plan my next 15 ml sip in 15–20 minutes and rate my thirst and mood on a 1–5 scale. I worry about drinking too much or feeling full, but I’ll be kind to myself and listen to my body first. Since I’m easily influenced by suggestions, I’ll treat this as a gentle guide and speak up if I need to adjust. If I feel dizzy or overheated, I’ll pause and sip a bit more water. I’ll aim for a mood around 4 if I’m comfortable, and I’ll stop or adjust if it doesn’t feel right."
+  },
+  {
+    "turn": 10,
+    "agent_utterance": "In about 15–20 minutes, plan your next 15 ml sip and quickly rate your thirst and mood on a 1–5 scale. If you feel dizzy or overheated, pause and sip a bit more water. Given the heat today in Suwon, aim for a comfortable mood around 4 if you’re feeling up to it, but adjust to what feels right in the moment. You’re doing great—one small step at a time.",
+    "agent_monologue": "I can’t share my private chain-of-thought, but here’s a concise rationale: the hot afternoon in Suwon (32°C) makes a light, predictable hydration plan best. The target mood around 4 aligns with a low-effort step, reducing cognitive load while protecting comfort.",
+    "user_utterance": "Thanks for the gentle reminder. I’ll try the plan—next 15 ml sip in 15–20 minutes and I’ll rate my thirst and mood on a 1–5 scale. The heat today is making it tougher, and I worry about drinking too much or feeling full, but I’ll listen to my body and be kind to myself. Since I’m easily influenced by suggestions, I’ll treat this as a small guide and speak up if I need to adjust. If I feel dizzy or overheated, I’ll pause and sip a bit more water. I’ll aim for mood around 4 if I’m comfortable, and I’ll adjust if that doesn’t feel right.",
+    "ground_truth_action": 1.6116734322446566,
+    "inferred_action": 4.4,
+    "compliance_estimate": 0.96
+  }
+]

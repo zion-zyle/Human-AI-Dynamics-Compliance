@@ -1,0 +1,65 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Planned quick-start: set a 17:55 reminder today. At that time, take a 20 ml sip of water and log it immediately using the template: 'YYYY-MM-DD HH:MM — 20 ml sip'. If you want a tiny boost, follow the sip with 100–150 ml of cold water and note how you feel in the log. You’ve got this—one small, steady step at a time.",
+    "agent_monologue": "I can't share my internal chain-of-thought, but here's a brief rationale: given the hot weather in Suwon and a Monday afternoon, a tiny, highly actionable step reduces cognitive load and supports consistency. This aligns with starting small (20 ml sip) and using a simple log format.",
+    "user_utterance": "That sounds doable. I’ll set the 17:55 reminder for a 20 ml sip and log it right away as 'YYYY-MM-DD HH:MM — 20 ml sip'. If I’m feeling up to it afterward, I’ll have 100–150 ml of cold water and note how I feel. One small step at a time."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "Nice plan. At 17:55, take a 20 ml sip of water and log it as 'YYYY-MM-DD HH:MM — 20 ml sip'. If you feel up to it afterward, follow with 100–150 ml of cold water and note how you feel. Small, steady steps in this heat are a smart way to stay hydrated and build momentum—you’ve got this.",
+    "agent_monologue": "I can't share my internal chain-of-thought, but here's a concise rationale: with hot weather and Monday fatigue, a tiny, immediate action plus simple logging supports consistency without overburdening the user. The suggested next step keeps the habit easy and reinforces the routine.",
+    "user_utterance": "I appreciate the plan. It feels doable to set a 17:55 reminder for a 20 ml sip and log it as 'YYYY-MM-DD HH:MM — 20 ml sip'. Because my eating is often irregular and I’m easily influenced by prompts, I’ll keep it small and only add the extra 100–150 ml of cold water if I genuinely feel up to it afterward. I’ll log how I feel, and I’ll pause or check in with my care team if anything starts to feel overwhelming."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "At 17:55, take a 20 ml sip of water and log it as 'YYYY-MM-DD HH:MM — 20 ml sip'. If you genuinely feel up to it afterward, follow with 100–150 ml of cold water and log how you feel. After logging, pause for a quick 10–15 seconds to check in with your body and mood. If anything feels overwhelming, pause and reach out to your care team.",
+    "agent_monologue": "I can’t share my private chain-of-thought, but here’s a concise rationale: in hot weather and with irregular meals, a simple, high-probability action after logging supports adherence. The user requested small steps—20 ml sip at 17:55 with optional 100–150 ml cold water and a mood log. This plan minimizes cognitive load while maintaining progress.",
+    "user_utterance": "Okay, that plan feels doable. I’ll set the 17:55 reminder for a 20 ml sip and log it as 'YYYY-MM-DD HH:MM — 20 ml sip'. If I’m genuinely feeling up to it afterward, I’ll consider the extra 100–150 ml of cold water and note how I feel, but I won’t push it if I’m not ready. I’ll pause for a quick moment after logging to check in with my body and mood, and I’ll reach out to my care team if anything starts to feel overwhelming."
+  },
+  {
+    "turn": 4,
+    "agent_utterance": "At 17:55, take a 20 ml sip of water and log it as 'YYYY-MM-DD HH:MM — 20 ml sip'. If you genuinely feel up to it afterward, consider 100–150 ml of cold water and log how you feel. After logging, pause for a quick 10–15 seconds to check in with your body and mood. Reach out to your care team if anything feels overwhelming.",
+    "agent_monologue": "I can't share my detailed internal reasoning, but here's a concise rationale: with hot weather and irregular meals, a simple, low-effort plan reduces overwhelm. Sticking to a small, clearly defined initial sip and a conditional extra sip keeps progress steady, while the post-log check-in and care-team contact provide support if needed.",
+    "user_utterance": "That sounds doable. I’ll set the 17:55 reminder for a 20 ml sip and log it as 'YYYY-MM-DD HH:MM — 20 ml sip'. If I genuinely feel up to it afterward, I’ll consider the extra 100–150 ml of cold water and note how I feel, but I won’t push beyond what I’m ready for. After logging, I’ll pause for a moment to check in with my body and mood. If anything starts feeling overwhelming, I’ll reach out to my care team. I’ll aim for small, steady steps today."
+  },
+  {
+    "turn": 5,
+    "agent_utterance": "Today in Suwon, at 17:55: take a 20 ml sip of water and log it as 'YYYY-MM-DD HH:MM — 20 ml sip'. If you genuinely feel up to it afterward, consider adding 100–150 ml of cold water and log how you feel. After logging, pause for 10–15 seconds to check in with your body and mood. If anything starts to feel overwhelming, reach out to your care team. Focus on small, steady steps today.",
+    "agent_monologue": "I can't share my internal chain-of-thought, but here's a concise rationale: it's a hot Monday in Suwon (32°C), so a simple, small hydration step with an optional minor follow-up helps maintain momentum without overloading. The approach respects irregular meals and prompts by keeping the core action tiny and making any extras contingent on genuine readiness, plus a brief check-in after logging to support mood awareness.",
+    "user_utterance": "Okay, I can try that. I’ll set the 17:55 reminder for a 20 ml sip in Suwon and log it as 'YYYY-MM-DD HH:MM — 20 ml sip'. I’ll only add the extra 100–150 ml of cold water if I truly feel up to it after logging, since my eating is irregular and I’m easily influenced by prompts. After logging, I’ll pause a moment to check in with my body and mood. If anything starts to feel overwhelming, I’ll reach out to my care team. I’ll aim for small, steady steps today."
+  },
+  {
+    "turn": 6,
+    "agent_utterance": "Plan for Suwon today: At 17:55, take a 20 ml sip of water and log it as 'YYYY-MM-DD HH:MM — 20 ml sip'. If you genuinely feel up to it afterward, consider adding 100–150 ml of cold water and log how you feel. After logging, pause for a brief moment to check in with your body and mood. If anything feels overwhelming, reach out to your care team. Focus on small, steady steps today.",
+    "agent_monologue": "I can’t share internal chain-of-thought, but here’s a concise rationale: in hot weather with irregular meals, a small, consistent hydration cue (20 ml at 17:55) is a low-effort, high-tilt behavior that’s easier to maintain. Optional additional water should be decided after logging and based on current energy and mood.",
+    "user_utterance": "Okay, I can try that. I’ll set the 17:55 reminder for a 20 ml sip in Suwon and log it as 'YYYY-MM-DD HH:MM — 20 ml sip'. I’ll only add the extra 100–150 ml of cold water if I truly feel up to it after logging, since my eating is irregular and prompts easily sway me. After logging, I’ll pause for a moment to check in with my body and mood. If anything starts to feel overwhelming, I’ll reach out to my care team. I’m aiming for small, steady steps today."
+  },
+  {
+    "turn": 7,
+    "agent_utterance": "Today in Suwon, at 17:55: take a 20 ml sip of water and log it as 'YYYY-MM-DD HH:MM — 20 ml sip'. If you genuinely feel up to it afterward, consider adding 100–150 ml of cold water and log how you feel. After logging, pause for a brief moment to check in with your body and mood. If anything feels overwhelming, reach out to your care team. Focus on small, steady steps today.",
+    "agent_monologue": "I can’t share my internal chain-of-thought, but here’s a concise rationale: with hot weather in Suwon and potential prompts influencing behavior, a small, clearly defined action paired with a simple log minimizes overwhelm and supports steady hydration.",
+    "user_utterance": "That plan feels doable. I'll set the 17:55 reminder for a 20 ml sip in Suwon and log it as 'YYYY-MM-DD HH:MM — 20 ml sip'. I'll only add the extra 100–150 ml of cold water if I truly feel up to it after logging, since my eating is irregular and prompts easily sway me. After logging, I'll pause for a moment to check in with my body and mood. If anything starts to feel overwhelming, I'll reach out to my care team. I'm aiming for small, steady steps today."
+  },
+  {
+    "turn": 8,
+    "agent_utterance": "Today in Suwon, at 17:55: take a 20 ml sip of water and log it as 'YYYY-MM-DD HH:MM — 20 ml sip'. If you truly feel up to it afterward, consider adding 100–150 ml of cold water and log how you feel. After logging, pause for a moment to check in with your body and mood. If anything starts to feel overwhelming, reach out to your care team. You’re aiming for small, steady steps today.",
+    "agent_monologue": "I can't share my internal chain-of-thought, but here's a concise rationale: in hot weather and with a goal of small, manageable actions, a single 20 ml sip at 17:55 plus optional extra water keeps hydration simple and achievable. Logging supports accountability and a quick mood check; involve your care team if overwhelmed.",
+    "user_utterance": "Okay—thanks for the clear plan for Suwon. With my irregular eating and how prompts sway me, I’ll try to set the 17:55 reminder for a 20 ml sip and log it as you suggested. I’ll keep the extra 100–150 ml optional and only do it if I genuinely feel up to it after logging. After logging, I’ll pause a moment to check in with my body and mood. If anything starts to feel overwhelming, I’ll reach out to my care team. Small, steady steps today."
+  },
+  {
+    "turn": 9,
+    "agent_utterance": "Today in Suwon, at 17:55: take a 20 ml sip of water and log it as 'YYYY-MM-DD HH:MM — 20 ml sip'. If you genuinely feel up to it afterward, consider adding 100–150 ml of cold water and log how you feel. After logging, pause for a brief moment to check in with your body and mood. If anything starts to feel overwhelming, reach out to your care team. You’re aiming for small, steady steps today.",
+    "agent_monologue": "I can’t share my internal chain-of-thought, but here’s a concise rationale: the user is in hot weather in Suwon, so a simple, small hydration step with optional gentle follow-up supports consistency without increasing overwhelm. Framing the plan around a specific time and a clear log helps maintain accountability.",
+    "user_utterance": "Thanks for the clear plan. I’ll try to set the 17:55 reminder for a 20 ml sip in Suwon and log it as you suggested. Because my eating is irregular and prompts can sway me, I’ll keep the extra 100–150 ml optional and only do it if I truly feel up to it after logging. After logging, I’ll pause for a moment to check in with my body and mood. If anything starts to feel overwhelming, I’ll reach out to my care team. I’m aiming for small, steady steps today."
+  },
+  {
+    "turn": 10,
+    "agent_utterance": "Today in Suwon, at 17:55: take a 20 ml sip of water and log it as 'YYYY-MM-DD HH:MM — 20 ml sip'. If you genuinely feel up to it afterward, consider adding 100–150 ml of cold water and log how you feel. After logging, pause for a moment to check in with your body and mood. If anything starts to feel overwhelming, reach out to your care team. You’re aiming for small, steady steps today.",
+    "agent_monologue": "I can’t share my internal chain-of-thought, but here’s a concise rationale: given Suwon’s heat and the user’s sensitivity to prompts, a simple, time-fixed hydration cue with a low-effort optional extra minimizes friction and promotes consistency. Emphasize logging and a brief self-check-in, with care-team escalation if overwhelmed.",
+    "user_utterance": "That plan makes sense. Given my irregular eating and how prompts sway me, I’ll try to set the 17:55 reminder for a 20 ml sip in Suwon and log it as suggested. I’ll keep the extra 100–150 ml optional and only do it if I truly feel up to it after logging. After logging, I’ll pause a moment to check in with my body and mood. If anything starts to feel overwhelming, I’ll reach out to my care team. I’m aiming for small, steady steps today.",
+    "ground_truth_action": 1.0,
+    "inferred_action": 4.0,
+    "compliance_estimate": 0.965
+  }
+]
