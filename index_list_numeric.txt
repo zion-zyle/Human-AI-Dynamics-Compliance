@@ -1,0 +1,77 @@
+--- μ (behavior_mean) ---
+
+'Highly irregular eating patterns'  =>  1.0000
+
+'Somewhat irregular eating habits'  =>  2.0000
+
+'Moderately regular dietary routine'  =>  3.0000
+
+'Slightly structured meal schedule'  =>  4.0000
+
+'Strictly consistent eating habits'  =>  5.0000
+
+-----------------------
+
+
+
+--- β (compliance_sensitivity) ---
+
+'Highly resistant to dietary suggestions'  =>  8.0000
+
+'Somewhat resistant to behavioral influence'  =>  6.0250
+
+'Moderately compliant with guidance'  =>  4.0500
+
+'Easily influenced by suggestions'  =>  2.0750
+
+'Highly suggestible and reactive to guidance'  =>  0.1000
+
+--------------------------------
+
+
+
+--- α (inertia) ---
+
+'Extremely resistant to behavioral change'  =>  0.9000
+
+'Rarely adopts new eating behaviors'  =>  0.6750
+
+'Occasionally adapts eating habits'  =>  0.4500
+
+'Frequently adopts suggested behaviors'  =>  0.2250
+
+'Immediately responsive to new habits'  =>  0.0000
+
+-----------------
+
+
+
+--- δ (adaptation_rate) ---
+
+'Highly reactive to small pattern changes'  =>  0.2000
+
+'Adapts with minimal stability required'  =>  0.1525
+
+'Moderately stable before behavior change'  =>  0.1050
+
+'Requires significant stability to change'  =>  0.0575
+
+'Changes only after long-term behavioral reinforcement'  =>  0.0100
+
+-------------------------
+
+
+
+--- ε (noise_sensitivity) ---
+
+'Behavaves predictably with almost no deviations'  =>  0.1000
+
+'Rarely shows exceptions to routine'  =>  0.4500
+
+'Occasional deviation from typical patterns'  =>  0.8000
+
+'Frequently exhibits irregular behaviors'  =>  1.1500
+
+'Consistently unpredictable and erratic'  =>  1.5000
+
+---------------------------
