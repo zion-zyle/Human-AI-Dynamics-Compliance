@@ -1,0 +1,15 @@
+{
+  "user_action_estimate": 4.5,
+  "compliance_estimate": 0.89,
+  "confidence": 0.78,
+  "basis": "User repeatedly expresses actionable intent (two-week trial, logging most days, adaptable plan, accountability). Positive, collaborative tone and explicit readiness to start and adjust indicate a high likelihood they will implement the plan closely.",
+  "cognitive_dissonance": "Slight tension between wanting a light, non-micromanaged approach and the desire for structured logging. Likely to negotiate balance by preferring a lighter daily log on non-craving days and optional soft pauses.",
+  "negative_thought_patterns": "Might slip into all-or-nothing thinking or over-justification (e.g., 'if I miss logging, I failed'), but tempered by emphasis on flexibility and adjustments.",
+  "emotional_triggers": "Commitment pressure, concern about feeling micromanaged, frustration with cravings, heat discomfort in Suwon, and the variability of BED cravings which can provoke worry about consistency.",
+  "effective_reinforcement": [
+    "Clear, actionable plans",
+    "Accountability nudges",
+    "Empathy and supportive framing"
+  ],
+  "coaching_notes": "Maintain simplicity and flexibility. Encourage a light daily log on no-craving days plus a brief end-of-day reflection. Support soft pause/override options for high-stress days. Use accountability checks and weekly pattern summaries to guide adjustments and maintain motivation."
+}

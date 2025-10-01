@@ -1,0 +1,16 @@
+{
+  "user_action_estimate": 4.4,
+  "compliance_estimate": 0.79,
+  "confidence": 0.78,
+  "basis": "The user consistently expresses concrete, actionable intent (3-minute urge-surf, logging, 8:30 PM check-in) and emphasizes following the plan even when tired, indicating a high likelihood of execution tonight.",
+  "cognitive_dissonance": "Low. The user aligns their plan with stated fatigue and need for rest, showing coherent reasoning and adaptive adjustments.",
+  "negative_thought_patterns": "Possible mild perfectionism or urge to 'not slip,' which could lead to self-criticism if slip occurs; otherwise minimal.",
+  "emotional_triggers": "Fatigue from work, late-evening cues (TV/kitchen smells), stress; anticipatory anxiety about urges, but mitigated by planned coping strategies.",
+  "effective_reinforcement": [
+    "Clear, actionable plans",
+    "Self-monitoring through logging",
+    "Empathy and validation of fatigue/rest as coping",
+    "Encouragement of adaptive substitutions"
+  ],
+  "coaching_notes": "Maintain concise, step-by-step plans and regular check-ins; reinforce rest as a valid coping option; keep reinforcing logging practice and trigger awareness; consider adding a brief mid-evening cue check-in if fatigue peaks earlier than planned."
+}

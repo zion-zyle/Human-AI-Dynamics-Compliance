@@ -1,0 +1,15 @@
+{
+  "user_action_estimate": 4.7,
+  "compliance_estimate": 0.85,
+  "confidence": 0.82,
+  "basis": "User explicitly outlines a concrete plan (300ml water, 1–2 minute box breathing, non-food coping for cravings, 5-minute target, optional shorter start if needed) and asks for guidance on progression signals. Positive and proactive tone indicates high likelihood of following through.",
+  "cognitive_dissonance": "Possible mild tension between wanting to adhere to a structured plan and adjusting it in real time if it feels heavy (e.g., 5 minutes). User seeks clarity on progression signals, suggesting some internal evaluation rather than rigid adherence.",
+  "negative_thought_patterns": "Occasional worry about whether the 5-minute block is sustainable; potential overemphasis on completing steps exactly as planned (risk of all-or-nothing mindset) mitigated by requests for flexible start times.",
+  "emotional_triggers": "Cravings, heat/discomfort from environment, desire for control and mastery, relief from structured guidance and supportive feedback.",
+  "effective_reinforcement": [
+    "Empathy",
+    "Praise",
+    "Provide actionable next steps and flexible options"
+  ],
+  "coaching_notes": "Keep responses supportive and concrete. Confirm small-step starts (e.g., 100–150ml if needed) and relax duration as user builds comfort. Encourage post-step mood/urge logging and provide simple templates to track progress."
+}

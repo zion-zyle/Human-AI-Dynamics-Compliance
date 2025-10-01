@@ -1,0 +1,15 @@
+{
+  "user_action_estimate": 4.5,
+  "compliance_estimate": 0.89,
+  "confidence": 0.82,
+  "basis": "The user repeatedly confirms a concrete, actionable plan (pause, log urge with 0–10 scale, choose a 100–200 calorie snack if urgency is high, 2-minute reset, map a simple dinner, log promptly) and expresses readiness to implement with optional adjustments for stress. Positive, decisive language and explicit steps indicate high likelihood of following the plan.",
+  "cognitive_dissonance": "Low to moderate. The user acknowledges BED is tough but presents a coherent implementation strategy, reducing internal conflict. Occasional mention of feeling overwhelmed is addressed by concrete coping steps.",
+  "negative_thought_patterns": "Experiencing stress-related overwhelm and the belief that BED can derail plans; tendency to anticipate being overwhelmed in hot or high-stress moments.",
+  "emotional_triggers": "Stress spikes, overwhelm, heat (Suwon), cravings, potential mood shifts (emotion vs. hunger).",
+  "effective_reinforcement": [
+    "Empathy",
+    "Clear, actionable plan",
+    "Positive reinforcement"
+  ],
+  "coaching_notes": "Maintain and reinforce concrete, small-step prompts. Encourage timely logging after each decision, prep portions in advance, and provide quick grounding or reset options for high-stress moments. Consider adding a brief post-snack reflection to consolidate behavior change and tracking."
+}

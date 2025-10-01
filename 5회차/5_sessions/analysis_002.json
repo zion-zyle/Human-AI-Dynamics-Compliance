@@ -1,0 +1,15 @@
+{
+  "user_action_estimate": 4.5,
+  "compliance_estimate": 0.94,
+  "confidence": 0.85,
+  "basis": "User expresses clear, actionable plan with explicit steps (breathing, water, walking, urge logging, dessert substitutions) and commits to an 8 PM check-in. Positive, cooperative tone and readiness to adjust for strong urges indicate high likelihood of following through.",
+  "cognitive_dissonance": "Low. User acknowledges potential difficulty from very strong urges but resolves it by adopting a concrete coping strategy and planning for a check-in to reassess. Minor internal tension about staying on track is acknowledged but not dominant.",
+  "negative_thought_patterns": "Possible occasional perfectionism or all-or-nothing thinking (desire to perfectly adhere to plan). Some worry about resisting very strong urges, which could lead to self-criticism if not managed.",
+  "emotional_triggers": "Social settings (family gatherings, coffee shops) and exposure to desserts; strong cravings during these contexts; environmental cues (pleasant foods) and emotional states (stress, fatigue) may heighten urge strength.",
+  "effective_reinforcement": [
+    "Empathy and validation of user's effort",
+    "Clear, actionable, micro-goals with immediate next steps",
+    "Positive framing and concrete coping statements"
+  ],
+  "coaching_notes": "Maintain emphasis on small, repeatable actions (2-minute practice, 5–10 minute walks, urge logs). Reinforce the utility of quick coping phrases and breathing to bridge between urges and alternatives. Encourage consistent check-ins and celebrate even small adherence successes. Offer alternative plan tweaks for occasions when urges spike beyond typical strength (e.g., longer breathing cycles, delay techniques, or engaging in a brief distracting activity)."
+}

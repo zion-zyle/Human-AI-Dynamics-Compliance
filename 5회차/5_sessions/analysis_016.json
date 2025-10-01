@@ -1,0 +1,15 @@
+{
+  "user_action_estimate": 4.5,
+  "compliance_estimate": 0.91,
+  "confidence": 0.82,
+  "basis": "User repeatedly states concrete, time-bound actions (start after dinner, use two quick alternatives, log and next steps, wind-down). Positive, proactive language and explicit intent to print/adjust tracker indicate a high likelihood of implementing the plan tonight.",
+  "cognitive_dissonance": "Low to moderate. Plan aligns with goals (manage BED urges) but there may be underlying worry about staying consistent if cravings spike; overall, the user appears motivated and mechanism-focused to reduce conflict.",
+  "negative_thought_patterns": "Possible perfectionism or 'all-or-nothing' leanings (need tonight to go smoothly; print tracker if it goes well). Occasional concern about evenings being hardest could fuel self-criticism if cravings rise.",
+  "emotional_triggers": "Evenings after dinner, stress, and BED cravings; emphasis on social support and a calm wind-down to counter cravings.",
+  "effective_reinforcement": [
+    "You’re doing great/You’ve got this",
+    "Breath in, breath out",
+    "You’re not alone"
+  ],
+  "coaching_notes": "Keep offering concise, action-oriented prompts. Reinforce flexibility (two quick alternatives) and simple logging. Encourage immediate logging after blocks and quick next steps to sustain momentum. Consider providing a printable tracker as a standard tool and adding optional micro-prompts for journaling when cravings spike."
+}

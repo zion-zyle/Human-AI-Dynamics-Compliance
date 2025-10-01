@@ -1,0 +1,15 @@
+{
+  "user_action_estimate": 4.5,
+  "compliance_estimate": 0.76,
+  "confidence": 0.82,
+  "basis": "User expresses strong, concrete commitment to a multi-step plan (reminders, urge-surfing, logging, substitutes) and explicitly plans a one-week test with reporting. Positive tone and specific contingencies indicate high likelihood of execution.",
+  "cognitive_dissonance": "Low. Plan aligns with stated goals and past behavior; minor tension about occasional slips is acknowledged and mitigated with structured steps.",
+  "negative_thought_patterns": "Possible perfectionism or all-or-nothing tendencies (need to follow plan exactly) but mitigated by flexibility (optional post-log reflection, non-food substitutes, willingness to skip steps if not helpful).",
+  "emotional_triggers": "Evenings and boredom are primary BED triggers; heat and stress also noted as contextual factors.",
+  "effective_reinforcement": [
+    "Empathy and validation",
+    "Clear, actionable steps",
+    "Structured rehearsal and self-monitoring cues"
+  ],
+  "coaching_notes": "Maintain concise, stepwise guidance; reinforce evening cue strategies and hydration; encourage a simple, consistent logging routine and a weekly check-in to adapt timings or cues as needed."
+}

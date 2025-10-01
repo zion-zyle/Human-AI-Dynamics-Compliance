@@ -1,0 +1,16 @@
+{
+  "user_action_estimate": 4.5,
+  "compliance_estimate": 0.973,
+  "confidence": 0.82,
+  "basis": "The user expresses strong intent to implement the 4-step routine today, requests reminders, and notes flexibility to shorten steps if overwhelmed—indicating high likelihood of action aligned with the suggestion.",
+  "cognitive_dissonance": "Aware of potential overwhelm vs. desire to maintain routine; balancing cravings and BED with need for calm, non-judgmental support; seeks reassurance through reminders to bridge intention and action.",
+  "negative_thought_patterns": "Cravings can feel intense; concern about overwhelm or losing control; fear of not following through; tendency toward self-criticism when overwhelmed.",
+  "emotional_triggers": "Stress and heat intensifying cravings; need for grounding and steady routine; environmental cues (shade/indoors) to reduce distress; desire for supportive reminders.",
+  "effective_reinforcement": [
+    "Empathy",
+    "Praise",
+    "Reminders/accountability",
+    "Validation of small wins"
+  ],
+  "coaching_notes": "Keep reinforcing the simple, actionable steps; offer optional interval reminders and check-ins; validate emotions and normalize adjustments when overwhelmed; highlight progress and celebrate small successes to sustain motivation."
+}

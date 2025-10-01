@@ -1,0 +1,15 @@
+{
+  "user_action_estimate": 4.8,
+  "compliance_estimate": 0.82,
+  "confidence": 0.78,
+  "basis": "The user explicitly commits to tonight's plan (Option A) with specific steps and logging; language is decisive ('Tonight I’ll do...', 'I’ll log'), indicating a high likelihood of action. This aligns with their prior pattern of following through when they express clear intent.",
+  "cognitive_dissonance": "Low to moderate. The user acknowledges BED triggers and plans coping strategies (pause to breathe, logging). Some residual concern about cravings is present, but it is paired with concrete actions to manage it.",
+  "negative_thought_patterns": "Occasional all-or-nothing tendencies around BED triggers; potential self-criticism if cravings arise; fear of not sticking to the plan could emerge if cravings intensify.",
+  "emotional_triggers": "BED-related cravings, post-dinner moments, heat/geberal discomfort (Suwon), and the desire to stay in control.",
+  "effective_reinforcement": [
+    "Empathy",
+    "Praise",
+    "Clear, actionable next steps"
+  ],
+  "coaching_notes": "Keep providing concrete, prep-ahead steps and quick logging cues. Acknowledge BED triggers and normalize pauses/breathing as adaptive strategies. Reinforce readiness (tracker nearby) and offer brief non-food rituals as backups to maintain flexibility."
+}

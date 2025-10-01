@@ -1,0 +1,14 @@
+{
+  "user_action_estimate": 4.5,
+  "compliance_estimate": 0.91,
+  "confidence": 0.85,
+  "basis": "User repeatedly expresses explicit intent to follow the plan tonight (e.g., 'planning to test tonight and report back'), describes concrete steps, and maintains a positive, decisive tone; thus a high likelihood of action.",
+  "cognitive_dissonance": "Low. Plan aligns with goals; no evident conflicting beliefs or strong avoidance; minor situational concerns (heat) acknowledged but not conflicting.",
+  "negative_thought_patterns": "Potential for all-or-nothing thinking around success (either follow the snack protocol exactly or skip) and anticipatory worry about failing tonight; some rumination about BED triggers.",
+  "emotional_triggers": "Heat-related discomfort, cravings/urge to snack, desire for predictability and control over eating behavior.",
+  "effective_reinforcement": [
+    "Empathy",
+    "Praise"
+  ],
+  "coaching_notes": "Continue delivering clear, actionable steps and normalize the yogurt option to reduce decision fatigue. After tonight, incorporate a brief reflection to identify which component was most helpful and adjust if needed. Encourage consistent logging to enhance pattern recognition."
+}

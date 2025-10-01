@@ -1,0 +1,15 @@
+{
+  "user_action_estimate": 4.5,
+  "compliance_estimate": 0.885,
+  "confidence": 0.84,
+  "basis": "The user expresses clear, concrete commitment: implementing a 3-minute micro-reset, fatigue rule, logging with 0–10 scales, reminders, and an evenings plan. They explicitly ask about automatic reminders and time-shortening, and state they will report back after the snack, indicating high likelihood of following through.",
+  "cognitive_dissonance": "Minimal. The user shows strong alignment between intentions and plans. Occasional concern about time or fatigue is acknowledged but does not indicate active internal conflict; no contradictory beliefs observed.",
+  "negative_thought_patterns": "Limited; few explicit negative beliefs. Occasional time-pressure framing (e.g., 'short on time') is more logistical than self-defeating.",
+  "emotional_triggers": "High-stress days, fatigue, social events, heat, cravings—these increase risk for deviations but are anticipated with coping plans.",
+  "effective_reinforcement": [
+    "Empathy",
+    "Clear, actionable guidance",
+    "Structured planning"
+  ],
+  "coaching_notes": "Continue delivering concise, actionable steps and proactive support. Reinforce the value of quick resets, micro-habits, and logging. Consider reinforcing reminders and optional contingency plans for extremely busy days. Track sleep and caffeine as part of routine feedback to fine-tune effects."
+}

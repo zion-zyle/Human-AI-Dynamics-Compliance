@@ -1,0 +1,15 @@
+{
+  "user_action_estimate": 4.5,
+  "compliance_estimate": 0.89,
+  "confidence": 0.84,
+  "basis": "User explicitly commits to starting today with Day 1 prompts, rotating to Day 2 tomorrow, logging key data, and retaining fixed reminders. Tone is positive and action-oriented with clear next steps.",
+  "cognitive_dissonance": "Tension between a strong intention to adhere under stress and anxiety about sticking to the protocol during busy or high-workload moments.",
+  "negative_thought_patterns": "All-or-nothing thinking about adherence; worry of failure under pressure; self-doubt about being able to maintain routine at work.",
+  "emotional_triggers": "Work-related stress, time pressure, distractions, craving spikes during busy shifts.",
+  "effective_reinforcement": [
+    "Empathy",
+    "Clear, actionable prompts",
+    "Consistent reminders with automatic rotation"
+  ],
+  "coaching_notes": "Keep prompts concise for workdays; reinforce the value of micro-steps (1-minute wait, breaths, water). Acknowledge progress and provide easy fallbacks (e.g., brief outside time or 5-minute walk). Consider adding ultra-simple contingency prompts for peak stress periods to reduce drop-off."
+}

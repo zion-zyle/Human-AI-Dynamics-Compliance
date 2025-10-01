@@ -1,0 +1,15 @@
+{
+  "user_action_estimate": 4.5,
+  "compliance_estimate": 0.89,
+  "confidence": 0.78,
+  "basis": "The user explicitly commits to starting with the 11:00 AM and 3:30 PM prompts, keeps ad hoc reminders ready, records urge intensity and mood after breathing, and plans to test the static setup before expanding to flexible windows. The language conveys proactive planning and readiness to implement.",
+  "cognitive_dissonance": "Low to moderate. The user shows alignment with the plan and self-care focus, but there may be mild internal negotiation about managing reminders on tougher days or avoiding overwhelm.",
+  "negative_thought_patterns": "Occasional worry about feeling overwhelmed by reminders; potential perfectionism around sticking to a schedule; possible fear of failing to follow through on testing the windows.",
+  "emotional_triggers": "Heat-related safety (Suwon 32°C) prompting prioritize shade and hydration; desire to be kind to self and avoid judgment; need for practical, supportive structure during cravings.",
+  "effective_reinforcement": [
+    "Empathy",
+    "Clear, actionable steps",
+    "Consistency with flexibility"
+  ],
+  "coaching_notes": "Maintain compassionate, concrete guidance; offer optional ad hoc reminders and snooze/skip to manage cognitive load; gradually adjust windows as schedule permits; reinforce mood/urge tracking to identify patterns and optimize timing."
+}

@@ -1,0 +1,65 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Option B today: Do a quick 2-minute light movement (desk march or stair-step) now, then if cravings spike, follow with 1 minute of box breathing. Keep a water bottle handy and sip regularly to stay hydrated in the heat. If you feel hungry, reach for a simple high-fiber snack (e.g., an apple or pear or a small serving of yogurt with fiber). Later in the day, log your mood when you’re not hungry for feedback. This keeps things brief, actionable, and aligned with BED management.",
+    "agent_monologue": "I can't share my internal chain-of-thought, but here's a concise rationale: hot weather and work context call for simple, quick actions that can be done now; this aligns with your plan and helps manage cravings with a short breathing and movement combo plus hydration.",
+    "user_utterance": "That sounds doable. I’ll start with the 2-minute desk march now and keep a water bottle nearby. If cravings spike, I’ll do 1 minute of box breathing and reach for a high-fiber snack like an apple or a small yogurt. I’ll try to log my mood later today when I’m not hungry to give feedback. Since it’s hot, I’ll set hydration reminders—do you have a preferred cue?"
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "Nice plan. For hydration cues in this heat, a gentle reminder every 60 minutes is a solid default. You can set a phone vibration labeled Hydration or use a smartwatch notification; a sticky note on your desk also helps. Aim for about 150–250 ml per sip, and consider an electrolyte drink if you're sweating a lot. Do you want me to set a 60-minute hydration reminder for you now, and would you prefer phone or watch as the cue?",
+    "agent_monologue": "I can't share my internal chain-of-thought, but here's a concise rationale: in hot weather (32°C) regular hydration cues help prevent dehydration and support appetite regulation. A simple 60-minute cadence aligns with your current plan (desk movement, short breathing, snacks) and is low-friction to maintain adherence. We can adjust if needed after you try it.",
+    "user_utterance": "Sounds good. I’ll set a 60-minute hydration reminder on my phone since I usually have it with me and I’m okay with vibration. I’ll keep a water bottle nearby and sip about 150–250 ml per cue, and if I’m sweating a lot I’ll add an electrolyte drink. If cravings spike, I’ll do 1 minute of box breathing and reach for an apple or a small yogurt as a high-fiber snack. I’ll log my mood later today when I’m not hungry to give feedback. If I need to adjust the cue, I can switch to my watch for reminders later."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "Great setup. Quick, actionable suggestion: stay with your plan today. Do the 2-minute desk march now, keep a water bottle handy and sip 150–250 ml per 60-minute cue. If cravings spike, do 1 minute of box breathing and reach for an apple or a small yogurt as your high-fiber snack. Log your mood later when you're not hungry to give feedback. If needed, you can switch hydration reminders to your watch later.",
+    "agent_monologue": "I can't share my internal chain-of-thought, but here's a brief rationale: hot weather (32°C) elevates thirst and can increase urges around snacking. Your plan—short movement, quick breathing, fiber-rich snacks, regular hydration cues, and mood logging—directly supports BED management and metabolic comfort in heat. A concise rationale for the suggested action is to maintain steady energy and calm cravings with simple, repeatable steps.",
+    "user_utterance": "Sounds doable. I’ll start with the 2-minute desk march now and keep a water bottle nearby. I’ll follow the 60-minute hydration cue and sip 150–250 ml each time, adding electrolyte if I’m sweating. If cravings spike, I’ll do 1 minute of box breathing and reach for an apple or a small yogurt. I’ll log my mood later today when I’m not hungry to give feedback, and I can switch hydration reminders to my watch later if needed. I’ll keep you posted on how it goes."
+  },
+  {
+    "turn": 4,
+    "agent_utterance": "You're on track. Go ahead with the 2-minute desk march now. Keep a water bottle handy and sip about 150–250 ml per 60-minute cue, adding electrolyte if you're sweating. If cravings spike, do 1 minute of box breathing and reach for an apple or a small yogurt as a high-fiber snack. Log your mood later today when you're not hungry to give feedback. If needed, you can switch hydration reminders to your watch later.",
+    "agent_monologue": "I can't share my internal chain-of-thought, but here is a concise rationale: hot midday conditions in Suwon increase hydration needs, so a steady 60-minute cue with 150–250 ml sips is sensible; short movement and quick breathing support hunger cues and BED management; mood logging later helps track progress.",
+    "user_utterance": "Thanks—that plan feels doable. I will start with the 2-minute desk march now and keep a water bottle nearby. I will follow the 60-minute hydration cue and sip 150–250 ml each time, adding electrolyte if I am sweating. If cravings spike, I will do 1 minute of box breathing and reach for an apple or a small yogurt. I will log my mood later today when I am not hungry to give feedback, and I can switch hydration reminders to my watch later if needed. I will keep you posted on how it goes."
+  },
+  {
+    "turn": 5,
+    "agent_utterance": "You’re on track. Start with the 2-minute desk march now, keep a water bottle handy and hydrate every 60 minutes with 150–250 ml (add electrolyte if you’re sweating). If cravings spike, do 1 minute of box breathing and reach for an apple or a small yogurt. Log your mood later when you’re not hungry, and if needed, switch hydration reminders to your watch later. Keep me posted on how it goes.",
+    "agent_monologue": "Brief rationale: In Suwon's heat (32°C), hydration is critical. The user already has a simple, BED-aligned plan (2-minute desk march, 60-minute hydration cues with 150–250 ml, electrolyte if sweating, 1 minute box breathing for cravings, fiber snack), so provide a concise nudge that reinforces adherence without adding cognitive load.",
+    "user_utterance": "Sounds workable. I’ll start the desk march now and keep a water bottle nearby. I’ll follow the 60-minute hydration cue (150–250 ml each time, electrolyte if I’m sweating). If cravings spike, I’ll do 1 minute of box breathing and reach for an apple or a small yogurt. I’ll log my mood later when I’m not hungry to give feedback, and I can switch hydration reminders to my watch later if needed. I’ll keep you posted on how it goes."
+  },
+  {
+    "turn": 6,
+    "agent_utterance": "You’re on track. Start with the 2-minute desk march now, keep a water bottle nearby, and hydrate every 60 minutes with about 150–250 ml (electrolyte if you’re sweating). If cravings spike, do 1 minute of box breathing and reach for an apple or a small yogurt. Log your mood later when you’re not hungry, and you can switch hydration reminders to your watch later if needed. Keep me posted on how it goes.",
+    "agent_monologue": "I can’t share my internal chain-of-thought, but here’s a brief rationale: hot weather increases hydration needs and may heighten cravings. The plan uses short, actionable steps (2-minute movement, hourly hydration, quick breathing) plus simple snacks and mood logging to support adherence and BED management.",
+    "user_utterance": "That plan feels doable today. I’ll start with the 2-minute desk march now, keep a water bottle nearby, and hydrate about 150–250 ml every 60 minutes (adding electrolyte if I’m sweating). If cravings spike, I’ll do 1 minute of box breathing and reach for an apple or a small yogurt. I’ll log my mood later when I’m not hungry to give feedback, and I can switch hydration reminders to my watch later if needed. I’ll keep you posted on how it goes."
+  },
+  {
+    "turn": 7,
+    "agent_utterance": "You're on track. Start with the 2-minute desk march now. Keep a water bottle nearby and hydrate every 60 minutes with 150–250 ml (electrolyte if sweating). If cravings spike, do 1 minute of box breathing and reach for an apple or a small yogurt. Log your mood later when you're not hungry, and you can switch hydration reminders to your watch later if needed. Keep me posted on how it goes.",
+    "agent_monologue": "I can't share my internal chain-of-thought, but here's a concise rationale: hot weather increases hydration risk, so a simple, action-focused plan with regular sipping and a quick coping strategy for cravings supports BED management and adherence today.",
+    "user_utterance": "That sounds doable—thanks. I’ll start with the 2-minute desk march now, keep a water bottle handy, and aim for 150–250 ml every 60 minutes, adding electrolytes if I’m sweating. If cravings spike, I’ll try 1 minute of box breathing and reach for an apple or a small yogurt. I’ll log my mood later when I’m not hungry to give feedback, and I’ll switch hydration reminders to my watch later if needed. I’ll keep you posted on how it goes."
+  },
+  {
+    "turn": 8,
+    "agent_utterance": "Plan for today: start with the 2-minute desk march now; keep a water bottle nearby and hydrate 150–250 ml every 60 minutes (add electrolytes if sweating). If cravings spike, do 1 minute of box breathing and reach for an apple or small yogurt. Log your mood later when you’re not hungry, and, if needed, switch hydration reminders to your watch later. I’ll stay posted on how it goes.",
+    "agent_monologue": "I can't share internal chain-of-thought, but here is a concise rationale: hot weather increases fluid loss, so a steady 60-minute hydration cadence helps maintain fluids without overwhelming you. A quick 1-minute box breathing can reset cravings, and logging mood later provides feedback to adjust as needed.",
+    "user_utterance": "That sounds doable—thanks for the clear plan. I'll start the 2-minute desk march now, keep a water bottle nearby, and aim for 150–250 ml every 60 minutes (electrolytes if sweating). If cravings spike, I’ll try 1 minute of box breathing and reach for an apple or a small yogurt. I’ll log my mood later when I’m not hungry to give feedback, and I can switch hydration reminders to my watch later if needed. If you want, we can tweak cues or snack options based on how today goes. I’ll keep you posted."
+  },
+  {
+    "turn": 9,
+    "agent_utterance": "",
+    "agent_monologue": "",
+    "user_utterance": "That plan feels doable. I’ll start the 2-minute desk march now, keep a water bottle nearby, and aim for 150–250 ml every 60 minutes (adding electrolytes if I’m sweating). If cravings spike, I’ll try 1 minute of box breathing and reach for an apple or a small yogurt. I’ll log my mood later when I’m not hungry to give feedback, and I can switch hydration reminders to my watch later if needed. If today brings surprises or the cues don’t feel right, we can tweak snack options or timing. I’ll keep you posted on how it goes."
+  },
+  {
+    "turn": 10,
+    "agent_utterance": "Nice, doable plan for today. Start the 2-minute desk march now, keep a water bottle handy, and hydrate about 150–250 ml every 60 minutes (add electrolyte if you’re sweating). If cravings spike, try 1 minute of box breathing and reach for an apple or a small yogurt. Log your mood later when you’re not hungry, and you can switch hydration reminders to your watch later if needed. I’ll stay posted on how it goes and adjust if cues need tweaking.",
+    "agent_monologue": "I can’t share my internal chain-of-thought, but here’s a concise rationale: today’s hot weather in Suwon makes hydration and short movement especially helpful for energy and appetite control in BED. I’ll provide a brief, actionable cue-aligned suggestion without exposing detailed reasoning steps.",
+    "user_utterance": "Sounds good—thanks for the clear plan. I’ll start the 2-minute desk march now, keep a water bottle nearby, and aim for 150–250 ml every 60 minutes (adding electrolytes if I’m sweating). If cravings spike, I’ll try 1 minute of box breathing and reach for an apple or a small yogurt. I’ll log my mood later when I’m not hungry to give feedback, and I can switch hydration reminders to my watch later if needed. If today brings surprises or the cues don’t feel right, we can tweak snack options or timing. I’ll keep you posted on how it goes.",
+    "ground_truth_action": 3.5609490298757613,
+    "inferred_action": 4.8,
+    "compliance_estimate": 0.9625
+  }
+]

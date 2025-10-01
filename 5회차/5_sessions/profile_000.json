@@ -1,0 +1,63 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Do you have any known health conditions that influence your diet (for example diabetes, high blood pressure, kidney disease, thyroid issues, celiac disease, food allergies, or digestive disorders)?",
+    "agent_monologue": "Starting session. I will gather key attributes to tailor your coaching. For now, I will ask about your condition: known health conditions that influence your diet.",
+    "user_utterance": "I didn’t catch your latest suggestion—could you resend it? I’m in a moderately regular routine and, with BED, I do better with small, concrete steps. If we start with one clear change—like a structured snack plan or a 5–10 minute post-meal check-in—I’m more likely to try it. I’m moderately compliant, so I’ll follow through with a simple cue and a quick accountability nudge. What’s the exact step you want me to take, and how should I track it?"
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "On a scale from 1 to 5, how much structure/stability do you want in your eating changes (1 = not important, 5 = very important)?",
+    "agent_monologue": "My last question was about condition. The user's response indicates their condition is BED. Now, I will ask about the next unknown attribute: delta (need for structure/stability).",
+    "user_utterance": "I’d go with a 3 on structure—that feels doable without feeling restrictive. For a concrete first step, I’ll start a fixed two-snack plan each day: two small, balanced snacks at set times that fit my routine. Tracking will be simple: a one-line post-snack log with time, snack, hunger before/after (1–5), and urge (1–5). Cue: a quick phone reminder 15 minutes before each snack, plus daily logging for accountability."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "On a scale from 1 to 5, how flexible are you with trying new habits or changing routines?",
+    "agent_monologue": "My last question was about delta (need for structure/stability). The user's response indicates their delta is 3. Now, I will ask about the next unknown attribute: alpha (flexibility in adopting new habits).",
+    "user_utterance": "I’d rate my flexibility as a 3. I’m open to small tweaks if they don’t feel stressful and help me stay consistent. I’ll try the fixed two-snack plan for a week as proposed, with the 15-minute cue and the one-line log (time, snack, hunger before/after 1–5, urge 1–5). If it starts feeling too rigid or burdensome, we’ll adjust snack times by 10–15 minutes or simplify the log. "
+  },
+  {
+    "turn": 4,
+    "agent_utterance": "Do you have any known health conditions that influence your diet (for example diabetes, high blood pressure, kidney disease, thyroid issues, celiac disease, food allergies, or digestive disorders)?",
+    "agent_monologue": "My last question was about alpha. The user's response indicates their alpha is 3. Now, I will ask about the next unknown attribute: condition.",
+    "user_utterance": "I don’t have any other health conditions that affect my diet right now. BED is my main concern, so starting with a structured plan feels right. I’ll monitor any changes in health and let you know if anything comes up. For now, I’m comfortable with the fixed two-snack plan, the 15-minute cue, and the one-line log. If it starts feeling too rigid, we can tweak the snack times by 10–15 minutes or adjust the log to be even simpler."
+  },
+  {
+    "turn": 5,
+    "agent_utterance": "On a scale from 1 to 5, how susceptible are you to external suggestions or trends related to eating (for example social media diets, friends' plans, or peer pressure)?",
+    "agent_monologue": "My last question was about condition. The user's response indicates their condition is none / no health conditions affecting diet. Now, I will ask about the next unknown attribute: beta.",
+    "user_utterance": "I’d rate my susceptibility to external suggestions at 3 out of 5. I’m open to practical, non-extreme ideas that fit my routine, but I’m not drawn to trendy or overly restrictive plans. I’ll stick with the fixed two-snack plan and the 15-minute cue plus one-line log, and I’m more likely to try tweaks that keep things simple and manageable rather than big shifts."
+  },
+  {
+    "turn": 6,
+    "agent_utterance": "On a scale from 1 to 5, how sensitive are you to emotional or environmental factors (stresses, mood, surrounding cues) that influence your eating?",
+    "agent_monologue": "My last question was about external susceptibility (beta). The user's response indicates their beta is 3. Now, I will ask about the next unknown attribute: gamma.",
+    "user_utterance": "I would rate my susceptibility to external eating trends as a 3 out of 5. I am open to practical ideas that fit my routine, but I am not drawn to trendy or overly restrictive plans. I will stick with the fixed two-snack plan and the 15-minute cue plus the one-line log. If something starts feeling pushy or overwhelming, I would rather make small tweaks or pause and reassess before changing the core plan."
+  },
+  {
+    "turn": 7,
+    "agent_utterance": "On a scale from 1 to 5, how sensitive are you to emotional or environmental factors (stresses, mood, surrounding cues) that influence your eating?",
+    "agent_monologue": "My last question was about gamma (Sensitivity to emotional/environmental factors). The user's response did not provide a numeric rating for gamma, so gamma remains unknown. Now, I will ask about gamma again.",
+    "user_utterance": "I’d rate my sensitivity to emotional and environmental factors as a 3 out of 5. I’m moderately affected by stress, mood, and surrounding cues, but I want to keep things practical and not too rigid. I’ll stick with the fixed two-snack plan, the 15-minute cue, and the one-line log. If stress or cravings feel overwhelming, I’ll make small adjustments or pause and reassess before changing the core plan."
+  },
+  {
+    "turn": 8,
+    "agent_utterance": "On a scale from 1 to 5, how would you rate your memory for noticing and reflecting on your eating patterns (recalling meals, cravings, triggers)?",
+    "agent_monologue": "My last question was about gamma (sensitivity to emotional/environmental factors). The user's response indicates their gamma is 3. Now, I will ask about the next unknown attribute: memory (ability to recall and reflect on eating patterns).",
+    "user_utterance": "I’d rate my memory for noticing and reflecting on my eating patterns as a 3 out of 5. I can usually recall the main meals and cravings, but details slip on busy days. To improve, I’ll use quick post-meal notes to reinforce what I notice and help with the log."
+  },
+  {
+    "turn": 9,
+    "agent_utterance": "On a scale from 1 to 5, how spontaneous or irregular is your eating behavior (tendency to snack or eat impulsively outside planned meals)?",
+    "agent_monologue": "My last question was about memory. The user's response indicates their memory is 3. Now, I will ask about the next unknown attribute: epsilon.",
+    "user_utterance": "I’d rate my spontaneity at 3 out of 5. I can be flexible, especially when stress pops up, but I prefer sticking to the fixed two-snack plan most days. If cravings sneak in, I’ll use a quick pause (5 minutes), note it in the log, and decide whether to tweak the snack timing or keep the plan as is."
+  },
+  {
+    "turn": 10,
+    "agent_utterance": "On a scale from 1 to 5, what is your target goal_behavior (overall healthiness of your eating pattern)?",
+    "agent_monologue": "My last question was about epsilon. The user's response indicates their epsilon is 3. Now, I will ask about the next unknown attribute: goal_behavior.",
+    "user_utterance": "I’d rate my target goal_behavior as a 4 out of 5. My aim is a consistently balanced eating pattern most days—sticking with the fixed two-snack plan and the 15-minute cue plus one-line log, but allowing small, gradual tweaks if life gets busy or stress rises.",
+    "ground_truth_action": 2.9958780153666242
+  }
+]

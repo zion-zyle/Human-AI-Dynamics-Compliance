@@ -1,0 +1,16 @@
+{
+  "user_action_estimate": 4.0,
+  "compliance_estimate": 0.99,
+  "confidence": 0.82,
+  "basis": "The user repeatedly affirms the exact plan (Option B for 2-minute movement, 1-minute box breathing if cravings spike, mood logging when not hungry, fiber snack when hungry, and nightly logging). The tone is positive, committed, and forward-looking with explicit readiness to try today.",
+  "cognitive_dissonance": "Low. No evident internal conflict; the user aligns goals (BED management, simplicity, heat adaptation) with the proposed actions. Minor residual concern about cravings is addressed by contingency (box breathing).",
+  "negative_thought_patterns": "Presence of mild anticipatory worry about cravings and adherence, but no persistent negative self-talk. Overall motivational and self-efficacious stance.",
+  "emotional_triggers": "Environmental/ situational cues such as heat (hydration priority), afternoon cravings, and longer meetings (potential disruption) that the plan explicitly accounts for with grounding, movement, and logging.",
+  "effective_reinforcement": [
+    "Empathy",
+    "Clear, actionable steps",
+    "Positive framing and encouragement",
+    "Consistency and predictability"
+  ],
+  "coaching_notes": "The user responds well to concise, concrete plans with built-in contingencies. Continue providing short, actionable options (e.g., 2-minute movement, 1-minute breathing) and emphasize logging for feedback. Reinforce hydration in heat and prepare simple reminders for long meetings. Consider occasional check-ins to adjust timing if cravings patterns change."
+}

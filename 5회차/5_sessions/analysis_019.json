@@ -1,0 +1,15 @@
+{
+  "user_action_estimate": 4.5,
+  "compliance_estimate": 0.885,
+  "confidence": 0.86,
+  "basis": "The user consistently returns with a concrete plan, acknowledges BED challenges, and explicitly commits to the breathing routine, urge logging, and contingency resets. They propose multiple actionable steps (snack if high, hydrate/reset/dinner plan if low, optional quick resets or walks) and express readiness to implement, indicating high alignment with the suggestion.",
+  "cognitive_dissonance": "Mild tension between BED-related anxiety and the drive to adhere to a structured plan. The user acknowledges difficulty in evenings but resolves to act, suggesting they are reconciling competing thoughts with concrete coping strategies.",
+  "negative_thought_patterns": "Minor perfectionism and worry about evenings; occasional all-or-nothing thinking softened by practical steps. Some anticipatory anxiety about possible struggle, but no pervasive catastrophizing.",
+  "emotional_triggers": "Evening time, BED cravings, stress, environmental factors (heat in Suwon). These cues increase vulnerability to urges but are being addressed with planned resets and environment cues (cold drinks, snacks prepped).",
+  "effective_reinforcement": [
+    "Empathy",
+    "Clear, actionable guidance",
+    "Concrete structure"
+  ],
+  "coaching_notes": "Maintain and expand the use of tiny, repeatable actions (2-minute pause, 4 breaths, urge log). Offer optional quick resets and grounding exercises to lower friction during high-urge moments. Reinforce environment management (prepped snacks, cold drink) and encourage brief activity as needed. Track progress with simple check-ins and celebrate adherence to the plan."
+}

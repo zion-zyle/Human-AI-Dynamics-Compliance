@@ -1,0 +1,16 @@
+{
+  "user_action_estimate": 4.8,
+  "compliance_estimate": 0.86,
+  "confidence": 0.78,
+  "basis": "The user explicitly requests to enable prompts today and start mood/hunger prompts now, signaling immediate action. Prior messages consistently show readiness to implement the plan and maintain BED-friendly structure.",
+  "cognitive_dissonance": "Low. The user acknowledges evening binge risk but emphasizes gentle cues and resets, indicating alignment between goals and the chosen strategy with minimal internal conflict.",
+  "negative_thought_patterns": "Possible occasional all-or-nothing thinking around missing a window (e.g., guilt or rule-breaking), though the user explicitly rejects guilt and prefers resets. Mild worry about evening triggers may surface as a recurring theme.",
+  "emotional_triggers": "Evening cravings/binge risk, stress or boredom, heat-related discomfort in Suwon.",
+  "effective_reinforcement": [
+    "Clear, actionable prompts",
+    "Gentle resets without guilt",
+    "Consistency and predictable routine",
+    "Immediate start today"
+  ],
+  "coaching_notes": "Maintain succinct, predictable prompts; add evening-specific tips and a nightly reflection prompt to improve trigger identification. Emphasize quick non-food coping strategies and monitor for signs of fatigue or slipping. Consider adjusting snack timing/options after a week if needed."
+}

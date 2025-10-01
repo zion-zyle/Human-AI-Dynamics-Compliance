@@ -1,0 +1,23 @@
+{
+  "user_action_estimate": 4.5,
+  "compliance_estimate": 0.89,
+  "confidence": 0.85,
+  "basis": "The user clearly commits to tonight's plan with specific actions and a commitment to log outcomes, phrased as 'I’ll go with...', 'I’ll log...', and 'I’ll update you tonight'.",
+  "cognitive_dissonance": "Moderate tension: acknowledges BED-related cravings as challenging but resolves to follow a structured, simple plan, indicating motivation with some residual worry about cravings.",
+  "negative_thought_patterns": [
+    "BED cravings are too strong to manage without trouble.",
+    "If I slip, I’ve failed.",
+    "Cravings will derail my plan."
+  ],
+  "emotional_triggers": [
+    "Heat or the need to stay cool prompting chilling of foods.",
+    "Cravings spike or intensify after a period of grazing temptation.",
+    "Stress or fatigue that makes sticking to a plan harder."
+  ],
+  "effective_reinforcement": [
+    "Empathy and validation",
+    "Clear, actionable steps",
+    "Encouragement to log and review progress"
+  ],
+  "coaching_notes": "Keep providing concrete, bite-size actions and simple routines. Reinforce the habit of logging and reviewing feelings after the 15–20 minute window. Offer flexible fallbacks (e.g., small fiber boosts or dairy-free options) and reiterate hydration and cooling strategies to counter heat and cravings."
+}

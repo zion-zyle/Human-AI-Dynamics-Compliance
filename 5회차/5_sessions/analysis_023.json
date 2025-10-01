@@ -1,0 +1,14 @@
+{
+  "user_action_estimate": 4.8,
+  "compliance_estimate": 0.9625,
+  "confidence": 0.82,
+  "basis": "The user explicitly commits to starting the 2-minute desk march now, maintaining a water bottle, following the hydration cadence, and using a box-breathing plan with a snack if cravings arise. They also indicate willingness to log mood and adjust reminders, showing strong alignment with the suggested plan.",
+  "cognitive_dissonance": "Low. The user’s language shows high alignment between intentions and the proposed strategy, with only a mild openness to adjustments if needed.",
+  "negative_thought_patterns": "Minimal. No persistent negative self-talk is evident; plan-oriented language dominates. Occasional flexibility suggests adaptive thinking rather than avoidance.",
+  "emotional_triggers": "Motivation to avoid hunger and dehydration in hot conditions; desire for structure and accountability; readiness to adapt if surprises occur.",
+  "effective_reinforcement": [
+    "Clear, concrete plan",
+    "Encouragement"
+  ],
+  "coaching_notes": "Keep delivering concise, actionable plans and acknowledge commitment. Reinforce mood logging as a quick feedback loop and validate flexibility to tweak cues or snacks if needed. Consider occasional check-ins to sustain momentum."
+}
