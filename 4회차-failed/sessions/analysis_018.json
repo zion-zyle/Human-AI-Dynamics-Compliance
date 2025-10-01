@@ -1,0 +1,15 @@
+{
+  "user_action_estimate": 4.5,
+  "compliance_estimate": 0.66,
+  "confidence": 0.68,
+  "basis": "User shows strong, explicit commitment to a low-friction template, log within ~30 minutes, skip trigger when unclear, keep no-trigger version, use redo after misses, and plan midweek check-ins. The tone is consistently proactive and compassionate, indicating high likelihood of following the plan this week.",
+  "cognitive_dissonance": "Low. The user foregrounds self-compassion and frames logging as data to guide adjustments, not as judgment. Any tension between perfectionism and simplicity is acknowledged and mitigated by the compassionate framing.",
+  "negative_thought_patterns": "Potential brief lean toward all-or-nothing thinking around adherence, but mitigated by preference for simple templates and self-compassion. No persistent negative self-talk evident in the exchange.",
+  "emotional_triggers": "BED-related cravings, late-afternoon/evening vulnerability, stress, and heat/physical discomfort (context of Suwon). These cues are anticipated in the plan and addressed with quick coping strategies.",
+  "effective_reinforcement": [
+    "Empathy",
+    "Concrete, actionable templates",
+    "Encouragement of quick check-ins and tracking"
+  ],
+  "coaching_notes": "Continue emphasizing simplicity and compassionate language. Reinforce the value of short, repeatable logging actions and visible templates. Offer brief midweek check-ins to adjust strategy if needed and celebrate small wins after meals or successful log completions."
+}

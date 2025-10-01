@@ -1,0 +1,16 @@
+{
+  "user_action_estimate": 4.5,
+  "compliance_estimate": 0.785,
+  "confidence": 0.82,
+  "basis": "User explicitly commits to start today with specific steps and log components; positive, concrete language indicates a high likelihood of immediate action and adherence to the plan.",
+  "cognitive_dissonance": "Low. The user aligns intentions with the proposed plan and maintains a forgiving stance toward slips, reducing internal conflict.",
+  "negative_thought_patterns": "Potential for mild perfectionism or all-or-nothing thinking if overwhelmed, but current framing emphasizes data from slips and flexible contexts to mitigate this.",
+  "emotional_triggers": "Environmental heat, busy mornings, work/crowd contexts, and social distractions that can prompt cravings or rushed logging.",
+  "effective_reinforcement": [
+    "Clear, actionable steps",
+    "Compassionate framing toward slips",
+    "Simple, copy-paste templates",
+    "Optional Context field to reduce logging burden on busy days"
+  ],
+  "coaching_notes": "Keep leveraging practical, minimal steps and easy templates. Reinforce that slips are learning data. Consider adding lightweight daily reminders and a brief mood prompt to support consistency. When contexts shift (e.g., work, crowd), keep the Context field optional to reduce friction without sacrificing insight."
+}

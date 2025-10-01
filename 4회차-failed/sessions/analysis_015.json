@@ -1,0 +1,14 @@
+{
+  "user_action_estimate": 4.5,
+  "compliance_estimate": 0.89,
+  "confidence": 0.85,
+  "basis": "User expresses clear, proactive commitment to the plan (start with B, switch to A if rushed), agrees to reminders, and highlights specific logs and triggers. This indicates high likelihood of carrying out the suggested actions.",
+  "cognitive_dissonance": "Low. The user conveys alignment with the plan and acknowledges BED challenges, showing readiness to implement without significant internal conflict.",
+  "negative_thought_patterns": "Mild all-or-nothing thinking about following the plan; concern about keeping reminders aligned with shifting mornings. Occasional worry about binge urges, but framed as manageable with strategies.",
+  "emotional_triggers": "Stress, sleep disruption, caffeine intake, heat (hydration context), and BED-related urges.",
+  "effective_reinforcement": [
+    "Empathy",
+    "Clear, actionable guidance"
+  ],
+  "coaching_notes": "Maintain concise, step-by-step prompts and flexible reminders. Reinforce hydration, breathing, and logging as core habits. Offer quick adjustments (e.g., later check-ins) when mornings shift, and continue validating progress to sustain motivation."
+}

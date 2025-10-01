@@ -1,0 +1,14 @@
+{
+  "user_action_estimate": 4.5,
+  "compliance_estimate": 0.91,
+  "confidence": 0.85,
+  "basis": "The user repeatedly states concrete, actionable steps and explicitly commits to reporting back, e.g., starting with 500 ml water, a 100–180 kcal snack if ravenous, using 4-4-4 breathing or a 5-minute walk, doing the urge-check, and logging intake. Phrases like 'I’ll report back later' and 'this plan feels doable' indicate a high likelihood of following through.",
+  "cognitive_dissonance": "Low. The user aligns BED-grounding strategies with the plan and acknowledges external factors (heat, busy days) without expressing conflict or self-criticism.",
+  "negative_thought_patterns": "Minimal. No explicit negative self-talk; mild concern about external factors (heat/busy days) potentially derailing adherence.",
+  "emotional_triggers": "Heat, busy days, and binge urges tied to BED; desire for grounding and structure to reduce distress and cravings.",
+  "effective_reinforcement": [
+    "Empathy",
+    "Praise"
+  ],
+  "coaching_notes": "Continue with clear, actionable steps and frequent, concrete check-ins. Reinforce grounding strategies and urge-check logging. Offer small adjustments for weather or schedule changes and celebrate progress to maintain motivation."
+}

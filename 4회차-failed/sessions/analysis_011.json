@@ -1,0 +1,15 @@
+{
+  "user_action_estimate": 4.7,
+  "compliance_estimate": 0.72,
+  "confidence": 0.78,
+  "basis": "The user explicitly commits to a structured protocol (mood-based steps, 10-minute pause when mood 3–5, hydration reminders, 30-minute check-in, logging) and indicates they will test tonight and report back. This reflects strong intention to implement the plan with minor acknowledged nervousness about the pause.",
+  "cognitive_dissonance": "Moderate. The user expresses nervousness about the 10-minute pause but also recognizes its utility, balancing a desire to slow down with a need to act.",
+  "negative_thought_patterns": "Some worry or doubt about the pause's feasibility; potential perfectionism or all-or-nothing thinking (may fear missing steps or failing).",
+  "emotional_triggers": "BED-related cravings, stress, concern about ability to follow through, need for structure and clarity during craving episodes.",
+  "effective_reinforcement": [
+    "Clear, actionable steps",
+    "Explicit plan for mood-based customization",
+    "Encouragement of reporting back and tweaking"
+  ],
+  "coaching_notes": "Maintain the clarity of steps and provide optional adaptations (e.g., adjust pause trigger by mood; offer quick alternative strategies if the pause feels too daunting). Reinforce progress after the tonight test and solicit feedback on thresholds, timing, and hydration reminders. Encourage journaling of both successes and what felt challenging to calibrate future sessions."
+}

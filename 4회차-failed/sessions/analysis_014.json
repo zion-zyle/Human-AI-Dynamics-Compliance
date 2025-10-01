@@ -1,0 +1,15 @@
+{
+  "user_action_estimate": 4.7,
+  "compliance_estimate": 0.923,
+  "confidence": 0.78,
+  "basis": "The user explicitly commits to a 7-day trial, outlines multiple concrete strategies (1–2 minute pre-meal breathing, mood/hunger snapshot fallback, evening coping repertoire, Day 4 check-in), and expresses willingness to adjust reminders/windows. They also show proactive planning for busy mornings and disruptions.",
+  "cognitive_dissonance": "Low. The user aligns intentions with actions and anticipates contingencies (log fallback, Day 4 tweaks), reducing inner conflict. Minor tension may exist around occasional missed logs, but they acknowledge it as data, not failure.",
+  "negative_thought_patterns": "Occasional all-or-nothing thinking about adherence and perfection in logging; potential worry about disruptions derailing the plan; some fear of missing a log or mis-timing reminders.",
+  "emotional_triggers": "Evenings craving spikes, rushed mornings, heat/pace of daily life, desire for structure and reliable reminders.",
+  "effective_reinforcement": [
+    "Empathy",
+    "Clear, actionable plan",
+    "Progress-focused validation"
+  ],
+  "coaching_notes": "Maintain concrete, bite-sized steps and flexible troubleshooting. Reinforce the Day 4 check-in as a milestone. Offer quick breakfast tweaks for ultra-busy mornings and remind them that mood/hunger snapshots are a valid fallback. Consider adding a simple late-afternoon reminder option to preempt cravings if disruptions rise."
+}

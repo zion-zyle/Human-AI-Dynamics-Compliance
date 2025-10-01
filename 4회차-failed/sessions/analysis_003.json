@@ -1,0 +1,14 @@
+{
+  "user_action_estimate": 4.8,
+  "compliance_estimate": 0.99,
+  "confidence": 0.82,
+  "basis": "The user explicitly commits to starting immediately with a concrete plan and contingencies, indicating a high likelihood of following through.",
+  "cognitive_dissonance": "Low; actions align with stated intentions and there is a general acceptance of urges without judgment. Minor tension around cravings is acknowledged but mitigated by concrete strategies.",
+  "negative_thought_patterns": "Occasional all-or-nothing framing (e.g., 'if cravings stay, ...'), but largely balanced; tendency to rely on structured logs and plans may reduce rumination.",
+  "emotional_triggers": "Heat/temperature (37°C range implied earlier), time windows with BED cravings, mood fluctuations, hunger cues, craving spikes.",
+  "effective_reinforcement": [
+    "Empathy",
+    "Praise"
+  ],
+  "coaching_notes": "User responds well to clear, actionable steps and urge logging. Maintain concise, concrete plans, encourage early-window strategies ( grounding, short walks ), and continue reinforcing non-judgmental stance. Consider reinforcing fast-check-ins and sharing patterns to tailor interventions."
+}

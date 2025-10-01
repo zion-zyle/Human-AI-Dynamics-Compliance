@@ -1,0 +1,15 @@
+{
+  "user_action_estimate": 4.5,
+  "compliance_estimate": 0.48,
+  "confidence": 0.82,
+  "basis": "The user explicitly commits to 2 minutes box-breathing and 2 minutes urge observation, with logging and a plan to incorporate a small protein snack and hydration. They acknowledge potential limits (not extending the pause) but maintain a proactive, hopeful stance and a concrete action plan.",
+  "cognitive_dissonance": "Tension between wanting a longer pause for stronger urge management and preferring ultra-light steps for safety and consistency. The user resolves this by treating the 2-minute pause as a win and deferring extension until they feel stable.",
+  "negative_thought_patterns": "All-or-nothing thinking about pause length; concern about not following through if urges spike; fear that longer pauses imply failure.",
+  "emotional_triggers": "Louder external cues, heat causing thirst and discomfort, craving/urge intensities, worry about bingeing, hopefulness about plan.",
+  "effective_reinforcement": [
+    "Empathy",
+    "Praise",
+    "Clear, concrete steps"
+  ],
+  "coaching_notes": "Maintain ultra-light, actionable guidance; validate progress and logging; gradually introduce micro-extensions to the pause as stability improves; reinforce the protein snack for satiety and hydration reminders; encourage consistent logging and small, doable actions."
+}

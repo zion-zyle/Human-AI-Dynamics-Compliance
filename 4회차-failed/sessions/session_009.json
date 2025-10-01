@@ -1,0 +1,65 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "오늘 아침은 32°C의 더위로 욕구 조절이 다소 어려울 수 있어요. 부담 없이 실행할 수 있는 간단한 3단계 제안입니다: 1) 일어나자마자 물 500 ml 마시기, 2) 단백질이 풍부한 요거트와 과일로 아침 식사하기(가능하면 그릭 요거트), 3) 갈망이 일어나면 5–7분의 마음 다스림 리셋(깊이 숨 들이마시고 천천히 내쉬기, 4-7-8 또는 5-4-3-2-1으로 인지하기). 외출 시에는 소분 포장 간식(작은 요거트 컵이나 아몬드 한 움큼)을 준비해 두고, 오늘의 기분/갈망 강도를 1–10으로 간단히 기록해 보세요. 필요하면 따라하기 쉬운 템플릿으로 텍스트를 제공합니다.",
+    "agent_monologue": "고객의 현재 맥락(더위, 아침 시간, BED 관리)을 고려해, 부담을 최소화하는 간단하고 구체적인 시작 방법을 제시합니다. 더위는 수분 손실과 기분 변화를 유발해 욕구를 촉진할 수 있어 물 섭취와 단백질 위주 아침이 도움이 됩니다.",
+    "user_utterance": "Thanks for the clear plan. It feels doable today. I’ll start with a big glass of water and a protein-rich breakfast—if mornings are tight, Greek yogurt with fruit works too. I’ll use the 5-4-3-2-1 reset when cravings spike and keep a small snack packed (yogurt cup or almonds). I’ll rate cravings 1–10 and log triggers, and if I slip I’ll treat it as data and adjust, not give up."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "Nice work planning today. Here's a quick, doable plan you can follow now:\n- Start with 500 ml cold water.\n- Breakfast: Greek yogurt with fruit (about 1 cup yogurt, 1/2 cup berries) or your preferred protein yogurt.\n- Craving buffer: keep a small yogurt cup or a handful of almonds ready to go.\n- Use 5-4-3-2-1 grounding if cravings spike: name 5 things you see, 4 you can touch, 3 you can hear, 2 you can smell, 1 you can taste.\n- Log cravings: rate 1–10 and jot one trigger.\n- If you slip, treat it as data and adjust tomorrow.\n- Heat tips: sip water with ice, stay shaded; if mornings are tight, rely on yogurt with fruit and a quick snack instead of a full meal.\nWant me to generate a simple log template you can copy each day?",
+    "agent_monologue": "I can't share my internal chain-of-thought, but here's a brief rationale: in hot weather with a tight morning, a simple high-protein start and an easy craving-management plan reduces decision fatigue and supports BED management. The user has committed to water, a protein breakfast, a 5-4-3-2-1 reset for cravings, a packed snack, and craving logging. I will propose a concise, actionable set of steps aligned with that plan and add quick heat-adaptation tips.",
+    "user_utterance": "Yes please—that would be really helpful. A plain, copy-paste daily log with fields like Date, Cravings (1–10), Trigger, Action Taken (including 5-4-3-2-1 if I used it), Mood, Sleep, and a quick note on what helped or derailed would be perfect."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "",
+    "agent_monologue": "",
+    "user_utterance": "Yes—that sounds exactly right. A plain, copy-paste daily log with Date, Cravings (1–10), Trigger, Action Taken (including 5-4-3-2-1 if I used it), Mood, Sleep, and a quick note on what helped or derailed would be perfect. If possible, add a small Context field (where I was, what I was doing) and an example filled out for today so I can copy it straight in. A weekly summary later on would also be great."
+  },
+  {
+    "turn": 4,
+    "agent_utterance": "",
+    "agent_monologue": "",
+    "user_utterance": "That plan is perfect for me. A plain, copy-paste daily log with Date, Cravings (1–10), Trigger, Action Taken (including 5-4-3-2-1 if I used it), Mood, Sleep, and a quick note on what helped or derailed will be easy to use. I especially want the Context field for where I was and what I was doing. Could you include an example filled out for today so I can copy it straight in? A weekly summary option later on would be great, too. If possible, keep the format as simple, copy-paste-friendly plain text (one log per day)."
+  },
+  {
+    "turn": 5,
+    "agent_utterance": "",
+    "agent_monologue": "",
+    "user_utterance": "That plan sounds doable and supportive. I like a plain, copy-paste daily log with Date, Cravings (1–10), Trigger, Action Taken (including 5-4-3-2-1 if used), Mood, Sleep, Context, and a quick note on what helped or derailed. The Context field is important to me. Could you include an example filled out for today so I can copy it straight in? A weekly summary option later on would be great too. I’ll start today and treat slips as data to inform tomorrow, not as failure."
+  },
+  {
+    "turn": 6,
+    "agent_utterance": "",
+    "agent_monologue": "",
+    "user_utterance": "That plan feels doable and supportive. I especially want the Context field. Please generate a copy-paste-ready plain-text log template including Date, Cravings (1–10), Trigger, Action Taken (including 5-4-3-2-1 if used), Mood, Sleep, Context, and a quick note on what helped or derailed. Could you include an example filled out for today so I can copy it straight in? I’d also love a weekly summary option later on. I’ll start today and treat slips as data to inform tomorrow, not as failure."
+  },
+  {
+    "turn": 7,
+    "agent_utterance": "",
+    "agent_monologue": "",
+    "user_utterance": "That plan sounds doable and supportive. I especially value the simple, predictable steps for BED. I’ll start today with 500 ml water and a protein breakfast—Greek yogurt if mornings are tight. I’ll have a small craving buffer on hand. I’ll use 5-4-3-2-1 when cravings spike, and I’ll log Date, Cravings (1–10), Trigger, Action Taken (noting if I used 5-4-3-2-1), Mood, Sleep, Context, and a quick note on what helped or derailed. I’ll treat slips as data to inform tomorrow rather than a failure. A weekly summary later would be helpful. If mornings are tight, yogurt with fruit and a quick snack will be my fallback. I’m starting today, and I’ll keep the log copy-paste friendly."
+  },
+  {
+    "turn": 8,
+    "agent_utterance": "Today’s quick, copy-paste-ready plan (aligned with a moderate effort target):\n- 500 ml water on waking.\n- Breakfast: Greek yogurt with fruit if possible; if mornings are tight, have yogurt with fruit or a protein yogurt.\n- Craving buffer: keep a small yogurt cup or a handful of almonds on hand.\n- If cravings spike, use 5-4-3-2-1 grounding: name 5 things you see, 4 you can touch, 3 you can hear, 2 you can smell, 1 you can taste.\n- Log the following: Date; Cravings (1–10); Trigger; Action Taken (note if 5-4-3-2-1 was used); Mood; Sleep; Context; What helped or derailed.\n- Treat slips as data for tomorrow, not as a failure.\n- Hydration tip: sip water with ice; stay in shade; if mornings are tight, rely on yogurt and a quick snack instead of a full meal.",
+    "agent_monologue": "I can’t share my internal chain-of-thought, but here’s a concise rationale: hot weather and BED management favor a simple, hydration-forward plan with a protein-first breakfast, a ready craving buffer, and a quick grounding technique to handle spikes. The suggested action aligns with a moderate effort target and supports consistent logging to inform tomorrow.",
+    "user_utterance": "Appreciate the clarity and the Context field—super helpful for BED. The 5-4-3-2-1 grounding and daily log feel doable, and treating slips as data aligns with a compassionate approach. A couple of quick favors: can we add an ultra-fast fallback for busy mornings (like a small yogurt cup with fruit) and perhaps a one-minute breathing check to start the day? Also, a lightweight, copy-paste one-line log would help me stay consistent when I'm rushed. A weekly summary sounds great—I’d love that to track trends. I’ll start today, log cravings, triggers, mood, sleep, context, and what helped or derailed, and I’ll note recovery steps after any slip."
+  },
+  {
+    "turn": 9,
+    "agent_utterance": "Ultra-fast fallback for busy mornings:\n- Small yogurt cup with pre-cut fruit\n- Ready-to-drink protein shake\n- Cheese stick + fruit\n- Handful of almonds + fruit\n\nOne-minute breathing check to start the day (1 minute):\n- Box breathing: Inhale 4 seconds, hold 4 seconds, exhale 4 seconds, hold 4 seconds. Repeat for 4 rounds (about 60 seconds).\n- Afterward, note your initial mood (e.g., calm, tense) to inform the day.\n\nCopy-paste one-line daily log template (use any line):\nDate: YYYY-MM-DD; Cravings (1–10): ; Trigger: ; Action Taken (include 5-4-3-2-1 if used): ; Mood: ; Sleep: ; Context: ; What helped or derailed: \n\nExample for today (copy-paste as-is):\nDate: 2025-09-30; Cravings (1–10): 4; Trigger: Heat + busy morning; Action Taken: 5-4-3-2-1 used; yogurt fallback; Mood: Calm; Sleep: 7h; Context: Kitchen, getting ready for work; What helped or derailed: Yogurt fallback reduced urge; no derailment.\n\nWeekly summary (optional; copy-paste ready):\nDate range: 2025-09-29 to 2025-10-05\nAvg Cravings (1–10): X.XX\nTop Triggers: [list]\nMood/Sleep trend: [brief note]\nMost helpful strategies: [brief note]\nDerailments: [brief note]\nNext-week plan: [brief note]\n\nIf mornings are tight, rely on the ultra-fast fallback and start with the 1-minute breathing check to set a calmer tone for the day.",
+    "agent_monologue": "I can’t share my internal chain-of-thought, but here’s a concise rationale: to support BED management in busy mornings and hot weather, provide ultra-fast fallback options, a quick breathing routine to start the day, and a simple, copy-paste log to maintain consistency. A weekly summary will help track trends and adjust plans over time.",
+    "user_utterance": "This is really helpful and feels doable for BED. I appreciate the ultra-fast fallbacks—having a small yogurt cup with fruit or a ready-to-drink shake on busy mornings should help me avoid impulsive grabs. The 1-minute box breathing check is a great reset, and I like that it ends with a quick mood note. The copy-paste one-line log is perfect for rushed days, and the weekly summary will be useful for spotting trends over time. A couple of tweaks I might find useful: on days when I’m extra rushed or very wound up, could we keep the breathing to 1–2 rounds and use the fallback as a minimal log line? Also, after a slip, I’d like a simple optional “recovery steps” line to document what I did to regain balance. And for contexts like work or a crowd, having Context optional would help me keep it brief. I’ll start today and treat slips as data to inform tomorrow. Thanks for making this practical and compassionate."
+  },
+  {
+    "turn": 10,
+    "agent_utterance": "Updated plan and tools for today:\n- Ultra-fast fallbacks for busy mornings: small yogurt cup with fruit, ready-to-drink protein shake, cheese stick + fruit, or a handful of almonds + fruit.\n- 1–2 rounds breathing reset if you’re pressed for time: box breathing (4-4-4-4). After breathing, note your initial mood briefly.\n- Copy-paste one-line daily log template (use any line):\n  Date: YYYY-MM-DD; Cravings (1–10): ; Trigger: ; Action Taken (include 5-4-3-2-1 if used): 1-2 breathing rounds; Mood: ; Sleep: ; Context: (optional); What helped or derailed: ; Recovery steps (optional):\n- Context field is optional for very busy days.\n- Weekly summary option remains available later for trend tracking.\n- If a slip occurs, add a Recovery steps (optional) line to document how you regained balance.\n\nExample today (copy-paste as-is):\nDate: 2025-09-30; Cravings (1–10): 4; Trigger: Heat + busy morning; Action Taken: 1-2 breathing rounds; Mood: Calm; Sleep: 7h; Context: Kitchen, getting ready for work; What helped or derailed: Yogurt fallback reduced urge; Recovery steps: None",
+    "agent_monologue": "I can’t share my internal chain-of-thought, but here’s a concise rationale: on hot, busy days for BED, keep actions ultra-simple, include a brief breathing reset, and maintain a one-line log with an optional recovery steps line for slips. Context can be omitted when it’s easier.",
+    "user_utterance": "That plan feels doable and compassionate. I appreciate the ultra-fast fallbacks and the option to use 1–2 breathing rounds on busy mornings, plus the quick mood note at the end. The copy-paste one-line log is perfect for rushed days, and the weekly summary will help me spot trends over time. I’ll start today with 500 ml water and the protein fallback, use 1–2 breathing rounds when needed, and log cravings, triggers, mood, sleep, Context (optional on busy days), What helped or derailed, and Recovery steps after slips. I’ll keep Context optional for work or crowds. If possible, a gentle daily reminder to fill in the log would help me stay consistent. Thanks for making this practical and compassionate.",
+    "ground_truth_action": 3.387291670582063,
+    "inferred_action": 4.5,
+    "compliance_estimate": 0.785
+  }
+]

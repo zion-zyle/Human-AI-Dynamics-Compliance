@@ -1,0 +1,15 @@
+{
+  "user_action_estimate": 4.5,
+  "compliance_estimate": 0.77,
+  "confidence": 0.85,
+  "basis": "The user explicitly commits to trying today, mentions specific behaviors (2-minute pre-eating pause, flexible hydration, one-tap log, mid-morning reminder, post-dinner check-in), and asks for a log-later/voice-note option, indicating high likelihood of action aligned with the plan.",
+  "cognitive_dissonance": "Tension between wanting a structured protocol and the need for practicality in social settings; concern about logging while out with friends.",
+  "negative_thought_patterns": "Occasional perfectionism (feeling pressure to log within 30 minutes); social-eating anxiety; potential self-criticism if a plan isn’t followed exactly.",
+  "emotional_triggers": "Social occasions, heat, cravings, interruptions, fatigue during the day.",
+  "effective_reinforcement": [
+    "Empathy",
+    "Praise",
+    "Practical tips"
+  ],
+  "coaching_notes": "Keep plans flexible and actionable; offer log-later or voice-note options; validate progress, not perfection; provide quick adjustments for real-life scenarios and encourage self-compassion."
+}

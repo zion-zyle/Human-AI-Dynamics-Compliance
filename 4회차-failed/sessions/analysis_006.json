@@ -1,0 +1,14 @@
+{
+  "user_action_estimate": 4.5,
+  "compliance_estimate": 0.91,
+  "confidence": 0.82,
+  "basis": "The user repeatedly affirms specific actions (logging meals, following a reset, posting progress, and adjusting timing) with concrete language and plans, indicating a high likelihood of executing the suggested steps.",
+  "cognitive_dissonance": "Nervous about BED sticking clashes with hopeful commitment; some internal tension between wanting strict adherence and accommodating heat-related tweaks.",
+  "negative_thought_patterns": "Anxious thoughts about relapse; fear of not sticking with the plan; potential perfectionistic worry about failure or slipping.",
+  "emotional_triggers": "Heat-related discomfort, fear of BED recurrence, need for accountability and reassurance, desire for simple, actionable steps.",
+  "effective_reinforcement": [
+    "Empathy",
+    "Clear, actionable steps"
+  ],
+  "coaching_notes": "Continue offering concise, doable actions; validate nerves while emphasizing progress. Maintain flexibility for short-term adjustments (wind-down duration, snack timing) and keep up the habit of logging progress. Consider periodic check-ins and positive reinforcement to sustain motivation."
+}

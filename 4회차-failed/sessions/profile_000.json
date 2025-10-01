@@ -1,0 +1,63 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Do you have any known health conditions (such as diabetes, hypertension, thyroid issues, allergies, or digestive problems) that influence your eating or dietary choices?",
+    "agent_monologue": "Initiating the first session. I will begin by asking about any known health conditions that influence your diet (condition).",
+    "user_utterance": "Hi, thanks for checking in. I have BED, so I appreciate small, practical steps. Since there aren’t new recommendations yet, could we start with a simple plan: consistent meals, two planned snacks, and strategies to pause when urges come? I’m moderately compliant and easily influenced by my surroundings, so a routine that fits my day and a nonjudgmental tone would help."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "On a typical day, how regular are your meals and snacks? Do you tend to eat at roughly the same times, or is your eating pattern more variable?",
+    "agent_monologue": "My last question was about condition. The user's response indicates their condition is BED. Now, I will ask about the next unknown attribute: mu.",
+    "user_utterance": "Thanks for the check in. My pattern is moderately regular, but work and social plans can shift things. I typically aim for breakfast around 8, lunch around 1, and dinner around 7. I would like to add two planned snacks at roughly mid morning around 10:30 and mid afternoon around 3:30. I am more consistent when there is a routine, but I tend to get swayed by surroundings and urges, especially when grazing is easy. Here is a simple starter plan I can try this week: three consistent meals at about the same times (breakfast 8, lunch 1, dinner 7); two planned snacks at 10:30 and 15:30 with simple foods (fruit plus yogurt, a small handful of nuts, yogurt cup); a one minute pause when an urge hits: name the urge, take four slow breaths, then drink a glass of water. If still urgent, wait 10 minutes and switch to a quick pleasant task (stretch, a short walk, or a micro chore). Environment tweaks: pre portion snacks, keep trigger foods out of sight, set gentle reminders. If this feels doable, I will try it for a week and we can fine tune the times or options based on what helps most."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "On a scale from 1 to 5 (1 = very poor, 5 = highly healthy), what goal would you like to set for your dietary behavior with this plan?",
+    "agent_monologue": "My last question was about the tendency for spontaneous or irregular eating behaviors (epsilon). Based on your description, epsilon appears moderate. Now, I will ask about the next unknown attribute: goal_behavior.",
+    "user_utterance": "I would set a 3 for this plan. It feels doable with my current routine and the two planned snacks, plus the pause technique and environment tweaks. I will commit to trying it for a week and then reassess: if most days go smoothly, I can aim higher (a 4) next week; if I struggle, I’ll tweak the times or snack options. I will also keep reminders to pause and hydrate. If urges feel overwhelming, I will extend the pause or swap to a quick pleasant task and give myself grace."
+  },
+  {
+    "turn": 4,
+    "agent_utterance": "On a scale from 1 to 5, how sensitive are you to emotional triggers and environmental cues around eating (gamma)?",
+    "agent_monologue": "My last question was about goal_behavior. The user's response indicates their goal_behavior is 3. Now, I will ask about the next unknown attribute: gamma (Sensitivity to emotional/environmental factors).",
+    "user_utterance": "I’d rate my sensitivity to emotional triggers and environmental cues around eating as a 3 out of 5. I’m moderately influenced by my surroundings, so I appreciate the plan with pause, water, and the two snacks. I’ll try the week and adjust as needed based on what helps most."
+  },
+  {
+    "turn": 5,
+    "agent_utterance": "On a scale from 1 to 5, how flexible are you with adopting new habits (alpha)?",
+    "agent_monologue": "My last question was about gamma. The user's response indicates their gamma is 3 out of 5. Now, I will ask about the next unknown attribute: alpha.",
+    "user_utterance": "I’d rate my flexibility with adopting new habits as a 3 out of 5—moderately flexible. I can try the plan for a week and adjust if needed. If I hit snags, I’ll tweak the meal/snack times or options and keep using the pause, water, and reminders. I appreciate the nonjudgmental, practical approach."
+  },
+  {
+    "turn": 6,
+    "agent_utterance": "On a scale from 1 to 5, how well do you recall and reflect on your eating patterns and triggers?",
+    "agent_monologue": "My last question was about alpha. The user's response indicates their alpha is 3 out of 5 (moderately flexible). Now, I will ask about the next unknown attribute: memory.",
+    "user_utterance": "I’d rate my recall/reflection around eating as a 3 out of 5. I can notice patterns when I’m calm, but I miss cues when I’m stressed or distracted. I try to review my day after meals and note triggers like grazing with others or emotional lows. The pause, water, and planned snacks help me observe urges more clearly. If it helps, we can keep reflections brief (one sentence) each day."
+  },
+  {
+    "turn": 7,
+    "agent_utterance": "On a scale from 1 to 5, how much structure or stability do you prefer in your dietary changes (delta)?",
+    "agent_monologue": "My last question was about memory. The user's response indicates their memory is 3 out of 5. Now, I will ask about the next unknown attribute: delta.",
+    "user_utterance": "I’d rate delta as a 3 out of 5 right now. I want enough structure to keep meals and snacks predictable and to keep my pause/reminders, but I also need some flexibility for work and social plans. If I’m struggling, I’m open to increasing to a 4; if things go smoothly, I’ll stick with 3 or even consider dialing back a bit. I’ll reassess after the week."
+  },
+  {
+    "turn": 8,
+    "agent_utterance": "On a scale from 1 to 5, how spontaneous or irregular is your eating (epsilon)?",
+    "agent_monologue": "My last question was about memory. The user's response indicates their memory is 3 out of 5. Now, I will ask about the next unknown attribute: epsilon.",
+    "user_utterance": "I’d rate epsilon as a 3 out of 5. My routine is fairly regular most days, but social events and shifts in work can make it feel a bit more spontaneous; I’ll aim to stay with the plan and use the pause, water, and planned snacks as anchors, adjusting as needed."
+  },
+  {
+    "turn": 9,
+    "agent_utterance": "On a scale from 1 to 5, how regular is your current eating pattern (mu)?",
+    "agent_monologue": "My last question was about epsilon. The user's response indicates their epsilon is 3 out of 5. Now, I will ask about the next unknown attribute: mu.",
+    "user_utterance": "I’d rate mu as a 3 out of 5. I’m generally trying to eat at similar times most days (breakfast around 8, lunch around 1, dinner around 7), but work and social events can shift things a bit. I’ll keep using the three meals, two planned snacks, and the pause/water reminders as anchors, and I’ll keep brief daily reflections to stay aware. If needed, we can tweak the meal or snack times after the week."
+  },
+  {
+    "turn": 10,
+    "agent_utterance": "On a scale from 1 to 5, how sensitive are you to external suggestions or social cues around eating (beta)?",
+    "agent_monologue": "My last question was about mu. The user's response indicates their mu is 3 out of 5. Now, I will ask about the next unknown attribute: beta.",
+    "user_utterance": "I’d rate my sensitivity to external suggestions around eating as a 3 out of 5. I’m moderately influenced by others, but I can stay on track with the pause, water, and planned snacks. If I’m at a social event or the environment changes, I’ll rely on the plan, keep brief reflections, and reach out for support if I need it.",
+    "ground_truth_action": 2.9615462746630543
+  }
+]

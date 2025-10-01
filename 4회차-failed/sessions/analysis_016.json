@@ -1,0 +1,14 @@
+{
+  "user_action_estimate": 4.0,
+  "compliance_estimate": 0.745,
+  "confidence": 0.78,
+  "basis": "User repeatedly affirms a concrete plan (drink water, plan a snack, log hunger/mood) and states they will check back in. Positive, proactive language and explicit commitment suggest a high likelihood of following the suggestion closely.",
+  "cognitive_dissonance": "Low. The user expresses alignment with the plan and acknowledges BED while framing steps as achievable. Minor ambivalence about heat and BED is acknowledged but not acted on against the plan.",
+  "negative_thought_patterns": "Few persistent negative beliefs. Occasional hedging (“I’ll try,” “BED is tough”) but not self-defeating narratives. Overall, optimistic and problem-focused.",
+  "emotional_triggers": "Heat and urges are salient triggers; plan relies on hydration, simple options, and urge management (60-second pause). Stress about BED may arise but is mitigated by structured steps.",
+  "effective_reinforcement": [
+    "Empathy",
+    "Praise"
+  ],
+  "coaching_notes": "Maintain and reinforce the use of tiny, concrete steps (water, snack plan, log). Encourage consistency with quick urges-management tools (60-second pause). Consider prompting a brief check-in after the first hour to reinforce logging and reflection; offer additional simple snack alternatives to reduce decision fatigue."
+}

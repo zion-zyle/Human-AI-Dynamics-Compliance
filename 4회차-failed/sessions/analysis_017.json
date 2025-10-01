@@ -1,0 +1,15 @@
+{
+  "user_action_estimate": 4.8,
+  "compliance_estimate": 0.938,
+  "confidence": 0.85,
+  "basis": "User explicitly commits to starting now, specifies Sunday 9 am text reminders, requests setup for weekly check-ins, and mentions an optional midweek check-in. They also plan to report back after the next meal, indicating concrete intended action aligned with prior guidance.",
+  "cognitive_dissonance": "Low. The user appears aligned with the plan and expresses clear intent without visible conflicting beliefs.",
+  "negative_thought_patterns": "Minimal explicit negative self-talk. May carry a latent tendency toward all-or-nothing thinking in some contexts, but not evident in this message.",
+  "emotional_triggers": "Heat (need for hydration), BED context (past slips), accountability and support needs (weekly/midweek check-ins).",
+  "effective_reinforcement": [
+    "Clear, actionable planning",
+    "Scheduled accountability through text reminders",
+    "Supportive, non-judgmental language"
+  ],
+  "coaching_notes": "Continue providing ultra-simple, concrete steps and confirm the reminder setup details (text vs. app, time zone). Offer the optional midweek check-in as a flexible lever and ensure the user can opt in/out easily. Monitor for over-reliance on reminders and encourage proactive reporting after meals."
+}

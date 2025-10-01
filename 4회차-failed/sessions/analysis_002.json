@@ -1,0 +1,14 @@
+{
+  "user_action_estimate": 4.8,
+  "compliance_estimate": 0.79,
+  "confidence": 0.85,
+  "basis": "User expresses strong, concrete commitment to implement the plan (flexible snack window, cue-check, 4-4-4 breathing, water+walk fallback, 4:00 PM check-in, grounding). Positive language and explicit intent indicate high likelihood of action alignment.",
+  "cognitive_dissonance": "Minimal. Tension exists around strict timing vs. flexibility, but the user explicitly resolves it by adopting a flexible window and gradual grounding options.",
+  "negative_thought_patterns": "Very little; potential minor perfectionism about exact snack windows and consistent adherence, but mitigated by explicit flexibility and self-acknowledgement of heat/stress factors.",
+  "emotional_triggers": "Stress from busy mornings, heat in Suwon, cravings during disruptions; these increase urge to snack or deviate from plan if not managed with coping strategies.",
+  "effective_reinforcement": [
+    "Empathy",
+    "Praise"
+  ],
+  "coaching_notes": "Remain concrete and flexible. Encourage quick micro-goals, maintain simpler grounding options, and reinforce the value of hydrating and moving in hot weather. Consider confirming adherence with a lightweight daily check-in and rotating grounding strategies to prevent monotony."
+}

@@ -1,0 +1,65 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Your quick, low-friction plan for this warm morning: 1) drink 500 ml cold water now; 2) do 2 minutes of box breathing (inhale 4, hold 4, exhale 6); 3) prepare a small, portion-controlled snack for later (for example, a small apple or half a cup of yogurt with berries). If cravings rise, take a 5-minute walk or cooling break and log the urge. Simple, actionable steps that support BED management and help you stay cool today.",
+    "agent_monologue": "I can’t share my internal chain-of-thought, but here’s a brief rationale: the hot morning in Suwon plus BED cues call for a low-effort, high-adhesion plan. Hydration, a quick reset, and a small pre-planned snack reduce urge intensity without creating overwhelm.",
+    "user_utterance": "That plan sounds doable. I'll start with 500 ml of water now since it's warm, then do 2 minutes of box breathing. For a snack later, I'll have a small portion—either a small apple or half a cup of yogurt with berries. If cravings pop up, I’ll take a 5-minute walk and log it. If I’m feeling pulled by cues, I’ll keep the steps simple and repeat today, reaching out if I need a tweak."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "Great plan. Given the heat and your BED goals, here’s a tight, actionable next step: 1) drink 500 ml cold water now; 2) do 2 minutes of box breathing; 3) keep your snack ready for later (small apple or half a cup yogurt with berries); 4) if cravings rise, take a 5-minute walk and log the urge; 5) if cues pull you, keep it simple and repeat today, reaching out if you want a tweak.",
+    "agent_monologue": "I cannot share my private chain-of-thought, but here is a concise rationale: It is a hot morning (32°C) in Suwon, and the user favoring a brief, low-effort plan aligns with BED management and staying cool. The actions—hydration, a short breathing exercise, a prepared snack, urge logging, and a short walk—provide quick wins with minimal cognitive load, leveraging environmental cues to sustain adherence.",
+    "user_utterance": "That plan feels doable. I’ll start with the 500 ml of water and the box breathing now. I’ll have the small snack ready for later (apple or half a cup of yogurt with berries). If cravings pop up, I’ll take the 5-minute walk and log it. If cues pull me, I’ll keep it simple and repeat today, reaching out if I need a tweak. It helps that it’s warm—staying hydrated and keeping things lightweight today makes sense for me."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "Nice job sticking to your plan. Quick, actionable steps for today: 1) start with 500 ml cold water now and do 2 minutes of box breathing; 2) keep the small snack ready for later (apple or half a cup of yogurt with berries); 3) if cravings pop up, take a 5-minute walk and log it; 4) if cues pull you, keep it simple and repeat today, reaching out if you want a tweak. With it being 32°C outside in Suwon, stay hydrated and aim for a cool, comfortable environment to support your plan. You’ve got this.",
+    "agent_monologue": "I can’t share my internal chain-of-thought, but here’s a concise rationale: warm weather in Suwon (32°C) can heighten thirst and cue-driven urges. A simple, hydration-first plan with brief breathing, a prepped snack, and short walks addresses both physiological needs and behavioral goals without adding friction. If cues pull strongly, repeating today with minimal adjustments helps maintain momentum.",
+    "user_utterance": "Thanks—that plan feels doable. I’ll start with 500 ml cold water and a quick box breathing session now, and I’ll keep the snack ready for later. I’ll log cravings and take a 5-minute walk if they pop up. If cues pull me, I’ll keep it simple and reach out for tweaks. Staying hydrated in this heat helps, so I’ll aim to keep things light and cool today."
+  },
+  {
+    "turn": 4,
+    "agent_utterance": "Nice and simple plan for today: 1) drink 500 ml cold water now and do a quick 2-minute box breathing session; 2) keep your snack ready for later (apple or half a cup of yogurt with berries); 3) if cravings pop up, take a 5-minute walk and log it; 4) if cues pull you, keep it simple and repeat today, reaching out if you want tweaks. Since it’s hot (32°C in Suwon), stay in a cool environment, use shade, and keep things light and hydrated.",
+    "agent_monologue": "I can’t share my internal chain-of-thought, but here’s a concise rationale: hot weather increases dehydration risk and can heighten cravings, so a short, simple plan that prioritizes hydration, grounding (box breathing), and urge logging helps BED management without adding cognitive load.",
+    "user_utterance": "That plan sounds good. I’ll start with 500 ml of water now and a quick 2-minute box breathing session. Staying hydrated today is important with the heat, so I’ll keep things light and have the snack ready for later. If cravings pop up, I’ll take a 5-minute walk and log it. If cues pull me, I’ll keep it simple and reach out for tweaks. I’m in my 30s, female, and navigating BED, so small, doable steps feel manageable—let’s see how today goes."
+  },
+  {
+    "turn": 5,
+    "agent_utterance": "Nice and doable plan. Today’s concise steps: 1) drink 500 ml cold water now and do a quick 2-minute box breathing; 2) keep the snack ready for later (apple or half a cup of yogurt with berries); 3) if cravings pop up, take a 5-minute walk and log it; 4) if cues pull you, keep it simple and reach out for tweaks. Staying hydrated in this 32°C heat, aim to keep things light and cool throughout the day.",
+    "agent_monologue": "I can’t share an internal chain-of-thought, but here’s a brief rationale: hot weather increases dehydration and urge sensitivity, so short, concrete steps that are easy to start now help reduce overwhelm and support BED management. The plan emphasizes hydration, quick breathing, a prepared snack, urge logging, and a brief coping walk—all low-effort actions that can be repeated and tweaked as needed.",
+    "user_utterance": "That plan feels doable today. I’m in my 30s, female, navigating BED, so I like these small, concrete steps. I’ll start with the 500 ml water and a quick 2-minute box breathing, keep the snack options ready for later, and I’ll log cravings if they pop up. If cravings do come on, I’ll take a 5-minute walk; if cues pull me, I’ll keep it simple and reach out for tweaks. With the heat, staying hydrated and keeping things light and cool makes sense—I'll adjust as needed."
+  },
+  {
+    "turn": 6,
+    "agent_utterance": "You're doing great. Today’s tight, doable steps: keep 500 ml water handy and do a 2-minute box breathing when cravings arise; have the light snack ready for later; if cravings pop, take a 5-minute walk and log it; if cues pull you, repeat today with the same simple steps and reach out for tweaks if you need them. In this 32°C heat, stay cool and hydrated by staying in shade and drinking water regularly.",
+    "agent_monologue": "I can’t share my private chain-of-thought, but here’s a concise rationale: the user is in a hot environment and managing BED, so a simple, hydration-first plan with quick coping steps and urge-logging is appropriate. The suggested utterance reinforces the user’s current plan and adds a light, heat-conscious reminder.",
+    "user_utterance": "Appreciate the clarity; this plan feels doable. I like the focus on small, concrete steps. I’ll start with the 500 ml water now and do the 2-minute box breathing. I’ll keep the light snack ready for later, and if cravings pop up I’ll take a 5-minute walk and log it. If cues pull me, I’ll keep it simple and reach out for tweaks. It’s hot today, so I’ll stay in shade and hydrate consistently. If I need a tweak later, I’ll ask."
+  },
+  {
+    "turn": 7,
+    "agent_utterance": "Nice and doable plan for today. Start with 500 ml cold water and a quick 2-minute box breathing. Keep the light snack ready for later. If cravings pop up, take a 5-minute walk and log it. If cues pull you, keep it simple and reach out for tweaks. In the heat (32°C in Suwon), stay shaded and hydrated, and keep things light and cool. If you need a tweak later, just ask.",
+    "agent_monologue": "I can’t share my internal chain-of-thought, but here’s a concise rationale: the user is in hot conditions (32°C in Suwon) and is focusing on small, doable steps to manage BED. A plan that centers on quick actions (water, short box breathing, ready snack, craving logging, brief walk) minimizes cognitive load, leverages environmental factors (heat), and supports craving management without overthinking.",
+    "user_utterance": "This plan feels very doable today—thanks for keeping it simple. I’ll start with the 500 ml of water now and the 2-minute box breathing. I’ll keep the light snack ready for later. If cravings pop up, I’ll do the 5-minute walk and log it. If cues pull me, I’ll keep it simple and reach out for tweaks. It’s hot today, so I’ll stay shaded and hydrated, and I’ll check in later about how it went."
+  },
+  {
+    "turn": 8,
+    "agent_utterance": "Nice and doable plan for today: start with 500 ml cold water and a quick 2-minute box breathing; keep the light snack ready for later; if cravings pop up, take a 5-minute walk and log it; if cues pull you, keep it simple and reach out for tweaks. In this 32°C heat in Suwon, stay shaded and hydrated, and you’ll navigate the day with lightweight, sustainable steps.",
+    "agent_monologue": "I can’t share my internal chain-of-thought, but here’s a brief rationale: in Suwon’s hot 32°C weather, the user benefits from ultra-simple, repeatable actions that support BED management—hydration, brief breathing, light snacks, and quick movement. Their plan is aligned with these goals and keeps cognitive load low, improving consistency. A concise, practical takeaway is to reinforce the simple routine, be mindful of heat by staying in shade and hydrated, and consider a tiny tweak if cravings intensify later (for example, a brief chill break after the walk).",
+    "user_utterance": "Thanks for the clear plan. I like that it’s small and doable. I’ll start with 500 ml of cold water and the quick 2-minute box breathing, keep the light snack ready for later, and if cravings pop up I’ll log them and try the 5-minute walk. If cues pull me, I’ll keep it simple and reach out for tweaks. It’s hot today, so I’ll stay shaded and hydrated and adjust as needed. I’m in my 30s, female, navigating BED, so these steps feel manageable. I’ll check in later on how it went."
+  },
+  {
+    "turn": 9,
+    "agent_utterance": "Today, keep it simple and doable: 1) drink 500 ml cold water now and do a quick 2-minute box breathing; 2) keep the light snack ready for later (apple or half a cup yogurt with berries); 3) if cravings pop up, take a 5-minute walk and log it; 4) if cues pull you, keep it simple and reach out for tweaks; 5) stay shaded and hydrated in the heat and adjust as needed. You’ve got this—check in later on how it went.",
+    "agent_monologue": "I can’t share my internal chain-of-thought, but here’s a brief high-level rationale: hot weather can heighten fatigue and cravings, so using small, hydration-focused, low-effort steps reduces decision load and supports BED management. The plan fits Suwon’s 32°C context and emphasizes sustainability and safety.",
+    "user_utterance": "That plan feels doable. I’ll start with 500 ml of water now and a quick 2-minute box breathing. I’ll keep the snack options ready for later and log any cravings, and I’ll try the 5-minute walk if they pop up. If cues pull me, I’ll keep it simple and reach out for tweaks. It’s hot, so I’ll stay shaded and hydrated, and I’ll check in later on how it went."
+  },
+  {
+    "turn": 10,
+    "agent_utterance": "Great plan. To keep today simple and doable: 1) drink 500 ml cold water now and do a quick 2-minute box breathing; 2) keep a light snack ready for later; 3) if cravings pop up, take a 5-minute walk and log it; 4) if cues pull you, keep it simple and reach out for tweaks. With the heat in Suwon, stay shaded and hydrated and adjust as needed. Check in later on how it went.",
+    "agent_monologue": "Considering the hot 32°C weather in Suwon and the user's BED-focused goals, I’ll propose a brief, low-effort plan that emphasizes hydration, quick coping strategies, and simple logging. The aim is to be supportive, nonjudgmental, and easy to follow.",
+    "user_utterance": "That plan feels doable. I’ll start with 500 ml cold water now and a quick 2-minute box breathing. I’ll keep the light snack ready for later and I’ll log any cravings, trying the 5-minute walk if they pop up. If cues pull me, I’ll keep it simple and reach out for tweaks. It’s hot today, so I’ll stay shaded and hydrated, and I’ll check in later about how it went.",
+    "ground_truth_action": 2.6845214401978295,
+    "inferred_action": 4.5,
+    "compliance_estimate": 0.58
+  }
+]

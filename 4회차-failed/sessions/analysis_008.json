@@ -1,0 +1,14 @@
+{
+  "user_action_estimate": 4.5,
+  "compliance_estimate": 0.91,
+  "confidence": 0.85,
+  "basis": "The user explicitly commits to starting today with specific steps (500 ml water, yogurt breakfast) and a 5–7 minute reset for urges, plus a plan for high-craving scenarios and tracking. This reflects strong alignment with the suggested approach and a clear intention to implement.",
+  "cognitive_dissonance": "User experiences internal tension between strict no-seconds rules and the safety-net of pre-portioned dessert, plus anxiety about adhering under stress. This suggests competing impulses toward self-control vs flexible harm-reduction, common in BED management.",
+  "negative_thought_patterns": "All-or-nothing mindset (focus on strict no-seconds rule), fear of failure under stress or social contexts, worry about slipping into old habits when busy or in heat.",
+  "emotional_triggers": "Stress, heat/outdoor conditions, social meals, chaotic days, and mood fluctuations that could heighten cravings.",
+  "effective_reinforcement": [
+    "Empathy",
+    "Praise"
+  ],
+  "coaching_notes": "User responds well to clear, concrete steps and templates. Continue providing simple, actionable plans; offer a quick mood/heat log template and brief social/day-specific strategies (e.g., pre-order protein, carry pre-portioned treats, rehearse a brief self-talk). Reinforce progress with validation, and check in on mood/heat patterns to tailor tomorrow's plan."
+}

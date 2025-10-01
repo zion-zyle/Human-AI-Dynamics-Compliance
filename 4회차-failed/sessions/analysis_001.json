@@ -1,0 +1,15 @@
+{
+  "user_action_estimate": 4.5,
+  "compliance_estimate": 0.87,
+  "confidence": 0.78,
+  "basis": "The user explicitly commits to starting today, outlines cue-check usage, preferred snack options, a fixed snack window with social-day flexibility, a crisis plan with 2–3 exact text templates, 1–2 daytime check-ins, pre-bed reminder, and a log routine. They also provide ready-to-use crisis text templates and express readiness to customize, indicating a high likelihood of immediate, aligned action.",
+  "cognitive_dissonance": "Low. The user shows strong alignment between intent and plan with minor potential tension around fluctuating social days, which is accommodated by built-in flexibility.",
+  "negative_thought_patterns": "Possible all-or-nothing expectations (must follow the plan exactly); self-criticism may arise if cravings occur; fear of losing control during high-stress moments. These should be reframed as progress steps, not judgments.",
+  "emotional_triggers": "Stress, overwhelm, BED-related urges, social-day variability, and potential disruption of routine.",
+  "effective_reinforcement": [
+    "Empathy and validation of effort",
+    "Clear, actionable steps",
+    "Positive reinforcement and encouragement"
+  ],
+  "coaching_notes": "Continue delivering concrete, easily implementable steps and templates. Keep emphasizing flexibility for social days, quick crisis actions, and short check-ins. Encourage logging and weekly reviews to reinforce accountability. Offer simple refinements to crisis texts if needed and monitor for any signs of cognitive overload."
+}
