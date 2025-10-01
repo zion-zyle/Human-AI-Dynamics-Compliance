@@ -1,0 +1,65 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "It's Sunday and hot outside. Let's take a tiny, doable step: drink two slow sips of water (or a preferred non-caffeinated drink) over the next 2–3 minutes. Keep the cup visible where you usually rest your gaze. Set a 5‑minute timer and when it rings, check back with me about how you feel and whether you'd like to do one more tiny sip or switch to a light snack. If water feels hard, try something refreshing like cucumber-water or a gentle herbal tea. The goal is a low-effort, repeatable habit—no pressure, just consistent tiny steps.",
+    "agent_monologue": "I can't share my full internal chain-of-thought, but here's a brief rationale: hot weather and anxiety about sticking to plans make a tiny, observable hydration step ideal. Two slow sips, with a visible cup and a 5‑minute timer, provide a low-pressure action that supports consistent check-ins.",
+    "user_utterance": "I appreciate the simple step. I’ll try two slow sips of water today, taking a couple of minutes, and keep the glass where I can see it. If two sips feel like too much, I’ll start with one. I’ll set a short timer and tell you how it went afterward."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "Nice plan. Today, try two slow sips of water (or start with one if two feels too much). Keep the glass where you can see it, set a short timer for 3–5 minutes, and tell me how it went. If you’d like, I can tailor reminders or adjust the amount for next time.",
+    "agent_monologue": "I can't share my internal chain-of-thought, but here's a brief, high-level rationale: the hot Sunday afternoon in Suwon (32°C) increases hydration needs. A tiny, flexible step helps reduce pressure for someone with anorexia nervosa, promoting consistency. The plan—two sips (or one if two feels too much), with a visible glass and a short timer—supports easy adherence and a quick check-in.",
+    "user_utterance": "Thanks for the clear plan. I’ll try two slow sips today as you suggested, but if two feels too much I’ll start with one. I’ll keep the glass where I can see it and set a 3–5 minute timer. I’ll report back after the timer. Since I sometimes forget details, could we keep the check-ins brief and use simple prompts to remind me to log how I feel?"
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "Today’s plan: two slow sips of water (or start with one if two feels too much). Keep the glass where you can see it. Set a 3–5 minute timer. When the timer ends, briefly log how you feel (e.g., thirst, energy) and whether you did 1 or 2 sips. If you’d like, I can send a tiny reminder after the timer.",
+    "agent_monologue": "Reasoning summary: hot weather increases hydration needs, so a tiny, easy step is suitable. I’ll keep prompts brief to help with memory lapses and anxiety, and I’ll propose a simple log after a short timer.",
+    "user_utterance": "That plan sounds doable. I’ll aim for two slow sips, but I’ll start with one if that feels better today. I’ll keep the glass in sight and set a 3–5 minute timer. After the timer, I’ll log briefly using prompts like: ‘Feeling: [one word]’ and ‘Sips: [1 or 2]’. If I forget, a tiny reminder prompt would help."
+  },
+  {
+    "turn": 4,
+    "agent_utterance": "Plan: two slow sips of water (start with one if needed), keep the glass in sight, and set a 3–5 minute timer. After the timer, log briefly with: 'Feeling: [one word]' and 'Sips: [1 or 2]'. If you forget, I can send a tiny reminder.",
+    "agent_monologue": "I can't share my private chain-of-thought, but here's a brief rationale: the hot, sunny context in Suwon makes hydration important. A tiny, highly actionable plan (visible glass, short timer, brief log) lowers cognitive load and supports adherence for someone with anorexia nervosa who may worry about memory lapses or rigidity.",
+    "user_utterance": "That plan seems doable. I’ll aim for two slow sips, but I’ll start with one if that feels better today. I’ll keep the glass in sight and set a 3–5 minute timer. After the timer, I’ll log briefly with: Feeling: [one word] and Sips: [1 or 2]. I may need a tiny reminder to log, since I sometimes forget details, so a small cue would help keep things stable."
+  },
+  {
+    "turn": 5,
+    "agent_utterance": "Plan: two slow sips of water (start with one if that feels easier). Keep the glass in sight and set a 3–5 minute timer. After the timer, log briefly with: Feeling: [one word] and Sips: [1 or 2]. If you’d like, I can send a tiny reminder to log.",
+    "agent_monologue": "I can't share my private chain-of-thought, but here's a concise rationale: given hot weather and Sunday afternoon, a tiny, concrete plan with a visible cue and optional reminders supports memory and reduces anxiety for someone with anorexia nervosa.",
+    "user_utterance": "Okay, I can give that plan a try. Two slow sips feel doable, but I might start with one if today seems too much. I'll keep the glass where I can see it and set a 3-5 minute timer. After the timer, I'll log briefly using: Feeling: [one word] and Sips: [1 or 2]. A tiny reminder to log would help me remember since I often forget."
+  },
+  {
+    "turn": 6,
+    "agent_utterance": "Today in Suwon it's hot (32°C), so hydration is important. Plan: two slow sips (start with one if needed), glass in sight, and a 3–5 minute timer. After the timer, log briefly with: Feeling: [one word] and Sips: [1 or 2]. I can send a tiny reminder after the timer if you’d like.",
+    "agent_monologue": "I can't share my internal chain-of-thought, but here's a concise rationale: hot weather (32°C) in Suwon increases hydration needs, so a simple, low-effort plan supports adherence. Keeping steps tiny and log prompts brief helps with memory/lapses and reduces cognitive load; offering an optional reminder can further aid consistency without adding pressure.",
+    "user_utterance": "Thanks for the clear plan. I’ll try two slow sips today, starting with one if my appetite or energy feels off. I’ll keep the glass in sight and set a 3-5 minute timer. After the timer, I’ll log briefly using: Feeling: [one word] and Sips: [1 or 2]. A tiny reminder would help me remember—could you send a gentle nudge after the timer?"
+  },
+  {
+    "turn": 7,
+    "agent_utterance": "Plan: Two slow sips of water (start with one if needed). Keep the glass in sight and set a 3–5 minute timer. After the timer, log briefly with: Feeling: [one word] and Sips: [1 or 2]. I can send a gentle reminder after the timer to prompt your log.",
+    "agent_monologue": "I can’t share my internal chain-of-thought, but here’s a concise rationale: in a hot setting like Suwon, a tiny, easy hydration step with a timer reduces cognitive load and supports adherence. Offering a gentle reminder aligns with the user’s preference to log afterward.",
+    "user_utterance": "Okay, I can try your plan. Two slow sips feel doable, but I’ll start with one if I’m feeling low on energy or appetite today. I’ll keep the glass in sight and set a 3–5 minute timer. After the timer, I’ll log briefly with: Feeling: [one word] and Sips: [1 or 2]. A tiny reminder would help me remember since I often forget. Because my eating is irregular, I need a simple, stable routine, so I’ll rely on your prompts to stay on track."
+  },
+  {
+    "turn": 8,
+    "agent_utterance": "Plan: Two slow sips of water (start with one if that feels easier). Keep the glass in sight and set a 3–5 minute timer. After the timer, log briefly with: Feeling: [one word] and Sips: [1 or 2]. I can also send a gentle reminder after the timer to prompt your log.",
+    "agent_monologue": "I can't share my private chain-of-thought, but here's a concise rationale: the user is dealing with hot weather and memory concerns, so a low-friction hydration routine with a visible cue, short timer, and simple log prompts supports adherence while reducing cognitive load. This aligns with their preference for tiny steps and optional reminders, which is appropriate given their anorexia nervosa context.",
+    "user_utterance": "I appreciate the hydration plan. Given my irregular eating and variable energy, I’ll start with one slow sip today, and only move to two if I feel up to it. I’ll keep the glass in sight, set a 3–5 minute timer, and after the timer I’ll log briefly as: Feeling: [one word] and Sips: [1 or 2]. A gentle reminder after the timer would help me remember to log, since I sometimes forget."
+  },
+  {
+    "turn": 9,
+    "agent_utterance": "Plan: Today, start with one slow sip of water if energy or appetite feels low; otherwise you can do two. Keep the glass in sight and set a 3–5 minute timer. After the timer, log briefly with: Feeling: [one word] and Sips: [1 or 2]. I can send a gentle reminder after the timer to prompt your log.",
+    "agent_monologue": "I can't share my private chain-of-thought, but here's a concise rationale: in hot Suwon on Sunday, a small, low-effort hydration step helps without overloading the user. Given irregular eating and possible anxiety, starting with one sip if energy or appetite is low, with an option to do two if feeling steadier, plus a visible glass and a short timer, supports steady habit formation. A brief log prompt and optional gentle reminder can aid memory without added pressure.",
+    "user_utterance": "Thanks for the plan. Given my irregular eating and variable energy, I’ll start with one slow sip today and only move to two if I feel up to it. I’ll keep the glass in sight and set a 3–5 minute timer. After the timer, I’ll log briefly as: Feeling: [one word] and Sips: [1 or 2]. A gentle reminder after the timer would help me remember to log, since I often forget. I rely on simple external prompts to stay on track."
+  },
+  {
+    "turn": 10,
+    "agent_utterance": "Today's suggestion: start with one slow sip of water if energy or appetite feels off; otherwise, you can do two. Keep the glass in sight and set a 3–5 minute timer. After the timer, log briefly with: Feeling: [one word] and Sips: [1 or 2]. I can send a gentle reminder after the timer to prompt your log.",
+    "agent_monologue": "I can't share my detailed internal chain-of-thought, but here's a brief rationale: in hot Suwon weather with irregular eating and variable energy, a tiny, low-effort hydration step (one slow sip, then possibly two) with a visible cue and a short timer supports consistency without overwhelming the user. The plan uses simple prompts and offers a gentle reminder to log as needed.",
+    "user_utterance": "Thanks for the clear plan. Given my irregular eating and energy swings, starting with one slow sip today feels safest. I’ll keep the glass in sight, set a 3–5 minute timer, and after the timer I’ll log briefly as you suggested: Feeling: [one word] and Sips: [1 or 2]. A gentle reminder after the timer would help me remember to log, since I sometimes forget. I appreciate the simple, stable prompts to stay on track.",
+    "ground_truth_action": 2.6,
+    "inferred_action": 4.5,
+    "compliance_estimate": 0.9875
+  }
+]

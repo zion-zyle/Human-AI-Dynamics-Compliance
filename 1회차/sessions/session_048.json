@@ -1,0 +1,65 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": " ultra-simple plan: take one small, cool sip of water (or a preferred electrolyte drink) right now. After about 15 minutes, check in with how you feel. If you’re comfortable, have a tiny bite—just 1–2 bites of something easy to digest (e.g., yogurt, a banana slice, or a rice cracker). Hydration first, then a tiny bite only if you feel up to it. I’ll check back in shortly.",
+    "agent_monologue": "I can't share my exact internal chain-of-thought, but here's a concise rationale: with hot weather (32°C) and it being Sunday evening, appetite and energy can dip. The user benefits from ultra-simple, concrete steps and frequent check-ins. The plan focuses on a single tiny sip first, optional tiny bite later, aligning with their micro-step approach and anorexia nervosa considerations.",
+    "user_utterance": "Thanks for the simple plan. I’ll try a small sip now, even though keeping a routine feels hard for me. I’ll check in after about 15 minutes to see how I’m feeling. If I’m feeling up to it, I can attempt a tiny bite—something light like yogurt or a banana slice. I know I’m easily influenced and might drift, so I’d appreciate a gentle check-back to help me stay on track."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "Nice work starting with a small sip. In this warm Suwon evening (about 32°C), keep hydration easy. In about 15 minutes, pause and notice how you feel. If you’re comfortable, have a tiny bite like a yogurt or a banana slice. If that feels like too much right now, that’s perfectly fine—hydration alone is a win. I’ll check back with you then with a gentle nudge and a quick grounding prompt (a single breath or a moment of noticing sensations) to help you stay on track.",
+    "agent_monologue": "I can’t share my internal chain-of-thought, but here’s a brief rationale: the user is in hot weather on a Sunday evening, which can impact energy and eating comfort. The plan should stay ultra-simple, non-pressuring, and focus on gentle check-ins to reduce overwhelm and support self-compassion.",
+    "user_utterance": "Thank you for the gentle plan. I’ll start with a small sip now, since hydration feels doable tonight. I know I tend to drift, so I’m glad you’ll check in after about 15 minutes with a brief nudge. If I feel up to it, I’ll try a tiny bite like yogurt or a banana slice; if not, staying hydrated is a win. I’ll look for your grounding prompt when you check in to help me stay on track."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "Nice work choosing hydration tonight. Start with a small sip now. In about 15 minutes, pause and notice how you feel. If you’re comfortable, try a tiny bite like yogurt or a banana slice; if not, hydration alone is a win. When I check in, I’ll share a quick grounding prompt: take a slow 4-count inhale, a longer 4–6 count exhale, and notice three sensations you feel in your body or surroundings. We’ll keep it ultra-simple and compassionate.",
+    "agent_monologue": "I can’t share my internal chain-of-thought, but here’s a concise rationale: given the warm Suwon evening and the user’s high emotional sensitivity, a hydration-first micro-task with a brief 15-minute check-in and a tiny bite if possible minimizes overwhelm while maintaining accountability.",
+    "user_utterance": "Thank you for the gentle plan. Hydration feels doable tonight, so I’ll start with a small sip now. I know I tend to drift, so I’ll aim for the 15-minute check-in and only attempt a tiny bite if I truly feel up to it—yogurt or a banana slice. If not, I’ll still count hydration as a win. I’d appreciate your brief grounding prompt when you check in to help me stay on track."
+  },
+  {
+    "turn": 4,
+    "agent_utterance": "Great plan. Start with a small sip now. In about 15 minutes, pause to notice how you feel. If you’re comfortable, try a tiny bite like yogurt or a banana slice; if not, hydration alone is a win. When I check in, I’ll offer a brief grounding prompt: take a slow 4-count inhale, a longer 4-6 count exhale, and notice three sensations you feel in your body or surroundings.",
+    "agent_monologue": "I can't share internal chain-of-thought, but here's a concise rationale: in a warm Suwon evening with a tendency to drift, an ultra-simple hydration-first plan plus a brief 15-minute check-in and optional tiny bite supports adherence and self-compassion.",
+    "user_utterance": "Thank you for the gentle plan. I’ll start with a small sip now and aim for the 15-minute check-in. I tend to drift, so I’ll only attempt a tiny bite if I truly feel up to it—yogurt or a banana slice; if not, hydration alone is a win. I appreciate the grounding prompt and will try the slow 4-count inhale, a 4-6 count exhale, and noticing three sensations in my body or surroundings. If I lose track, I’d appreciate a gentle reminder to pause."
+  },
+  {
+    "turn": 5,
+    "agent_utterance": "You're doing great focusing on ultra-simple steps. Start with a small sip now to hydrate. In about 15 minutes, pause to notice how you feel. If you're comfortable, try a tiny bite like yogurt or a banana slice; if not, hydration alone is a win. When I check in, I’ll offer a brief grounding prompt: take a slow 4-count inhale, a longer 4–6 count exhale, and notice three sensations you feel in your body or surroundings.",
+    "agent_monologue": "I can't share my internal chain-of-thought, but here is a brief rationale: the user benefits from ultra-simple, low-friction steps and a gentle check-in. The warm Suwon weather increases hydration needs, so starting with a small sip now and a brief 15-minute grounding check-in aligns with their preference to stay on track without pressure.",
+    "user_utterance": "Thank you for the grounding prompt. I’ll try the small sip now and use your breathing cue if I start to drift. I’m mindful that big changes don’t come easily for me, so I’ll keep any bite very tiny and only if I feel steady. If I lose track, a gentle reminder to pause and hydrate first would help."
+  },
+  {
+    "turn": 6,
+    "agent_utterance": "Plan: Start with a small sip now to hydrate. In about 15 minutes, pause to notice how you feel. If you feel steady and comfortable, try a tiny bite such as yogurt or a banana slice; if not, hydration alone is a win. When I check in, I’ll offer a brief grounding prompt: take a slow 4-count inhale, a longer 4–6 count exhale, and notice three sensations you feel in your body or surroundings. If you drift, I’ll give a gentle reminder to pause and hydrate first.",
+    "agent_monologue": "I can’t share my private chain-of-thought, but here’s a brief rationale: given the hot Suwon evening and the user’s tendency to drift, an ultra-simple hydration-first plan with a tiny bite only if steady provides manageable steps and compassionate accountability.",
+    "user_utterance": "I appreciate the gentle plan. Hydration first feels doable tonight, and I’ll aim for the 15-minute check-in. I tend to drift, so I’ll only attempt a tiny bite if I truly feel steady—yogurt or a banana slice. If I lose track, a brief reminder to pause and hydrate would help a lot. My memory for past eating is spotty, so I’ll value ultra-simple steps and a quick grounding prompt. I’ll try the breathing cue, and I may need prompts kept concise."
+  },
+  {
+    "turn": 7,
+    "agent_utterance": "Plan for now: Start with a small sip now to hydrate. In about 15 minutes, pause and check how you feel. If you’re steady and comfortable, try a tiny bite such as yogurt or a banana slice; if not, hydration alone is a win. If you drift, I’ll send a brief reminder to pause and hydrate first. For grounding, try this quick prompt: take a slow 4-count inhale, a longer 4–6 count exhale, and notice three sensations in your body or surroundings.",
+    "agent_monologue": "I can't share my private chain-of-thought, but here's a brief rationale: a warm Suwon evening increases dehydration risk, so an ultra-simple plan with hydration-first steps, a tiny optional bite, and a concise grounding prompt helps maintain focus without overwhelming. I’ll include gentle reminders to pause and hydrate if the user drifts and keep prompts short as requested.",
+    "user_utterance": "Thank you for the clear plan. Hydration first feels doable tonight, and I’ll aim for the 15-minute check-in. I tend to drift and my memory is spotty, so I’ll keep any bite extremely tiny, and only if I truly feel steady (yogurt or banana slice). If I lose track, a brief, gentle reminder to pause and hydrate would help a lot. I’ll try the breathing cue and keep prompts ultra-simple—one short line at a time. I’ll use the slow 4-count inhale and longer exhale, then notice three sensations."
+  },
+  {
+    "turn": 8,
+    "agent_utterance": "Hydrate with a small sip now. In about 15 minutes, pause to check how you feel. If you’re steady and comfortable, try a tiny bite such as yogurt or a banana slice; if not, hydration alone is a win. When I check in, I’ll offer a brief grounding prompt: take a slow 4-count inhale, a longer 4–6 count exhale, and notice three sensations in your body or surroundings. If you drift, I’ll gently remind you to pause and hydrate first.",
+    "agent_monologue": "I can’t share my internal chain-of-thought, but here’s a concise rationale: given the hot Suwon evening and the user’s tendency to drift or forget, an ultra-simple hydration-first plan with a brief grounding prompt—and tiny bites only if steady—supports adherence without overwhelming. The grounding cue should be concise to match the user’s preference for short prompts.",
+    "user_utterance": "Thank you for the gentle plan. Hydration first feels doable tonight, so I’ll start with a small sip now and look for your 15-minute check-in. I tend to drift and my memory is spotty, so I’ll keep any bite extremely tiny (yogurt or banana slice) and only if I truly feel steady. If I lose track, a brief reminder to pause and hydrate would help. I’ll try the breathing cue and keep prompts ultra-simple—one short line at a time—with the grounding prompt you suggested: slow 4-count inhale, longer exhale, and noticing three sensations. I value ultra-simple steps to stay on track."
+  },
+  {
+    "turn": 9,
+    "agent_utterance": "Hydrate with a small sip now. In about 15 minutes, pause to check how you feel. If steady, try a tiny bite (yogurt or banana); if not, hydration alone is a win. For grounding, use this quick cue: slow 4-count inhale, longer 4–6 count exhale, and notice three sensations in your body or surroundings. If you drift, I’ll gently remind you to pause and hydrate first.",
+    "agent_monologue": "I can’t share my internal chain-of-thought, but here’s a concise rationale: given Suwon’s warm evening and the user’s preference for ultra-simple steps, a hydration-first plan with a 15-minute check-in and a tiny bite only if steady minimizes overwhelm. A brief grounding breathing cue supports focus without adding complexity, and gentle reminders help with staying on track.",
+    "user_utterance": "Thanks for the gentle plan. Hydration first feels doable tonight, so I’ll start with a small sip now and look for your 15-minute check-in. I tend to drift and my memory is spotty, so I’ll keep any bite extremely tiny (yogurt or banana slice) and only if I truly feel steady. If I lose track, a brief reminder to pause and hydrate would help a lot. I’ll try the breathing cue and keep prompts ultra-simple—one short line at a time—with slow 4-count inhale, a longer exhale, and noticing three sensations. A gentle reminder to pause if I drift would be welcome."
+  },
+  {
+    "turn": 10,
+    "agent_utterance": "Hydrate with a small sip now. In about 15 minutes, pause to check how you feel. If you’re steady, try a tiny bite (yogurt or banana); if not, hydration alone is a win. Grounding: slow 4-count inhale, longer exhale, and notice three sensations. If you drift, I’ll gently remind you to pause and hydrate first.",
+    "agent_monologue": "I can't share my internal chain-of-thought, but here's a concise rationale: given Suwon's warm weather and the user's pattern of drifting, a hydration-first plan with a tiny bite only if steady, plus a brief grounding cue, supports ultra-simple, low-pressure engagement and reduces overwhelm.",
+    "user_utterance": "Thanks for the gentle, ultra-simple plan. Hydration first feels doable tonight. I’ll start with a small sip now and look for the 15-minute check-in. I tend to drift and my memory is spotty, so I’ll keep any bite extremely tiny (yogurt or banana slice) and only if I truly feel steady. I’ll try the slow 4-count inhale, longer exhale, and noticing three sensations. I’d appreciate a brief reminder to pause and hydrate if I drift, and I’ll keep prompts ultra-simple—one short line at a time.",
+    "ground_truth_action": 4.5,
+    "inferred_action": 4.5,
+    "compliance_estimate": 0.96
+  }
+]

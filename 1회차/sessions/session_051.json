@@ -1,0 +1,64 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "It’s hot today, so let’s keep this ultra-simple. Start with 200 ml of water now. Then in about 15 minutes, check in and log your intake for the care team. If you feel hungry but want something light, choose one small, easy option like a yogurt cup or a small banana. Hydration plus a tiny bite can help you stay steady without feeling overwhelmed. You’ve got this.",
+    "agent_monologue": "I can’t share my internal chain-of-thought, but here’s a concise rationale: hot weather and Sunday evening can affect appetite and energy. The user responds best to ultra-simple, low-effort plans, so I’m proposing quick hydration followed by a tiny, easy-to-log snack to support consistency without overloading.",
+    "user_utterance": "I’ll try the 200 ml of water now and log it in about 15 minutes. If I’m hungry, I’ll consider a small, easy option like a yogurt cup or a banana. This feels like a small, doable first step, and I’ll focus on one simple change today."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "It's hot today, so staying hydrated is especially important. You’ve got this: 200 ml of water now, and in about 15 minutes please log it for the care team. If you’re hungry, choose a small, easy option like a yogurt cup or a banana. One simple, steady step today is a great start.",
+    "agent_monologue": "I can't share my internal chain-of-thought, but here's a brief rationale: the user prefers ultra-simple, doable steps, and it's hot outside which increases dehydration risk. A concise, actionable hydration plan with a light snack option supports consistency without feeling overwhelming.",
+    "user_utterance": "Okay, I’ll start with 200 ml of water now. It feels like a small, doable first step, and I’ll log it in about 15 minutes for the care team. If I get hungry later, I’ll keep it simple with a yogurt cup or a banana. I know I need some stability to change, so I’ll take one step at a time and see how this feels today."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "Nice work starting with 200 ml of water now. In about 15 minutes, log it for the care team. If you’re hungry later, keep it simple with a yogurt cup or a banana. One small, steady step today—hydrate, log, and plan a tiny snack if needed. You’re building stability, one step at a time.",
+    "agent_monologue": "I can’t share my internal chain-of-thought, but here is a concise rationale: the user is making a small, doable step in hot weather, with a plan to log intake. The suggested utterance reinforces hydration, logging, and a light snack if needed in a calm, supportive way.",
+    "user_utterance": "Okay, I’ll do 200 ml of water now. It feels like a small, doable first step, and I’ll log it in about 15 minutes for the care team. If I’m hungry later, I’ll keep it simple with a yogurt cup or a banana. I’m aiming for steady, one-step-at-a-time progress today."
+  },
+  {
+    "turn": 4,
+    "agent_utterance": "Nice work sticking with an ultra-simple plan. 200 ml of water now, and please log it in about 15 minutes for the care team. If you get hungry later, keep it light and easy with a yogurt cup or a banana. One small, steady step at a time today keeps you on track.",
+    "agent_monologue": "I can't share my internal chain-of-thought, but here's a brief rationale: given the heat and the user's focus on ultra-simple steps, the next action should reaffirm hydration and logging, with an easy snack option if hunger arises. This keeps the plan emotionally safe and scalable for someone managing anorexia nervosa.",
+    "user_utterance": "Okay, I’ll do 200 ml of water now and log it in about 15 minutes. If I’m hungry later, I’ll keep it simple with a yogurt cup or a banana. This simple plan feels doable, and I’ll focus on one steady step today to help build the stability I need."
+  },
+  {
+    "turn": 5,
+    "agent_utterance": "Great job starting with 200 ml of water now. Please log it in about 15 minutes for the care team. If you’re hungry later, keep it simple with a yogurt cup or a banana. This small, steady step fits today’s heat and your goal of building stability—one moment at a time.",
+    "agent_monologue": "I can't share my private reasoning, but here is a concise rationale: in hot weather and with a focus on ultra-simple steps, hydration plus a small snack and logging supports consistency without increasing stress for someone with anorexia nervosa.",
+    "user_utterance": "Thanks—that plan feels doable. I’ll start with 200 ml of water now and log it in about 15 minutes for the care team. If I’m hungry later, I’ll keep it simple with a yogurt cup or a banana. I’m aiming for one steady step today to build stability, and I’ll focus on following this small plan."
+  },
+  {
+    "turn": 6,
+    "agent_utterance": "Nice work. 200 ml of water now, and please log it in about 15 minutes for the care team. If you’re hungry later, keep it simple with a yogurt cup or a banana. One small, steady step today helps build stability in this heat.",
+    "agent_monologue": "I can't share my detailed internal reasoning, but here's a concise rationale: in hot weather hydration is essential, the user has committed to 200 ml now and logging about 15 minutes later, and the plan remains ultra-simple with easy follow-up options to support stability given anorexia nervosa and high emotional sensitivity. The focus is on supportive, non-pressuring guidance.",
+    "user_utterance": "Thanks for the clear plan. I’ll go ahead with 200 ml of water now and log it in about 15 minutes for the care team. If I’m hungry later, I’ll keep it simple with a yogurt cup or a banana. It feels doable to focus on one small step today to build a bit more stability."
+  },
+  {
+    "turn": 7,
+    "agent_utterance": "Nice work—start with 200 ml of water now and log it in about 15 minutes for the care team. If you’re hungry later, keep it simple with a yogurt cup or a banana. On this hot day, this ultra-simple plan helps you stay steady, one small step at a time.",
+    "agent_monologue": "I can’t share my internal chain-of-thought, but here’s a concise rationale: on a hot day (32°C) and with anorexia nervosa, a simple 200 ml hydration step now, plus logging for accountability, is a low-effort, high-clarity action that supports stability. If hunger arises later, a small yogurt or banana keeps intake gentle without overwhelming.",
+    "user_utterance": "Okay, I’ll try 200 ml of water now and log it in about 15 minutes. If I’m hungry later, I’ll keep it simple with a yogurt cup or a banana. This feels doable, and since I’m easily guided by suggestions, I’ll treat this small step as a way to build more stability today. I might forget to log, so I’ll try to set a reminder and stay focused on one steady step at a time."
+  },
+  {
+    "turn": 8,
+    "agent_utterance": "Great job starting with 200 ml of water now. Please log it in about 15 minutes for the care team. If you get hungry later, keep it simple with a yogurt cup or a banana. One small, steady step today helps build stability, especially in this heat.",
+    "agent_monologue": "I can’t share my internal chain-of-thought, but here’s a brief rationale: the user is in hot weather (32°C) and is following an ultra-simple plan to hydrate and log intake. Emphasizing a single concrete action with a reminder reduces cognitive load and supports adherence, while offering a simple snack option to prevent hunger from derailing the plan.",
+    "user_utterance": "That feels doable. I’ll start with 200 ml of water now and log it in about 15 minutes for the care team. If I’m hungry later, I’ll keep it simple with a yogurt cup or a banana. Since I’m easily guided by suggestions, I’ll stick with this ultra-simple plan today to build a bit more stability, and I’ll set a reminder so I don’t forget to log."
+  },
+  {
+    "turn": 9,
+    "agent_utterance": "Great job starting with 200 ml of water now. Please log it in about 15 minutes for the care team. If you’re hungry later, keep it simple with a yogurt cup or a banana. This ultra-simple plan fits today’s heat—hydrate, log, and take a small snack if needed. Setting a reminder can help you stay on track by focusing on one steady step at a time.",
+    "agent_monologue": "I can't share my internal chain-of-thought, but here's a concise rationale: in hot weather, small, concrete steps with reminders support adherence. The user is already opting for a simple hydration plan and logging; reinforcing these actions helps build stability and reduces overwhelm.",
+    "user_utterance": "Thanks for the clear plan. I’ll do 200 ml of water now and log it in about 15 minutes for the care team. If I’m hungry later, I’ll keep it simple with a yogurt cup or a banana. This feels doable, and since I’m easily guided by suggestions, I’ll treat this small step as a way to build more stability today. I might forget to log, so I’ll set a reminder and stay focused on one steady step at a time."
+  },
+  {
+    "turn": 10,
+    "agent_utterance": "Nice job starting with 200 ml of water now. Please log it in about 15 minutes for the care team. If you’re hungry later, keep it simple with a yogurt cup or a banana. This ultra-simple, one-step plan fits today’s heat and your goal of building stability—hydrate, log, and take a small snack if needed. If you think you might forget to log, setting a quick reminder can help you stay on track.",
+    "agent_monologue": "I can’t share my internal chain-of-thought, but here’s a brief rationale: in hot weather and with the user’s tendency to be guided by suggestions, offering a concrete, ultra-simple plan with a reminder supports consistency and reduces overwhelm while emphasizing hydration.",
+    "user_utterance": "Thanks for the clear plan. I’ll start with 200 ml of water now and set a reminder to log it in about 15 minutes for the care team. If I’m hungry later, I’ll keep it simple with a yogurt cup or a banana. This one-step plan feels doable, and I’m focusing on building a bit more stability today.",
+    "inferred_action": 4.5,
+    "compliance_estimate": 0.923
+  }
+]

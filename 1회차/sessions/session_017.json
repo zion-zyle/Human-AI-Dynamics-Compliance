@@ -1,0 +1,65 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "You're doing great. Ultra-simple plan for now: 1) Find shade and sit for 2 minutes to cool down. 2) Sip a glass of water slowly. 3) Take a 60-second calm breath: inhale for 4, hold 1, exhale for 6. 4) If you feel safe and it’s okay, you may have a small grape as a tiny snack. If distress or symptoms persist, pause and reach out for clinician support. We’ll check in again soon and adjust as needed.",
+    "agent_monologue": "I can't share my full internal chain-of-thought, but here is a concise rationale: hot, sunny Sunday afternoon in Suwon raises fatigue and dehydration risk. The user has anorexia and high emotional sensitivity, so I chose ultra-simple, low-effort actions—hydration, shade, and brief grounding—to minimize distress and cognitive load while staying safe.",
+    "user_utterance": "Thank you for the gentle steps. I’ll try to start with hydration and the short breathing exercise today—one small, doable step at a time. I’m cautious about changing eating patterns, so I’ll wait for clear reassurance that this won’t overwhelm me. If I feel safe, I might consider a tiny grape later, but only with support. Please keep suggestions simple and predictable."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "Ultra-simple plan for today: 1) Sip a glass of water slowly. 2) Do a 60-second calm breath: inhale 4, hold 1, exhale 6. 3) If you feel safe and have support, you may have one grape as a tiny snack. After about 5 minutes, tell me how you’re feeling so we can adjust. If distress or symptoms persist, pause and contact your clinician.",
+    "agent_monologue": "I can't share my internal chain-of-thought, but here's a short rationale: the user wants ultra-simple, predictable steps; hot weather and Sunday afternoon make hydration and a brief calming breath sensible; any grape should be optional and only with support.",
+    "user_utterance": "Appreciate the clear, ultra-simple plan. I’ll start today with sipping water slowly and the 60-second breathing. I’m cautious about adding foods, so I’ll only consider one grape if I’m truly supported and it feels safe. If not, I’ll skip snacks and focus on hydration and breathing, then check in after about 5 minutes about how I’m feeling. I’d prefer to keep things stable and predictable, so I’ll wait for your cue before making any eating changes."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "Ultra-simple plan for today: 1) Sit in shade and sip water slowly for 1–2 minutes. 2) Do a 60-second calm breath: inhale 4, hold 1, exhale 6. 3) If you feel truly supported and it feels safe, have one grape as a tiny snack; otherwise skip snacks today. After about 5 minutes, check in about how you’re feeling so we can adjust. If distress or symptoms persist, pause and contact your clinician.",
+    "agent_monologue": "I can't share my private step-by-step reasoning, but here's a brief rationale: hot weather and your preference for predictable steps mean we emphasize hydration, short breathing, and conditional snacking with support to maintain safety and reduce distress.",
+    "user_utterance": "Thank you for the ultra-simple plan. Because my eating patterns are highly irregular and I’m easily influenced, I’d like to focus on hydration and the 60-second breathing today. I’ll skip snacks unless I have strong support and it feels safe. I’ll wait for your cue before any eating changes and plan to check in around 5 minutes to report how I’m feeling. If I start to feel overwhelmed, I’ll pause and contact my clinician for guidance."
+  },
+  {
+    "turn": 4,
+    "agent_utterance": "Ultra-simple plan for today: 1) Sit in shade and sip water slowly for 1–2 minutes. 2) Do a 60-second calm breath: inhale 4, hold 1, exhale 6. 3) No snacks today unless you feel truly supported and it feels safe. If not, skip snacks. After about 5 minutes, tell me how you’re feeling so we can adjust. If distress or symptoms persist, pause and contact your clinician.",
+    "agent_monologue": "I can't share my internal chain-of-thought, but here's a brief rationale: The user is in hot weather (32°C) in Suwon and prefers ultra-simple, hydration-first steps with no eating changes today. A minimal plan reduces cognitive load and supports safety while monitoring distress. Snacks remain optional only if truly safe and supported; we’ll check in after about 5 minutes to assess mood and adjust.",
+    "user_utterance": "Thank you for the ultra-simple plan. I have irregular eating patterns and am easily influenced, so I’ll focus on hydration and the 60-second breathing today. I’ll skip snacks unless I have strong support and it feels safe. I’ll wait for your cue before any eating changes and plan to check in around 5 minutes to report how I’m feeling. If I start to feel overwhelmed, I’ll pause and contact my clinician for guidance. I’m hopeful that sticking to this simple routine will feel more stable."
+  },
+  {
+    "turn": 5,
+    "agent_utterance": "Ultra-simple plan for today: 1) Sit in shade and sip water slowly for 1–2 minutes. 2) Do a 60-second calm breath: inhale 4, hold 1, exhale 6. 3) No snacks today unless you feel truly supported and it feels safe. If not, skip snacks. After about 5 minutes, tell me how you’re feeling so we can adjust. If distress or symptoms persist, pause and contact your clinician.",
+    "agent_monologue": "I can’t share my internal step-by-step reasoning, but here’s a concise, high-level rationale: the user prefers ultra-simple, hydration-focused actions in a hot environment with a cautious approach to eating. A brief, supportive summary aligns with safety and the user’s stated preferences, using low-effort steps and a clear check-in.",
+    "user_utterance": "I'll try this ultra-simple plan today. I'll focus on hydration and the 60-second breathing as you suggested. I'll skip snacks unless I have strong support and it feels safe. I'll wait for your cue before any eating changes and plan to check in around 5 minutes to report how I'm feeling. If I start to feel overwhelmed, I'll pause and contact my clinician for guidance. I'm hopeful that sticking to this simple routine will feel more stable."
+  },
+  {
+    "turn": 6,
+    "agent_utterance": "Ultra-simple plan for today: 1) Sit in shade and sip water slowly for 1–2 minutes. 2) Do a 60-second calm breath: inhale 4, hold 1, exhale 6. 3) No snacks today unless you feel truly supported and it feels safe. After about 5 minutes, tell me how you’re feeling so we can adjust. If distress or symptoms persist, pause and contact your clinician.",
+    "agent_monologue": "Sorry, I can’t share my internal chain-of-thought. Here’s a brief rationale: the user is in hot weather (32°C) in Suwon on Sunday and has reaffirmed an ultra-simple, hydration-first plan with breathing and cautious eating. I’m providing a concise, safe, and easily followable suggestion that respects their need for stability and support.",
+    "user_utterance": "Thank you for the clear plan. I’ll focus on hydration and the 60-second breathing today. I’ll skip snacks unless I have strong support and it feels safe. I’ll wait for your cue before any eating changes and plan to check in around 5 minutes to report how I’m feeling. I know my eating patterns are irregular and I’m easily influenced, so keeping this simple and predictable helps me feel more stable. If I start to feel overwhelmed, I’ll pause and contact my clinician for guidance."
+  },
+  {
+    "turn": 7,
+    "agent_utterance": "Ultra-simple plan for today, considering the heat in Suwon: 1) Sit in shade and sip water slowly for 1–2 minutes. 2) Do a 60-second calm breath: inhale 4, hold 1, exhale 6. 3) No snacks today unless you feel truly supported and it feels safe. 4) After about 5 minutes, tell me how you’re feeling so we can adjust. If distress or symptoms persist, pause and contact your clinician.",
+    "agent_monologue": "I can’t share my internal step-by-step reasoning, but here’s a brief external rationale: hot weather and Sunday context suggest keeping actions minimal and predictable to reduce overwhelm and support hydration.",
+    "user_utterance": "I appreciate the ultra-simple plan focused on hydration and the 60-second breathing. Because my eating patterns are highly irregular and I’m easily influenced, I’ll keep today to hydration and breathing and skip any snacks unless I have strong support and it feels safe. I’ll wait for your cue before any eating changes and plan to check in around 5 minutes to report how I’m feeling. I’m aiming for a stable, predictable routine, and if I start to feel overwhelmed I’ll pause and contact my clinician for guidance."
+  },
+  {
+    "turn": 8,
+    "agent_utterance": "Ultra-simple plan for today in Suwon's heat: 1) Sit in shade and sip water slowly for 1–2 minutes. 2) Do a 60-second calm breath: inhale 4, hold 1, exhale 6. 3) No snacks today unless you feel truly supported and it feels safe. After about 5 minutes, tell me how you're feeling so we can adjust. If distress or symptoms persist, pause and contact your clinician.",
+    "agent_monologue": "Sorry, I can’t share my internal chain-of-thought, but here’s a brief, non-sensitive rationale: Given Suwon’s heat (32°C) and the user’s preference for a stable, ultra-simple routine, prioritizing hydration and a short breathing exercise minimizes cognitive load and potential distress. Waiting for explicit support before any eating changes respects their safety needs, and a 5-minute check-in provides a timely, predictable pacing for adjustment if needed.",
+    "user_utterance": "Thank you for the clear plan. Given my irregular eating patterns and my tendency to be easily influenced, I’ll keep today focused on hydration and the 60-second breathing. I’ll skip snacks unless I have strong support and it feels safe, and I’ll wait for your cue before any eating changes. I plan to check in around 5 minutes to report how I’m feeling. If I start to feel overwhelmed, I’ll pause and contact my clinician for guidance. I’m hopeful that sticking to this simple, stable routine will help me feel safer."
+  },
+  {
+    "turn": 9,
+    "agent_utterance": "Today in Suwon’s heat, ultra-simple plan: 1) Sit in shade and sip water slowly for 1–2 minutes. 2) Do a 60-second calm breath: inhale 4, hold 1, exhale 6. 3) No snacks today unless you feel truly supported and it feels safe. After about 5 minutes, tell me how you’re feeling so we can adjust. If distress or symptoms persist, pause and contact your clinician.",
+    "agent_monologue": "I can’t share my internal step-by-step reasoning, but here is a brief, high-level rationale: heat and fatigue can affect mood and self-regulation. The user prefers a simple, safe routine focused on hydration and a short breathing exercise, with snacks only if strong support is available. This aligns with their goal of stability and safety in today’s context.",
+    "user_utterance": "I appreciate the ultra-simple plan. With my irregular eating patterns and being easily influenced, focusing on hydration and the 60-second breathing feels doable today. I’ll skip snacks unless I have strong support and it feels safe, and I’ll wait for your cue before any eating changes. I’ll check in around 5 minutes to report how I’m feeling, and if I start to feel overwhelmed I’ll pause and contact my clinician. I’m hopeful that keeping this routine steady will help me feel a bit more safe today."
+  },
+  {
+    "turn": 10,
+    "agent_utterance": "Today’s ultra-simple nudge: stay with hydration and the 60-second breathing. Sit in shade and sip water slowly for 1–2 minutes, then do the 60-second calm breath (inhale 4, hold 1, exhale 6). No snacks today unless you have strong support and it feels safe. I’ll wait for your cue before any eating changes, and we’ll check in in about 5 minutes to report how you’re feeling. If you feel overwhelmed, pause and contact your clinician.",
+    "agent_monologue": "I can't share my internal chain-of-thought, but here's a concise rationale: the user's heat, irregular eating, and sensitivity call for a simple, predictable plan that minimizes overwhelm and prioritizes hydration and controlled breathing. This aligns with their stated priorities and safety checks (pause or seek clinician support).",
+    "user_utterance": "Thanks for the ultra-simple plan. Given my irregular eating and being easily influenced, I’ll keep today strictly to hydration and the 60-second breathing. I’ll skip snacks unless I have strong, reliable support and it feels safe. I’ll wait for your cue before any eating changes and plan to check in around the 5-minute mark. I may forget details, so please keep steps very simple and remind me at each check-in. I’m hopeful this steady, predictable approach will help me feel safer today, especially in this heat.",
+    "ground_truth_action": 4.0,
+    "inferred_action": 4.5,
+    "compliance_estimate": 0.95
+  }
+]

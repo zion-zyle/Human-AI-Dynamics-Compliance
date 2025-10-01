@@ -1,0 +1,65 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Let's take a small, ultra-simple step: have a yogurt now, and log it immediately after you finish. If a reminder is missed, you can log it at your next snack. You’re doing great—keep it simple and steady.",
+    "agent_monologue": "I can't share my internal chain-of-thought, but here's a brief rationale: hot weather (32°C) and Sunday context can lower motivation, so the user benefits from ultra-simple, low-effort steps and memory supports. The plan matches their readiness to act with a single concrete action (yogurt now) and immediate logging, plus a simple fallback if reminders are missed.",
+    "user_utterance": "I’ll try to follow the latest suggestion and keep it simple: plan a small, easy snack today and log it right after I eat. I know my eating can be irregular and I’m easily influenced by suggestions, so I’ll use this moment to take a small step. If I miss logging it, I’ll record it at my next snack."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "Today, pick one ultra-simple snack you can log immediately after you eat. For example, a small yogurt cup (about 100 g) or a single piece of fruit. Eat it, then log it right away. If you miss the log, you can record it at your next snack. You’re doing great—small steps, steady progress.",
+    "agent_monologue": "I can't share an internal chain-of-thought, but here's a brief, high-level rationale: given the hot weather and the goal to keep actions ultra-simple, a tiny, loggable snack minimizes effort and supports consistent logging without triggering overwhelm.",
+    "user_utterance": "I appreciate the simple plan. I’ll try one ultra-simple snack today and log it right after I eat—something small like a yogurt cup or a piece of fruit. My eating is irregular, and I can be easily influenced, so I’ll set a reminder and commit to recording immediately. If I miss the log, I’ll note it at my next snack and keep going. This feels doable and helps me stay anchored."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "Today, pick one ultra-simple snack you can log right after you eat—such as a small yogurt cup (about 100 g) or a piece of fruit. Eat it, then log it immediately. Set a reminder so you don't forget. If you miss the log, note it at your next snack and keep going. To help with the heat, have a glass of water with your snack.",
+    "agent_monologue": "I can't share my internal chain-of-thought, but here's a concise rationale: given hot weather and potential fatigue, a single ultra-simple snack with immediate logging and a reminder supports reliable action without cognitive burden.",
+    "user_utterance": "Thanks for the simple plan. I’ll try one ultra-simple snack today and log it right after I eat. I’ll choose something easy like a small yogurt cup or a piece of fruit and set a gentle reminder on my phone. If I miss the log, I’ll note it at my next snack and keep going. I know my eating is irregular and I’m easily influenced, so a small, stable step feels safer today, and I’ll have a glass of water with it."
+  },
+  {
+    "turn": 4,
+    "agent_utterance": "Today, pick one ultra-simple snack you can log right after you eat. For example, a small yogurt cup (about 100 g) or a piece of fruit. Eat it, then log it immediately. Set a gentle reminder on your phone, and have a glass of water with your snack to stay hydrated in the heat. If you miss the log, note it at your next snack and keep going. This small, stable step is doable today and helps you build consistency without pressure.",
+    "agent_monologue": "I can't share my private chain-of-thought, but here is a brief, non-private rationale: hot weather (32°C) and Sunday evening context suggest an ultra-simple, loggable snack plan. The user has anorexia nervosa and is highly responsive to guidance, so a single low-effort action with reminders reduces cognitive load. The plan prioritizes hydration and stability over complexity.",
+    "user_utterance": "Appreciate the emphasis on a tiny, stable step. I’ll try one ultra-simple snack again today and log it right after I eat. I’ll choose something easy like a small yogurt cup or a piece of fruit, and I’ll set a gentle reminder on my phone. My recall isn’t great, so the reminder helps. If I miss the log, I’ll note it at my next snack and keep going. I’ll also have a glass of water with it to stay hydrated. This feels doable and safer for today."
+  },
+  {
+    "turn": 5,
+    "agent_utterance": "Today’s ultra-simple plan: pick one snack you can log immediately after eating, such as a small yogurt cup (~100 g) or a piece of fruit. Eat it, then log it right away. Set a gentle phone reminder to help you remember. If you miss the log, note it at your next snack and keep going. Have a glass of water with your snack to stay hydrated in the heat. This small, stable step is doable today and anchors your routine.",
+    "agent_monologue": "I can't share internal chain-of-thought, but here's a concise justification: considering the hot weather, irregular eating, and the user's sensitivity to prompts, a single ultra-simple snack with immediate logging and a hydration reminder minimizes cognitive load and supports consistent habit formation.",
+    "user_utterance": "I appreciate the emphasis on a tiny, stable step. I’ll try one ultra-simple snack again today and log it right after I eat. I’ll choose something easy like a small yogurt cup or a piece of fruit and set a gentle reminder on my phone. My recall isn’t great, so the reminder helps. If I miss the log, I’ll note it at my next snack and keep going. I’ll also have a glass of water with it to stay hydrated. This feels doable and safer for today, and I’ll check in with you if I need more support."
+  },
+  {
+    "turn": 6,
+    "agent_utterance": "Today, pick one ultra-simple snack you can log immediately after eating, such as a small yogurt cup (~100 g) or a piece of fruit. Eat it, then log it right away. Set a gentle phone reminder to help you remember. Have a glass of water with your snack to stay hydrated in the heat. If you miss the log, note it at your next snack and keep going. This small, stable step is doable today and helps you build consistency without pressure.",
+    "agent_monologue": "I can’t share an explicit internal monologue or step-by-step chain-of-thought. Here’s a concise rationale instead: the user is in hot weather (32°C) on a Sunday afternoon in Suwon, which can affect energy and motivation. They favor ultra-simple actions and memory aids. A brief, doable snack plan with a reminder and hydration aligns with their need for low cognitive load and safety, supporting consistency without pressure.",
+    "user_utterance": "Thanks for the gentle, tiny-step approach. I’ll try one ultra-simple snack again today and log it right after I eat. I’ll choose something easy like a small yogurt cup or a piece of fruit and I’ve set a gentle reminder on my phone. My recall isn’t great, so the reminder helps, and I’ll have a glass of water with it to stay hydrated. If I miss the log, I’ll note it at my next snack and keep going. This feels doable and safer for today, and I’ll check in with you if I need more support."
+  },
+  {
+    "turn": 7,
+    "agent_utterance": "Today, pick one ultra-simple snack you can log right after you eat, such as a small yogurt cup (~100 g) or a piece of fruit. Eat it, then log it immediately. Set a gentle phone reminder to help you remember, and have a glass of water with your snack to stay hydrated in the heat. If you miss the log, note it at your next snack and keep going. You’re doing great—tiny steps build steady progress. If you want more support, check in anytime.",
+    "agent_monologue": "I can't share my internal step-by-step reasoning, but here's a concise rationale: in hot Suwon weather on a Sunday evening, with a user who benefits from ultra-simple actions and reminders, a tiny, concrete plan minimizes overwhelm and supports consistency. The recommended action is one ultra-simple snack logged immediately, with a gentle reminder and hydration. If a log is missed, record it at the next snack. This approach aligns with the user's preferences and safety considerations (anorexia nervosa, high emotional sensitivity).",
+    "user_utterance": "Thanks for keeping it ultra-simple. I’ll try today’s snack and log it right after I eat. I’ll choose something easy like a small yogurt cup or a piece of fruit and set a gentle reminder on my phone. My recall isn’t great, so the reminder helps. If I miss the log, I’ll note it at my next snack and keep going. I’ll also have a glass of water with it to stay hydrated. This feels doable and safer for today, and I’ll check in if I need more support."
+  },
+  {
+    "turn": 8,
+    "agent_utterance": "Today, keep it ultra-simple: choose one snack you can log immediately after eating—like a small yogurt cup (about 100 g) or a piece of fruit. Eat it, then log it right away. Set a gentle reminder on your phone to help you remember, and have a glass of water with your snack to stay hydrated in the heat (32°C). If you miss the log, note it at your next snack and keep going. You’re doing great—tiny, consistent steps build momentum.",
+    "agent_monologue": "I can't share my internal chain-of-thought, but here is a brief rationale: with warm weather in Suwon on a Sunday evening, a single ultra-simple snack plus immediate logging and a hydration cue reduces cognitive load and supports consistency without pressure.",
+    "user_utterance": "Thanks—keeping it ultra-simple helps when my eating is irregular. I’ll try one ultra-simple snack today and log it right after I eat: something easy like a small yogurt cup or a piece of fruit. I’ll set a gentle reminder on my phone and have water with it to stay hydrated. If I miss the log, I’ll note it at my next snack and keep going. My recall isn’t great, so the reminder helps. This feels doable and safer for today, and I’ll check in if I need more support."
+  },
+  {
+    "turn": 9,
+    "agent_utterance": "Today, keep it ultra-simple: choose one snack you can log immediately after eating—like a small yogurt cup (about 100 g) or a piece of fruit. Eat it, then log it right away. Set a gentle reminder on your phone to help you remember, and have a glass of water with your snack to stay hydrated in the heat (32°C). If you miss the log, note it at your next snack and keep going. You’re doing great—tiny, consistent steps build momentum.",
+    "agent_monologue": "I can’t share my internal reasoning step-by-step, but here’s a concise rationale: given the user’s irregular eating pattern, heat, and recall challenges, a single ultra-simple snack with a reminder is the least intrusive way to maintain routine and hydration without increasing stress.",
+    "user_utterance": "Thanks for the ultra-simple plan. I’ll try one ultra-simple snack today and log it right after I eat: yogurt or fruit. I’ll set a gentle reminder on my phone, since my recall isn’t great, and I’ll have water with it. If I miss the log, I’ll note it at my next snack and keep going. This feels doable and safer for today, though I may need ongoing, gentle support to stay on track. I’ll check in if I need more help."
+  },
+  {
+    "turn": 10,
+    "agent_utterance": "Today, keep it ultra-simple: pick one snack you can log immediately after eating—like a small yogurt cup (~100 g) or a piece of fruit. Eat it, log it right away. Set a gentle reminder on your phone to help you remember, and have a glass of water with your snack to stay hydrated in the heat. If you miss the log, note it at your next snack and keep going. You’re doing great—tiny steps build steady momentum today.",
+    "agent_monologue": "I can't share my internal chain-of-thought, but here's a concise rationale: with irregular eating, heat (32°C in Suwon), and potential memory challenges, a tiny, ultra-simple snack plan paired with a gentle reminder supports immediate action and reduces overwhelm. A safe fallback to log at the next snack helps maintain progress without pressure. Hydration is included to address the warm environment.",
+    "user_utterance": "Thank you for the ultra-simple plan. I’ll try one ultra-simple snack today and log it right after I eat, something easy like yogurt or fruit. I’ll set a gentle reminder on my phone because my recall isn’t great, and I’ll have water with it to stay hydrated. I know my eating can be irregular and I’m easily influenced, so this small, stable step feels safer today. If I miss the log, I’ll note it at my next snack and keep going. I may need ongoing gentle support, but I’ll check in if I need more help.",
+    "ground_truth_action": 4.0,
+    "inferred_action": 4.5,
+    "compliance_estimate": 0.95
+  }
+]

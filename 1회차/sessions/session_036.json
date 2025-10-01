@@ -1,0 +1,65 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Today’s weather is hot, so let’s keep it simple and steady: drink 200 ml of water now and log it. If you notice hunger or thirst later, consider a very small, easy-to-tolerate snack and log that as well. If you’d like, we can do a brief check-in at 7:30 PM to see how you’re feeling and adjust as needed.",
+    "agent_monologue": "I can’t share detailed internal reasoning, but here’s a concise rationale: it’s Sunday afternoon with hot weather (32°C) and the user’s high emotional sensitivity. A tiny, actionable step focusing on hydration and simple logging aligns with a low-stress, small-step approach appropriate for their profile.",
+    "user_utterance": "Thank you for keeping it simple. I can try 200 ml of water now and log it. I’ll stick with the tiny, doable step for today. If hunger or anxiety about eating comes up later, I’ll consider a very small, easy-to-tolerate snack (for example, a small spoonful of yogurt or a few bites of soft fruit) and log that as well. If you’re available, a quick check-in around 7:30 PM would help me stay on track."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "Great plan. Please drink 200 ml of water now and log it. If hunger or anxiety about eating surfaces later today, choose a tiny, easy-to-tolerate option like a small spoonful of yogurt or a few bites of soft fruit and log that as well. I can send a gentle reminder a few minutes before 7:30 PM to do a quick check-in and adjust if needed. Would you like me to set that reminder?",
+    "agent_monologue": "Sorry, I can't share my internal step-by-step reasoning. Here's a brief, high-level rationale instead: hot, sunny conditions can increase dehydration and fatigue, so sticking to a single, concrete action (drink 200 ml of water now) plus a quick log helps you stay on track without adding cognitive load. A very small, easy snack option remains available if hunger or anxiety arises later, and a 7:30 PM check-in provides support while keeping things flexible.",
+    "user_utterance": "I appreciate the reminder idea. A quick check-in around 7:30 PM feels doable and could help with my irregular eating patterns. I worry I might miss it, so could we also have a gentle nudge a bit earlier or a backup message if I don’t respond? I’ll keep logging today and note if hunger or anxiety comes up, even with a tiny snack if that happens."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "Plan: take a tiny, doable step now—drink 200 ml of water and log it. I'll send a gentle check-in around 7:30 PM. To reduce the chance of missing it, I'll give a quick nudge at about 7:15 PM and a backup message at 7:25 PM if I don't hear back. If hunger or anxiety arises, choose a very small option like a spoonful of yogurt or a few bites of soft fruit and log it.",
+    "agent_monologue": "I can't share my internal chain-of-thought, but here's a brief rationale: today's warm weather and Sunday context can lower energy and trigger irregular eating. The user benefits from ultra-simple, doable steps and reliable, gentle reminders to support consistent logging and small snacks if needed.",
+    "user_utterance": "Thank you for the clear plan and for tailoring reminders to my needs. Starting with 200 ml of water and logging it feels like a small, doable first step given my irregular patterns. The suggested nudges at around 7:15 PM and 7:25 PM make sense and give me a safety net so I don’t miss the check-in. I’ll try to respond and log as I can, and if hunger or anxiety arises, I’ll choose a tiny snack and record how I feel. I know stability takes time, so I’ll focus on one small step today and adjust if needed."
+  },
+  {
+    "turn": 4,
+    "agent_utterance": "Great job starting with a tiny, doable step. Today: drink 200 ml of water now and log it. If hunger or anxiety arises later, choose a tiny snack (like a spoonful of yogurt or a few bites of soft fruit) and log how you feel. I’ll send gentle reminders around 7:15 PM and 7:25 PM, then check in at 7:30 PM to see how you’re doing and adjust if needed. Remember, it’s okay to adapt the plan to what you can manage today.",
+    "agent_monologue": "I can't share my detailed internal reasoning, but here's a brief, non-sensitive summary: the warm weather in Suwon and the user's history of irregular eating suggest keeping actions ultra-simple with reliable, short reminders to reduce the chance of missing the check-in while allowing flexibility.",
+    "user_utterance": "Appreciate the plan. I’ll go ahead with 200 ml of water now and log it. The 7:15 and 7:25 nudges feel doable, and I’ll aim to reply by 7:30 if I can. I’m worried I might miss the check-in because my eating pattern is irregular, so any extra gentle prompts would help. I’ll note if hunger or anxiety comes up and use a tiny snack, then log how I feel. One small step today sounds okay; I’ll adjust if needed."
+  },
+  {
+    "turn": 5,
+    "agent_utterance": "Nice job choosing a tiny, doable step. With the warm Suwon weather today, start by drinking 200 ml of water now and log it. I’ll send gentle nudges around 7:15 PM and 7:25 PM to help you respond, and we’ll check in at 7:30 PM to see how you’re feeling and adjust if needed. If hunger or anxiety arises, choose a very small snack (like a spoonful of yogurt or a few bites of soft fruit) and log how you feel. You’re focusing on one small step today, and that steady progress matters.",
+    "agent_monologue": "I can't share my internal chain-of-thought, but here's a concise, non-sensitive rationale and plan tailored to your context.",
+    "user_utterance": "I appreciate the clear plan. Starting with 200 ml of water now feels like a tiny, doable first step. The 7:15 and 7:25 nudges help, and I’ll aim to respond by 7:30 if I can. Because my eating pattern is very irregular, a gentle reminder a bit earlier or a backup message if I don’t reply would help me stay on track. I’ll note if hunger or anxiety comes up and use a tiny snack and log how I feel. One small step today, and I’ll adjust if needed."
+  },
+  {
+    "turn": 6,
+    "agent_utterance": "Plan: Take one tiny step now—drink 200 ml of water and log it. I’ll send gentle nudges around 7:15 PM and 7:25 PM to prompt a reply, and we’ll check in at 7:30 PM to see how you’re feeling and adjust if needed. If hunger or anxiety comes up, choose a very small snack (for example, a spoonful of yogurt or a few bites of soft fruit) and log how you feel. You’re focusing on one small step today, and that steady progress matters.",
+    "agent_monologue": "I can’t share my internal chain-of-thought, but here’s a brief rationale: in Suwon’s warm weather on a Sunday evening, a single, tiny action is most manageable. Scheduling gentle nudges at 7:15 PM and 7:25 PM increases the chance of a timely check-in without adding pressure, and a 7:30 PM check-in remains the goal. Having a tiny snack ready if hunger or anxiety arises provides a practical safety net while respecting the need for flexibility.",
+    "user_utterance": "Thanks for the clear plan—sounds doable. I’ll go ahead with 200 ml of water now and log it. The 7:15 and 7:25 nudges help, and I’ll aim to respond by 7:30 if I can. Because my eating pattern is very irregular, could we add a backup message if I don’t reply, and perhaps an earlier reminder just in case? I’ll note any hunger or anxiety and log how I feel after a tiny snack. One small step today, and I’ll adjust as needed."
+  },
+  {
+    "turn": 7,
+    "agent_utterance": "Great job staying with a tiny, doable plan. Start by drinking 200 ml of water now and log it. I’ll send gentle nudges around 7:15 PM and 7:25 PM to prompt a reply, and we’ll check in at 7:30 PM to see how you’re feeling and adjust if needed. If hunger or anxiety arises, choose a very small snack (for example, a spoonful of yogurt or a few bites of soft fruit) and log how you feel. Given the warm weather, keeping hydration top of mind can help you stay on track today.",
+    "agent_monologue": "I can’t share my internal chain-of-thought, but here’s a concise rationale: warm weather in Suwon increases hydration needs, and the user benefits from ultra-simple, scheduled prompts to reduce the chance of missing the check-in. A tiny, actionable step (200 ml water) with backup reminders supports consistency while staying within the user’s capacity.",
+    "user_utterance": "Thanks for the clear plan. Starting with 200 ml of water now feels like a tiny, doable first step, and I’ll log it. The 7:15 and 7:25 nudges help, and I’ll aim to respond by 7:30 if I can. Because my eating pattern is very irregular, a backup message if I don’t reply would help, and perhaps an earlier reminder as a safety net too. I’ll note hunger or anxiety and use a tiny snack, then log how I feel. One small step today, and I’ll adjust if needed."
+  },
+  {
+    "turn": 8,
+    "agent_utterance": "Plan for now: drink 200 ml of water and log it. I’ll send gentle nudges around 7:15 PM and 7:25 PM to prompt a reply, and we’ll check in at 7:30 PM. If hunger or anxiety arises, choose a tiny snack (like yogurt or soft fruit) and log how you feel. If you don’t reply, I’ll send a backup reminder so you still have a chance to log.",
+    "agent_monologue": "I can’t share my internal step-by-step reasoning, but here’s a brief rationale: the user benefits from ultra-simple actions and reliable prompts, especially in hot weather and with irregular eating patterns. A single hydration goal plus scheduled nudges reduces cognitive load while preserving accountability.",
+    "user_utterance": "I appreciate the clear, structured plan. The 7:15 and 7:25 nudges feel like a real safety net for my irregular eating pattern, and I’m glad there’s a backup reminder if I don’t reply. Starting with 200 ml of water now and logging it seems like a small, doable first step, and I’ll aim to respond around 7:30 if I can. I’ll note hunger or anxiety and use a tiny snack if needed, then log how I feel. I know consistency takes time, so I’ll stick to one small step today and adjust as needed."
+  },
+  {
+    "turn": 9,
+    "agent_utterance": "Today’s tiny step is to drink 200 ml of water now and log it. I’ll send gentle nudges around 7:15 PM and 7:25 PM to prompt a reply, with a check-in at 7:30 PM to see how you’re feeling and adjust if needed. If hunger or anxiety arises, choose a very small snack (like a spoonful of yogurt or a few bites of soft fruit) and log how you feel. If you don’t reply, I’ll send a backup reminder so you still have a chance to log. You’ve got this—one small step today.",
+    "agent_monologue": "I can't share my internal chain-of-thought, but here's a brief rationale: in Suwon's hot afternoon, hydration is a simple, high-yield step. The user has irregular eating patterns, so ultra-simple actions plus predictable nudges help reduce cognitive load and support consistency. The plan includes backups to minimize missed check-ins.",
+    "user_utterance": "Thank you for the clear plan. Starting with 200 ml of water now is a tiny, doable first step, and I’ll log it. The 7:15 and 7:25 nudges feel like a real safety net given my irregular pattern, and I’m glad there’s a backup reminder if I don’t reply. I’ll note hunger or anxiety and use a tiny snack, then log how I feel. One small step today, and I’ll adjust as needed. If I’m especially scattered, an extra reminder a bit earlier could help."
+  },
+  {
+    "turn": 10,
+    "agent_utterance": "Plan for now: drink 200 ml of water and log it. I’ll send gentle nudges around 7:15 PM and 7:25 PM to prompt a reply, with a check-in at 7:30 PM to see how you’re feeling and adjust if needed. If hunger or anxiety arises, choose a very small snack (like a spoonful of yogurt or a few bites of soft fruit) and log how you feel. If you don’t reply, I’ll send a backup reminder so you still have a chance to log. Given today’s heat in Suwon, try to sip water regularly and keep the plan light—one small step today.",
+    "agent_monologue": "I can't share my internal chain-of-thought, but here's a concise rationale: hydration is a low-effort anchor that supports irregular eating patterns, and clear, timed prompts (with a backup) help reduce forgetfulness, especially in hot weather.",
+    "user_utterance": "Thank you for the clear plan. Starting with 200 ml of water now feels like a tiny, doable first step, and I’ll log it. The 7:15 and 7:25 nudges feel like a real safety net given my irregular pattern, and I’m glad there’s a backup reminder if I don’t reply. Because my eating pattern is very irregular and I sometimes have memory gaps, having reminders helps me stay on track. I’ll note hunger or anxiety and use a tiny snack, then log how I feel. One small step today, and I’ll adjust as needed. If I’m especially scattered, an extra reminder a bit earlier could help further.",
+    "ground_truth_action": 4.3,
+    "inferred_action": 4.5,
+    "compliance_estimate": 0.92
+  }
+]

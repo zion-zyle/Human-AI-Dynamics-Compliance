@@ -1,0 +1,65 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "It’s hot today, so let’s keep this ultra-simple: drink 200 ml of water now (you can do 100 ml now and 100 ml a bit later if you prefer). Then take a short 60-second calm breath: inhale slowly for 4 counts, exhale for 6 counts, shoulders relaxed. If you feel up to it, you can have a tiny snack in 15–20 minutes (like a small yogurt or a piece of fruit) to support gentle intake. Remember, tiny, doable steps add up—you’re doing great.",
+    "agent_monologue": "I can’t share my internal chain-of-thought, but here’s a concise rationale: it’s Sunday in Suwon with hot weather and the user has meal-related anxiety. A tiny, concrete action that supports hydration and a brief calming exercise fits the situational stress and the prior plan (200 ml water split if needed, plus a 60-second focus).",
+    "user_utterance": "Thanks for the plan. I’m feeling a bit unsettled, and I struggle with routines, but I’ll try a small sip of water now and the 60-second breathing. If I’m able, I’ll add a tiny snack later, keeping it very small and at a fixed time to help me feel a bit more stable today."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "You're doing great by sticking to a tiny, doable plan. Please take a small sip of water now (about 100 ml, you can do it in two easy sips if that helps). Then try a 60-second calm breath: inhale slowly for 4 counts, exhale for 6 counts, shoulders relaxed. If you can, set a fixed time in about 15–20 minutes for a very small snack (for example, a tiny yogurt or a piece of fruit). Keep it ultra-simple: one sip, one breath, one tiny snack if feasible. You’re making progress with these small steps, even on a tough day.",
+    "agent_monologue": "I can't share my internal chain-of-thought, but here is a concise rationale: the environment is hot in Suwon, and the user has expressed difficulty with routines. A tiny, low-effort plan (small water intake and a brief breathing exercise) with the option of a fixed-time, very small snack provides grounding without pressure.",
+    "user_utterance": "I appreciate the plan. I’m feeling a bit unsettled today and routines are tough for me, but I want to try one tiny step at a time. I’ll have a very small sip of water now, maybe in two easy sips, and I’ll do the 60-second breath with slow inhales and longer exhales. The idea of a tiny snack at a fixed time feels scary, but I’ll consider it for a bit of stability if I can manage it in the next 15–20 minutes, keeping it very small. If that’s too much, I’ll try again later with the next small step. Thank you for the support."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "Let’s try one tiny step at a time: start with a very small sip of water (two easy sips, about 50–100 ml total). Then do a 60-second calm breath: inhale for 4 counts, exhale for 6 counts, shoulders relaxed. If you can, set a fixed time in the next 15–20 minutes for a tiny snack (e.g., a small yogurt or a piece of fruit). If that feels overwhelming today, that’s okay—focus on the water and breath, and we can try the snack later. You’re handling this with care on a hot day in Suwon.",
+    "agent_monologue": "I can’t share my internal chain-of-thought, but here’s a brief rationale: given the user’s unsettled state and hot weather, offering ultra-small, hydration-focused steps plus a brief breathing exercise is appropriate and non-threatening. If a snack at a fixed time feels too much today, we can defer and still support progress with the tiny steps. This respects anorexia-sensitive guidance and emphasizes agency and safety.",
+    "user_utterance": "Thank you for the gentle plan. I can try two easy sips of water and the 60-second breath. The fixed-time snack feels scary, but I’ll consider it for 15–20 minutes if I can manage. If that’s still too much, I’ll try again later with the next small step. I’m glad we’re taking this one step at a time."
+  },
+  {
+    "turn": 4,
+    "agent_utterance": "Nice forward step. Try two easy sips of water now (about 50–100 ml total) and a 60-second calm breath (inhale 4 counts, exhale 6 counts, shoulders relaxed). If you feel ready, consider a very small snack in the next 15–20 minutes; if not today, we can try again later. You’re handling this one step at a time, and that’s a meaningful win.",
+    "agent_monologue": "I can't share my internal chain-of-thought, but here's a concise rationale: given the hot weather in Suwon and the user's preference for tiny steps, a very low-effort action (two easy sips of water) plus a 60-second breathing exercise is appropriate. The fixed-time snack remains optional to reduce anxiety; we can revisit it later if the user feels ready.",
+    "user_utterance": "Thank you for the gentle plan. I can try two easy sips of water now and the 60-second breath. The fixed-time snack feels scary, but I’ll consider it in the next 15–20 minutes if I’m able. If that’s still too much today, I’ll try again later with the next small step. I know routines are hard for me, so I’ll focus on one small thing at a time."
+  },
+  {
+    "turn": 5,
+    "agent_utterance": "Two easy sips of water now (about 50–100 ml total) and a 60-second calm breath (inhale 4 counts, exhale 6 counts, shoulders relaxed). If you feel ready, consider a very small snack in the next 15–20 minutes (e.g., a small yogurt or a piece of fruit). If that feels too much today, that’s okay—we can try again later with the next tiny step. You’re doing great by taking this one-step-at-a-time approach, especially with the heat in Suwon.",
+    "agent_monologue": "I can’t share my internal step-by-step reasoning, but here’s a concise rationale: hot weather and routine challenges can heighten anxiety around meals. A tiny, repeatable plan focusing on hydration and breathing minimizes overwhelm and supports stability for someone with anorexia nervosa. The suggestion emphasizes one small action now and a very small snack only if feasible within 15–20 minutes.",
+    "user_utterance": "That plan feels doable. I'll try two easy sips of water now and the 60-second calm breath. The fixed-time snack feels scary, but I’ll consider it in the next 15–20 minutes if I can manage. If that’s still too much today, I’ll try again later with the next small step. I know routines are hard for me, so I’ll focus on one small thing at a time and be gentle with myself."
+  },
+  {
+    "turn": 6,
+    "agent_utterance": "Two easy sips of water now (about 50–100 ml total) and a 60-second calm breath (inhale for 4 counts, exhale for 6 counts, shoulders relaxed). If you feel ready, consider a very small snack in the next 15–20 minutes; if not today, we can try again later with the next tiny step. You’re handling this one-step-at-a-time approach, especially with the heat in Suwon.",
+    "agent_monologue": "I can't share my detailed internal chain-of-thought, but here's a concise rationale: in hot Suwon conditions, the user benefits from ultra-simple, non-stressful steps. A hydration bite and brief breathing reduces arousal without triggering anxiety about meals. The fixed snack remains optional to preserve autonomy.",
+    "user_utterance": "Two easy sips of water now and the 60-second calm breath feel doable. The fixed-time snack still feels scary, but I’ll try to hold it in mind for the next 15–20 minutes and decide then. If that’s too much today, I’ll try again later with the next tiny step. I know routines are hard for me, so I’ll focus on one small thing at a time and be gentle with myself."
+  },
+  {
+    "turn": 7,
+    "agent_utterance": "Two easy sips of water now (about 50–100 ml total) and a 60-second calm breath (inhale 4 counts, exhale 6 counts, shoulders relaxed). If you feel ready, consider a very small snack in the next 15–20 minutes (e.g., a small yogurt or a piece of fruit). If that feels like too much today, we can try again later with the next tiny step. You’re handling this one-step-at-a-time, especially with the heat in Suwon.",
+    "agent_monologue": "I can’t share my internal chain-of-thought, but here’s a concise rationale: it’s a hot Sunday afternoon in Suwon (32°C), and the user has a history of anorexia with high emotional sensitivity. A tiny, repeatable routine focusing on hydration and breathing is low-friction and supports regulation without overwhelming them. The optional, very small snack remains on the table if they feel capable in the next 15–20 minutes. This aligns with a low-intensity plan and respects the user’s preference to take one small step at a time.",
+    "user_utterance": "That sounds doable for today. I’ll try two easy sips of water and the 60-second breath. The idea of a tiny snack feels scary, but I’ll keep it as a possible option for 15–20 minutes if I feel able. If that’s too much, I’ll just stick with the water and breath and recheck in later. I know routines are hard for me, so I’ll take one small step at a time and be gentle with myself, especially with the heat in Suwon."
+  },
+  {
+    "turn": 8,
+    "agent_utterance": "Two easy sips of water now and a 60-second calm breath can ground you today. The fixed-time snack is there as a possible option in 15–20 minutes if you feel able; if that feels overwhelming, you can skip the snack and recheck later. Remember to stay gentle with yourself and, in this heat, take breaks in the shade and sip water slowly.",
+    "agent_monologue": "I can't share my internal chain-of-thought, but here's a brief rationale: given the heat in Suwon and the user's anxiety around meals, a tiny, low-effort plan (water and slow breathing) is the most feasible step today. Providing an optional snack later respects the user's anxiety while allowing for possible progression if they feel able.",
+    "user_utterance": "Okay, I can try two easy sips of water now and the 60-second calm breath. The snack idea feels scary, but I’ll keep it as a possible option for 15–20 minutes if I feel able; if that becomes too much, I’ll skip it and try again later. It’s hot in Suwon, so I’ll take it slow and be gentle with myself."
+  },
+  {
+    "turn": 9,
+    "agent_utterance": "Two easy sips of water now and a 60-second calm breath can ground you today. If you feel ready, you may add a very small snack in the next 15–20 minutes; if that feels like too much, skip it and try again later. Remember to go at your own pace and stay gentle with yourself, especially in the heat of Suwon.",
+    "agent_monologue": "I can't share my internal chain-of-thought, but here's a concise justification: hot Suwon weather and the user's preference for tiny steps suggest starting with two easy sips of water and a 60-second calm breath, with an optional snack later if tolerable. This keeps things simple and reduces overwhelm while supporting hydration and regulation.",
+    "user_utterance": "Thank you for the steady plan. I’ll try two easy sips of water and the 60-second breath. The snack idea feels scary, but I’ll keep it as an option for 15–20 minutes if I feel able. If that becomes too much today, I’ll skip it and try again later. It’s hot in Suwon, so I’ll go slow and be gentle with myself, focusing on one small step at a time and reaching out if I need more support."
+  },
+  {
+    "turn": 10,
+    "agent_utterance": "Today’s small steps: two easy sips of water now (about 50–100 ml) and a 60-second calm breath (inhale 4, exhale 6, shoulders relaxed). If you feel able, consider a very tiny snack in the next 15–20 minutes (e.g., a small yogurt or piece of fruit); if that feels too much today, skip it and try again later. Since it’s hot in Suwon (around 32°C), take breaks in the shade and sip water slowly. You’re doing well by taking one small step at a time.",
+    "agent_monologue": "I can’t share my internal chain-of-thought, but here’s a concise rationale: in hot Suwon weather, a ultra-short, low-stress plan with optional gains helps reduce anxiety and supports steady intake. The user benefits from concrete, repeatable steps and permission to skip optional steps if overwhelmed.",
+    "user_utterance": "Thank you for the steady plan. I’ll try two easy sips of water now and the 60-second calm breath. The snack option still feels scary, but I’ll keep it as a possible idea for 15–20 minutes if I feel able; if that becomes too much today, I’ll skip it and try again later. It’s hot in Suwon, so I’ll go slow and be gentle with myself, focusing on one small step at a time.",
+    "ground_truth_action": 4.0,
+    "inferred_action": 4.5,
+    "compliance_estimate": 0.87
+  }
+]

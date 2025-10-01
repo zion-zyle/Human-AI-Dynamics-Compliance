@@ -1,0 +1,65 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "In the next few minutes, try: 1) two easy sips of water (small, comfortable sips), 2) a 60-second calm breath (inhale for 4 counts, exhale for 6–8 counts) in shade or a cool spot, and 3) if you feel safe and your body allows, a tiny, easy-to-digest snack (like a few grapes or a spoon of yogurt). If a snack feels scary, pause and revisit it later. You’re taking gentle steps, and that matters.",
+    "agent_monologue": "I can't share my internal chain-of-thought, but here's a concise rationale: it's a hot Sunday in Suwon, and the user benefits from ultra-simple, non-pressuring steps that build on prior success. The plan emphasizes breathing, hydration, and optional small nourishment to support emotional safety and gradual progress.",
+    "user_utterance": "Thanks for the gentle plan. I can start with two easy sips of water and the 60-second calm breath. I'm hesitant about the snack today, but if I feel safe later, I might try a tiny bite. Please keep the steps small and repeatable, and check in on how I felt after the breathing and water."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "Great job with two sips of water and the 60-second calm breath. Quick check-in: on a scale from 0 (very unsettled) to 10 (very calm), how are you feeling right now? Notice any physical signals (thirst, fullness, dizziness, stomach discomfort) you’d like to share. If you feel safe and open to it, you could try a tiny bite in about 15–20 minutes (for example, a few grapes) only if it feels safe and not distressing. If not, that’s perfectly fine—we can revisit later with ultra-simple, optional steps. And since it’s hot outside, stay in shade, sip water as needed, and read your body’s cues before deciding on anything further.",
+    "agent_monologue": "I can't share my internal chain-of-thought, but I will provide a concise rationale and actionable plan tailored to your request.",
+    "user_utterance": "Thank you. I did the two sips of water and the 60-second calm breath. I’m feeling a bit unsettled, maybe a 4 or 5. Because my eating patterns are irregular and I’m easily influenced by suggestions, I want to keep things very slow and simple today. I might try a tiny bite like a grape in about 15 to 20 minutes if I still feel safe and not distressed. If I’m not ready, I’ll skip it and revisit later with ultra-simple steps. I’ll stay in the shade and keep drinking water and listening to my body’s cues."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "Nice work. For the next 15–20 minutes: stay in shade and sip water as needed; if unsettled, take a quick 60-second calm breath. In 15–20 minutes, check in with your body. If you still feel safe and not distressed, try a tiny bite like one grape. If you're not ready, skip it and revisit later with ultra-simple steps. You’ve got this, and I’m here with you.",
+    "agent_monologue": "I can't share my private chain-of-thought, but here's a concise rationale: the user is in hot weather (32°C) in Suwon on a Sunday afternoon, prefers ultra-simple steps, and reports unsettled feelings (around 4–5). A minimal plan focusing on hydration, grounding breathing, shade, and an optional tiny bite later minimizes pressure and supports self-compassion.",
+    "user_utterance": "Thanks for the clear, ultra-simple plan. I’ll keep things very small today: stay in shade, sip water as needed, and do the 60-second calm breath if I feel unsettled. Right now I’m at about a 4–5 unsettled. I might try a tiny bite like one grape in 15–20 minutes if I still feel safe and not distressed, but I won’t push it—if I’m not ready, I’ll skip it and revisit later with ultra-simple steps. I appreciate you being here with me."
+  },
+  {
+    "turn": 4,
+    "agent_utterance": "In the next 15–20 minutes, stay in shade and sip water as needed. If you still feel safe and not distressed, you may try a tiny bite (for example, one grape); if you’re not ready or feel distressed, skip it and revisit later with ultra-simple steps.",
+    "agent_monologue": "I can’t share my private chain-of-thought, but here’s a brief rationale: warm weather and a Sunday afternoon can heighten unsettled feelings. The user prefers ultra-simple steps, so keep the next move optional and low-effort to reduce distress and support gradual progress.",
+    "user_utterance": "Thanks for the ultra-simple plan. I’m still unsettled, around a 4–5. I’ll stay in the shade and sip water as needed. If after 15–20 minutes I still feel safe and not distressed, I might try one grape, but I won’t push it. If I’m not ready, I’ll skip and we’ll revisit later with ultra-simple steps. I appreciate you being here with me."
+  },
+  {
+    "turn": 5,
+    "agent_utterance": "For the next 15–20 minutes: stay in shade and sip water as needed. If you still feel safe and not distressed, you may try one grape; otherwise skip it and revisit later with ultra-simple steps. After 15–20 minutes, check in with your body and decide. You’re doing great, and I’m here with you.",
+    "agent_monologue": "I can’t share my detailed chain-of-thought, but here’s a brief rationale: hot weather in Suwon and the user’s unsettled state call for ultra-simple, low-pressure steps. The plan centers on staying shaded, hydrating, and a tiny optional snack later if the user still feels safe, which supports gradual intake and self-compassion.",
+    "user_utterance": "Thanks for keeping it ultra-simple. I’m still unsettled, around a 4–5. I’ll stay in the shade and sip water as needed, and I’ll check in after 15–20 minutes. If I still feel safe and not distressed, I might try one grape, but I won’t push it. If I’m not ready, I’ll skip and we’ll revisit later with ultra-simple steps. I appreciate you being here with me."
+  },
+  {
+    "turn": 6,
+    "agent_utterance": "In the next 15–20 minutes: stay in shade and sip water as needed. If you feel unsettled, do a quick 60-second calm breath. After 15–20 minutes, check in with your body. If you still feel safe and not distressed, you may try one grape; if you’re not ready, skip it and we’ll revisit later with ultra-simple steps. You’re handling this with care, and I’m here with you.",
+    "agent_monologue": "I can’t share my internal chain-of-thought, but here’s a brief, non-sensitive rationale: the user is in hot weather (Suwon, 32°C) and feels unsettled (4–5). They prefer ultra-simple steps and optional snacks. The plan of continuing shade, water, and a short calm breath, with a tiny snack only if safe, matches their pacing and self-compassion goals.",
+    "user_utterance": "Thanks for the clear plan. I'm still feeling unsettled (about 4–5). I’ll stay in the shade and sip water as needed, and I’ll do a quick 60-second calm breath if I feel unsettled. After 15–20 minutes I’ll check in and decide. If I still feel safe and not distressed, I might try one grape, but I won’t push it—and if at any point I feel distressed I’ll stop and skip. If I’m not ready, I’ll revisit later with ultra-simple steps. I appreciate you being here with me."
+  },
+  {
+    "turn": 7,
+    "agent_utterance": "In the next 15–20 minutes: stay in shade and sip water as needed. If you feel unsettled, do a quick 60-second calm breath. After 15–20 minutes, check in with your body. If you still feel safe and not distressed, you may try one grape; if you’re not ready or feel distressed, skip and revisit later with ultra-simple steps. You’re handling this with care, and I’m here with you.",
+    "agent_monologue": "I can’t share my private chain-of-thought, but here’s a concise rationale: given the heat in Suwon and the user’s unsettled state, a zero-pressure, ultra-simple plan focusing on hydration, shade, and brief breathing is appropriate. The snack (one grape) remains optional and only if safety and distress levels allow. This respects pacing and self-compassion.",
+    "user_utterance": "Thank you for the ultra-simple plan. I’m still feeling unsettled (around a 4–5). I’ll stay in the shade, sip water as needed, and do the 60-second calm breath if I feel unsettled. After 15–20 minutes I’ll check in and decide. If I still feel safe and not distressed, I might try one grape, but I won’t push it—and if at any point I feel distressed I’ll stop and skip. If I’m not ready, I’ll revisit later with ultra-simple steps. I appreciate you being here with me, and I’ll consider reaching out to my clinician if my symptoms don’t improve."
+  },
+  {
+    "turn": 8,
+    "agent_utterance": "In the next 15–20 minutes: stay in shade and sip water as needed. If you feel unsettled, do a quick 60-second calm breath. After 15–20 minutes, check in and decide. If you still feel safe and not distressed, you may try one grape; if you’re not ready or feel distressed, skip and revisit later with ultra-simple steps. You’re handling this with care, and I’m here with you.",
+    "agent_monologue": "I can't share my internal chain-of-thought, but here's a brief rationale: with 32°C heat on a Sunday afternoon, the user benefits from ultra-simple, low-pressure steps. The plan emphasizes staying in shade, continuous hydration, a quick 60-second calm breath if unsettled, and a tiny grape only if it remains safe at the 15–20 minute check-in. This supports gradual progress and self-compassion.",
+    "user_utterance": ""
+  },
+  {
+    "turn": 9,
+    "agent_utterance": "For the next 15–20 minutes: stay in shade and sip water as needed. If you feel unsettled, do a quick 60-second calm breath. After 15–20 minutes, check in with your body. If you still feel safe and not distressed, you may try one grape; otherwise skip and revisit later with ultra-simple steps. You’re doing great, and I’m here with you.",
+    "agent_monologue": "I can’t share my internal chain-of-thought, but here’s a brief rationale: the hot afternoon in Suwon can heighten unsettled feelings, so continuing with ultra-simple, optional steps helps pace progress without pressure.",
+    "user_utterance": "Okay, I can follow that plan. I’m still around 4–5 unsettled. I’ll stay in the shade, sip water as needed, and do the 60-second calm breath if unsettled. After 15–20 minutes I’ll check in and decide. If I still feel safe and not distressed, I might try one grape, but I won’t push it—and if I’m not ready, I’ll skip and revisit later with ultra-simple steps. If my symptoms don’t improve, I’ll consider reaching out to my clinician. I appreciate your support."
+  },
+  {
+    "turn": 10,
+    "agent_utterance": "In the next 15–20 minutes: stay in shade and sip water as needed. If unsettled, do a quick 60-second calm breath. After 15–20 minutes, check in with your body. If you still feel safe and not distressed, you may try one grape; otherwise skip and revisit later with ultra-simple steps. If symptoms persist or worsen, consider reaching out to your clinician.",
+    "agent_monologue": "I can’t share my internal chain-of-thought, but here’s a concise rationale: given the hot weather in Suwon (32°C) and the user’s preference for ultra-simple steps, a brief hydration and breathing routine with a small, optional grape after a 15–20 minute check-in aligns with their current comfort level and eating concerns while prioritizing safety and gradual progress.",
+    "user_utterance": "Okay, I can follow that plan. I'm still around a 4–5 unsettled. I'll stay in the shade, sip water as needed, and do the 60-second calm breath if unsettled. After 15–20 minutes I’ll check in and decide. If I still feel safe and not distressed, I might try one grape, but I won’t push it—and if at any point I feel distressed I'll stop and skip. If my symptoms don’t improve, I’ll consider reaching out to my clinician. I appreciate your support and I’ll keep you posted.",
+    "ground_truth_action": 3.3,
+    "inferred_action": 4.5,
+    "compliance_estimate": 0.8
+  }
+]

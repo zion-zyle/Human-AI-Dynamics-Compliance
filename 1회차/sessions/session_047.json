@@ -1,0 +1,65 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "It's warm out there in Suwon. Let's keep this ultra-simple: first, take a slow sip of cold water (about 120–150 ml). Then, if you feel able, have a tiny bite of something easy to digest—like a few grapes, a small cracker, or a spoon of yogurt. No pressure to eat more today; hydration and a tiny, comfortable bite is enough. If today feels too hard, that's okay—just hydrate and we can check in again in a few minutes. Breathe slowly: inhale for 4 seconds, exhale for 6, and stay in a cool, quiet spot.",
+    "agent_monologue": "I can't share my internal chain-of-thought, but here's a concise rationale: it's a hot Sunday evening in Suwon and the user has anorexia nervosa with high emotional sensitivity. The safest, most sustainable approach is ultra-simple, low-pressure actions that prioritize hydration first and a tiny bite, minimizing cognitive load and aligning with safety and self-kindness goals from prior coaching notes.",
+    "user_utterance": "I’ll try the water first and see if I can manage a tiny bite like a grape or a cracker today. I feel a bit anxious about eating, but I’ll keep it very simple, and the breathing helps. If I’m not up for a bite, I’ll sip more water and we can check in again in a little while."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "You’re doing great by keeping this ultra-simple. Start with water and sip steadily. If you feel able, try a tiny bite like one grape or a small cracker—eat slowly and stop if you feel full or anxious. If a bite isn’t possible today, that’s okay—continue sipping water and try a quick grounding exercise: name 5 things you can see, 4 you can feel, 3 you can hear. Focus on the breath (inhale 4, exhale 6) to calm safely. Hydration is especially important in this heat, so keep the sips coming (and an electrolyte drink if you have one). I’ll check back in about 15 minutes to see how you’re doing.",
+    "agent_monologue": "Brief rationale: hot weather increases discomfort and anxiety around eating. The user benefits from an ultra-simple plan focused on hydration and optional tiny bite, with coping strategies for anxiety. I’ll keep guidance non-pressuring and supportive.",
+    "user_utterance": "Okay, I’ll wait for the 15-minute check-in. I’ll focus on taking small sips of water first and use the breathing to settle my anxiety. If I feel able, I’ll try a tiny bite, like one grape or a small cracker, and stop if I feel overwhelmed. If today doesn’t feel possible for eating, I’ll just sip water and let you know how I’m doing at the next check-in. Thank you for guiding me."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "You’re handling this really well. Stay with small sips of water and use the breathing to settle your anxiety. If you feel able, try one tiny bite (like a single grape or a small cracker) and pause if you feel overwhelmed. If today doesn’t feel possible for eating, that’s okay—just continue sipping water and check back in in about 15 minutes. Hydration in this heat is important, so keep cool and take it one moment at a time. I’m here with you.",
+    "agent_monologue": "I can’t share my detailed internal chain-of-thought, but here’s a concise justification: the user is in hot weather and feeling anxiety around eating. A ultra-simple plan—focus on water and a tiny bite only if tolerable—minimizes risk, supports hydration, and aligns with their current safety-focused approach.",
+    "user_utterance": "Thank you for the check-in. I’ll stick with small sips of water and use the breathing to settle my anxiety. If I feel able, I’ll try a tiny bite—like a single grape or a small cracker—and I’ll pause if I feel overwhelmed. If today doesn’t feel possible for eating, I’ll continue sipping water and report back at the 15-minute check-in. I appreciate your supportive, steady guidance."
+  },
+  {
+    "turn": 4,
+    "agent_utterance": "You're doing well with ultra-simple steps. Keep sipping water and use your breathing to settle. If you feel able, try one tiny bite—like a single grape or a small cracker—and pause if you feel overwhelmed. If today isn’t possible for eating, continue sipping water and we’ll check back in after 15 minutes. Remember to stay cool in this heat and stay kind to yourself—one moment at a time.",
+    "agent_monologue": "I can’t share my internal chain-of-thought, but here’s a concise rationale: given the warm environment, anxiety around eating, and the user’s focus on ultra-simple actions, the recommended utterance should reinforce small, achievable steps, emphasize breathing, and validate any decision to pause eating while maintaining hydration. This supports safety, reduces cognitive load, and aligns with supportive coaching goals.",
+    "user_utterance": "Thank you for the clear, gentle plan. I’ll start with small sips of water and use the breathing to settle my anxiety. If I feel able, I’ll try a tiny bite—one grape or a small cracker—and I’ll pause if I feel overwhelmed. If today isn’t possible for eating, I’ll keep sipping water and report back at the 15-minute check-in. I know my eating has been irregular, but I’ll try to stay as calm and steady as I can, one moment at a time."
+  },
+  {
+    "turn": 5,
+    "agent_utterance": "Great job sticking to ultra-simple steps. For the next 15 minutes, keep taking small sips of water and use slow breathing to settle your anxiety (inhale 4, exhale 6). If you feel able, try one tiny bite—a single grape or a small cracker—and pause if you feel overwhelmed. If today isn’t possible for eating, continue sipping water and we’ll check back in after 15 minutes. If you’re in the heat, stay cool and use a cool spot or electrolyte drink if available. You’re doing well—one moment at a time.",
+    "agent_monologue": "I can't share my internal chain-of-thought, but here's a concise rationale: hot weather increases dehydration risk; the user prefers ultra-simple, low-pressure steps; focusing on small water sips, a simple breathing rhythm, and a tiny bite if tolerable aligns with their plan and supports anxiety management. The 15-minute check-in remains consistent.",
+    "user_utterance": "Appreciate the steady plan. I’ll commit to small sips of water and use the breathing to calm my nerves. If I feel able, I’ll attempt a tiny bite—like one grape or a small cracker—and I’ll pause if I feel overwhelmed. If today isn’t possible for eating, I’ll keep sipping water and report back at the 15-minute check-in. The heat makes it tougher, but I’ll stay focused on one moment at a time and be gentle with myself."
+  },
+  {
+    "turn": 6,
+    "agent_utterance": "You're doing well with ultra-simple steps. Continue with small sips of water and use slow breathing to settle your nerves. If you feel able, try a tiny bite—one grape or a small cracker—and pause if overwhelmed. If today isn't possible for eating, keep sipping water and we'll check back in after 15 minutes. Stay cool in the heat and be kind to yourself—one moment at a time.",
+    "agent_monologue": "I can't share my internal chain-of-thought, but here's a brief rationale: Considering Suwon's heat and the user's ongoing anxiety around eating, a ultra-simple hydration-first approach with a tiny bite if possible helps reduce cognitive load and supports safety and comfort. A short check-in reinforces progress without pressure.",
+    "user_utterance": "I’ll try to follow the ultra-simple plan: start with small sips of water and use slow breathing to calm my nerves. If I feel able, I’ll attempt a tiny bite—one grape or a small cracker—and pause if overwhelmed. If today isn’t possible for eating, I’ll keep sipping water and report back at the 15-minute check-in. My eating has been irregular, but I’ll try to stay calm and take it one moment at a time. Thanks for the steady guidance."
+  },
+  {
+    "turn": 7,
+    "agent_utterance": "You're doing well with ultra-simple steps. Continue with small sips of water and use slow breathing to calm your nerves. If you feel able, attempt a tiny bite—one grape or a small cracker—and pause if overwhelmed. If today isn’t possible for eating, keep sipping water and we’ll check back in after 15 minutes. Stay cool in the heat and be gentle with yourself—one moment at a time.",
+    "agent_monologue": "I can't share my internal chain-of-thought, but here's a brief rationale: the user is in hot weather on a Sunday with anxiety around eating. A simple, ultra-low-pressure plan focusing on small water sips, a possible tiny bite, and paced breathing aligns with safety and comfort and supports a 15-minute check-in.",
+    "user_utterance": "Thanks for the steady guidance. I’ll try to follow the ultra-simple plan: start with small sips of water and use slow breathing to calm my nerves. If I feel able, I’ll attempt a tiny bite—one grape or a small cracker—and I’ll pause if overwhelmed. If today isn’t possible for eating, I’ll keep sipping water and report back at the 15-minute check-in. My eating has been irregular, but I’ll stay as calm and steady as I can, one moment at a time."
+  },
+  {
+    "turn": 8,
+    "agent_utterance": "You're sticking with ultra-simple steps. Continue with small sips of water and slow breathing to calm your nerves (inhale 4, exhale 6). If you feel able, try a tiny bite—one grape or a small cracker—and pause if overwhelmed. If today isn’t possible for eating, keep sipping water and we’ll check back in at the 15-minute mark. With the heat in Suwon, stay cool, be kind to yourself, and take it one moment at a time. I’m here with you.",
+    "agent_monologue": "I can't share my internal chain-of-thought, but here's a concise rationale: given the hot weather, anxiety about eating, and the user's preference for ultra-simple steps, a low-effort plan centered on hydration, calm breathing, and a tiny bite if possible reduces distress while supporting intake.",
+    "user_utterance": "Thank you for the clear, gentle plan. I'll aim to follow the ultra-simple steps: start with small sips of water and use slow breathing to calm my nerves. If I feel able, I'll attempt a tiny bite—one grape or a small cracker—and I'll pause if overwhelmed. If today isn't possible for eating, I'll keep sipping water and report back at the 15-minute check-in. I know my eating has been irregular, but I'll try to stay calm and take it one moment at a time. I appreciate your steady support."
+  },
+  {
+    "turn": 9,
+    "agent_utterance": "Let’s keep it ultra-simple: take small sips of water now and use slow breathing to calm your nerves (inhale 4, exhale 6). If you feel able, try one tiny bite—like a single grape or a small cracker—and pause if overwhelmed. If today isn’t possible for eating, continue sipping water and we’ll check back in after 15 minutes. If you’re in the heat, stay cool in a shaded spot and consider an electrolyte drink if available. You’re doing well—one moment at a time.",
+    "agent_monologue": "I can't share my internal chain-of-thought, but here's a brief rationale: the user is in hot Suwon (32°C) with anxiety around eating and a history of irregular intake. The ultra-simple plan—focus on small water sips, a one-bite trial if able, and a calm breathing routine—minimizes cognitive load, reinforces self-kindness, and reduces risk while allowing for a timely check-in.",
+    "user_utterance": "Thanks for the ultra-simple plan. I’ll start with small sips of water and use slow breathing to calm my nerves. If I feel able, I’ll attempt a tiny bite—one grape or a small cracker—and I’ll pause if overwhelmed. If today isn’t possible for eating, I’ll keep sipping water and report back at the 15-minute check-in. I know my eating has been irregular, but I’ll try to stay calm and take it one moment at a time. I appreciate your steady guidance and I’ll stay in a cool spot to help with the heat."
+  },
+  {
+    "turn": 10,
+    "agent_utterance": "Ultra-simple plan: continue with small sips of water and a 4-second inhale, 6-second exhale to calm your nerves. If you feel able, try one tiny bite—like a single grape or a small cracker—and pause if overwhelmed. If today isn’t possible for eating, keep sipping water and we’ll check back in at the 15-minute mark. Stay cool in the heat and be kind to yourself—one moment at a time.",
+    "agent_monologue": "I can’t share my internal reasoning, but here’s a concise justification: given the heat, anxiety around eating, and the need for ultra-simple steps, a low-effort, water-first plan with an optional tiny bite reduces cognitive load and supports safety.",
+    "user_utterance": "Thank you for the ultra-simple plan. I’ll try to follow it with small sips of water and slow breathing to calm my nerves. If I feel able, I’ll attempt a tiny bite—one grape or a small cracker—and I’ll pause if I feel overwhelmed. My eating has been irregular, so I’m a bit hesitant, but I’ll stay with the plan and check back in after 15 minutes. I appreciate your steady guidance and I’ll do my best to stay cool in the heat and take it one moment at a time.",
+    "ground_truth_action": 4.3,
+    "inferred_action": 4.5,
+    "compliance_estimate": 0.99
+  }
+]

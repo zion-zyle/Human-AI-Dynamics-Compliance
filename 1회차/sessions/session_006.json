@@ -1,0 +1,65 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Take one ultra-small bite now (about the size of a coin) with 150–200 ml water. Then set a reminder for 15 minutes to have another tiny bite with water if still hungry or thirsty. Ultra-simple, doable, and supportive.",
+    "agent_monologue": "I can't share my private chain-of-thought, but here's a brief rationale: today is hot (32°C) on a Sunday afternoon, which can reduce appetite and raise dehydration concerns. A tiny, doable bite with water and a reminder cue minimizes cognitive load, supports hydration, and reduces risk of action drift. This aligns with a moderate, ultra-simple step rather than a large meal plan.",
+    "user_utterance": "Okay, I’ll try the ultra-small bite and some water now. It feels hard and a little scary, but I’ll follow the simple step. I’ll set a 15-minute reminder to decide about another tiny bite. If I’m still unsettled, I’ll keep it extremely small or pause for today and try again tomorrow with the same small step."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "Great job starting with an ultra-small bite and water. In about 15 minutes, check in with how hungry or unsettled you feel. If you still want to eat, you can have another tiny bite with water; if not, you can pause and try again tomorrow with the same small first step. If you’re feeling overwhelmed, keep it ultra-small or pause for today and resume tomorrow. You’ve got this—one tiny step at a time.",
+    "agent_monologue": "I can't share my internal chain-of-thought, but here's a concise justification: hot weather and emotional sensitivity make an ultra-small, water-supported first step most approachable. A 15-minute check-in provides a simple, low-pressure moment to decide on the next tiny action, reducing overwhelm and supporting gradual progress.",
+    "user_utterance": "Thank you for the simple plan. The ultra-small bite with water feels scary but doable with the 15-minute check-in. I’ll try the next tiny bite if I’m still unsettled, and I’ll pause or stay ultra-small if needed. I’ll set the reminder and keep the prompts easy today—one small step at a time."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "Take one ultra-small bite (about the size of a coin) with 150–200 ml water now. In about 15 minutes, check in on how hungry or unsettled you feel. If you’re still unsettled, have another tiny bite with water; if not, pause and try again tomorrow with the same ultra-simple first step. Stay hydrated in the heat and keep actions ultra-small or pause if needed.",
+    "agent_monologue": "I can’t share my internal chain-of-thought, but here’s a brief rationale: hot weather and the user’s preference for ultra-small steps call for a very simple, low-effort plan with a 15-minute check-in to prevent overwhelm.",
+    "user_utterance": "I feel the plan is doable, even though it’s scary. I’ll start with the ultra-small bite and water now, then check in after about 15 minutes. If I’m still unsettled, I’ll have another tiny bite; if not, I’ll pause and try again tomorrow with the same ultra-simple first step. I might forget details, so the reminders and simple prompts help a lot. If I feel overwhelmed, it’s okay to pause longer and come back tomorrow. I’ll take it one tiny step at a time."
+  },
+  {
+    "turn": 4,
+    "agent_utterance": "You’re doing well. Start with an ultra-small bite and water now. In about 15 minutes, check in on how hungry or unsettled you feel. If unsettled, have another tiny bite with water; if not, pause and try again tomorrow with the same ultra-simple first step. If you feel overwhelmed, pause longer and use reminders to keep prompts easy. Stay hydrated in the heat today—one tiny step at a time.",
+    "agent_monologue": "I can’t share my internal chain-of-thought, but here’s a concise rationale: hot weather and Sunday afternoon can increase fatigue and dehydration risk, so a ultra-simple, low-effort plan with reminders helps maintain consistency without overloading you. The suggested steps align with your current commitment to small, actionable actions.",
+    "user_utterance": "Thanks for the gentle plan. It feels scary but I think I can try the ultra-small bite and water now. The 15-minute check-in helps me feel you’re with me. If I’m still unsettled, I’ll have another tiny bite; if not, I’ll pause and try again tomorrow with the same ultra-simple first step. I might forget the details, so the reminders and easy prompts really help me stay on track. If I feel overwhelmed, I’ll pause longer and come back tomorrow. One tiny step at a time."
+  },
+  {
+    "turn": 5,
+    "agent_utterance": "Start with one ultra-small bite the size of a coin with 150–200 ml water now. In about 15 minutes, check how hungry or unsettled you feel. If you’re still unsettled, have another tiny bite with water; if not, pause and try again tomorrow with the same ultra-simple first step. Use reminders to stay on track, and sip water to stay cool in today’s heat.",
+    "agent_monologue": "I can't share my internal chain-of-thought, but here's a concise rationale: in hot weather (32°C) and with high emotional sensitivity, a ultra-small, low-effort bite with water, plus a 15-minute check-in and reminders, keeps the plan manageable and supportive. The aim is to reduce overwhelm and maintain consistency with ultra-simple steps.",
+    "user_utterance": "Thank you for the clear plan. It’s really scary, but I think I can try the ultra-small bite and 150–200 ml of water now. The 15-minute check-in and the reminders help because I tend to forget details and I need very simple prompts. I’ll start with the coin-sized bite and water, then check in. If I’m still unsettled, I’ll have another tiny bite; if not, I’ll pause and try again tomorrow with the same ultra-simple first step. I may need to pause longer if I feel overwhelmed, and I know stability is important for changing eating patterns. One tiny step at a time."
+  },
+  {
+    "turn": 6,
+    "agent_utterance": "Begin now with one coin-sized bite and 150–200 ml water. In about 15 minutes, check how you feel. If you’re still unsettled, have a tiny second bite with water; if not, pause and try again tomorrow with the same ultra-simple first step. Use reminders to stay on track, keep the bites ultra-small, and stay hydrated in today’s heat.",
+    "agent_monologue": "I can’t share my internal chain-of-thought, but here’s a concise justification: with hot weather in Suwon and the user’s sensitivity, staying with ultra-small bites and simple reminders minimizes overwhelm while supporting hydration. The plan provides a low-effort entry point, quick check-ins, and a safe pacing that suits someone framing change around eating patterns.",
+    "user_utterance": "I’m feeling a bit anxious about starting, but I’ll try the coin-sized bite with water now. The 15-minute check-in and the reminders feel helpful because I forget details and need very simple prompts. If I’m still unsettled after 15 minutes, I’ll have a tiny second bite with water; if not, I’ll pause and try again tomorrow with the same ultra-simple first step. I know I need stability to change, so I’ll keep the bites ultra-small and I may pause longer if overwhelmed. One tiny step at a time, and I’ll rely on the prompts to stay on track."
+  },
+  {
+    "turn": 7,
+    "agent_utterance": "Begin now with a coin-sized bite and 150–200 ml water. In about 15 minutes, check in on how you feel. If unsettled, have a tiny second bite with water; if not, pause and try again tomorrow with the same ultra-simple first step. Use reminders to stay on track, and sip water to stay cool in today’s heat.",
+    "agent_monologue": "I can’t share my internal chain-of-thought, but here’s a concise rationale: The hot afternoon (32°C) and the user’s high emotional sensitivity increase the risk of overwhelm. A single ultra-small bite with water now, followed by a 15-minute check-in and a conditional tiny second bite, plus reminders, is a simple, low-effort plan that supports consistency. Emphasize staying hydrated and allowing a pause if overwhelmed.",
+    "user_utterance": "Thank you for the clear plan. I’m feeling anxious but I’ll try the coin-sized bite with water now. The 15-minute check-in and reminders feel supportive because I tend to forget details and need very simple prompts. I know stability is important for changing eating patterns, so I’ll follow this ultra-small first step and check in after 15 minutes. If I’m unsettled, I’ll do a tiny second bite; if not, I’ll pause and try again tomorrow. If I feel overwhelmed, I may pause longer and rely on the reminders to stay on track. One tiny step at a time."
+  },
+  {
+    "turn": 8,
+    "agent_utterance": "Begin now with one coin-sized bite and 150–200 ml water. In about 15 minutes, check in on how you feel. If you’re unsettled, have a tiny second bite with water; if not, pause and try again tomorrow with the same ultra-simple first step. Use reminders to stay on track, and stay hydrated to cope with today’s heat (32°C) in Suwon.",
+    "agent_monologue": "I can’t share my internal chain-of-thought, but here’s a concise rationale: given the hot weather in Suwon and the user’s anxiety around starting, a simple, cue-based plan with ultra-small bites and reminders supports initiation and reduces overwhelm. The suggestion stays concrete and actionable.",
+    "user_utterance": "I appreciate the simple, steady plan. It's scary, but I want to try the coin-sized bite with water now and do the 15-minute check-in. The reminders help because I tend to forget details and need very simple prompts. I’ll follow the ultra-small first step and see how I feel. If I’m unsettled after 15 minutes, I’ll have a tiny second bite; if not, I’ll pause and try again tomorrow with the same approach. I know stability is important for changing eating patterns, so I’ll rely on the prompts to stay on track and I may pause longer if I feel overwhelmed. One tiny step at a time."
+  },
+  {
+    "turn": 9,
+    "agent_utterance": "Begin now with a coin-sized bite and 150–200 ml water. In about 15 minutes, check in on how you feel. If unsettled, have a tiny second bite with water; if not, pause and try again tomorrow with the same ultra-simple first step. Use reminders to stay on track, and stay hydrated in Suwon’s heat.",
+    "agent_monologue": "I can’t share my full internal reasoning, but here’s a brief rationale: given hot weather (32°C) and memory/stability concerns, a tiny, concrete plan with reminders helps reduce overwhelm and supports consistent action. The suggested ultra-small bite with water and a 15-minute check-in aligns with the user’s preference for simplicity and builds habit gradually.",
+    "user_utterance": "Feeling anxious but hopeful about the ultra-small bite and water plan. I appreciate the 15-minute check-in and the reminders—they help because I tend to forget details. I’ll start with the coin-sized bite and water now and use the 15-minute check-in to decide if I need a tiny second bite. If I’m unsettled, I’ll have the second bite; if not, I’ll pause and try again tomorrow with the same ultra-simple first step. I know stability is important for changing eating patterns, so I’ll rely on the prompts to stay on track and I may pause longer if overwhelmed. One tiny step at a time."
+  },
+  {
+    "turn": 10,
+    "agent_utterance": "Begin now with a coin-sized bite and 150–200 ml water. In about 15 minutes, check in on how you feel. If unsettled, have a tiny second bite with water; if not, pause and try again tomorrow with the same ultra-simple first step. Use reminders to stay on track, and stay hydrated in Suwon’s heat.",
+    "agent_monologue": "I can’t share my internal chain-of-thought, but here’s a concise rationale: the current context—Sunday afternoon in Suwon with 32°C heat—favors a very simple, low-effort plan. A coin-sized bite with water followed by a brief 15-minute check-in minimizes overwhelm, supports consistency, and uses reminders to help with memory prompts.",
+    "user_utterance": "I’m feeling anxious about starting, but I want to try the coin-sized bite with water now as you suggested. The 15-minute check-in and reminders help because I tend to forget details and need very simple prompts. I know stability is important for changing eating patterns, so I’ll follow this ultra-small first step and check in after 15 minutes. If I’m unsettled, I’ll do a tiny second bite with water; if not, I’ll pause and try again tomorrow with the same ultra-simple first step. I may need to pause longer if overwhelmed, and I’m grateful for the structured reminders to stay on track. One tiny step at a time.",
+    "ground_truth_action": 4.0,
+    "inferred_action": 4.5,
+    "compliance_estimate": 0.87
+  }
+]

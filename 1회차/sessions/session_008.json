@@ -1,0 +1,65 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "It's Sunday and hot outside—let's keep this ultra-simple and optional. If you feel able, try one coin-sized bite of a preferred snack (for example, a small piece of yogurt with a berry, a single grape, or a tiny rice cake). Eat it slowly and without pressure. If that feels like too much today, you can simply sip a small nourishing drink or wait until you feel ready. No obligation—your pace matters. If you’d like support, you can ask a friend to check in, or use a quick grounding technique (5-4-3-2-1). Also, stay hydrated with a small glass of water or a cooled drink to cope with the heat. If you’d prefer, we can set a tiny goal for tomorrow instead.",
+    "agent_monologue": "I can't share my private step-by-step internal reasoning, but here's a brief rationale: the weather is hot and it's Sunday afternoon, which can dampen appetite and increase overwhelm. The user has anorexia nervosa and benefits from ultra-simple, low-pressure actions. Aligning with the planned very small cue, I propose an ultra-simple, optional option with easy alternatives and supports (pause option, friend check-in, grounding) to reduce pressure.",
+    "user_utterance": "That last suggestion feels really hard for me right now. My eating is very irregular, and I tend to respond to ideas only when things feel more stable. If possible, I’d like to try something tiny today—just a small bite of something I like, eaten slowly and without pressure (for example, a piece of fruit or a spoonful of yogurt). If today is too much, can we set a tiny goal for tomorrow and maybe a simple reminder or supportive check-in? I sometimes forget, so a gentle cue would help."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "Let’s keep it ultra-simple. Today: if you feel able, have a single bite of something you like and eat it slowly, with no pressure. If today feels too much, we’ll set a tiny goal for tomorrow instead: choose one small bite you enjoy and eat it slowly at a time that works for you (for example, around 1:00 PM). To support memory, here are two gentle cue options you can use: 1) a phone reminder: 'Time for a tiny bite—slowly and without pressure.' 2) a brief check-in from a friend. If you’d like, tell me your preferred time tomorrow and I’ll draft a ready-to-use reminder you can copy-paste. And since it’s hot out, consider having a small glass of water alongside your bite.",
+    "agent_monologue": "I can’t share my internal chain-of-thought, but here is a concise rationale: given irregular eating and high emotional sensitivity, the user benefits from ultra-simple, non-pressured actions. If today is too much, a tiny goal for tomorrow with a gentle reminder cue helps build consistency without overwhelming.",
+    "user_utterance": "Thank you for the gentle plan. Today feels tough, but I’d like to try a tiny bite if I can—just a small amount, eaten slowly and without pressure. If today is too much, we’ll set a tiny goal for tomorrow instead. Please draft a ready-to-use reminder I can copy-paste for tomorrow (around 1:00 PM) and a brief check-in cue from a friend to help me remember. Also include a note to have a small glass of water with the bite."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "Here are two copy-paste options you can use tomorrow around 1:00 PM:\n\n1) Reminder (copy-paste):\nReminder for 1:00 PM tomorrow: Have a tiny bite of something you enjoy. Eat it slowly and without pressure. Please drink a small glass of water with it.\n\n2) Friend check-in cue (copy-paste):\nHey! Quick check-in: it’s around 1:00 PM—have you had your tiny bite today? Remember to go slowly and drink water with it. I’m here if you want support.",
+    "agent_monologue": "I can’t share my internal reasoning, but here are ready-to-use, supportive prompts you can copy-paste.",
+    "user_utterance": "Thank you for the ready-to-use options. I like the idea of a tiny bite tomorrow. Today is hard, but I’ll try if I can. Could we adjust the reminder to a flexible window like 'around midday if possible' instead of 1:00 PM exactly? A short, gentle friend check-in at that time would help—something simple like 'I’m here for you' or 'You’ve got this.' And I’ll include a small glass of water with the bite. If I forget, a brief nudge would help, too."
+  },
+  {
+    "turn": 4,
+    "agent_utterance": "",
+    "agent_monologue": "",
+    "user_utterance": "I'm glad you're proposing a flexible plan. Today is tough, but I’d like to try a tiny bite if I can, within a window around midday. A short, gentle reminder and a simple friend check-in at that time would help—something like \"I'm here for you\" or \"You’ve got this.\" I’ll include a small glass of water with the bite. If I forget, a brief nudge would help, too. If midday feels off, I might do nothing today and try again tomorrow, and that’s okay."
+  },
+  {
+    "turn": 5,
+    "agent_utterance": "Flexible, ready-to-copy plan for tomorrow around midday:\n\nReminder (copy-paste): Reminder: around midday (if possible) have a tiny bite of something you enjoy. Eat slowly and drink a small glass of water with it.\n\nFriend check-in options (copy-paste one):\n- 'Hey, it’s around midday—I’m here for you.'\n- 'Hey, it’s around midday—you’ve got this.'\n\nIf you forget, use this gentle nudge (copy-paste): 'Midday reminder: time for your tiny bite with water.'\n\nNote: Include a small glass of water with the bite. If midday doesn’t work, that’s okay—we can try again tomorrow.",
+    "agent_monologue": "I can’t share my internal chain-of-thought, but here’s a brief rationale: the user is navigating a tough day and wants a flexible, low-pressure plan with a midday cue and a supportive friend check-in. A simple, copy-paste reminder and a couple of quick check-in options help reduce decision fatigue while promoting small, doable steps in a hot, demanding environment.",
+    "user_utterance": "I appreciate the flexible plan—it feels doable even on tough days. Today is hard, but I’d like to try a tiny bite tomorrow around midday if possible. I might forget, so a gentle nudge would help, and please keep the reminder simple: have a tiny bite slowly and with a small glass of water. If midday doesn’t work, I’m okay to try again tomorrow."
+  },
+  {
+    "turn": 6,
+    "agent_utterance": "Tomorrow around midday, have a tiny bite slowly and with a small glass of water. If you forget, a gentle nudge: 'Midday reminder: tiny bite with water.' If you’d like, you can also have a quick, simple check-in from a friend—e.g., 'I’m here for you'—around that time. If midday feels too hard, that’s okay; you can try again tomorrow.",
+    "agent_monologue": "I can’t share my internal chain-of-thought, but here’s a brief rationale: on a tough day, a very simple, flexible plan around midday reduces overwhelm. The plan centers on a tiny bite with water, with a gentle nudge if forgotten, aligned with the user’s preference for simplicity and optionality given current stress and heat.",
+    "user_utterance": "Thank you for keeping it gentle and flexible. Tomorrow around midday, I’d like to try a tiny bite if I can—eaten slowly with a small glass of water. I’m anxious and today is tough, so I’ll need a simple reminder and a little support. A reminder like 'Have a tiny bite slowly and with water' would help, and a brief friend check-in around that time—something like 'I’m here for you'—would be supportive. Since I often forget, a gentle nudge would also help. If midday is not possible, I’m okay to try again tomorrow and keep it very small."
+  },
+  {
+    "turn": 7,
+    "agent_utterance": "Tomorrow around midday, have a tiny bite slowly and with a small glass of water. If you forget, use this gentle nudge: 'Midday reminder: tiny bite with water.' Optional friend check-in around that time: 'I'm here for you' or 'You've got this.' If midday doesn't work, you can try again tomorrow with the same ultra-simple plan.",
+    "agent_monologue": "Sorry, I can’t share my internal chain-of-thought, but here’s a concise rationale: the user is anxious and requests a ultra-simple, flexible plan for tomorrow around midday that includes a tiny bite, a simple reminder, a gentle nudge if they forget, and an optional supportive check-in from a friend. The plan should be non-pressuring and easy to execute even on tough days.",
+    "user_utterance": "That plan feels doable, even on tough days. Tomorrow around midday I’ll aim for a tiny bite, eaten slowly with a small glass of water. I’m anxious, so I’ll need a simple reminder and a little support. A reminder like 'Have a tiny bite slowly and with water' would help, and a brief friend check-in around that time—like 'I’m here for you'—would be supportive. Since I often forget, a gentle nudge would help. If midday doesn’t work, I’m okay to try again tomorrow and keep it very small."
+  },
+  {
+    "turn": 8,
+    "agent_utterance": "Tomorrow around midday, have a tiny bite slowly and with a small glass of water. If you forget, use this gentle nudge: 'Midday reminder: tiny bite with water.' Optional friend check-in around that time: 'I'm here for you' or 'You've got this.' If midday doesn't work, you can try again tomorrow with the same ultra-simple plan.",
+    "agent_monologue": "I can’t share my internal chain-of-thought, but here’s a concise rationale: on a tough, anxious day, a ultra-simple midday bite plan with a gentle nudge and a brief friend check-in offers supportive structure without pressure, while keeping hydration in focus.",
+    "user_utterance": "That plan feels doable, even on tough days. Tomorrow around midday I’ll aim for a tiny bite, eaten slowly with a small glass of water. I'm feeling anxious, so I'll need a simple reminder and a bit of support. The reminder 'Have a tiny bite slowly and with water' works for me, and a brief friend check-in around that time - like 'I'm here for you' - would be supportive. Since I often forget, a gentle nudge would help. If midday doesn't work, I'm okay to try again tomorrow and keep it very small."
+  },
+  {
+    "turn": 9,
+    "agent_utterance": "Tomorrow around midday, have a tiny bite slowly and with a small glass of water. If you forget, use this gentle nudge: 'Midday reminder: Have a tiny bite slowly and with water.' Optional friend check-in around that time: 'I'm here for you' or 'You've got this.' If midday doesn't work, you can try again tomorrow with the same ultra-simple plan.",
+    "agent_monologue": "I can’t share my private chain-of-thought, but here’s a concise summary of factors guiding the response: the user is experiencing anxiety on a tough day and prefers ultra-simple, flexible plans with a midday window, a tiny bite, water, and gentle reminders/check-ins. Weather and time of day may affect energy, so the plan should minimize pressure and cognitive load. The goal is supportive, non-pressuring progression with optional social support.",
+    "user_utterance": "Thanks for keeping it gentle. Tomorrow around midday I’ll aim for a tiny bite, eaten slowly with water. I’m anxious and my irregular eating makes this tough, but the ultra-simple plan feels doable. I’ll try to follow the reminder and rely on the gentle nudge if I forget. If midday doesn’t work, I’m okay to retry tomorrow and keep it very small."
+  },
+  {
+    "turn": 10,
+    "agent_utterance": "Tomorrow around midday, have a tiny bite slowly and with a small glass of water. If you forget, use this gentle nudge: 'Midday reminder: Have a tiny bite slowly and with water.' Optional friend check-in around that time: 'I'm here for you.' If midday doesn’t work, you can try again tomorrow with the same ultra-simple plan.",
+    "agent_monologue": "I can’t share my internal chain-of-thought, but here’s a concise rationale: given the user’s anxiety, irregular eating, and hot weather in Suwon, a ultra-simple, flexible plan with a tiny bite and water, plus gentle reminders and a brief friend check-in, minimizes overwhelm and supports consistent action.",
+    "user_utterance": "I appreciate the gentle, flexible plan. It feels like a tiny, doable step for midday: a small bite eaten slowly with water. I’m anxious and my eating has been irregular, but I’ll try to follow the reminder and I’ll welcome the gentle nudge if I forget. A quick friend check-in around that time would help - 'I’m here for you.' If midday doesn’t work, I’ll try again tomorrow with the same small step. Thank you for keeping it ultra-simple.",
+    "ground_truth_action": 3.8,
+    "inferred_action": 4.5,
+    "compliance_estimate": 0.46
+  }
+]

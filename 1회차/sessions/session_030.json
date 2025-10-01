@@ -1,0 +1,65 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Try a very small, cooling snack now: a 100 ml cup of plain yogurt with a few blueberries (or sliced fruit). It's quick, easy to finish, and fits a light, predictable routine. Then commit to one brief end-of-day check-in (one line) about what you ate and how you felt today. If you're not hungry, you can sip water or have a single small rice cake with a thin layer of nut butter. One small step at a time, especially in this heat.",
+    "agent_monologue": "I can't share my internal chain-of-thought, but here's a concise rationale: due to the hot weather and Sunday afternoon, keep the plan ultra-simple with one tiny snack and a single daily check-in to minimize cognitive load and support consistency, aligning with the user's profile and coaching notes.",
+    "user_utterance": "I appreciate the suggestion. I do want to try something small today. I’ll test a tiny portion of yogurt (perhaps 50 ml) with a few blueberries to keep it light. If I still feel anxious or full, I’ll pause and sip water instead. I’ll keep a brief end-of-day note about what I ate and how I felt."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "Great choice. Keep it ultra-small today: about 50 ml of plain yogurt with a few blueberries. If you still feel anxious or full after that, pause and sip some water. At the end of the day, write one short line about what you ate and how you felt to help maintain a simple, predictable routine.",
+    "agent_monologue": "I can’t share my private chain-of-thought, but here’s a concise rationale: the user is in a hot environment and prefers a very small, manageable snack, so 50 ml of yogurt with blueberries is a low-pressure option that supports intake without heightening anxiety. The plan includes a minimal end-of-day reflection to reinforce consistency. Safety emphasis: keep the snack ultra-small and allow water as needed.",
+    "user_utterance": "Okay, I’ll try the ultra-small plan today: about 50 ml plain yogurt with a few blueberries. If I still feel anxious or full after that, I’ll pause and sip water. I’ll also keep the end-of-day note simple—one line about what I ate and how I felt—to help create consistency, since I’ve struggled with irregular eating."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "Nice ultra-small plan for today: about 50 ml plain yogurt with a few blueberries. Given it's hot in Suwon (32°C), keep it simple and sip water if you still feel anxious or full after the snack. At the end of the day, write one short line describing what you ate and how you felt to reinforce consistency. You’re building a tiny, reliable routine that fits today’s warmth and your goal to regularize eating.",
+    "agent_monologue": "I can't share my internal chain-of-thought, but here's a concise rationale: hot weather and a Sunday late afternoon can heighten sensitivity to fullness and anxiety. A tiny, predictable snack plus a simple end-of-day log supports consistent eating without overthinking.",
+    "user_utterance": "Okay, I’ll try the ultra-small plan today: about 50 ml plain yogurt with a few blueberries. If I still feel anxious or full after that, I’ll pause and sip water. I’ll also keep the end-of-day note simple—one line about what I ate and how I felt—to help create consistency, since I’ve struggled with irregular eating."
+  },
+  {
+    "turn": 4,
+    "agent_utterance": "Today, try the ultra-small snack: about 50 ml plain yogurt with a few blueberries. If you still feel anxious or full after that, pause and sip water. At the end of the day, write one short line about what you ate and how you felt to help build a simple, reliable routine.",
+    "agent_monologue": "I'm unable to share my internal chain-of-thought, but here's a brief rationale: considering Suwon's heat and your goal to keep things ultra-simple, a tiny 50 ml yogurt snack minimizes risk of fullness or anxiety and pairs well with a simple end-of-day note to support consistency.",
+    "user_utterance": "Thanks for the ultra-small plan. I’ll try about 50 ml plain yogurt with a few blueberries today. I feel a little anxious about even small amounts, and I worry it might not feel like enough, but I want to test this tiny step for consistency. If I still feel anxious or full after the snack, I’ll pause and sip water. I’ll keep the end-of-day note simple: one line about what I ate and how I felt, to help build a stable routine, since irregular eating has been challenging."
+  },
+  {
+    "turn": 5,
+    "agent_utterance": "Today’s ultra-small plan: about 50 ml plain yogurt with a few blueberries. If you still feel anxious or full after the snack, pause and sip water. At the end of the day, write one short line about what you ate and how you felt to support a simple, consistent routine.",
+    "agent_monologue": "I can't share my full internal chain-of-thought, but here is a concise rationale: in Suwon today it's hot (32°C) and it’s Sunday, which can disrupt routines. A tiny, predictable snack (50 ml plain yogurt with a few blueberries) reduces overwhelm and supports gradual, consistent eating. The plan includes a brief end-of-day note to reinforce routine, which is helpful for someone managing anorexia nervosa and high emotional sensitivity. This sanitized rationale guides a simple, feasible suggestion without exposing detailed internal reasoning.",
+    "user_utterance": "Thanks for the ultra-small plan. I’ll try the 50 ml plain yogurt with a few blueberries today. I do feel anxious about even small amounts and worry it might not feel like enough, but I want to test this tiny step for consistency. If I still feel anxious or full after the snack, I’ll pause and sip water. I’ll keep the end-of-day note simple—one line about what I ate and how I felt—to help build a stable routine, since irregular eating has been challenging."
+  },
+  {
+    "turn": 6,
+    "agent_utterance": "Today's ultra-small plan remains: about 50 ml plain yogurt with a few blueberries. If anxiety or fullness persists after the snack, pause and sip water. At the end of the day, write one short line about what you ate and how you felt to help build a stable, simple routine in this hot weather.",
+    "agent_monologue": "I can't share my internal step-by-step thoughts, but here's a concise rationale: given Suwon's heat and the user's anxiety around small amounts, propose a tiny, predictable snack (50 ml yogurt with a few blueberries) plus a quick hydration cue and a simple end-of-day note to reinforce consistency without overwhelming them.",
+    "user_utterance": "Thanks for the ultra-small plan. I do feel anxious about even small amounts and worry it might not feel like enough, but I want to test this tiny step for consistency: about 50 ml plain yogurt with a few blueberries. If I still feel anxious or full after the snack, I’ll pause and sip water. I’ll keep the end-of-day note simple—one line about what I ate and how I felt—to help build a stable routine, even though I sometimes forget to log."
+  },
+  {
+    "turn": 7,
+    "agent_utterance": "Today's ultra-small plan remains: about 50 ml plain yogurt with a few blueberries. If you still feel anxious or full after the snack, pause and sip water. At the end of the day, write one short line about what you ate and how you felt to build a stable, simple routine, especially in this warm Suwon afternoon.",
+    "agent_monologue": "I can't share my internal chain-of-thought, but here's a concise rationale: given the hot weather in Suwon and the user's anxiety around small portions, a tiny, predictable snack with a simple end-of-day log minimizes cognitive load and supports consistency. The plan aligns with the user's goal to test ultra-small steps while offering a coping option (water) if anxiety or fullness arises.",
+    "user_utterance": "Okay, I’ll try the ultra-small plan today: about 50 ml plain yogurt with a few blueberries. I do feel anxious about even small amounts and worry it might not feel like enough, but I want to test this tiny step for consistency. If I still feel anxious or full after the snack, I’ll pause and sip water. I’ll keep the end-of-day note simple—one line about what I ate and how I felt—to help build a stable routine, since I sometimes forget to log, so a reminder would help."
+  },
+  {
+    "turn": 8,
+    "agent_utterance": "Ultra-small plan for today: about 50 ml plain yogurt with a few blueberries. If you still feel anxious or full after the snack, pause and sip water. In this warm weather, keep hydration handy. At the end of the day, write one short line about what you ate and how you felt to help build a simple, stable routine.",
+    "agent_monologue": "I can't share my full internal chain-of-thought, but here's a concise rationale: hot weather in Suwon and it being Sunday afternoon can heighten discomfort and anxiety around eating. A tiny, predictable snack (50 ml yogurt with a few blueberries) minimizes effort and cognitive load while supporting consistency. The plan includes a simple end-of-day log to reinforce the habit with minimal friction.",
+    "user_utterance": "Okay, the ultra-small plan for today: about 50 ml plain yogurt with a few blueberries. It feels doable, though I still get anxious that it might not be enough. I want to test this tiny step for consistency, even though the worry is persistent. If I still feel anxious or full after the snack, I’ll pause and sip water. I know I sometimes forget to log, so I might set a simple reminder or just write the end-of-day note. I’ll keep it short: one line about what I ate and how I felt, to help build a stable routine despite the irregular eating I’ve struggled with."
+  },
+  {
+    "turn": 9,
+    "agent_utterance": "Today’s ultra-small plan remains: about 50 ml plain yogurt with a few blueberries. It’s hot in Suwon (32°C), so stay hydrated and sip water if you feel anxious or full after the snack. At the end of the day, write one short line about what you ate and how you felt to help build a simple, stable routine.",
+    "agent_monologue": "I can’t share my internal chain-of-thought, but here’s a concise rationale and plan: given the hot weather and the user’s need for a simple, manageable step, sticking to a tiny, predictable snack with a brief daily log supports consistency and reduces anxiety.",
+    "user_utterance": "I appreciate the ultra-small plan. 50 ml plain yogurt with blueberries feels doable, though the worry that it might not be enough is strong for me. I’ll try to sip water alongside it in this hot weather. Since I sometimes forget to log, a simple reminder or cue would help—maybe a phone alert or placing the yogurt where I’ll see it, plus a one-line log at the end of the day. I’ll aim to write that brief line about what I ate and how I felt, even if it’s short. If anxiety spikes, I’ll pause and take a few slow breaths before continuing."
+  },
+  {
+    "turn": 10,
+    "agent_utterance": "Ultra-small plan for today: about 50 ml plain yogurt with a few blueberries. If anxiety or fullness arises, pause and sip water. To support consistency, set a simple reminder (or place the yogurt where you'll see it) and end the day with one short line about what you ate and how you felt. If anxiety spikes, try a quick four-breath box breathing (inhale 4, hold 4, exhale 4, hold 4) before continuing.",
+    "agent_monologue": "I can't share my internal chain-of-thought, but here's a brief rationale: hot weather in Suwon and a history of irregular eating make a ultra-small, predictable snack plus a simple end-of-day log more feasible. Adding a brief breathing pause and water can help manage anxiety without derailing adherence. The timing (Sunday afternoon) supports a light, low-load plan to build consistency.",
+    "user_utterance": "Thank you for the ultra-small plan. 50 ml plain yogurt with a few blueberries feels doable, though I still worry it might not be enough for me. I’ll try to follow the plan and pause to sip water if anxiety or fullness appears. Since I sometimes forget to log, I’ll try a simple cue—placing the yogurt where I’ll see it and setting a brief reminder to log at the end of the day. If anxiety spikes, I’ll use four-breath box breathing before continuing. I know changes take time and stability, so I’ll take this tiny step and see how it feels, keeping you posted on my experience.",
+    "ground_truth_action": 4.0,
+    "inferred_action": 4.4,
+    "compliance_estimate": 0.973
+  }
+]

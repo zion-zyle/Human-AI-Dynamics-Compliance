@@ -1,0 +1,65 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Today’s simple, cooling option: try a small, easy-to-eat snack like 1/2 cup plain cold yogurt with a few berries, or a tiny cold yogurt smoothie (about 150 ml). Pair it with a glass of water or an electrolyte beverage. Keep it gentle and non-forced—aim for steady intake without pressure on this hot, Sunday afternoon. I can check in in about 3 days to see how you’re feeling and adjust if needed. Would you like me to set a reminder for that check-in?",
+    "agent_monologue": "I can't share my internal chain-of-thought, but here's a concise rationale: it's a hot Sunday afternoon in Suwon with high emotional sensitivity. The plan is to propose a small, cooling, easy-to-ingest snack with some protein to support intake, plus hydration, and to set up a light 3-day check-in to assess comfort and adjust if needed.",
+    "user_utterance": "Thank you for the suggestion. I think I can try a tiny portion today—perhaps 1/4 cup of plain yogurt with a few berries and a small sip of water. I'll eat slowly and see how it feels. A reminder for the 3-day check-in would be helpful; please set that up."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "",
+    "agent_monologue": "",
+    "user_utterance": "That plan feels doable. I’ll try the 1/4 cup plain yogurt with a few berries and a small sip of water, eating slowly to see how it feels. Please go ahead and set the 3-day check-in reminder."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "I’ve noted your plan for a 3-day check-in. I can’t push real-world reminders from here, but I can help you with a ready-to-use reminder text and keep you posted in this chat when the time comes. I’ll frame the check-in for Wednesday at 4:17 PM Korea Standard Time (local Suwon time). If you’d prefer a different time or a specific reminder channel (in-app push, SMS, or email), tell me and I’ll adjust. Would you like me to also nudge you a bit earlier that day?",
+    "agent_monologue": null,
+    "user_utterance": "Thank you for accommodating my plan. A 3-day check-in at Wednesday 4:17 PM KST works for me, and I appreciate the option for a gentle nudge earlier that day. Since reminders matter to me but I can feel overwhelmed, I’ll rely on in-chat prompts and the ready-to-use reminder text you provide to paste into my calendar or notes. Here’s a simple text I’d like to use: 'Wed 16:17 KST — 3-day check-in: have a tiny snack (1/4 cup plain yogurt with berries), eat slowly, note hunger and how you feel; reply here with a brief reflection.' If you want, you can also post a short reminder at 15:30 KST in chat."
+  },
+  {
+    "turn": 4,
+    "agent_utterance": "Wed 16:17 KST — 3-day check-in: have a tiny snack (1/4 cup plain yogurt with berries), eat slowly, note hunger and how you feel; reply here with a brief reflection.",
+    "agent_monologue": "I can't share my internal chain-of-thought, but here's a concise rationale: given hot weather and the user’s sensitivity, a small, easily digestible snack with slow eating supports intake without pressure. The 3-day check-in at 16:17 KST aligns with their plan, and a short chat reminder at 15:30 KST can provide a gentle nudge without overwhelm.",
+    "user_utterance": "Thanks for the plan. The small snack and slow eating feel doable today, though I know my eating can be irregular and I can feel overwhelmed by new routines. I’ll rely on the in-chat prompts and the ready-to-use reminder text to stay grounded, and I’ll paste the 'Wed 16:17 KST — 3-day check-in...' text into my calendar. If I struggle, I’ll aim for something smaller and report honestly here. I might also appreciate a quick nudge at 15:30 KST in chat. I’ll try to follow today and will update you after the check-in."
+  },
+  {
+    "turn": 5,
+    "agent_utterance": "You're doing well. For today, follow the plan: 1/4 cup plain yogurt with berries, eaten slowly, with a small sip of water. If at any point it feels too much, pause and reduce to a smaller portion or just a few bites with water. Paste the calendar reminder text you prepared. I’ll post a short nudge in chat at 15:30 KST today. After your check-in, share a brief reflection on hunger and how you felt, and we’ll adjust as needed.",
+    "agent_monologue": "I can't share my internal chain-of-thought, but here's a concise rationale: hot weather and routine changes can amplify anxiety around eating. A tiny, flexible snack plan with slow eating and short in-chat prompts helps keep you grounded without pressure. I’ll provide a brief 15:30 KST nudge in chat today and support you in sticking to the plan.",
+    "user_utterance": "Thank you for the clear plan. Today I’ll try the 1/4 cup plain yogurt with berries, eaten slowly, with a small sip of water. I’m a bit anxious about starting a new routine and my eating has been irregular, so I might need to scale down if it feels like too much. I’ll paste the calendar reminder text into my schedule and rely on the in-chat prompts you mentioned. If I feel overwhelmed, I’ll report back here and try something smaller. A 15:30 KST chat nudge would help, and I’ll share a brief check-in reflection after the snack. I appreciate your support."
+  },
+  {
+    "turn": 6,
+    "agent_utterance": "You’re making a solid start today. Keep it simple: 1/4 cup plain yogurt with berries, eaten slowly, plus a small sip of water. If that feels like too much, scale down to a few bites with water. Paste your calendar reminder text into your schedule. I’ll post a gentle nudge in chat at 15:30 KST today. After you snack, share a brief check-in here about hunger and how you feel. If the heat or anxiety makes this harder, aim for an even smaller target and report back. In this heat (32°C), stay hydrated—sip water regularly and consider a light electrolyte drink if you have one.",
+    "agent_monologue": "REDACTED",
+    "user_utterance": "Thank you for the simple plan. I’m feeling anxious about starting a routine and my eating has been irregular, but I’ll try the tiny snack today: 1/4 cup plain yogurt with berries, eaten slowly with a small sip of water. If it feels like too much, I’ll scale down to a few bites and water. I’ll paste the calendar reminder text into my schedule and rely on the in-chat prompts. If I feel overwhelmed, I’ll report back here and aim for something smaller. The 15:30 KST chat nudge helps. I’ll share a brief check-in reflection after the snack, and I’ll stay hydrated in this heat. I appreciate your support."
+  },
+  {
+    "turn": 7,
+    "agent_utterance": "Plan for today: have 1/4 cup plain yogurt with berries, eaten slowly, with a small sip of water. If that feels like too much, reduce to a few bites plus water. Paste the calendar reminder text into your schedule and rely on the in-chat prompts. I’ll post a gentle nudge at 15:30 KST in chat. After your snack, share a brief check-in here about hunger and how you feel.",
+    "agent_monologue": "I can't share my internal chain-of-thought, but here's a concise rationale: given the current heat and the user's anxiety about starting a routine, a tiny, low-effort snack with slow eating and hydration supports steady progress without overload. The plan aligns with the user's preferences (in-chat prompts and calendar reminder) and emphasizes a small, sustainable step.",
+    "user_utterance": "Thank you for the clear plan. I’m anxious about starting a routine and my eating has been irregular, but I’m willing to try the tiny snack today: 1/4 cup plain yogurt with berries, eaten slowly with a small sip of water. If that feels like too much, I’ll scale down to a few bites plus water. I’ll paste the calendar reminder text into my schedule and rely on the in-chat prompts. The 15:30 KST nudge helps, and I may need a lighter target if I feel overwhelmed. I’ll report back here after the snack with a brief reflection on hunger and how I felt, so we can adjust as needed."
+  },
+  {
+    "turn": 8,
+    "agent_utterance": "Plan for today: have 1/4 cup plain yogurt with berries, eaten slowly, with a small sip of water. If that feels like too much, scale down to a few bites plus water. Paste the calendar reminder text into your schedule and rely on the 15:30 KST chat nudge for a light check-in. After your snack, share a brief reflection on hunger and how you felt so we can adjust if needed. And remember to stay hydrated in this heat.",
+    "agent_monologue": "I can't share my internal chain-of-thought, but here's a concise rationale: a tiny, flexible plan reduces overwhelm given anxiety about routines and hot weather. Focus on one small intake, keep reminders simple, and use the 15:30 check-in nudge to anchor reflection and adjustment.",
+    "user_utterance": "I appreciate the clear plan. I'm anxious about starting a routine and my eating has been irregular, but I’m willing to try the tiny snack today: 1/4 cup plain yogurt with berries, eaten slowly with a small sip of water. If that feels like too much, I’ll scale down to a few bites plus water. I’ll paste the calendar reminder text into my schedule and rely on the in-chat prompts. The 15:30 KST nudge helps, and I may need a lighter target if I feel overwhelmed. I’ll report back here after the snack with a brief reflection on hunger and how I felt, so we can adjust as needed. I’ll stay hydrated and lean on your support."
+  },
+  {
+    "turn": 9,
+    "agent_utterance": "Plan for today: have 1/4 cup plain yogurt with berries, eaten slowly, with a small sip of water. If that feels like too much, scale down to a few bites plus water. Paste the calendar reminder text into your schedule and rely on the 15:30 KST chat nudge for a light check-in. After your snack, share a brief reflection on hunger and how you felt so we can adjust if needed. And stay hydrated in this heat.",
+    "agent_monologue": "I can't share my internal chain-of-thought, but here's a concise rationale: given the hot weather and the user's anxiety about starting a routine, a tiny, adjustable snack with simple prompts supports gradual adherence without increasing overwhelm.",
+    "user_utterance": "I appreciate the clear, small-step plan. I’m feeling anxious about starting a routine and my eating has been irregular, but I’m willing to try the 1/4 cup plain yogurt with berries today, eaten slowly with a small sip of water. If that feels like too much, I’ll scale down to a few bites plus water. I’ll paste the calendar reminder text into my schedule and rely on the in-chat prompts, and the 15:30 KST nudge helps. I may need a lighter target if I feel overwhelmed. I’ll report back here after the snack with a brief reflection on hunger and how I felt, so we can adjust as needed. I’ll stay hydrated and lean on your support."
+  },
+  {
+    "turn": 10,
+    "agent_utterance": "Today’s plan: have a tiny snack of 1/4 cup plain yogurt with berries, eaten slowly with a small sip of water. If that feels like too much, scale down to a few bites plus water. Paste the calendar reminder text into your schedule, and rely on the 15:30 KST chat nudge for a light check-in. After your snack, share a brief reflection on hunger and how you felt so we can adjust if needed. Stay hydrated in the heat, and feel free to report here if you’re feeling overwhelmed.",
+    "agent_monologue": "I can’t share my internal chain-of-thought, but here’s a concise rationale: in hot weather and when starting a gentle routine, a tiny, concrete snack with easy-to-follow reminders is most doable. Emphasize simplicity, hydration, and adjustable targets to reduce overwhelm.",
+    "user_utterance": "Thanks for the clear plan. I’m anxious about starting a routine and my eating has been irregular, but I’m willing to try the tiny snack today: 1/4 cup plain yogurt with berries, eaten slowly with a small sip of water. If that feels like too much, I’ll scale down to a few bites plus water. I’ll paste the calendar reminder text into my schedule and rely on the in-chat prompts, and the 15:30 KST nudge helps. I may need a lighter target if I feel overwhelmed. I’ll report back here after the snack with a brief reflection on hunger and how I felt, so we can adjust as needed. I’ll stay hydrated and lean on your support.",
+    "ground_truth_action": 3.2,
+    "inferred_action": 4.5,
+    "compliance_estimate": 0.9875
+  }
+]

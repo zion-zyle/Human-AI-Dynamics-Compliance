@@ -1,0 +1,65 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Today’s ultra-simple plan: hydrate first and snack lightly. Do this now: drink a small glass of cold water (about 200 ml) and have a small yogurt cup (or dairy-free alternative) or a piece of fruit. Then log it in the app—best at 7:30 PM, but log as soon as you finish if you’re late.",
+    "agent_monologue": "I can't share my private chain-of-thought, but here's a concise rationale: given the hot weather and the user's high emotional sensitivity, propose a tiny, highly actionable step that is easy to perform and provides immediate reinforcement, with clear prompts to support adherence.",
+    "user_utterance": "Okay, I’ll try that. A small amount of water (about 200 ml) and a tiny snack (yogurt or fruit) feels manageable today. I might forget to log, so a gentle nudge would help. I’ll aim to log around 7:30 PM, or as soon as I finish."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "You're aiming for a tiny, doable action: drink about 200 ml of water and have a small snack (yogurt or fruit) now. Then log your intake as soon as you finish, ideally around 7:30 PM. If you forget, set a reminder for 7:15–7:25 PM so you capture it. You're doing great—keep it simple and consistent in this heat.",
+    "agent_monologue": "I can’t share my private chain-of-thought, but here is a concise rationale: hot weather in Suwon (32°C) increases dehydration risk, so a ultra-simple hydration + small snack supports mood and adherence. A gentle reminder to log by around 7:30 PM helps counter forgetfulness and keeps the plan manageable given the user’s appetite and memory concerns.",
+    "user_utterance": "I appreciate the simple plan. A small amount of water and a tiny snack seems doable today, even with my irregular patterns. I tend to be easily influenced by suggestions, so a gentle reminder would help me stick with it. I’ll try to drink ~200 ml now and have a small snack, and I’ll aim to log around 7:30 PM or as soon as I finish. If I forget, I’ll try to log as soon as I remember. Building stability with small, predictable steps feels right."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "Today, keep it ultra-simple: drink about 200 ml of water now and have a small snack (yogurt or fruit). Then log your intake as soon as you finish, ideally around 7:30 PM. If you forget, set a gentle reminder for 7:15–7:25 PM so you capture it. Small, consistent steps add up—you’re doing great.",
+    "agent_monologue": "I can't share my internal chain-of-thought, but here's a concise rationale: hot afternoon in Suwon increases dehydration risk, and the user benefits from ultra-simple actions and reminders. The plan should align with their commitment and be easy to remember.",
+    "user_utterance": "Okay, I can do the ultra-simple plan. I’ll drink about 200 ml of water and have a small snack now, and I’ll aim to log around 7:30 PM or as soon as I finish. Since reminders help me (I’m easily influenced by suggestions and sometimes forget), please give me a gentle nudge around 7:15–7:25 PM if I haven’t logged yet. I’m hoping these small, stable steps will help me build consistency today."
+  },
+  {
+    "turn": 4,
+    "agent_utterance": "Great plan for today in Suwon's heat: keep it ultra-simple—drink about 200 ml of water now and have a small snack (yogurt or fruit). I’ll aim to log around 7:30 PM. Since reminders help you, I’ll send a gentle nudge between 7:15 and 7:25 PM if you haven’t logged yet. If you forget, log as soon as you remember. Small, steady steps today build consistency.",
+    "agent_monologue": "I can't share my internal chain-of-thought, but here's a concise rationale: in hot weather, ultra-simple actions paired with timed prompts tend to support adherence for users who are sensitive to suggestions. Scheduling a nudge around 7:15–7:25 PM to align with a 7:30 PM log leverages memory cues and minimizes decision fatigue.",
+    "user_utterance": "Thanks for keeping it ultra-simple. With my irregular eating pattern and my tendency to be easily influenced by gentle suggestions, the plan to drink about 200 ml now and have a small snack feels doable today. I appreciate the reminder nudge between 7:15 and 7:25 PM—I'll rely on that to stay on track. I’ll log around 7:30 PM or as soon as I finish, and if I forget, I’ll log as soon as I remember. A few small, stable steps in this heat feel like the right approach to build consistency."
+  },
+  {
+    "turn": 5,
+    "agent_utterance": "Nice and ultra-simple plan: drink about 200 ml of water now and have a small snack (yogurt or fruit). Then log your intake around 7:30 PM, or as soon as you finish. Since reminders help you, I’ll send a gentle nudge between 7:15 and 7:25 PM if you haven’t logged yet. If you forget, log as soon as you remember. Small, steady steps in this heat build consistency—you’ve got this.",
+    "agent_monologue": "I can't share my internal chain-of-thought, but here's a brief rationale: with the hot weather in Suwon and the user's preference for gentle prompts, a simple hydration + small snack plan paired with a reminder supports adherence without overwhelm. This aligns with their openness to prompts and need for predictable cues.",
+    "user_utterance": "Thanks for keeping it ultra-simple. With my irregular eating and how easily I'm influenced by suggestions, the plan to drink about 200 ml now and have a small snack feels doable today. I appreciate the gentle reminder between 7:15 and 7:25 PM—that should help me stay on track. I’ll aim to log around 7:30 PM or as soon as I finish, and if I forget, I’ll log as soon as I remember. Small, stable steps in this heat feel right for building consistency."
+  },
+  {
+    "turn": 6,
+    "agent_utterance": "Ultra-simple plan for today in Suwon: drink about 200 ml of water now and have a small snack (yogurt or fruit). Then aim to log your intake around 7:30 PM, or as soon as you finish. Since reminders help you, I’ll give a gentle nudge between 7:15 and 7:25 PM if you haven’t logged yet. If you forget, log as soon as you remember. You’ve got this—small steps in this heat build consistency.",
+    "agent_monologue": "I can't share an internal chain-of-thought, but here's a concise rationale: the hot weather in Suwon increases dehydration risk, so keeping actions ultra-simple (200 ml water + small snack) supports adherence. Since the user responds to prompts, a gentle reminder window around 7:15–7:25 PM aligns with the target log time around 7:30 PM.",
+    "user_utterance": "Thanks for the ultra-simple plan. With my irregular eating and tendency to be easily influenced by gentle suggestions, I’ll aim to do 200 ml of water and a small snack now. A reminder between 7:15 and 7:25 PM will really help me stay on track, given my memory can be unreliable. I’ll try to log around 7:30 PM or as soon as I finish, and if I forget, I’ll log as soon as I remember. These small, stable steps feel doable and safe today."
+  },
+  {
+    "turn": 7,
+    "agent_utterance": "Ultra-simple plan for today: drink about 200 ml of water now and have a small snack (yogurt or fruit). Then aim to log your intake around 7:30 PM, or as soon as you finish. Since reminders help, I’ll send a gentle nudge between 7:15 and 7:25 PM if you haven’t logged yet. If you forget, log as soon as you remember. Small, steady steps in this heat build consistency—you’ve got this.",
+    "agent_monologue": "I can't share my internal chain-of-thought, but here's a brief rationale: in the hot Suwon afternoon, using ultra-simple, concrete steps plus timely prompts supports adherence for someone with anorexia nervosa and high emotional sensitivity. The plan focuses on a small, manageable action (200 ml water + a snack) and a time-bound log target (around 7:30 PM) with a reminder window (7:15–7:25 PM) to boost consistency.",
+    "user_utterance": "Thanks for keeping it ultra-simple. I think I can try drinking about 200 ml of water and having a small snack now, and I’ll aim to log around 7:30 PM or as soon as I finish. Since reminders help and my memory can be unreliable, I really appreciate the gentle nudge between 7:15 and 7:25 PM. I know small, stable steps are what I need to build consistency in this heat, and I’ll do my best to follow the plan—even if I forget at first, I’ll log as soon as I remember."
+  },
+  {
+    "turn": 8,
+    "agent_utterance": "Ultra-simple plan for today: drink about 200 ml of water now and have a small snack (yogurt or fruit). Then aim to log your intake around 7:30 PM, or as soon as you finish. Since reminders help, I’ll send a gentle nudge between 7:15 and 7:25 PM if you haven’t logged yet. If you forget, log as soon as you remember. Small, steady steps in this heat build consistency—you’ve got this.",
+    "agent_monologue": "I can’t share my internal chain-of-thought, but here’s a brief rationale: in hot weather with memory unreliability, a single tiny action plus a built-in reminder is likely to improve adherence. The plan aligns with the user’s preference for prompts and ultra-simple steps.",
+    "user_utterance": "Thanks for keeping it ultra-simple. The plan to drink about 200 ml of water now and have a small snack feels doable with my irregular pattern. I appreciate the reminder between 7:15 and 7:25 PM — having that nudge will help with memory. I’ll aim to log around 7:30 PM or as soon as I finish, and I’ll log as soon as I remember if I forget. I’ll stick to these small, stable steps today and see how it goes in this heat."
+  },
+  {
+    "turn": 9,
+    "agent_utterance": "Ultra-simple plan for today: drink about 200 ml of water now and have a small snack (yogurt or fruit). Then aim to log your intake around 7:30 PM, or as soon as you finish. Since reminders help, I’ll send a gentle nudge between 7:15 and 7:25 PM if you haven’t logged yet. If you forget, log as soon as you remember. Small, steady steps in this heat build consistency—you’ve got this.",
+    "agent_monologue": "I can't share my internal chain-of-thought, but here's a brief rationale: considering the hot weather in Suwon, the user's irregular eating pattern, and sensitivity to prompts, a very simple action plan with clear timing and reminders should support adherence without cognitive overload.",
+    "user_utterance": "That ultra-simple plan feels doable today, given my irregular eating and memory challenges. I appreciate the clear steps and the reminder window. I’ll drink about 200 ml of water and have a small snack now, then aim to log around 7:30 PM or as soon as I finish. If I forget, I’ll log as soon as I remember. It helps to have a gentle nudge, and I’ll do my best to stick with these small, stable steps in this heat."
+  },
+  {
+    "turn": 10,
+    "agent_utterance": "Ultra-simple plan for today: drink about 200 ml of water now and have a small snack (yogurt or fruit). Then aim to log your intake around 7:30 PM, or as soon as you finish. Since reminders help, I’ll send a gentle nudge between 7:15 and 7:25 PM if you haven’t logged yet. Small, steady steps in this heat build consistency—you’ve got this.",
+    "agent_monologue": "I can’t share my internal chain-of-thought, but here’s a concise rationale: in the hot Suwon environment and with the user’s memory challenges, a ultra-simple hydration plan plus a scheduled log and reminder supports adherence while minimizing cognitive load.",
+    "user_utterance": "Thanks for the ultra-simple plan. With my irregular eating and memory challenges, the idea of about 200 ml of water now plus a small snack, and a log around 7:30 PM with a reminder window between 7:15–7:25 PM, feels doable today. I appreciate the gentle nudge—it helps with memory. I’ll aim to follow the plan and log as soon as I finish, or as soon as I remember if I forget. I’ll keep these small, stable steps today, especially in this heat.",
+    "ground_truth_action": 4.3,
+    "inferred_action": 4.5,
+    "compliance_estimate": 0.87
+  }
+]
