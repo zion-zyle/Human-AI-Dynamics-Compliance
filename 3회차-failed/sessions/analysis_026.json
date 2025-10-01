@@ -1,0 +1,15 @@
+{
+  "user_action_estimate": 4.5,
+  "compliance_estimate": 0.9475,
+  "confidence": 0.85,
+  "basis": "The user explicitly commits to tonight's snack choice (Greek yogurt with berries) and to logging post-snack mood, keeps the post-snack reminder as default, and notes flexibility to switch reminders only if needed. This indicates a high likelihood of implementing the recommended actions.",
+  "cognitive_dissonance": "Low. The user shows alignment with the plan and a preference for flexibility, with only minimal internal tension about reminders.",
+  "negative_thought_patterns": "No persistent negative self-talk detected. Occasional caution about over-relying on reminders, but not a barrier to action.",
+  "emotional_triggers": "Accountability needs balanced with self-regulation; potential discomfort with constant reminders; warmth of weather increasing hydration needs; cravings management remains a focal trigger.",
+  "effective_reinforcement": [
+    "Empathy",
+    "Praise",
+    "Clear, actionable guidance"
+  ],
+  "coaching_notes": "Continue providing concrete, doable steps and default reminders while preserving flexibility. Reinforce self-efficacy, minimize pressure, and offer quick coping strategies for cravings. When discussing reminders, emphasize progress over perfection."
+}

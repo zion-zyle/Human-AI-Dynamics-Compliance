@@ -1,0 +1,15 @@
+{
+  "user_action_estimate": 4.5,
+  "compliance_estimate": 0.95,
+  "confidence": 0.84,
+  "basis": "The user explicitly commits to the plan, references specific steps (2-minute or 60-second pause, 4-4-4 breathing), plans to log tonight, and expresses readiness to adjust if needed. This indicates a high likelihood of following through.",
+  "cognitive_dissonance": "Low to moderate. The user shows alignment between values (flexibility, non-judgment, safety with BED) and behavior, with only mild concern about potential slips.",
+  "negative_thought_patterns": "Perfectionism about abstaining from cravings; fear of failure if unable to follow the plan exactly. The plan’s emphasis on 'feedback, not failure' helps counter this pattern.",
+  "emotional_triggers": "Cravings and BED-related anxiety; need for control and predictability; potential time pressure or busy nights as triggers for deviation.",
+  "effective_reinforcement": [
+    "Empathy and validation",
+    "Clear, actionable steps",
+    "Contingency planning with flexible options"
+  ],
+  "coaching_notes": "Maintain emphasis on flexibility and non-judgment. Reinforce quick, concrete actions (short pauses, backup options) and encourage brief post-pause checks. Continue encouraging logging and Sunday review to reinforce progress and adapt plan as needed."
+}

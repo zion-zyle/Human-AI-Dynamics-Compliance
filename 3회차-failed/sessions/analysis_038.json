@@ -1,0 +1,14 @@
+{
+  "user_action_estimate": 4.5,
+  "compliance_estimate": 0.885,
+  "confidence": 0.85,
+  "basis": "The user expresses strong readiness to implement tonight, explicitly enumerating steps (urge-management, grounding options, backups, logging, pre-logging cues), and mentions logging promptly and using retroactive logging if needed. This demonstrates high alignment with the suggested plan.",
+  "cognitive_dissonance": "Low. The user shows enthusiasm and concrete intent with minimal expressed conflict or hesitation.",
+  "negative_thought_patterns": "Occasional perfectionism or worry about forgetting to log; potential concern about feeling restricted, but not overt negative self-talk.",
+  "emotional_triggers": "Heat in Suwon, social meals, time/commitment after work, potential cravings or temptations after snacks.",
+  "effective_reinforcement": [
+    "Empathy",
+    "Clear, actionable guidance"
+  ],
+  "coaching_notes": "Keep delivering concrete, doable steps; maintain backups and quick logging prompts; recognize heat/social contexts; invite periodic quick end-of-day reflections to reinforce learning and adaptability."
+}

@@ -1,0 +1,14 @@
+{
+  "user_action_estimate": 4.5,
+  "compliance_estimate": 0.95,
+  "confidence": 0.86,
+  "basis": "The user explicitly commits to the plan with statements like 'I’ll follow the plan' and 'I’ll note binge urges,' indicating a high likelihood of implementation and adherence to the suggested steps.",
+  "cognitive_dissonance": "Low. The user aligns cravings-management goals with BED learning objectives, acknowledging heat-driven urges without overt self-blame or contradictory signals.",
+  "negative_thought_patterns": "Occasional externalization of triggers (heat) rather than internal cues; shows readiness to reframe and avoid labeling foods as strictly 'good' or 'bad', though vigilance for self-criticism during heightened urges remains prudent.",
+  "emotional_triggers": "Heat/temperature increasing cravings, sense of urgency to rush, concern about binge urges surfacing.",
+  "effective_reinforcement": [
+    "Empathy",
+    "Clear, actionable steps"
+  ],
+  "coaching_notes": "Continue with concrete, step-by-step guidance. Support the pause-and-breathe habit, reinforce urge logging, and link planning to BED-awareness goals. Consider brief check-ins to review urge patterns and adjust the plan as needed."
+}

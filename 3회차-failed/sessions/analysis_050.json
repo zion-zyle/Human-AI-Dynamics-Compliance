@@ -1,0 +1,15 @@
+{
+  "user_action_estimate": 4.5,
+  "compliance_estimate": 0.95,
+  "confidence": 0.85,
+  "basis": "The user explicitly commits to a stepwise plan (Option A, Option B, logging, post-log check-in) and conveys steady motivation, repeatedly affirming the actions they’ll take.",
+  "cognitive_dissonance": "Low. The user aligns beliefs (BED management) with planned behaviors and expresses confidence, with only brief acknowledgment of BED challenges.",
+  "negative_thought_patterns": "Occasional mild all-or-nothing language (e.g., 'BED is tough'), but generally reframes to actionable steps; limited defeatist beliefs.",
+  "emotional_triggers": "Cravings, heat/physical discomfort, and BED-related stress; motivation increases with clear structure and control.",
+  "effective_reinforcement": [
+    "Empathy",
+    "Clear, actionable guidance",
+    "Validation of progress"
+  ],
+  "coaching_notes": "Maintain concise, concrete plans; reinforce post-log reflection and quick tweaks if cravings persist; celebrate small wins to sustain momentum."
+}

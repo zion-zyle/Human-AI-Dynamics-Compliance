@@ -1,0 +1,15 @@
+{
+  "user_action_estimate": 4.5,
+  "compliance_estimate": 0.86,
+  "confidence": 0.68,
+  "basis": "The user expressed strong commitment and specific next steps ('start today', 'report back', 'log after meals', 'travel reminders'). This indicates likely immediate action aligned with the suggestion.",
+  "cognitive_dissonance": "Low. The user shows readiness and aligns actions with preferences; minor tension around social dining but balanced with plans.",
+  "negative_thought_patterns": "Possibility of perfectionism (all-or-nothing about logging), worry about intrusiveness of the plan in social settings, some concern about forgetting logs when busy.",
+  "emotional_triggers": "Heat, travel, social dining, time pressure, busyness.",
+  "effective_reinforcement": [
+    "Empathy",
+    "Praise",
+    "Clear, actionable steps"
+  ],
+  "coaching_notes": "Maintain portable, short routines and concrete prompts. Reinforce social dining tips, and offer gentle reminders and self-compassion prompts. Consider adding micro-check-ins before travel meals and after events. Encourage flexibility in logging when busy and emphasize non-judgmental language."
+}

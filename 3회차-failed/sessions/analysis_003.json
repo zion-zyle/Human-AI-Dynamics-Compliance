@@ -1,0 +1,16 @@
+{
+  "user_action_estimate": 4.5,
+  "compliance_estimate": 0.86,
+  "confidence": 0.82,
+  "basis": "User reaffirms a detailed, actionable plan and asks for tips to stay consistent when tired, indicating strong intent to apply the strategy today.",
+  "cognitive_dissonance": "Low. Plan aligns with long-term goals and coping strategies; any tension mainly from fatigue rather than conflicting values.",
+  "negative_thought_patterns": "Occasional all-or-nothing thinking about slips, lingering belief that BED is extremely hard, and worry about losing progress; generally mitigated by self-talk and compassionate framing.",
+  "emotional_triggers": "Fatigue, heat/physical discomfort, BED cravings, and desire to maintain control while staying energized and hydrated.",
+  "effective_reinforcement": [
+    "Empathy",
+    "Clear, actionable steps",
+    "Positive reinforcement for progress",
+    "Encouragement of self-compassion"
+  ],
+  "coaching_notes": "Maintain concise, doable micro-steps for tired days (e.g., 2-minute reset, single breathing cycle, or a quick 1-minute stretch). Offer energy-boosting tips (cold water, brisk but brief movement, brief social check-ins). Reinforce tracking urge ratings and celebrate small consistency gains to prevent disengagement on fatigue days."
+}

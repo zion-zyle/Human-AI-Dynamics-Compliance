@@ -1,0 +1,15 @@
+{
+  "user_action_estimate": 4.5,
+  "compliance_estimate": 0.885,
+  "confidence": 0.72,
+  "basis": "The user repeatedly confirms testing tonight with exact defaults and an on-device, privacy-focused setup. They explicitly state readiness to test day one, allow skipping the check-in, and want an auto-fill script. This strongly indicates they will implement and perform the plan.",
+  "cognitive_dissonance": "Low. The plan aligns with their BED goals and privacy needs; minor tension about feasibility on busy nights is mitigated by flexible check-in and optional prompts.",
+  "negative_thought_patterns": "Possible perfectionism about adhering exactly to prompts/logs; occasional avoidance of logging when rushed; risk of cognitive load if too many steps.",
+  "emotional_triggers": "Privacy concerns, sense of control, desire for simplicity, motivation to manage BED symptoms.",
+  "effective_reinforcement": [
+    "Affirmation of privacy and control",
+    "Clear, concrete steps",
+    "Auto-fill reduces effort"
+  ],
+  "coaching_notes": "Keep templates lean; emphasize optional prompts and check-in; offer a one-click or single-tap log; ensure backups remain optional; celebrate adherence and adjust based on day-one feedback."
+}

@@ -1,0 +1,15 @@
+{
+  "user_action_estimate": 4.5,
+  "compliance_estimate": 0.95,
+  "confidence": 0.82,
+  "basis": "The user expresses consistent, concrete commitments (sunset pause, urge rating, 20–30 minute delays, micro-snack rules, weekly check-ins) and explicitly asks for tweaks, indicating strong likelihood of following the plan.",
+  "cognitive_dissonance": "Low. Overall alignment between goals and actions. Occasional tension around privacy in social settings and logging, but motivation remains high.",
+  "negative_thought_patterns": "Possible all-or-nothing tendencies if steps are missed; privacy concerns may trigger rationalization to skip certain cues; lingering worry about social judgment or disruption when stepping away.",
+  "emotional_triggers": "Privacy constraints in social settings, social eating cues, desire for control over urges, fatigue/heat discomfort",
+  "effective_reinforcement": [
+    "Empathy",
+    "Praise",
+    "Accountability"
+  ],
+  "coaching_notes": "Keep delivering concise, actionable steps. Incorporate non-food coping options (grounding, brief walk) for high-urge nights. Emphasize discreet, privacy-friendly cues and celebrate weekly check-ins. Encourage brief after-action notes to reinforce learning and plan tweaks."
+}

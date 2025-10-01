@@ -1,0 +1,15 @@
+{
+  "user_action_estimate": 4.5,
+  "compliance_estimate": 0.89,
+  "confidence": 0.85,
+  "basis": "The user repeatedly uses decisive language like 'I’ll try' and 'tonight’s steps' with clear, actionable steps and acknowledgment of heat conditions. This pattern strongly suggests they executed or closely followed the suggested plan rather than postponing action.",
+  "cognitive_dissonance": "Moderate: the user recognizes BED challenges and stresses of heat while simultaneously committing to structured coping steps, indicating an internal push-pull between craving urges and plan adherence.",
+  "negative_thought_patterns": "Beliefs that BED undermines control; days are inherently 'hard' or 'tough'; potential all-or-nothing thinking about adherence; occasional self-criticism despite intentions.",
+  "emotional_triggers": "Heat/heat-related discomfort increasing restlessness; cravings during the evening; stress around BED management; desire for quick relief vs. long-term control.",
+  "effective_reinforcement": [
+    "Empathy",
+    "Clear, actionable plan",
+    "Consistency prompts"
+  ],
+  "coaching_notes": "Continue delivering concrete, step-by-step plans and acknowledge the emotional/physical context (e.g., heat). Reinforce small wins, encourage ongoing logging of what helps, and offer contingency options for high-urge moments. Consider adding brief cue-based check-ins and optional tweaks for days with higher stress or temperature."
+}

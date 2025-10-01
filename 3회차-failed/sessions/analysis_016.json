@@ -1,0 +1,14 @@
+{
+  "user_action_estimate": 4.5,
+  "compliance_estimate": 0.95,
+  "confidence": 0.78,
+  "basis": "The user explicitly commits to the Snack Pause plan, uses the 60-second check-in, and accepts a simple backup for cravings. They repeatedly express willingness to follow concrete steps and use reminders, indicating high likelihood of adherence.",
+  "cognitive_dissonance": "Low. The user acknowledges potential challenges (evening cravings) and adopts aligned strategies (backup options, check-ins) to resolve them without signaling internal conflict.",
+  "negative_thought_patterns": "Occasional anticipatory worry about evenings/cravings; no pervasive defeatist beliefs, but a tendency to anticipate difficulty.",
+  "emotional_triggers": "Evening cravings, heat/temperature, desire to stay gentle and steady rather than strict or punitive.",
+  "effective_reinforcement": [
+    "Empathy",
+    "Praise"
+  ],
+  "coaching_notes": "Maintain clear, concrete, repeatable steps and quick check-ins. Reinforce the value of backups and reminders. Acknowledge progress and normalize occasional cravings to reduce perfectionist pressure."
+}

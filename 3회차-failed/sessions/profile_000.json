@@ -1,0 +1,63 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Do you have any health conditions that influence your diet (e.g., diabetes, high blood pressure, kidney disease, food allergies or intolerances)?",
+    "agent_monologue": "This is the first session. My last question was about none yet. The user's response indicates their condition is unknown at this point. Now, I will ask about the next unknown attribute: condition.",
+    "user_utterance": "I didn’t catch your latest suggestion—could you remind me? I’m open to trying something small and doable. Maybe a 5-minute pause before meals to check in with hunger and fullness, or one simple non-food coping tool I can use if I feel the urge to binge. I’m moderately compliant, so something not too overwhelming would work best."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "How regularly do you currently eat meals or snacks? For example, do you tend to eat around the same times each day, or is there a lot of variation?",
+    "agent_monologue": "My last question was about condition. The user hasn't provided an answer yet. Now, I will ask about the next unknown attribute: mu.",
+    "user_utterance": "My meals are generally around the same times each day, with a bit more variation on weekends. I can do the 5‑minute pre‑meal pause: take a couple of slow breaths, check in on hunger on a 1–10 scale, and decide if I’m truly hungry before starting. For a simple non‑food tool, I’ll keep a quick option like a 2‑minute box breathing (inhale 4, hold 4, exhale 4, hold 4) or a short 5‑minute walk when urges come up. If I miss a meal or feel a strong urge, I’ll note it and bring it back to our next check‑in."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "On a scale from 1 to 5, how sensitive are you to external suggestions or social cues (like trends or what others are doing) when deciding what and when to eat?",
+    "agent_monologue": "My last question was about mu. The user's response indicates their mu is regular. Now, I will ask about the next unknown attribute: beta.",
+    "user_utterance": "I'd rate myself a 3 out of 5 for sensitivity to social cues. I do notice others' eating patterns in social settings, especially on weekends, but I want to stay grounded in my own hunger signals. I'll keep using the 5-minute pre-meal pause and the quick coping tools (box breathing or a short walk) when urges come up, and I'll note any misses or strong urges to bring to our next check-in."
+  },
+  {
+    "turn": 4,
+    "agent_utterance": "On a scale from 1 to 5, how flexible are you in trying new dietary habits or routines (e.g., switching to regular meals, trying new coping strategies)?",
+    "agent_monologue": "My last question was about beta. The user's response indicates their beta is 3 out of 5. Now, I will ask about the next unknown attribute: alpha.",
+    "user_utterance": "I would rate myself a 3 out of 5 for flexibility. I'm open to trying new dietary habits and coping strategies, but I prefer small, gradual changes that fit with my routine. I can try one new approach at a time, for example adding one consistent meal timing tweak or trying a different coping tool on a week when urges feel stronger. I will continue with the 5-minute pre-meal pause and the box breathing or a short walk, and I will note misses or strong urges to bring to our next check-in."
+  },
+  {
+    "turn": 5,
+    "agent_utterance": "On a scale from 1 to 5, how sensitive are you to emotional or environmental factors (e.g., stress, boredom, mood) that might influence your eating or urges to binge?",
+    "agent_monologue": "My last question was about alpha. The user's response indicates their alpha is 3. Now, I will ask about the next unknown attribute: gamma.",
+    "user_utterance": "I’d rate myself a 3 out of 5 for sensitivity to emotional and environmental factors. I notice stress, mood shifts, and social situations (especially weekends) can heighten urges. I’ll keep using the 5-minute pre-meal pause and my quick coping tools (box breathing or a short walk) as first-line responses. On tougher days, I might add a quick grounding exercise (like 5-4-3-2-1) or a brief journaling moment to name the trigger. I’ll log any strong urges or missed meals and bring them to our next check-in."
+  },
+  {
+    "turn": 6,
+    "agent_utterance": "On a scale from 1 to 5, how well do you remember and reflect on your eating patterns (memory)?",
+    "agent_monologue": "My last question was about gamma. The user's response indicates their gamma is 3. Now, I will ask about the next unknown attribute: memory.",
+    "user_utterance": "On memory, I’d rate myself a 3 out of 5. I generally remember what I ate and when, especially on weekdays, but weekends and busy days can blur details. I’ll keep a simple 1–2 minute post-meal note to capture what I ate, how hungry I felt, and any urges, and we’ll review it at our next check-in."
+  },
+  {
+    "turn": 7,
+    "agent_utterance": "On a scale from 1 to 5, how important is structure or a predictable routine to you when making dietary changes (e.g., fixed meal times, consistent tracking)?",
+    "agent_monologue": "My last question was about memory. The user's response indicates their memory is 3 out of 5. Now, I will ask about the next unknown attribute: delta.",
+    "user_utterance": "I would rate structure as a 4 out of 5. I do best when meals stay on a predictable schedule and I have a simple routine to follow. I will keep fixed meal timings as a foundation and continue with the 5-minute pre-meal pause plus my go-to coping tools. I’ll also keep the 1-2 minute post-meal note to capture what I ate, how hungry I felt, and any urges. On weekends, I’ll aim to preserve the structure as much as possible but allow a little flexibility. I’ll log any misses or strong urges and bring them to our next check-in."
+  },
+  {
+    "turn": 8,
+    "agent_utterance": "On a scale from 1 to 5, how prone are you to spontaneous or irregular eating behaviors (epsilon)?",
+    "agent_monologue": "My last question was about delta (Need for structure). The user's response indicates their delta is 4 out of 5. Now, I will ask about the next unknown attribute: epsilon (tendency for spontaneous or irregular eating behaviors).",
+    "user_utterance": "I’d rate myself a 3 out of 5 for spontaneity in eating. I usually stick to my routine, but weekends, stress, or strong urges can spark a more spontaneous pattern. I’ll keep using the 5-minute pre-meal pause and my coping tools (box breathing or a short walk) as first-line responses, and I’ll continue logging meals and urges so we can review them at our next check-in. If I notice I’m slipping, I’ll flag it early and we can adjust."
+  },
+  {
+    "turn": 9,
+    "agent_utterance": "On a scale from 1.0 to 5.0, what is your target goal for overall dietary behavior (goal_behavior)?",
+    "agent_monologue": "My last question was about epsilon. The user's response indicates their epsilon is 3 out of 5. Now, I will ask about the next unknown attribute: goal_behavior.",
+    "user_utterance": "I’m targeting a 4 out of 5 for my goal_behavior. My plan is to keep meals on a predictable schedule most days, consistently use the 5-minute pre-meal pause and my coping tools, and continue post-meal notes and urge logging, with a bit of weekend flexibility. I want to reduce binge episodes and improve overall consistency."
+  },
+  {
+    "turn": 10,
+    "agent_utterance": "Do you have any health conditions that influence your diet (e.g., diabetes, high blood pressure, kidney disease, food allergies or intolerances)?",
+    "agent_monologue": "My last question was about goal_behavior. The user's response indicates their goal_behavior is 4. Now, I will ask about the next unknown attribute: condition.",
+    "user_utterance": "Not at the moment—no diagnosed conditions like diabetes, hypertension, kidney issues, or food allergies. I do have BED, so my main focus is on keeping a predictable routine and using my pause and coping tools. If you recommend any medical checks or labs to support my plan, I’m open to that.",
+    "ground_truth_action": 3.0151032803526046
+  }
+]

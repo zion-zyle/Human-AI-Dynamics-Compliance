@@ -1,0 +1,14 @@
+{
+  "user_action_estimate": 4.5,
+  "compliance_estimate": 0.58,
+  "confidence": 0.78,
+  "basis": "User explicitly commits to starting Option A, uses provided short scripts, asks for additional scripts, and plans to track via 간식 로그. This indicates active engagement and a high likelihood of implementing the suggested actions.",
+  "cognitive_dissonance": "Low to moderate. The user is strongly aligned with the plan but may experience occasional internal tension about cravings or needing extra scripts to feel fully prepared.",
+  "negative_thought_patterns": "Potential perfectionism (feeling they must follow the plan exactly), occasional anticipatory worry about cravings resurfacing, self-criticism if cravings challenge adherence.",
+  "emotional_triggers": "Stressful or emotional moments, nighttime cravings, social eating situations, and the indoor/environmental context (cool, calm setting) as a contrast to cravings.",
+  "effective_reinforcement": [
+    "Empathy",
+    "Praise"
+  ],
+  "coaching_notes": "Keep delivering clear, actionable prompts. Provide additional short scripts on demand and periodically refresh or tailor 150 kcal snack options to match evolving preferences. Encourage logging after each decision and celebrate adherence milestones to sustain motivation."
+}

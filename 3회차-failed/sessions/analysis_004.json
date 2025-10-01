@@ -1,0 +1,16 @@
+{
+  "user_action_estimate": 4.6,
+  "compliance_estimate": 0.835,
+  "confidence": 0.85,
+  "basis": "The user repeatedly endorses and commits to the plan with explicit immediacy ('start now', 'I'll rate', 'log what happened'), indicating a high likelihood of executing the suggested actions.",
+  "cognitive_dissonance": "Low. The user aligns intentions (progress, not perfection) with concrete steps, reducing internal conflict between desire to change and BED-related barriers.",
+  "negative_thought_patterns": "Mild all-or-nothing tendencies typical with BED (perfectionism undercut by progress focus); potential worry about afternoon cravings and relapse, which could trigger self-critique if not logged or acted upon.",
+  "emotional_triggers": "Afternoon cravings; heat/physical discomfort from warm weather; BED-related urges and the need for coping strategies.",
+  "effective_reinforcement": [
+    "Clear, actionable steps",
+    "Immediate start language",
+    "Logging urges and outcomes for accountability",
+    "Progress-focused framing"
+  ],
+  "coaching_notes": "Keep plans brief and highly actionable. Reinforce non-food coping strategies (water, movement, cooling). Encourage consistent logging of urges and outcomes, and consider adding a small, non-food reward for streaks to enhance motivation."
+}

@@ -1,0 +1,14 @@
+{
+  "user_action_estimate": 4.5,
+  "compliance_estimate": 0.89,
+  "confidence": 0.85,
+  "basis": "The user expresses clear, actionable commitments using 'I'll/I'll try' language and outlines multiple concrete steps (urge check-in, labeling, small balanced options, hydration, mood logging, box breathing). This indicates high likelihood of executing the plan.",
+  "cognitive_dissonance": "Low. Strong alignment between stated intentions and plan, with only minor potential tension around BED identity vs. scheduled strategies; slips are framed as recoverable steps.",
+  "negative_thought_patterns": "Some all-or-nothing tendencies (viewing slips as failures) but mitigated by reframing ('note it and start over') and incremental steps ('one BED-friendly step at a time'). Mention of perfectionistic tendencies could appear if plan is not followed exactly.",
+  "emotional_triggers": "Urges to binge or seek comfort, craving states, heat/thirst, and the desire for structure and self-regulation. Positive triggers include accountability, clear plans, and self-care routines.",
+  "effective_reinforcement": [
+    "Empathy",
+    "Praise"
+  ],
+  "coaching_notes": "Keep reinforcing concrete, repeatable rituals and micro-goals. Continue mood logging and hydration cues. Consider adding a simple post-snack reflection to reinforce learning from slips and prevent drift. If needed, offer quick additional tools or alternatives to box breathing to maintain engagement."
+}

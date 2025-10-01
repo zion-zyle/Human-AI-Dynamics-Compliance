@@ -1,0 +1,15 @@
+{
+  "user_action_estimate": 4.5,
+  "compliance_estimate": 0.885,
+  "confidence": 0.78,
+  "basis": "The user explicitly commits to logging tonight and tomorrow, values reminders and a ready-to-use Google Sheet/CSV, and asks for a ready-to-use template. This strong, positive intent indicates actions aligned with the plan are highly likely.",
+  "cognitive_dissonance": "Low. The user shows clear alignment between goals (BED management, manageable plan) and stated actions, with openness to adjustments if overwhelmed.",
+  "negative_thought_patterns": "Possible perfectionism or pressure about logging if safety nets aren’t enough; occasional all-or-nothing mindset implied by emphasis on not feeling pressured and the option to simplify timing.",
+  "emotional_triggers": "Cravings spikes, evening urges, and overall BED-related anxiety around losing control. Relief is sought through reminders, logging structure, and safety nets (MissedLog, LogLaterTime).",
+  "effective_reinforcement": [
+    "Empathy",
+    "Clear, actionable steps",
+    "Structured templates"
+  ],
+  "coaching_notes": "Keep providing concrete, low-friction tools (CSV/Sheet templates, reminders). Reinforce flexibility and safety nets to reduce pressure. Offer quick check-ins after the first logging windows to adjust timing or fields if needed, and remind that small, reversible tweaks are okay."
+}

@@ -1,0 +1,15 @@
+{
+  "user_action_estimate": 4.2,
+  "compliance_estimate": 0.96,
+  "confidence": 0.82,
+  "basis": "User expresses clear, concrete commitments (2:45 fallback check-in, 3–4 PM yogurt snack, hydration plan, post-dinner activity) and explicitly plans to log and report tonight, indicating high likelihood of action aligned with suggestions.",
+  "cognitive_dissonance": "Minimal; overall alignment between values (BED management, mindful logging) and actions. Minor potential tension around logging during back-to-back meetings, mitigated by planned fallbacks.",
+  "negative_thought_patterns": "Possible perfectionist tendencies (feeling the need to log every instance) and anticipatory worry about failing to log; occasional all-or-nothing framing around adherence.",
+  "emotional_triggers": "Stress (especially late afternoon), cravings, busy social/meeting schedules, heat/physical discomfort from warm conditions.",
+  "effective_reinforcement": [
+    "Clear, actionable prompts",
+    "Structured fallbacks",
+    "Validation and encouragement"
+  ],
+  "coaching_notes": "Keep reinforcing simple routines and fallbacks. Track Plan Logged vs Action Taken to quantify consistency. Consider brief mid-afternoon micro-check-ins (e.g., 2:45) and light mindfulness cues around high-risk times to reduce cognitive load and prevent lapse."
+}

@@ -1,0 +1,15 @@
+{
+  "user_action_estimate": 4.5,
+  "compliance_estimate": 0.92,
+  "confidence": 0.78,
+  "basis": "The user explicitly commits to importing and using the two anchors, keeping the afternoon window fixed, allowing post-workout adaptability, and planning a weekly check-in. They also indicate immediate action (copying exact texts into reminders) and a readiness to defer the Go-To plan. This reflects strong alignment with the suggested steps and high likelihood of prompt execution.",
+  "cognitive_dissonance": "Low. Clear alignment between goals and planned actions; minor tension around future Go-To planning and handling schedule drift.",
+  "negative_thought_patterns": "Possible all-or-nothing thinking about adherence on rough days; occasional perfectionism about sticking to exact times.",
+  "emotional_triggers": "Desire for structure and predictability; potential anxiety about missing reminders; relief from concrete, fixed anchors.",
+  "effective_reinforcement": [
+    "Clear, concrete actions",
+    "Fixed anchor reminders",
+    "Simple, manageable scope"
+  ],
+  "coaching_notes": "Maintain bite-sized, executable steps. Reinforce the value of fixed anchors plus occasional flexibility. Support the weekly check-in as a lightweight accountability touchpoint. Consider adding a tiny nonfood coping option later to bolster resilience on rough days."
+}

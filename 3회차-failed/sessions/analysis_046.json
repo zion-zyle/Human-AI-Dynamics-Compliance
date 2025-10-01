@@ -1,0 +1,15 @@
+{
+  "user_action_estimate": 4.5,
+  "compliance_estimate": 0.86,
+  "confidence": 0.82,
+  "basis": "User expresses strong agreement with the plan, mentions concrete steps (pause, hydration, logging mood/triggers, veggie prep, box-breathing, short walk), and explicitly frames slips as data to learn from. Indicates tonight’s enactment and ongoing tracking, which signals high likelihood of action.",
+  "cognitive_dissonance": "Low. User aligns actions with stated goals (BED management, stress coping) and shows self-compassion. Some residual concern about stress after work, but plan explicitly addresses it.",
+  "negative_thought_patterns": "Possible residual perfectionism about sticking to plan, but mitigated by viewing slips as data and embracing gradual progress.",
+  "emotional_triggers": "Post-work stress and BED concerns; environment/social cues. These factors drive cravings but are being explicitly planned for with coping strategies and environmental prep.",
+  "effective_reinforcement": [
+    "Empathy",
+    "Clear plan and structure",
+    "Self-compassion prompts"
+  ],
+  "coaching_notes": "The user responds well to concrete, bite-sized actions and self-compassion. Maintain short, specific steps (pause, logging, veggie prep) and reinforce viewing slips as learning opportunities. Encourage ongoing tracking of mood, triggers, and early hunger cues; explore adding flexible non-food coping techniques and social/environmental cue strategies as needed."
+}

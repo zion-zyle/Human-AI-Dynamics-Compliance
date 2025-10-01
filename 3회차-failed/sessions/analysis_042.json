@@ -1,0 +1,15 @@
+{
+  "user_action_estimate": 4.5,
+  "compliance_estimate": 0.92,
+  "confidence": 0.82,
+  "basis": "The user consistently articulates clear intent to follow the plan, specifying steps (3-minute breathing, one-line mood/hunger log, printable backup card, reminders) and a concrete tonight-with-tough-night contingency.",
+  "cognitive_dissonance": "Low. Minor tension between maintaining structure (logging) and flexibility (adjusting labels), but addressed with explicit planning to adapt as needed.",
+  "negative_thought_patterns": "Occasional anticipatory worry about tougher nights and tweaking labels, suggesting mild perfectionism and concern about long-term consistency.",
+  "emotional_triggers": "Evening urges/hunger spikes, environmental factors (heat, dehydration), potential social interruptions, fear of missing logs during busy moments.",
+  "effective_reinforcement": [
+    "Autonomy-support",
+    "Clear, actionable steps",
+    "Positive reinforcement when logs are completed"
+  ],
+  "coaching_notes": "Keep delivering concise, concrete prompts; reinforce the value of micro-logging and quick notes for spike events; ensure offline backup remains accessible; consider separate reminder profiles for home vs. out and encourage end-of-evening reflection to refine labels."
+}

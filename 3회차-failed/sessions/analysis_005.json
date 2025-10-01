@@ -1,0 +1,14 @@
+{
+  "user_action_estimate": 4.5,
+  "compliance_estimate": 0.76,
+  "confidence": 0.78,
+  "basis": "The user repeatedly affirms starting today, commits to the core micro-plan across contexts, uses pre-commit cues, post-craving reflections, a one-screen log, and backup prompts. They also mention reminders and grazing-prevention prompts, plus environmental considerations (heat). This strong, specific commitment suggests a high likelihood of effortful execution today and in the near term.",
+  "cognitive_dissonance": "Moderate: motivation and structured plans clash with potential BED-related consistency challenges and memory for logging. The user plans quick check-ins and reminders to mitigate, indicating they’re actively managing competing impulses.",
+  "negative_thought_patterns": "Possibility of self-doubt about consistency, worry about forgetting to log, all-or-nothing tendencies about maintaining routine.",
+  "emotional_triggers": "Heat and hydration needs (32°C Suwon) signaling stress/physical discomfort; desire for simple, reliable coping; motivation from a clear, actionable plan; concern about grazing after meals.",
+  "effective_reinforcement": [
+    "Empathy",
+    "Praise"
+  ],
+  "coaching_notes": "The user responds well to concrete, bite-sized steps and adaptable prompts. Maintain simple, repeatable routines; offer quick nudges and reminders; reinforce logging as low-friction. Consider adding a brief automated prompt for logging within 5 minutes of each craving and after meals to support consistency."
+}

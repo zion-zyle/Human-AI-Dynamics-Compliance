@@ -1,0 +1,15 @@
+{
+  "user_action_estimate": 5.0,
+  "compliance_estimate": 0.735,
+  "confidence": 0.78,
+  "basis": "The user explicitly commits to tonight's steps, mentions printing the card, starts a 1-week trial, and requests a day-3 check-in for adjustments. Language is decisive and action-oriented.",
+  "cognitive_dissonance": "Low. The user shows strong alignment with the plan, with only minimal acknowledgment of potential future tweaks.",
+  "negative_thought_patterns": "Possible all-or-nothing thinking about thresholds and the one-week trial; concern about social dinners disrupting routine; worry about missing logs.",
+  "emotional_triggers": "Evening hunger, heat/environment, social dinner timing, cravings at wind-down, accountability/consistency.",
+  "effective_reinforcement": [
+    "Empathy and validation",
+    "Clear, actionable steps",
+    "Encouragement of small, trackable wins"
+  ],
+  "coaching_notes": "Proceed with concise, actionable guidance. Plan a day-3 check-in to review thresholds as discussed. Offer a mid-evening reset cue if slipping. Remain flexible for social dinners; consider follow-up to adjust thresholds after the trial. If/when helpful, provide a fillable PDF later."
+}

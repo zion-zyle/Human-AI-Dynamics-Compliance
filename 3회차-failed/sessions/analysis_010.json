@@ -1,0 +1,16 @@
+{
+  "user_action_estimate": 4.5,
+  "compliance_estimate": 0.95,
+  "confidence": 0.8,
+  "basis": "User explicitly commits to today’s start, selects Option A, confirms anchor, reminders, and meal-context logging; asks about reminder adjustments; overall tone is highly action-oriented.",
+  "cognitive_dissonance": "Low. The user shows alignment between BED-aware strategy and plan; minor tension around using a 'last resort' snack is acknowledged but framed as last resort, reducing conflict.",
+  "negative_thought_patterns": "All-or-nothing thinking about snacks; fear of relapse or breaking plan; potential catastrophizing about meals shifting causing loss of control; perfectionism about sticking exactly to plan.",
+  "emotional_triggers": "Anxiety around craving intensity; fear of BED relapse; heat-related discomfort; time pressure around meals and reminders; desire for control and predictability.",
+  "effective_reinforcement": [
+    "Empathy",
+    "Clear, actionable steps",
+    "Ready-to-use templates",
+    "Mini-check-ins"
+  ],
+  "coaching_notes": "Keep offering concrete, bite-sized steps and flexible scheduling. Reinforce meal-context logging to identify patterns. Remind user that reminders can be adjusted if meals shift. Encourage using Option A daily and retaining Option B prompts for reflection. Monitor for signs of avoidance or increased anxiety; if cravings escalate, consider simplifying further or adding a rapid harm-minimizing strategy (e.g., delay snack by 5 minutes after urge-surf already)."
+}

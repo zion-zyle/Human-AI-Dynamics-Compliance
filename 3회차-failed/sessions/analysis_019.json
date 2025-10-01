@@ -1,0 +1,15 @@
+{
+  "user_action_estimate": 4.5,
+  "compliance_estimate": 0.92,
+  "confidence": 0.82,
+  "basis": "The user explicitly commits to implementing anchors, an if-then plan for busy days, and ultra-simple logging, and asks about adjusting reminders. They express testing this week and reporting back, signaling a high likelihood of taking concrete action tonight.",
+  "cognitive_dissonance": "The user shows tension between BED-related concerns (logging consistency) and a strong desire to stay flexible and compassionate toward themselves. They balance accountability with self-forgiveness, which can manifest as initial hesitation followed by action.",
+  "negative_thought_patterns": "Some perfectionism tendencies (all-or-nothing notes about needing to log every day), occasional worry about missing logs, and self-criticism around consistency, though tempered by self-compassion phrases.",
+  "emotional_triggers": "Evening-related triggers (stress, boredom, fatigue), cravings peaking around 7 PM, and environmental cues (kitchen access, snacks) that can prompt use of planned coping strategies.",
+  "effective_reinforcement": [
+    "Empathy and validation",
+    "Clear, actionable steps",
+    "Recognition of small progress and consistency to reduce discouragement"
+  ],
+  "coaching_notes": "Keep reinforcing small, repeatable actions (anchors, one-line log, quick breath). Encourage flexible logging on busy days (one-line entry if needed) and maintain the 10 PM nudge as optional support. Support the user in labeling triggers and emotions to identify patterns, and schedule brief mid-week check-ins to adjust the plan as needed."
+}

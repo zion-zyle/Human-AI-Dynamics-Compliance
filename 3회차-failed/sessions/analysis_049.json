@@ -1,0 +1,15 @@
+{
+  "user_action_estimate": 4.5,
+  "compliance_estimate": 0.89,
+  "confidence": 0.78,
+  "basis": "User expresses clear intent to implement tonight’s plan (start with Option A, log after finishing, fallback to Option B, and log), while acknowledging BED and openness to adjustments tomorrow. Positive and decisive stance.",
+  "cognitive_dissonance": "Moderate: awareness of BED challenges paired with a strong commitment to gradual, structured change; some anxiety about tonight's adherence but overall acceptance.",
+  "negative_thought_patterns": "Mild all-or-nothing tendency possible if cravings intensify; potential self-criticism if not perfect, though reframing and logging mitigate this.",
+  "emotional_triggers": "BED urges, cravings, heat-related discomfort in Suwon; motivation boosted by gradual plan and logging.",
+  "effective_reinforcement": [
+    "Empathy",
+    "Praise",
+    "Clear, actionable guidance"
+  ],
+  "coaching_notes": "Maintain concise, concrete options (A/B), reinforce logging, hydration, and breathing; acknowledge BED challenges, emphasize flexibility and tomorrow’s adjustment; consider a brief mood/hunger check-in after tonight to tailor plans further."
+}

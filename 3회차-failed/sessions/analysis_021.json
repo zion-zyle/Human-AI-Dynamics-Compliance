@@ -1,0 +1,15 @@
+{
+  "user_action_estimate": 4.5,
+  "compliance_estimate": 0.95,
+  "confidence": 0.85,
+  "basis": "The user explicitly commits to the plan components (500 ml water, snacks, mindful check-in, breath reset, urge logging) and adds contingency ideas (urge surfing, post-dinner walk) plus a daily log-review, indicating a high likelihood of execution.",
+  "cognitive_dissonance": "Minor tension between strict adherence and recognition of slip risk; willingness to adapt shows flexible problem-solving.",
+  "negative_thought_patterns": "Possible all-or-nothing expectation around slips leading to high diligence; anticipatory worry about future slips; mild perfectionism about following the plan exactly.",
+  "emotional_triggers": "Heat/temperature in Suwon as environmental stressor; urges during social meals; fatigue or boredom; social-meal cues.",
+  "effective_reinforcement": [
+    "Clear, actionable plan",
+    "Empathy/validation",
+    "Opportunity for customization and logging"
+  ],
+  "coaching_notes": "Keep delivering concrete, step-by-step plans and encourage logging. Acknowledge environmental factors and normalize slips. Continue offering micro-habits and quick check-ins to maintain momentum."
+}

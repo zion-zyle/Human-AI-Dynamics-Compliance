@@ -1,0 +1,15 @@
+{
+  "user_action_estimate": 4.5,
+  "compliance_estimate": 0.89,
+  "confidence": 0.82,
+  "basis": "The user repeatedly endorses and buffers the plan with specific steps (hydration, snack, BED cue, alternative moves for heat, journaling prompts, logging, and contingency pauses). They express enthusiasm and commit to trying tonight, with explicit logging and adjustments—indicating a high likelihood of closely following the suggestion.",
+  "cognitive_dissonance": "Low to moderate. The user aligns with the plan and acknowledges heat-related challenges, but also shows readiness to pause and adjust. No strong contradictory signals; adaptive reconciliation between intention and environmental constraints.",
+  "negative_thought_patterns": "Mild anticipatory worry about heat/overwhelm; potential tendency toward all-or-nothing thinking about strict adherence, though tempered by explicit flexible alternatives and pause-to-decide strategies.",
+  "emotional_triggers": "Heat/discomfort heightening urge intensity; fear of losing control or failing to adhere; desire for structure and predictability to manage BED urges.",
+  "effective_reinforcement": [
+    "Empathy",
+    "Clear, actionable guidance",
+    "Explicit acknowledgement of constraints and flexibility"
+  ],
+  "coaching_notes": "Maintain concrete, compact plans with backup options (stretching, breathing cycles) for hot days. Reinforce logging and reflection after each cue, celebrate adherence, and normalize pauses when overwhelmed. Consider adding micro-choices to reduce decision fatigue (e.g., pre-select one backup cue for hot days)."
+}

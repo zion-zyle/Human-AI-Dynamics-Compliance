@@ -1,0 +1,15 @@
+{
+  "user_action_estimate": 4.8,
+  "compliance_estimate": 0.87,
+  "confidence": 0.82,
+  "basis": "User repeatedly commits to start tonight with explicit, actionable steps and requests a tangible tool (fillable log). Positive, proactive tone and clear alignment with the morning-focused Day 3 plan indicate high likelihood of implementation.",
+  "cognitive_dissonance": "Low. The user presents coherent goals and contingency plans; only mild potential tension around weekends/social events, which they’ve acknowledged and prepared for.",
+  "negative_thought_patterns": "Mild all-or-nothing thinking around schedule adherence; occasional concern about weather or schedule shifts; no persistent negative self-talk observed.",
+  "emotional_triggers": "BED-related urges and cravings, social events, weather constraints (rain) and travel/wake-time variability, time pressure on busy mornings.",
+  "effective_reinforcement": [
+    "Clear, concrete, actionable plans",
+    "Empathetic validation and supportive language",
+    "Encouragement of self-monitoring and immediate logging"
+  ],
+  "coaching_notes": "Maintain structured, adaptable guidance (morning Day 3 with indoor rain options). Provide quick templates/tools and emphasize logging consistency. Offer a downloadable fillable log sheet in the next message or via a shared link, and plan for weekend/social contingencies to sustain adherence."
+}

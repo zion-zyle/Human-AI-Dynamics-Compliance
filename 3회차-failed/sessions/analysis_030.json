@@ -1,0 +1,15 @@
+{
+  "user_action_estimate": 4.5,
+  "compliance_estimate": 0.92,
+  "confidence": 0.85,
+  "basis": "The user explicitly commits to a concrete sequence (30-second pause, water, nonjudgmental check-in) with contingency steps and notes willingness to adjust later, indicating strong alignment with the suggested plan.",
+  "cognitive_dissonance": "Low. The user’s language reflects coherence between values (kindness, nonpunitive approach) and behavior (plan to follow steps).",
+  "negative_thought_patterns": "Occasional worry about cravings resurfacing; overall minimal self-criticism due to emphasis on flexibility and self-compassion.",
+  "emotional_triggers": "Cravings as a primary trigger; BED-related stress; need for nonpunitive coping strategies; environmental cues may play a role but are not foregrounded here.",
+  "effective_reinforcement": [
+    "Empathy",
+    "Praise",
+    "Clear, actionable steps"
+  ],
+  "coaching_notes": "Keep reinforcing nonjudgmental framing and flexibility. Encourage quick post-session notes to reinforce learning, and offer simple tweaks if cravings evolve. Remind to hydrate and prepare pre-portioned snacks as planned."
+}

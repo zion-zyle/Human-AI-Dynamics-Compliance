@@ -1,0 +1,15 @@
+{
+  "user_action_estimate": 4.5,
+  "compliance_estimate": 0.95,
+  "confidence": 0.85,
+  "basis": "The user consistently affirms 'I’ll try...' with clear, specific steps and even adds contingency plans (portable snack, extra reminders). This indicates a high likelihood they implemented or will imminently implement the plan.",
+  "cognitive_dissonance": "Low. The user acknowledges potential obstacles (busy days, cravings) and selects coping strategies, showing alignment between beliefs and planned actions.",
+  "negative_thought_patterns": "Possible residual all-or-nothing thinking and fear of cravings; occasional self-criticism about setbacks is possible but not prominent in this exchange.",
+  "emotional_triggers": "Cravings, social dinners, busy workdays, heat/late-day fatigue. The plan uses cue-based reminders and quick Coping steps to address these triggers.",
+  "effective_reinforcement": [
+    "Empathy",
+    "Concrete, actionable guidance",
+    "Positive reinforcement"
+  ],
+  "coaching_notes": "Maintain brief, concrete daily actions and flexible reminders. Use midweek check-ins as a supportive touchpoint. Reinforce successful logging and coping responses (breathing, brief walk) to sustain momentum."
+}

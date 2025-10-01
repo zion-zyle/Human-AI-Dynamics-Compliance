@@ -1,0 +1,16 @@
+{
+  "user_action_estimate": 4.5,
+  "compliance_estimate": 0.89,
+  "confidence": 0.85,
+  "basis": "The user explicitly commits to a 7–9 pm routine, states they will start tonight, extend breathing if the urge is strong, log mood/hunger immediately, set reminders, and adjust as needed. This clear intent and concrete steps indicate high likelihood of action.",
+  "cognitive_dissonance": "Low. The plan aligns with stated goals (BED-friendly, gradual steps). Any minor tension centers on possible misses or forgetting logs, which the user acknowledges and buffers with reminders.",
+  "negative_thought_patterns": "Possible perfectionism and all-or-nothing thoughts (e.g., needing to log every time; if logs are missed, guilt). Opportunities for reframing to 'any movement and logging is progress.'",
+  "emotional_triggers": "Evening cravings, urge spikes, fatigue, emotional distress after dinner, social cues around food.",
+  "effective_reinforcement": [
+    "Empathy",
+    "Praise",
+    "Concrete, actionable steps",
+    "Reminders"
+  ],
+  "coaching_notes": "Continue delivering clear, actionable plans; reinforce use of reminders; help anticipate obstacles (e.g., busy evenings) and offer flexible adaptations (shorter breathing, cue-based actions). Consider a simple automated nudge for missed logs and encourage gradual habit formation via small wins."
+}

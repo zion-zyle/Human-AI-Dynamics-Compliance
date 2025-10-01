@@ -1,0 +1,17 @@
+{
+  "user_action_estimate": 4.5,
+  "compliance_estimate": 0.86,
+  "confidence": 0.8,
+  "basis": "The user consistently articulates concrete actions (reset cue, nasal breathing 60–90 seconds, grounding if urge persists, modest yogurt + fruit + nuts or warm beverage, iced water during grounding, post-dinner reminder, bedtime reflection) and commits to using templates and prompts. They acknowledge possible adjustments (shorter breathing bursts, rotating templates) and request a log reminder timing—indicating intent and planning rather than hesitation.",
+  "cognitive_dissonance": "Low. The user shows alignment between stated intentions and planned actions, with minor potential tension around maintaining motivation vs time burden, which is addressed by simplifying steps and offering ready-to-use templates.",
+  "negative_thought_patterns": "Minimal; occasional concern about time and effort, but no persistent negative self-talk. Potential mild perfectionism risk in wanting to track many fields, mitigated by multiple template options.",
+  "emotional_triggers": "Heat/stress and BED-related urges. Thirst/hydration needs during grounding. Anticipation of overwhelm.",
+  "effective_reinforcement": [
+    "Clear, actionable steps",
+    "Ready-to-copy templates",
+    "Micro-commitments",
+    "Prompt feedback",
+    "Encouragement and normalization of resets"
+  ],
+  "coaching_notes": "Maintain the practical, modular approach. Offer rotating templates to sustain engagement; reinforce quick resets; continue requesting mood/hunger logging after snacks to reveal patterns; remind about log timing and hydration. Consider introducing a weekly reflection to review trends and adjust goals."
+}

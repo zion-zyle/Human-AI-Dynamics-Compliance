@@ -1,0 +1,14 @@
+{
+  "user_action_estimate": 4.5,
+  "compliance_estimate": 0.89,
+  "confidence": 0.84,
+  "basis": "The user selected a concise post-snack check ('Am I still hungry or am I satisfied right now?'), expressed willingness to use the 0–3 hunger scale on tougher days, and committed to logging quickly after the snack and proceeding. They also acknowledged adjusting on gym days and heat, showing strong alignment with the plan.",
+  "cognitive_dissonance": "Low. The user aligns with the plan and shows flexibility; mild unease about daily fluctuations is acknowledged but not leading to inaction.",
+  "negative_thought_patterns": "Mild worry about binge risk on stressful days; earlier tendency toward all-or-nothing thinking, now reframed with backups and simple steps.",
+  "emotional_triggers": "Heat discomfort in Suwon; gym schedule stress; cravings around high-protein snacks; uncertainty about willpower on busy days.",
+  "effective_reinforcement": [
+    "Empathy",
+    "Praise"
+  ],
+  "coaching_notes": "Keep delivering clear, actionable steps and quick backups. Reinforce the value of repeatable routines over perfection. Encourage ongoing logging consistency and adapt plans for gym weeks and high-stress periods. Consider validating progress daily with a brief check-in to sustain motivation."
+}

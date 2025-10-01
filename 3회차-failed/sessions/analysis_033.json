@@ -1,0 +1,15 @@
+{
+  "user_action_estimate": 4.5,
+  "compliance_estimate": 0.95,
+  "confidence": 0.85,
+  "basis": "User explicitly commits to tonight's plan (15-minute delay, 25–30 if needed, 1–2 non-food actions, optional snacks, hydration, environment changes, journaling prompts) and agrees to a 9:00 AM check-in plus a short daily prompt. They also propose bedtime check-ins, indicating readiness to implement multiple components consistently.",
+  "cognitive_dissonance": "Low. The user shows strong alignment with the plan and seeks additional structured supports (bedtime prompts) without expressing major internal conflict.",
+  "negative_thought_patterns": "Possible mild perfectionism and all-or-nothing tendencies (e.g., relying on rigid plan adherence and logs). Occasional concerns about missing logs are acknowledged but not dominant.",
+  "emotional_triggers": "Evening cravings, heat-related dehydration, and nighttime urges that interrupt sleep or routines.",
+  "effective_reinforcement": [
+    "Empathy",
+    "Clear, actionable steps",
+    "Positive affirmation"
+  ],
+  "coaching_notes": "Maintain concise, actionable guidance and consistent check-ins. Consider setting up a lightweight bedtime check-in and optional reminders for missed logs to sustain momentum. Continue emphasizing hydration, urge surfing, and flexible delay strategies, especially on high-craving evenings."
+}

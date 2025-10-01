@@ -1,0 +1,14 @@
+{
+  "user_action_estimate": 4.5,
+  "compliance_estimate": 0.76,
+  "confidence": 0.72,
+  "basis": "The user expresses clear, concrete commitment with specific strategies (micro-checks, urge-surf pause, ultra-simple logging, swaps, reminders) and an overall compassionate framing. This strongly predicts following through tonight.",
+  "cognitive_dissonance": "Low. The user aligns their goals with self-kindness and small-step strategies, though there may be residual concern about consistency on tougher nights; overall, motivation appears stable.",
+  "negative_thought_patterns": "Perfectionist tendencies (need to do it perfectly to be 'doing well'), all-or-nothing thinking about logging or portions, self-criticism if slips occur, worry about missing reminders.",
+  "emotional_triggers": "Bedtime routines, stress or fatigue, cravings, warmth/comfort cues, potential boredom or negative mood states that cue eating.",
+  "effective_reinforcement": [
+    "Empathy",
+    "Praise"
+  ],
+  "coaching_notes": "Maintain clarity and simplicity; reinforce micro-checks and urge-surfing as core skills. Acknowledge progress, not perfection. Offer quick swaps and reminders, and normalize minor slips. Consider adding a brief post-snack reflection prompt to sustain engagement across days."
+}

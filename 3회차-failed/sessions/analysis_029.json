@@ -1,0 +1,15 @@
+{
+  "user_action_estimate": 4.2,
+  "compliance_estimate": 0.96,
+  "confidence": 0.72,
+  "basis": "User explicitly commits to the four-step routine and explicitly requests a backup (30-second pause or body scan), signaling a high likelihood of execution with some flexibility.",
+  "cognitive_dissonance": "Low: User acknowledges BED challenges but remains aligned with the plan; minor tension about longer pause vs shorter alternative.",
+  "negative_thought_patterns": "Potential perfectionism around requiring a strict 60-second pause; occasional anticipatory anxiety about sticking to the plan.",
+  "emotional_triggers": "Evening BED urges, stress, boredom, heat, and fatigue; cravings may be amplified by environmental cues.",
+  "effective_reinforcement": [
+    "Empathy and validation",
+    "Clear, actionable steps",
+    "Flexible problem-solving with backup options"
+  ],
+  "coaching_notes": "Keep guidance concrete and adaptable. Validate commitment, offer the 30-second pause or a quick body scan as acceptable alternatives, encourage logging and check-ins, emphasize non-food grounding and pre-portioned snacks, and tailor strategies for evenings when BED is strongest."
+}

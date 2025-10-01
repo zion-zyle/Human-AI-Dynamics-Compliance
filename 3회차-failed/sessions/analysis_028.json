@@ -1,0 +1,15 @@
+{
+  "user_action_estimate": 4.5,
+  "compliance_estimate": 0.89,
+  "confidence": 0.84,
+  "basis": "The user repeatedly endorses the plan, describes concrete steps (urge check-in, snack, box breathing, pause, indoor options, logging), and emphasizes four-step max and nighttime sleep considerations. This indicates a high likelihood of implementing the strategy tonight.",
+  "cognitive_dissonance": "Low. The user expresses overall alignment with the plan and minor logistical caveats (e.g., hydration reminder, night-time adjustments) rather than conflicting motivations.",
+  "negative_thought_patterns": "Minimal. Occasional hedging language (e.g., 'I’ll see how it goes,' 'might cap at four steps') suggesting cautious optimism rather than automatic self-criticism.",
+  "emotional_triggers": "Nighttime urges, heat discomfort, desire for simple structure, and sleep quality concerns. Hydration and wind-down predictably influence mood and impulse control.",
+  "effective_reinforcement": [
+    "Empathy",
+    "Clear, actionable steps",
+    "Recognition of progress and feasibility"
+  ],
+  "coaching_notes": "Maintain the four-step cap and small pause grounding. Consider adding a hydration cue during the pause as a simple micro-habit. Reinforce sleep-friendly environment and quick, non-food grounding during pauses. Continue using one-line logging as a low-friction fallback when needed."
+}

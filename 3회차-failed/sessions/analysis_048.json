@@ -1,0 +1,14 @@
+{
+  "user_action_estimate": 4.5,
+  "compliance_estimate": 0.89,
+  "confidence": 0.85,
+  "basis": "The user consistently commits to actionable steps, asks clarifying questions, and expresses intent to implement tonight's plan with minor adjustments. This pattern indicates a high likelihood of actions aligned with the suggestion.",
+  "cognitive_dissonance": "Low to moderate: desire for structure and routine competes with a need for daily flexibility due to changing on-hand backups.",
+  "negative_thought_patterns": "Occasional worry about forgetting logs or adhering; mild perfectionism about strictly following the plan; concern about plan complexity.",
+  "emotional_triggers": "Heat-related discomfort, decision fatigue, cravings, stress about hydration and meal timing.",
+  "effective_reinforcement": [
+    "Empathy",
+    "Praise"
+  ],
+  "coaching_notes": "Keep plans clear and actionable; emphasize flexibility ( Rotate backups as needed ); encourage quick, consistent logging; offer brief prompts to re-commit after cravings."
+}

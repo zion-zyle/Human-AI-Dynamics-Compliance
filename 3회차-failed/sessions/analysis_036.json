@@ -1,0 +1,15 @@
+{
+  "user_action_estimate": 4.5,
+  "compliance_estimate": 0.86,
+  "confidence": 0.82,
+  "basis": "User expresses strong commitment with specific, actionable steps and reiterates privacy and logging. Frequent use of 'I’ll' and planning cues indicates high likelihood of following the plan closely.",
+  "cognitive_dissonance": "Low to moderate. The user inicialmente weighs hunger vs mood/habit checks and privacy, but ultimately leans toward adherence and adaptability, suggesting internal alignment between goals and methods with minor openness to tweaks.",
+  "negative_thought_patterns": "Occasional all-or-nothing thinking about strict plan adherence; potential worry about staying private or handling heat, but these do not dominate and appear manageable.",
+  "emotional_triggers": "Environmental heat, BED-related cravings, need for privacy, potential overwhelm or need for support.",
+  "effective_reinforcement": [
+    "Clear, actionable steps",
+    "Privacy-preserving tools and routines",
+    "Encouragement to seek support when overwhelmed"
+  ],
+  "coaching_notes": "Continue providing concise, implementable steps and privacy safeguards. Reinforce entry points for logging and quick checks (hunger/mood/habit). Offer flexible options for shade/indoor breaks and validate progress to sustain motivation."
+}

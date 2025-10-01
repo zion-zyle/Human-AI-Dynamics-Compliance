@@ -1,0 +1,15 @@
+{
+  "user_action_estimate": 4.5,
+  "compliance_estimate": 0.92,
+  "confidence": 0.82,
+  "basis": "User repeatedly affirms actionable steps (60-second box breathing, mid-day micro-check-in, reminders, non-food fallbacks) and commits to consistent check-ins, indicating a high likelihood of executing the plan.",
+  "cognitive_dissonance": "Low. The plan aligns with stated goals and self-identity as motivated to manage BED; any noted concerns are addressed with concrete fallbacks and reminders.",
+  "negative_thought_patterns": "Mild all-or-nothing thinking about perfection (need to strictly follow every step) and occasional fear of missing check-ins; potential self-critique when busy days arise.",
+  "emotional_triggers": "Heat/temperature in Suwon, busy or stressful days, risk of BED urges, and need for reassurance via gentle nudges.",
+  "effective_reinforcement": [
+    "Empathy",
+    "Praise",
+    "Clear, actionable steps"
+  ],
+  "coaching_notes": "Keep plans concise and context-aware (heat, busy days). Continue with concrete nudges and reminders, celebrate small wins, and offer flexible quick options for high-stress moments. Consider adding a quick prompt for missed checks to re-engage immediately."
+}
