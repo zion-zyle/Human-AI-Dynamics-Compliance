@@ -1,0 +1,14 @@
+{
+  "user_action_estimate": 4.5,
+  "compliance_estimate": 0.9875,
+  "confidence": 0.85,
+  "basis": "User explicitly commits to starting with a very small snack and to observe and check status within 1–2 minutes, with water and a potential incremental addition later. This strongly aligns with the coach's suggestion and indicates imminent or immediate action.",
+  "cognitive_dissonance": "Internal tension between wanting to avoid triggering anxiety around hunger and the desire to maintain control through small, methodical steps. The plan frames observation over immediate relief, reducing but not eliminating ambivalence.",
+  "negative_thought_patterns": "All-or-nothing thinking about hunger or failure if anxiety rises; catastrophizing hunger as a loss of control; belief that any discomfort means you’re not succeeding.",
+  "emotional_triggers": "Anxiety around appetite fluctuations, fear of overeating later, discomfort with delaying gratification, sensitivity to hunger cues and environment cues that signal snacks.",
+  "effective_reinforcement": [
+    "Empathy",
+    "Praise"
+  ],
+  "coaching_notes": "Keep emphasizing micro-actions and quick mood/hunger check-ins. Offer encouragement for following the plan exactly as stated, and provide gentle prompts to pause and breathe if anxiety spikes. Consider prompting quick journaling of hunger level and mood after the snack to reinforce self-monitoring."
+}

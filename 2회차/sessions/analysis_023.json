@@ -1,0 +1,15 @@
+{
+  "user_action_estimate": 4.5,
+  "compliance_estimate": 0.9,
+  "confidence": 0.82,
+  "basis": "User expresses a concrete, time-bound plan (6:00 PM today, 40 ml sip, log afterward) and explicitly states reliance on external prompts. This aligns closely with the suggested tiny-step approach, indicating high likelihood they will execute the planned action.",
+  "cognitive_dissonance": "Moderate: anxiety about eating conflicts with a strong desire to follow a tiny, structured plan. The user compensates by pre-committing to log and by opting for external prompts to reduce self-pressure.",
+  "negative_thought_patterns": "Anxiety-focused beliefs about eating; worries about overwhelm; potential catastrophizing about meals; fear of not following through.",
+  "emotional_triggers": "Heat/physical discomfort, anxiety around eating, need for structure and external prompts, desire for reassurance via reminders.",
+  "effective_reinforcement": [
+    "Empathy",
+    "Clear, tiny action steps",
+    "Consistent reminders and flexible options"
+  ],
+  "coaching_notes": "Keep leveraging ultra-tiny, self-paced steps and reliable reminders. Validate anxiety, avoid pressure, and provide easy fallback options (log an attempted sip). Encourage logging even if only an attempted sip to maintain momentum. Maintain a gentle, flexible cadence and celebrate small wins."
+}

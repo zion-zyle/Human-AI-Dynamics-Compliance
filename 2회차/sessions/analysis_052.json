@@ -1,0 +1,14 @@
+{
+  "user_action_estimate": 4.5,
+  "compliance_estimate": 0.92,
+  "confidence": 0.85,
+  "basis": "User explicitly commits to starting with water and box breathing, only proceeds to a tiny snack if doable, otherwise logs hunger/mood, and plans a post-logging reset activity (1-minute stretch or short indoor walk). Language is strongly proactive and flexible, indicating high likelihood of following through.",
+  "cognitive_dissonance": "Conflict between eating to cope with anxiety and fear that eating could intensify anxiety, balanced by a plan to log and adjust in the moment; some discomfort with heat/stress influencing risk tolerance for snacking.",
+  "negative_thought_patterns": "Tendency toward all-or-nothing thinking about snacks; worry about triggering anxiety; anticipatory stress about heat and Monday workload.",
+  "emotional_triggers": "Anxiety about eating, heat (32°C), and Monday stress act as triggers that could undermine perceived control over eating and hydration.",
+  "effective_reinforcement": [
+    "Empathy",
+    "Praise"
+  ],
+  "coaching_notes": "Maintain the emphasis on ultra-small, flexible steps and real-time adjustment. Reinforce self-monitoring (hunger/mood) and provide quick, actionable options. Remind them to reach their clinician if anxiety remains high. Keep plans simple and stepwise."
+}

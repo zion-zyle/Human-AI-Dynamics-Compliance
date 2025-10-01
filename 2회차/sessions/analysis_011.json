@@ -1,0 +1,15 @@
+{
+  "user_action_estimate": 4.5,
+  "compliance_estimate": 0.91,
+  "confidence": 0.82,
+  "basis": "The user explicitly commits to starting the core steps (water, 2-minute pause, four slow breaths) and to rate hunger, with a 04:10 check-in and 07:00 mealtime reminder. They express willingness to adapt prompts to pause-triggered use and to skip snacks until clinician clearance, indicating strong alignment with the plan.",
+  "cognitive_dissonance": "Low. The user maintains alignment with the plan and acknowledges potential overwhelm by preferring simple prompts and the option to reduce prompts if needed. Some minor internal tension around snack intake due to anorexia but mitigated by clinician clearance and anchored routine.",
+  "negative_thought_patterns": "Possible all-or-nothing thinking around meals or snacks; fear of not following through; perfectionism about adherence may create pressure to perform flawlessly.",
+  "emotional_triggers": "Heat/temperature (32°C) increasing discomfort; irregular eating patterns heightening anxiety about consistency; concern about snacks pending clinician clearance.",
+  "effective_reinforcement": [
+    "Empathy",
+    "Clear, actionable steps",
+    "Anchor reminders"
+  ],
+  "coaching_notes": "Maintain the ultra-simple, anchor-based approach. Reinforce pause-triggered prompts and ongoing validation. Monitor for rising anxiety or feelings of failure if plans are disrupted, and offer flexible adjustments (e.g., further reducing prompts or shifting timing) to maintain engagement and reduce overwhelm."
+}

@@ -1,0 +1,14 @@
+{
+  "user_action_estimate": 4.5,
+  "compliance_estimate": 0.898,
+  "confidence": 0.85,
+  "basis": "The user explicitly commits to the plan with clear, actionable steps and expresses intent to implement today, indicating a high likelihood of following the suggestion.",
+  "cognitive_dissonance": "Conflicting signals: anxiety and fear around eating due to anorexia vs. deliberate plan to try eating and log progress. They seek control and coping strategies to reduce distress.",
+  "negative_thought_patterns": "Anxiety-driven beliefs about meal intake; fear of losing control; potential all-or-nothing thinking; anticipatory worry about eating regularly.",
+  "emotional_triggers": "Anorexia-related fear of intake; heat-induced discomfort; desire for predictability and control; anxiety about trying a new eating routine.",
+  "effective_reinforcement": [
+    "Empathy",
+    "Praise"
+  ],
+  "coaching_notes": "Maintain clear, actionable steps and validate feelings. Encourage gradual exposure and consistent logging. Monitor for ED-related risks and coordinate with clinician support. Consider adding micro-goals and grounding techniques (e.g., box breathing) for anxiety management."
+}

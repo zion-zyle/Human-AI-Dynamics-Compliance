@@ -1,0 +1,15 @@
+{
+  "user_action_estimate": 4.5,
+  "compliance_estimate": 0.91,
+  "confidence": 0.85,
+  "basis": "The user repeatedly commits to the plan with concrete steps ('start with 30 g yogurt and berries', 'sip water', 'do the 60-second breath', 'set the 60–90 minute timer', 'rate hunger, mood, thirst'), and even adds a note about seeking professional support. This indicates a high likelihood of taking action aligned with the suggestion, consistent with a 4.0–5.0 action level.",
+  "cognitive_dissonance": "Visible tension between anxiety about eating and intent to follow a simple, manageable plan. The user seeks control through structured steps while acknowledging discomfort and irregular patterns.",
+  "negative_thought_patterns": "Anxious thoughts about eating, irregular meal patterns, potential fear of overwhelm, possible perfectionistic or all-or-nothing tendencies (preferring small, controlled actions).",
+  "emotional_triggers": "Heat/environmental discomfort, fear of eating, uncertainty about routine, desire for reassurance and simple structure.",
+  "effective_reinforcement": [
+    "Empathy",
+    "Praise",
+    "Clear, actionable steps"
+  ],
+  "coaching_notes": "Maintain short, concrete plans with small milestones. Validate anxiety while emphasizing doable actions. Encourage documenting ratings and feelings, and reinforce seeking professional support for longer-term guidance if desired. Monitor for rising distress and offer grounding techniques if needed."
+}

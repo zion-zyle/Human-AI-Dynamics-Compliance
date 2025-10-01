@@ -1,0 +1,14 @@
+{
+  "user_action_estimate": 4.5,
+  "compliance_estimate": 0.91,
+  "confidence": 0.82,
+  "basis": "The user explicitly commits to the water-first plan, states the snack is optional, and outlines concrete steps (check hunger at 10 minutes, optionally eat a light snack, then breathe and check back). This positive, actionable language strongly indicates they will perform the planned behaviors.",
+  "cognitive_dissonance": "Conflicted between anxiety about eating and desire to follow a gentle, safe plan. They seek safety by making snacks optional and pausing when overwhelmed, indicating ongoing inner negotiation between avoidance tendencies and coping goals.",
+  "negative_thought_patterns": "Fear-based beliefs about eating (e.g., anxiety around food intake, worry that meals trigger distress) and avoidance of meals leading to skipping. Possible all-or-nothing thinking (either snack or none) and overemphasis on safety in delaying eating.",
+  "emotional_triggers": "Medical/therapeutic anxiety around food, prior experiences with discomfort around eating, environmental stressors (heat) that can magnify discomfort and avoidance.",
+  "effective_reinforcement": [
+    "Empathy",
+    "Praise"
+  ],
+  "coaching_notes": "Continue with clear, small-step plans and explicit permission to pause. Reinforce the normalization of anxiety and the safety net of optional snacks. Encourage tracking hunger cues and breathing as immediate coping tools. If resistance grows, consider gradual exposure or alternate coping strategies coordinated with a clinician."
+}

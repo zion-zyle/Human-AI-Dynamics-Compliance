@@ -1,0 +1,15 @@
+{
+  "user_action_estimate": 4.5,
+  "compliance_estimate": 0.91,
+  "confidence": 0.83,
+  "basis": "The user states 'I can try that today', describes the plan as doable, commits to the box breathing afterward, and notes they will pause or seek support if overwhelmed, indicating strong alignment with the suggestion.",
+  "cognitive_dissonance": "The user experiences tension between needing nourishment/planning to eat and anxiety about eating, which they manage by committing to a small, controllable step and coping strategies (breathing, support).",
+  "negative_thought_patterns": "Anxious anticipation about eating, cautious/avoidant mindset, potential fear of losing control, all-or-nothing thinking reframed by small-step planning.",
+  "emotional_triggers": "Eating-related anxiety, heat and environmental discomfort in Suwon, anticipation of potential overwhelm, stress from upholding a structured plan.",
+  "effective_reinforcement": [
+    "Empathy",
+    "Clear, actionable steps",
+    "Validation of effort"
+  ],
+  "coaching_notes": "Maintain a calm, supportive tone; continue offering concrete, small steps (breathing, brief logging). If anxiety spikes, validate feelings and reinforce pausing/reaching out for support. Consider gradually increasing snack size or frequency as tolerance improves, while keeping steps manageable."
+}

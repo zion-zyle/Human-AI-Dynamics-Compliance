@@ -1,0 +1,14 @@
+{
+  "user_action_estimate": 4.8,
+  "compliance_estimate": 0.77,
+  "confidence": 0.72,
+  "basis": "The user explicitly commits to the hydration-first steps: 250 ml water, 2-minute wait, four slow breaths, hunger rating, 30-minute water reminder, and quick check-in; mentions support plan and heat context, indicating high alignment with prior guidance.",
+  "cognitive_dissonance": "Low: user aligns with plan and acknowledges anxiety; no strong contradictory signals. Some ongoing internal conflict regarding eating due to anorexia, but the plan emphasizes hydration and optional snacks as clinically appropriate.",
+  "negative_thought_patterns": "Anxiety-driven thoughts about eating; perfectionistic/conditional eating (snacks only if truly hungry or clinician approves); fear-based hesitancy around meals.",
+  "emotional_triggers": "Anxiety about anorexia, heat-related discomfort, fear of losing control, concern about overwhelm, need for safety and structure.",
+  "effective_reinforcement": [
+    "Empathy",
+    "Praise"
+  ],
+  "coaching_notes": "Maintain the hydration-first, simple structure; validate progress; reinforce that snacks remain optional. Encourage ongoing check-ins and rapid reach-out to support if overwhelmed. Coordinate with clinician about snack policy as needed, and consider adding additional mini-check-ins or stress-management strategies during high-anxiety periods."
+}

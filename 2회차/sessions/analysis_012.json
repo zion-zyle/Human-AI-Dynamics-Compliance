@@ -1,0 +1,15 @@
+{
+  "user_action_estimate": 4.5,
+  "compliance_estimate": 0.898,
+  "confidence": 0.85,
+  "basis": "The user explicitly commits to Thursday 03:30 PM with a grace window, states they will perform the quick refresher and hunger rating, and keeps snacks off the plan pending clinician input. They express willingness to treat reminders as gentle nudges, indicating high alignment with the suggested behavior.",
+  "cognitive_dissonance": "Moderate tension between anxiety about snacks staying off the plan and desire to follow clinician guidance; seeks flexibility and reassurance while attempting to adhere to the plan.",
+  "negative_thought_patterns": "Anxious about snacks, potential sense of guilt about compliance, worries about overwhelm or rigid rules.",
+  "emotional_triggers": "Heat/comfort needs, hunger cues, need for clinician validation, fear of losing control or feeling overwhelmed.",
+  "effective_reinforcement": [
+    "Empathy",
+    "Clear, actionable steps",
+    "Consistency"
+  ],
+  "coaching_notes": "Maintain simple, actionable steps and gentle framing. Acknowledge snack-anxiety and validate the user's pace. Encourage ongoing clinician involvement for snack decisions and continue treating reminders as flexible prompts rather than strict rules. Consider offering brief check-ins or optional snack planning discussions tied to clinician guidance."
+}

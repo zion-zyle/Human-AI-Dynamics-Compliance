@@ -1,0 +1,14 @@
+{
+  "user_action_estimate": 4.5,
+  "compliance_estimate": 0.935,
+  "confidence": 0.82,
+  "basis": "The user explicitly commits to trying the ultra-tiny plan, stating they will drink 250 ml now, sip gradually, consider yogurt or almonds if hungry and skip if not, set a reminder to check in, and may discuss adjustments with a clinician or nutritionist.",
+  "cognitive_dissonance": "Tension between wanting to eat to support intake and anxiety about consuming food due to irregular eating and anorexia; balancing a desire for simple steps with concerns about potential negative effects of adding food.",
+  "negative_thought_patterns": "Anorexia-related fears around eating; all-or-nothing tendencies (snack vs skip); self-doubt about ability to follow the plan; concerns about safety given irregular eating.",
+  "emotional_triggers": "Heat-related discomfort, irregular meal history, anxiety about food intake, need for clear, small steps to reduce overwhelm.",
+  "effective_reinforcement": [
+    "Empathy",
+    "Praise"
+  ],
+  "coaching_notes": "Keep reinforcing ultra-tiny, actionable steps and validate anxiety around eating. Offer optional, low-pressure snack alternatives and emphasize coordination with clinicians. Use brief reminders and check-ins to maintain progress while monitoring distress signals and adjusting as needed."
+}

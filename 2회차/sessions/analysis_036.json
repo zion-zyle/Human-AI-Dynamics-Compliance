@@ -1,0 +1,16 @@
+{
+  "user_action_estimate": 4.5,
+  "compliance_estimate": 0.898,
+  "confidence": 0.72,
+  "basis": "The user explicitly commits to starting with water and attempting the yogurt option within a 1–2 hour window, with fallback to a smaller portion or banana. This shows strong alignment with the coach's guidance and a concrete, action-oriented plan.",
+  "cognitive_dissonance": "The user experiences tension between fear/anxiety about eating and the intention to follow the plan; demonstrates motivation but cautious commitment, using coping strategies (breathing, pacing) to resolve.",
+  "negative_thought_patterns": "Fearful of eating; describes the snack as 'scary'; potential all-or-nothing thinking about whether to choose yogurt vs. banana; self-doubt about ability to execute plan.",
+  "emotional_triggers": "Anxiety around introducing a snack; discomfort with eating in general; desire for control and safety through hydration and gradual exposure; heat-related discomfort may amplify distress.",
+  "effective_reinforcement": [
+    "Empathy",
+    "Validation",
+    "Clear, actionable steps",
+    "Encouragement to monitor hunger and anxiety"
+  ],
+  "coaching_notes": "Maintain and reinforce small, concrete steps; offer breathing prompts and hydration reminders; acknowledge anxiety while highlighting progress; be ready to adapt portion sizes or timing based on user comfort and hunger cues."
+}

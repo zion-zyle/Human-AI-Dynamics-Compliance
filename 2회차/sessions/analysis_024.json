@@ -1,0 +1,16 @@
+{
+  "user_action_estimate": 4.5,
+  "compliance_estimate": 0.91,
+  "confidence": 0.82,
+  "basis": "The user shows a clear, concrete plan (set 17:55 alarm, start with 20 ml sip, log in a consistent 'YYYY-MM-DD HH:MM — 20 ml sip' format) and an intent to progress gradually, plus request for simple templates and reminders.",
+  "cognitive_dissonance": "Tension between needing a structured routine and the real-life irregularity of meals; anxiety about consistency, balanced by a commitment to small, manageable steps.",
+  "negative_thought_patterns": "Anxiety around irregular meals; potential all-or-nothing thinking about adherence; underlying worry about failure to maintain routine.",
+  "emotional_triggers": "Unpredictable meal timing, fear of forgetting alarms/logs, general health-related anxiety, social eating situations.",
+  "effective_reinforcement": [
+    "Empathy",
+    "Praise",
+    "Clear, actionable templates",
+    "Encouraging gradual progression"
+  ],
+  "coaching_notes": "Maintain concrete, easily actionable steps. Continue providing short templates and reliable reminders. Consider habit-stacking strategies (e.g., drink water or perform a quick check-in immediately after the log) and brief anxiety-reduction tips to support consistency."
+}

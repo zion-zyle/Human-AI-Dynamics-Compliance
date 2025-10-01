@@ -1,0 +1,16 @@
+{
+  "user_action_estimate": 4.5,
+  "compliance_estimate": 0.9,
+  "confidence": 0.78,
+  "basis": "The user explicitly commits to the proposed micro-step (15 ml now) and to logging in about 15 minutes, framing it as safe and doable, which strongly predicts action aligned with the suggestion.",
+  "cognitive_dissonance": "There is a tension between the desire for control and the acknowledged difficulty of hydration in heat and irregular eating, leading to a cautious, stepwise approach.",
+  "negative_thought_patterns": "Tendency to rely on prompts, possible perfectionism, fear of overwhelm, and occasional self-doubt about consistency; preference for safety through micro-steps.",
+  "emotional_triggers": "Heat in Suwon, irregular meals, thirst, anxiety, sensitivity to being overwhelmed; need for structure and gentle reminders.",
+  "effective_reinforcement": [
+    "Empathy",
+    "Clear, actionable plan",
+    "Structured flexibility",
+    "Validation of micro-progress"
+  ],
+  "coaching_notes": "Continue supplying ultra-short, concrete prompts. Acknowledge small wins and emphasize micro-sips. Keep reminders gentle and optional to reduce cognitive load, and adapt pace to the user's comfort to sustain motivation."
+}

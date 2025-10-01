@@ -1,0 +1,14 @@
+{
+  "user_action_estimate": 4.5,
+  "compliance_estimate": 0.9,
+  "confidence": 0.8,
+  "basis": "The user explicitly commits to trying today with a concrete plan (250 ml water, 1-minute box breathing, hunger rating, conditional bite or skipping bite) and asks for flexibility, indicating high likelihood of following the suggestion.",
+  "cognitive_dissonance": "Moderate: user acknowledges anxiety about regular eating and desires flexibility, indicating internal tension between fear/aversion and the proposed routine.",
+  "negative_thought_patterns": "Fear of biting, concern about eating regularly, potential all-or-nothing thinking about meals.",
+  "emotional_triggers": "Anxiety around eating, discomfort with new breathing exercise, heat/comfort environment in Suwon.",
+  "effective_reinforcement": [
+    "Empathy",
+    "Praise"
+  ],
+  "coaching_notes": "Keep reinforcing small, concrete steps and flexibility (skip bite when not hungry). Normalize anxiety and encourage reaching out to clinician/supportive person. Offer non-food calming alternatives and check in after the attempt to adjust future steps."
+}

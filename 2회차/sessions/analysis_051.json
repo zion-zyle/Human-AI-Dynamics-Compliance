@@ -1,0 +1,15 @@
+{
+  "user_action_estimate": 4.4,
+  "compliance_estimate": 0.92,
+  "confidence": 0.82,
+  "basis": "The user explicitly commits to today's plan with multiple concrete actions (eat a small apple/almonds, hydrate, log hunger/mood, practice box-breathing, short walk if feasible, and check in with clinician). They acknowledge potential overwhelm and propose adjustments, indicating strong alignment with the suggestion and high likelihood of execution.",
+  "cognitive_dissonance": "Tension between wanting to follow a gentle plan and concern about feeling overwhelmed in heat and irregular eating. The user negotiates between adherence and self-protection by outlining adjustments.",
+  "negative_thought_patterns": "All-or-nothing tendencies (risking if unable to do all steps), dependence on external suggestions, worry about being swayed, potential self-criticism if unable to maintain every component.",
+  "emotional_triggers": "Heat and irregular eating patterns triggering stress; fear of overwhelm; desire for steadiness and control.",
+  "effective_reinforcement": [
+    "Empathy",
+    "Validation of effort",
+    "Encouragement of small, actionable steps"
+  ],
+  "coaching_notes": "Maintain the focus on simple, doable actions and flexible adjustments. Reinforce non-food strategies and clinician check-ins as supportive anchors. Continue validating the user’s efforts, provide quick check-in prompts, and offer options to scale back or modify actions when needed (e.g., shorter walks, breathing only)."
+}

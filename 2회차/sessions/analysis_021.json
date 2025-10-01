@@ -1,0 +1,16 @@
+{
+  "user_action_estimate": 4.5,
+  "compliance_estimate": 0.973,
+  "confidence": 0.85,
+  "basis": "The user repeatedly states concrete future actions (start 20 ml now, log in ~15 minutes, rate anxiety and thirst, consider a small sip later) and frames it in a self-affirming, safety-focused way. This pattern indicates a high likelihood of following through on the suggested steps.",
+  "cognitive_dissonance": "Tension between wanting to follow a gentle, non-pushy plan and the anxiety around eating/drinking; conflict between autonomy and seeking reassurance/structure.",
+  "negative_thought_patterns": "Fear of being overwhelmed; concern about being overly influenced; possible all-or-nothing thinking despite intention for small steps.",
+  "emotional_triggers": "Anxiety around fluids/eating, heat/discomfort increasing sensitivity, need for control and safety, relief from supportive, non-pushy guidance.",
+  "effective_reinforcement": [
+    "Empathy",
+    "Validation of safety-oriented, gradual steps",
+    "Autonomy-supportive language",
+    "Positive reinforcement for planning and self-monitoring"
+  ],
+  "coaching_notes": "Continue with concrete, tiny-step plans and keep reminders optional. Validate feelings, offer breathing/grounding techniques, and provide simple templates for logging to maintain momentum without pressure. Check in after the 15-minute log and adapt as needed."
+}

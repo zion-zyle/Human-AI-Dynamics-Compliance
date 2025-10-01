@@ -1,0 +1,15 @@
+{
+  "user_action_estimate": 4.7,
+  "compliance_estimate": 0.89,
+  "confidence": 0.82,
+  "basis": "The user expresses clear intent to perform the plan (take a 15 ml sip now, plan next sip, rate thirst/mood, request gentle reminders) and uses affirmative, action-oriented language.",
+  "cognitive_dissonance": "Internal tension between wanting ultra-simple adherence and awareness of environmental cues that could trigger slipping.",
+  "negative_thought_patterns": "Vulnerability to cues; occasional all-or-nothing thinking about slips; concern about irregular eating affecting consistency.",
+  "emotional_triggers": "Heat stress, hunger fluctuations, environmental cues encouraging snacking, the desire for simple, controllable actions.",
+  "effective_reinforcement": [
+    "Empathy",
+    "Praise",
+    "Clear, actionable plan"
+  ],
+  "coaching_notes": "Maintain ultra-simple, repeatable steps; validate progress with immediate next-step commands; offer gentle reminders for staying small; monitor for dizziness and thirst/mood ratings; consider small adjustments if dizziness occurs."
+}

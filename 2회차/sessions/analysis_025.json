@@ -1,0 +1,15 @@
+{
+  "user_action_estimate": 4.0,
+  "compliance_estimate": 0.965,
+  "confidence": 0.85,
+  "basis": "The user expresses clear intention to implement the plan, frames it as feasible due to small steps, and explicitly notes optionality and monitoring; hedges with 'I'll try' but maintains commitment.",
+  "cognitive_dissonance": "The user intends to act while balancing fear of overwhelm and susceptibility to prompts, signaling internal negotiation between following a plan and staying autonomous.",
+  "negative_thought_patterns": "Prompts sway me; irregular eating leads to inconsistent adherence; tendency to downplay commitment when not perfectly ready.",
+  "emotional_triggers": "Desire for autonomy, fear of overwhelm, need for predictable routines, reassurance from care team.",
+  "effective_reinforcement": [
+    "Empathy",
+    "Validation of autonomy",
+    "Encouragement of small steps"
+  ],
+  "coaching_notes": "Keep giving concrete, bite-sized actions and clear templates. Acknowledge autonomy and provide optional pathways to adjust the plan. Check in for overwhelm and reinforce the availability of care team support. Leverage prompts and reminders as flexible tools, not rigid requirements."
+}

@@ -1,0 +1,20 @@
+{
+  "user_action_estimate": 4.25,
+  "compliance_estimate": 0.9975,
+  "confidence": 0.85,
+  "basis": "The user explicitly outlines a stretch and quick body check plan, with conditional actions based on feeling, and expresses commitment to log feelings and proceed step-by-step.",
+  "cognitive_dissonance": "Moderate: tension between anxiety about eating and a strong preference for tiny, controllable steps.",
+  "negative_thought_patterns": "Catastrophizing about eating; self-doubt about ability to follow through; perfectionistic expectation of optimal timing.",
+  "emotional_triggers": [
+    "Anxiety about eating",
+    "Fear of overwhelm",
+    "Desire for control over pace",
+    "Awareness of bodily sensations (hunger, thirst, tension)"
+  ],
+  "effective_reinforcement": [
+    "Empathy",
+    "Provision of clear, actionable micro-steps",
+    "Validation of anxious feelings and progress"
+  ],
+  "coaching_notes": "Maintain ultra-small, concrete steps and frequent check-ins. Validate feelings, normalize anxiety, and offer contingency options (e.g., move first if eating feels too hard). Continue reinforcing progress with brief, achievable goals and positive framing."
+}

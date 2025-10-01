@@ -1,0 +1,15 @@
+{
+  "user_action_estimate": 4.5,
+  "compliance_estimate": 0.94,
+  "confidence": 0.8,
+  "basis": "The user expresses clear intent to follow the plan after the 15-minute check-in, with conditions (add a third stick if anxiety eases; stay at two if overwhelmed) and a readiness to discuss pacing with their clinician. They acknowledge potential influence from the moment and propose a pause strategy, suggesting strong alignment with the coach's guidance.",
+  "cognitive_dissonance": "Moderate; the user shows willingness to escalate intake (add a third cucumber) if anxiety eases, but also anticipates overwhelm and plans to revert to two sticks. This reflects internal balancing between incremental progress and self-protection.",
+  "negative_thought_patterns": "Self-doubt about being easily influenced; fear of overwhelm; potential all-or-nothing thinking (two vs three sticks) and precautionary planning to revert tomorrow.",
+  "emotional_triggers": "Anxiety around eating, heat/ambient discomfort in Suwon, desire for control, and sensitivity to momentary cues that could derail plan.",
+  "effective_reinforcement": [
+    "Clear, actionable next steps",
+    "Empathetic validation of effort",
+    "Emphasis on small, manageable progress"
+  ],
+  "coaching_notes": "Maintain and reinforce small-step framing; acknowledge anxiety without judgment; encourage ongoing communication with clinician about pacing; remind user to hydrate and use grounding (breathing) as needed; consider offering a tiny contingency plan for when anxiety spikes (e.g., delaying any intake until after a breath-focused check-in)."
+}

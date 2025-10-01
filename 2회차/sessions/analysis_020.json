@@ -1,0 +1,16 @@
+{
+  "user_action_estimate": 4.3,
+  "compliance_estimate": 0.96,
+  "confidence": 0.75,
+  "basis": "The user expresses clear intent to perform the suggested steps (50 ml now, 15-min check-in, possible meal-time sip, log intake, reminders) while acknowledging potential overwhelm, indicating a high likelihood of action with flexibility.",
+  "cognitive_dissonance": "Tension between wanting to progress and fear/anxiety about increasing intake; preference for gradual steps vs potential pressure to escalate.",
+  "negative_thought_patterns": "Catastrophizing about days being overwhelming; fear of failure; perfectionistic or all-or-nothing tendencies; self-criticism when feeling uncertain.",
+  "emotional_triggers": "Anxiety spikes related to intake increases; heat-related discomfort; concern about not meeting self-imposed targets.",
+  "effective_reinforcement": [
+    "Empathy",
+    "Clear, actionable steps",
+    "Flexibility",
+    "Self-compassion encouragement"
+  ],
+  "coaching_notes": "Continue offering gentle, concrete plans and validate feelings. Emphasize micro-goals, optional pauses, and flexible pacing. Encourage brief check-ins and simple reminders to support steady progress without pressure."
+}

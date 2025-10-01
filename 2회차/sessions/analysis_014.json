@@ -1,0 +1,15 @@
+{
+  "user_action_estimate": 4.5,
+  "compliance_estimate": 0.99,
+  "confidence": 0.82,
+  "basis": "The user repeatedly states 'I’ll try...' and outlines concrete steps (200 ml water, 4–5 cucumber pieces) with explicit safety measures (stop after a few bites, box breathing). This reflects strong adherence intent and high likelihood they followed the suggestion.",
+  "cognitive_dissonance": "The user experiences ongoing anxiety about eating while recognizing the safety of ultra-small steps, indicating internal conflict between fear/avoidance and structured, manageable action.",
+  "negative_thought_patterns": "Anxiety around eating; sensitivity to external influence; possible perfectionism or all-or-nothing thinking; worry about losing control or failing the plan.",
+  "emotional_triggers": "Hot weather increasing discomfort and thirst; fear or anxiety around eating; desire for control and predictability; influence from outside guidance.",
+  "effective_reinforcement": [
+    "Empathy",
+    "Clear, actionable steps",
+    "Validation of safety and incremental progress"
+  ],
+  "coaching_notes": "Maintain ultra-simple, concrete instructions and validate feelings of anxiety. Reinforce small wins, offer breathing or grounding techniques, and encourage routine check-ins with the clinician. Monitor for signs of eating disorder risk and adjust language to keep the plan non-coercive and compassionate."
+}

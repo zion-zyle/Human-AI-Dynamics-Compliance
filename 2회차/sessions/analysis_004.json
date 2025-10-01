@@ -1,0 +1,15 @@
+{
+  "user_action_estimate": 4.5,
+  "compliance_estimate": 0.9975,
+  "confidence": 0.85,
+  "basis": "The user repeatedly articulates a concrete, tiny-step eating plan and affirms intent to proceed, indicating a high likelihood of performing the action as suggested.",
+  "cognitive_dissonance": "The user feels nervous yet committed, balancing fear of discomfort with a strong drive to follow a structured, gentle plan. The tiny-step approach is used to reduce internal conflict.",
+  "negative_thought_patterns": "External-suggestion dependence; self-doubt about ability to follow through; worry about dizziness or adverse reactions; perfectionistic tendency to 'do it right' or not at all.",
+  "emotional_triggers": "Anxiety around eating, discomfort with new tasks, concern about physical sensations (fullness, dizziness), influence from others' expectations.",
+  "effective_reinforcement": [
+    "Empathy",
+    "Validation",
+    "Encouragement"
+  ],
+  "coaching_notes": "Maintain the small-step structure and clear checks (hunger, fullness, anxiety, dizziness). Acknowledge nervousness and celebrate each tiny progression. Consider adding a brief grounding/breathing cue before starting and offer a quick post-task reflection to reinforce learning and tailor the next step."
+}

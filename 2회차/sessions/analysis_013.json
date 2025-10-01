@@ -1,0 +1,15 @@
+{
+  "user_action_estimate": 4.5,
+  "compliance_estimate": 0.94,
+  "confidence": 0.82,
+  "basis": "User expresses strong alignment with the approach (consult Clinician, start with a very small snack after approval, maintain 200ml water, readiness to adjust). Phrases like '이 방식으로 계속 진행해도 될지' and ' Clinician의 승인을 받고 진행하고 싶어요' indicate intent to act consistently with the suggestion.",
+  "cognitive_dissonance": "Moderate: the user feels anxious about new steps and wants clinician confirmation, which creates tension between wanting to proceed autonomously and needing external validation. This is being managed by seeking clear guidance and keeping actions very small.",
+  "negative_thought_patterns": "Mild perfectionism and fear of making the wrong choice; worries about burdening themselves or Clinician; occasional self-doubt about sustaining small-step changes.",
+  "emotional_triggers": "Heat and fatigue (more fatigue in hot weather), anxiety about making the right snack choice, need for reassurance from Clinician and clear plan.",
+  "effective_reinforcement": [
+    "Empathy",
+    "Clear, actionable guidance",
+    "Consistency and reassurance"
+  ],
+  "coaching_notes": "Maintain the emphasis on ultra-small steps and clinician collaboration. Offer ready-to-send Clinician check-in messages, provide short progress prompts, and normalize reassurance-seeking. Consider offering a mini-checklist for each day (sleep, water, snack, stretch) to reduce planning load and sustain momentum."
+}

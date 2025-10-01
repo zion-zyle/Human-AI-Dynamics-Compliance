@@ -1,0 +1,15 @@
+{
+  "user_action_estimate": 4.4,
+  "compliance_estimate": 0.96,
+  "confidence": 0.78,
+  "basis": "The user explicitly commits to following the plan, plans the next 15 ml sip, and sets a mood target (~4) while acknowledging heat and potential discomfort, and indicating willingness to adjust based on body cues.",
+  "cognitive_dissonance": "Moderate: desire for strict adherence clashes with concern about fullness and heat; resolves by prioritizing body cues and treating plan as flexible guidance.",
+  "negative_thought_patterns": "Fear of causing fullness or dizziness; worry about taking too much water; hesitation due to heat; belief that suggestions may overly sway behavior.",
+  "emotional_triggers": "Heat and bodily sensations (thirst, fullness, dizziness) triggering worry; social influence and desire for supportive guidance.",
+  "effective_reinforcement": [
+    "Empathy",
+    "Praise",
+    "Gentle guidance"
+  ],
+  "coaching_notes": "Maintain specific, small-step prompts; encourage monitoring thirst/mood; reinforce that it's acceptable to slow down or adjust; address tendency to overanalyze suggestions by validating body cues; offer micro-goals and check-ins."
+}

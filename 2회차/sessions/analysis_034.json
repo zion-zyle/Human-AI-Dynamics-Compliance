@@ -1,0 +1,15 @@
+{
+  "user_action_estimate": 4.5,
+  "compliance_estimate": 0.91,
+  "confidence": 0.85,
+  "basis": "The user explicitly commits to a stepwise plan (water, box breathing, hunger rating) with an optional tiny bite and built-in pauses, and requests reminders to check in with a support person. This strongly aligns with following the suggested flow.",
+  "cognitive_dissonance": "Moderate. The user is anxious about eating and wary of external suggestions, yet actively seeks a structured, low-pressure approach. They attempt to reconcile control with flexibility by keeping bites optional and pauses available.",
+  "negative_thought_patterns": "Anxiety about eating; fear of being pressured; susceptibility to social influence; potential all-or-nothing thinking about having to follow the plan exactly.",
+  "emotional_triggers": "Anxiety around hunger/food, desire for safety and control, discomfort with potential judgment, heat/discomfort from environment.",
+  "effective_reinforcement": [
+    "Empathy",
+    "Calm, clear prompts",
+    "Encouragement of pauses and support-seeking"
+  ],
+  "coaching_notes": "Maintain the calm, actionable structure. Emphasize bite optionality and pausing. Reinforce 5–10 minute check-ins and quick prompts to contact a support person. Use grounding techniques as needed and normalize stopping anytime. Track hunger ratings to build trust and gradual progress."
+}

@@ -1,0 +1,15 @@
+{
+  "user_action_estimate": 4.0,
+  "compliance_estimate": 0.98,
+  "confidence": 0.85,
+  "basis": "The user explicitly commits to a concrete, small action (tiny bite + water) and a 20–30 minute check-in, framing it as doable. This alignment with the suggestion indicates a high likelihood the intended action will be carried out.",
+  "cognitive_dissonance": "The user acknowledges the plan is tough but chooses to implement it, showing manageable tension between craving urges and the plan. Likely to experience intermittent internal debate but maintains commitment.",
+  "negative_thought_patterns": "Occasional self-doubt about ability to sustain the plan; anticipatory worry about cravings; occasional perfectionistic wording ('if I don’t feel settled') that could undermine confidence over time.",
+  "emotional_triggers": "Cravings/urge to eat, heat/ambient discomfort from warm evening, desire for control and predictability, concern about needing care team support.",
+  "effective_reinforcement": [
+    "Empathy",
+    "Praise",
+    "Clear, actionable steps"
+  ],
+  "coaching_notes": "Continue offering simple, concrete actions and quick check-ins. Reinforce self-efficacy with brief progress prompts and remind about support channels. Adapt plan to maintain realism in warm environments; consider adding short cooling strategies (water, light movement) to support urge management."
+}

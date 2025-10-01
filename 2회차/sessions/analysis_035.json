@@ -1,0 +1,15 @@
+{
+  "user_action_estimate": 4.3,
+  "compliance_estimate": 0.973,
+  "confidence": 0.78,
+  "basis": "The user expresses explicit intent to follow the plan, reiterating steps and emphasizing gentle self-talk and support-seeking; this indicates a high likelihood of executing the actions.",
+  "cognitive_dissonance": "Conflicting drive to adhere to a gentle plan while patterns of skipping meals and anxiety around eating create internal tension; optimism about small steps competes with fear of failure or discomfort.",
+  "negative_thought_patterns": "All-or-nothing thinking about eating (believing they must fully avoid or completely skip meals), self-criticism when plans feel hard, worry about overeating or losing control, doubt about sustained adherence.",
+  "emotional_triggers": "Anxiety around eating, heat-related discomfort prompting hydration concerns, fear of judgment, relapse into habitual skipping meals; desire for support and external reminders.",
+  "effective_reinforcement": [
+    "Empathy",
+    "Praise",
+    "Clear, actionable steps"
+  ],
+  "coaching_notes": "Maintain concrete, small-step plans; acknowledge anxiety; reinforce self-compassion; ensure hydration; use reminders; invite tweaks as needed; monitor hunger cues and safe bite sizes; celebrate small wins."
+}

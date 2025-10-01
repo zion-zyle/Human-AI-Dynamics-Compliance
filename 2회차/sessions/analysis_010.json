@@ -1,0 +1,16 @@
+{
+  "user_action_estimate": 4.7,
+  "compliance_estimate": 0.92,
+  "confidence": 0.78,
+  "basis": "The user explicitly commits to the steps (water, 2-minute pause, four breaths, hunger rating, 30-minute reminder, clinician-approved snack if needed) and endorses the pause/adjust signal. They acknowledge nervousness but emphasize a structured, predictable approach and intent to check in with clinicians, which strongly suggests they will execute the plan.",
+  "cognitive_dissonance": "Internal conflict between fear/rigidity around eating due to anorexia and the urge to follow a simple, controllable routine. The user seeks reassurance and validation to reduce ambivalence, balancing anxiety with a desire for structure.",
+  "negative_thought_patterns": "Beliefs of vulnerability to environmental influence; fear of losing control around meals; tendency toward self-doubt about ability to maintain regular eating; concerns about triggering situations.",
+  "emotional_triggers": "Mealtime anxiety, triggering situations, environmental cues, influence of others; heat and discomfort may heighten distress",
+  "effective_reinforcement": [
+    "Empathy",
+    "Clear, actionable plan",
+    "Predictable structure",
+    "Encouragement to check in with clinician"
+  ],
+  "coaching_notes": "Maintain and reinforce concrete, small-step plans; continue using the pause/adjust signal; provide quick coping strategies for mealtime anxiety (breathing, grounding, pre-meal rituals). Encourage ongoing clinician involvement and environmental adjustments to support adherence. Monitor for signs of rising distress and be ready to adapt plan fluidly."
+}

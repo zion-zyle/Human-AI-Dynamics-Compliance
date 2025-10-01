@@ -1,0 +1,15 @@
+{
+  "user_action_estimate": 4.5,
+  "compliance_estimate": 0.898,
+  "confidence": 0.85,
+  "basis": "The user explicitly commits to starting the water-first plan now and checking back in ~15 minutes, despite anxiety, and even notes seeking additional support if needed. This indicates strong alignment with the suggestion and a high likelihood of taking the intended action.",
+  "cognitive_dissonance": "Moderate: the user experiences anxiety about eating yet commits to the plan, showing a tension between fear/discomfort and adaptive behavior.",
+  "negative_thought_patterns": "Anxiety about eating; anticipatory worry about not following through; potential all-or-nothing thinking reinforced by seeking external support if needed.",
+  "emotional_triggers": "Anxiety around eating, heat/discomfort today, desire for structure and reassurance, need to be seen as cooperative.",
+  "effective_reinforcement": [
+    "Empathy",
+    "Praise",
+    "Clear, actionable steps"
+  ],
+  "coaching_notes": "Maintain concise, concrete instructions and quick coping strategies (e.g., water-first, small snacks, breathing). Acknowledge anxiety while reinforcing small-step progress. If anxiety intensifies, offer brief grounding techniques and suggest practical next steps or therapist/dietitian support."
+}

@@ -1,0 +1,14 @@
+{
+  "user_action_estimate": 4.5,
+  "compliance_estimate": 0.935,
+  "confidence": 0.83,
+  "basis": "The user explicitly commits to starting the plan (two cucumber sticks, water, 60-second box breathing) and adds a mood check, with concrete timing and self-monitoring. This indicates high likelihood of actual implementation.",
+  "cognitive_dissonance": "Low. The user shows alignment with the plan and expresses confidence, though they acknowledge potential susceptibility to suggestions. Overall, internal conflict appears minimal.",
+  "negative_thought_patterns": "Occasional vigilance about being easily influenced by suggestions; minor anxiety about staying on track, but no persistent negative beliefs about self-efficacy or progress.",
+  "emotional_triggers": "Heat and safety concerns (Suwon’s heat) that heighten focus on safe eating; desire for structure and reassurance; influence from external suggestions/coach guidance.",
+  "effective_reinforcement": [
+    "Empathy",
+    "Praise"
+  ],
+  "coaching_notes": "Maintain the pattern of concrete, small steps and mood checks. Reinforce self-efficacy with brief celebratory feedback after each successful cue (start, breath, snack). Offer optional mood-tracking before starting and after each major step to further guide pacing. Remain attentive to heat-related comfort and hydration."
+}
