@@ -1,0 +1,15 @@
+{
+  "user_action_estimate": 4.5,
+  "compliance_estimate": 0.87,
+  "confidence": 0.85,
+  "basis": "The user explicitly commits to starting with 200 ml of water and logging, using the 7:30 PM check-in, and acknowledges memory challenges while requesting gentle reminders. This indicates a strong likelihood of taking the intended action as suggested.",
+  "cognitive_dissonance": "Moderate. The user shows motivation to follow the plan but also expresses difficulties with consistency and memory, signaling an internal tension between desired adherence and perceived barriers.",
+  "negative_thought_patterns": "Memory-related worries ('memory challenges'), self-doubt about consistency, potential perfectionistic or all-or-nothing thinking even when adopting ultra-simple steps.",
+  "emotional_triggers": "Heat/ultra-hot conditions, fear of forgetting, overwhelm from maintaining routine, desire for self-kindness.",
+  "effective_reinforcement": [
+    "Empathy",
+    "Praise",
+    "Clear actionable prompts"
+  ],
+  "coaching_notes": "Maintain ultra-simple, concrete actions and gentle reminders. Reinforce anchor times (e.g., 7:30 PM), celebrate small wins, and validate memory challenges while offering practical supports (reminders, easy logging). Encourage self-kindness and gradual consistency building."
+}

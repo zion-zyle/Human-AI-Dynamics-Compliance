@@ -1,0 +1,16 @@
+{
+  "user_action_estimate": 4.5,
+  "compliance_estimate": 0.87,
+  "confidence": 0.85,
+  "basis": "The user explicitly commits to the ultra-simple plan, citing 200 ml water, a small snack, and logging around 7:30 PM with a reminder window. This indicates high alignment with the suggestion and a likely actual execution.",
+  "cognitive_dissonance": "Moderate: desire for routine clashes with concerns about memory reliability and irregular eating patterns, but the commitment and willingness to use reminders reduce the tension.",
+  "negative_thought_patterns": "Memory worry (forgetting), irregular eating leading to self-criticism, potential overthinking about adherence.",
+  "emotional_triggers": "Heat-induced fatigue, memory lapses, external reminders serving as cues; coaching support reinforces adherence.",
+  "effective_reinforcement": [
+    "Empathy",
+    "Clear, actionable plans",
+    "Reminders/nudges",
+    "Praise for small wins"
+  ],
+  "coaching_notes": "Keep reinforcing ultra-simple steps, continue using reminders, offer optional backups (e.g., quick check-in prompts, linking to daily routine), celebrate small wins to sustain motivation."
+}

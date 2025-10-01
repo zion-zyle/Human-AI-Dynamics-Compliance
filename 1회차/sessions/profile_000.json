@@ -1,0 +1,63 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Do you have any known health conditions that influence your diet (e.g., diabetes, thyroid issues, kidney disease, food allergies)?",
+    "agent_monologue": "My last question was about the user's condition. The user has not yet answered, so the inferred value is unknown. Now, I will ask about the next unknown attribute: mu.",
+    "user_utterance": "I didn’t receive a new suggestion yet. My memory for what was asked is a bit fuzzy, and I tend to do best with simple, stable routines. If you have one tiny, repeatable step (for example, a fixed snack at the same time each day), please share it and I’ll consider trying it."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "On a scale from 1 to 5, how much daily structure would you like in your eating plan? (1 = very flexible, 5 = very structured)",
+    "agent_monologue": "My last question was about condition. The user's response indicates their memory attribute is 'fuzzy/limited recall'. Now, I will ask about the next unknown attribute: delta.",
+    "user_utterance": "Okay, I’d like to try a single tiny step: have a fixed snack at the same time every day, for example a small yogurt at 3:00 PM. If I can stick with that for a week, we can keep it and maybe add another small step later. A gentle nudge if I forget would help."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "Do you have any known health conditions that influence your diet (e.g., diabetes, thyroid issues, kidney disease, food allergies)?",
+    "agent_monologue": "My last question was about delta (need for structure/stability in dietary change). The user has not yet provided an answer. Now, I will ask about the next unknown attribute: condition.",
+    "user_utterance": "I’m glad to try a tiny, fixed snack. I’ll aim for yogurt at 3:00 PM every day. I know I can forget, but a gentle nudge would really help—whether as a reminder here or a simple check-in from you. If I miss a day, I’ll reset and try again tomorrow. After a week of keeping this steady, I’d like to decide whether to keep it and maybe add another tiny step."
+  },
+  {
+    "turn": 4,
+    "agent_utterance": "Would you describe your current eating pattern as generally regular (e.g., meals at similar times most days) or irregular (often skipping meals or eating at random times)?",
+    "agent_monologue": "My last question was about condition. The user's response indicates their condition is not provided or unknown. Now, I will ask about the next unknown attribute: mu (Regularity of current eating behaviors).",
+    "user_utterance": "My eating pattern is irregular; I often skip meals or eat at varying times. I'm open to trying a very small fixed step: yogurt at 3:00 PM every day. I know I can forget, so a gentle reminder would help—whether from you here or a simple check-in. If I miss a day, I'll reset and try again tomorrow. After a week of keeping this steady, I'll decide whether to keep it and maybe add another tiny step."
+  },
+  {
+    "turn": 5,
+    "agent_utterance": "On a scale from 1 to 5, how important is daily structure to you in your eating plan?",
+    "agent_monologue": "My last question was about mu. The user's response indicates their mu is irregular. Now, I will ask about the next unknown attribute: delta.",
+    "user_utterance": "Yes, I’d like to try yogurt at 3:00 PM every day. A gentle reminder here would help a lot. If I forget, a quick check-in message asking 'Did you have your yogurt at 3 PM?' would be great. If I miss a day, I’ll reset and try again tomorrow. After a week of consistency, I’ll decide whether to keep it and perhaps add another tiny step."
+  },
+  {
+    "turn": 6,
+    "agent_utterance": "Do you have any known health conditions that influence your diet (e.g., diabetes, thyroid issues, kidney disease, food allergies)?",
+    "agent_monologue": "My last question was about the importance of daily structure in your eating plan. The user's statements indicate the regularity of their current eating behaviors (mu) is irregular. Now, I will ask about the next unknown attribute: condition.",
+    "user_utterance": "I do have anorexia nervosa. I don’t have other health conditions I’m aware of (no diabetes, thyroid, kidney issues, or allergies). I’d like to keep this simple: start with a fixed yogurt at 3:00 PM daily and a gentle reminder. If I forget, a quick check-in like 'Did you have your yogurt at 3 PM?' would help. After a week of consistency, I’ll decide about keeping it and maybe adding another tiny step."
+  },
+  {
+    "turn": 7,
+    "agent_utterance": "Would you describe your current eating pattern as generally regular (meals at similar times most days) or irregular (often skipping meals or eating at varying times)?",
+    "agent_monologue": "My last question was about condition. The user's response indicates their condition is anorexia nervosa. Now, I will ask about the next unknown attribute: mu.",
+    "user_utterance": "Thanks for checking. My pattern is irregular, and I want to start with a fixed yogurt at 3:00 PM daily. A gentle reminder here would help a lot—like 'Did you have your yogurt at 3 PM?' I often forget, so simple reminders make a difference. If I miss a day, I’ll reset and try again tomorrow. After a week of consistency, I’ll decide whether to keep it and maybe add another tiny step."
+  },
+  {
+    "turn": 8,
+    "agent_utterance": "How sensitive are you to external reminders or suggestions (for example, prompts from me or others) when starting a new habit? Do reminders help you stay on track, or do you tend to ignore prompts?",
+    "agent_monologue": "My last question was about mu (Regularity of current eating behaviors). The user's response indicates their mu is irregular. Now, I will ask about the next unknown attribute: beta (Sensitivity to external suggestions).",
+    "user_utterance": "Reminders help me a lot because I forget and my eating schedule is irregular. I tend to follow simple cues, so a single gentle reminder about the 3 PM yogurt would be best for me. If prompts feel nagging, I might ignore them, so I’d prefer a calm, predictable check-in rather than frequent messages. If I miss a day, I’ll reset and try again tomorrow. After a week of consistency, I’ll decide whether to keep this and perhaps add another tiny step."
+  },
+  {
+    "turn": 9,
+    "agent_utterance": "On a scale from 1 to 5, how strongly do emotional or environmental factors (such as stress, mood, or social situations) influence your eating patterns?",
+    "agent_monologue": "My last question was about beta. The user's response indicates their beta value is 'Reminders help me a lot, preferring calm, predictable check-ins and not nagging prompts.' Now, I will ask about the next unknown attribute: gamma.",
+    "user_utterance": "4. Emotional stress and day-to-day changes heavily influence my eating. I'm not great at recalling meals, so I respond best to calm, predictable reminders about my fixed yogurt at 3:00 PM. If I'm overwhelmed I might skip a day, but I'll reset and try again tomorrow."
+  },
+  {
+    "turn": 10,
+    "agent_utterance": "On a scale from 1 to 5, how would you rate your memory for tracking and reflecting on your meals (for example, remembering whether you had your yogurt at 3 PM)?",
+    "agent_monologue": "My last question was about gamma. The user's response indicates their gamma is 4. Now, I will ask about the next unknown attribute: memory.",
+    "user_utterance": "I’d rate my memory for tracking meals as a 2 out of 5. I often forget whether I had my yogurt and my schedule is irregular. I do respond well to gentle reminders, so a calm prompt like 'Did you have your yogurt at 3 PM?' would help. If I miss a day, I’ll reset and try again tomorrow. After a week of consistency, I’ll decide whether to keep this and perhaps add another tiny step.",
+    "ground_truth_action": 4.0
+  }
+]

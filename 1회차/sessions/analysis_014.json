@@ -1,0 +1,14 @@
+{
+  "user_action_estimate": 4.5,
+  "compliance_estimate": 0.92,
+  "confidence": 0.85,
+  "basis": "User expresses clear commitment to follow the suggested routine (water 200ml, optional split into 100ml, 60-second focus) and explicitly plans to try again tomorrow, indicating alignment with the coach's guidance.",
+  "cognitive_dissonance": "User experiences ongoing anxiety around meals while attempting to maintain a small, actionable routine; internal tension between wanting progress and fear of failure or discomfort.",
+  "negative_thought_patterns": "Meal-related anxiety; fear that meals will be overwhelming; possible perfectionistic thoughts about sticking to a plan without slipping.",
+  "emotional_triggers": "Food-related anxiety, heat/physical discomfort, need for control, anticipation of meal times, desire for supportive feedback.",
+  "effective_reinforcement": [
+    "Empathy",
+    "Praise"
+  ],
+  "coaching_notes": "Maintain and reinforce concrete, bite-sized actions; acknowledge progress and normalizing anxiety. Continue offering simple, repeatable routines and contingency options for when anxiety spikes. Consider adding brief coping strategies (e.g., short diaphragmatic breaths, optional micro-breaks) and celebrate small wins to sustain motivation."
+}

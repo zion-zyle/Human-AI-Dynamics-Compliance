@@ -1,0 +1,15 @@
+{
+  "user_action_estimate": 4.5,
+  "compliance_estimate": 0.95,
+  "confidence": 0.85,
+  "basis": "The user explicitly commits to the plan (0.5 tablespoon after very hot days and 1 tablespoon when steadier), agrees to reminders, and requests a check-in after ~3 days, indicating a high likelihood of action.",
+  "cognitive_dissonance": "Tension between wanting to implement a gentle plan and anxiety about irregular eating and external influence; safety concerns lead to consideration of clinician involvement, but overall commitment remains.",
+  "negative_thought_patterns": "- Self-doubt about consistency; - Fear of being swayed by suggestions; - Memory unreliability regarding meals; - Worries about managing on very hot days.",
+  "emotional_triggers": "- Heat/temperature stress; - Irregular schedule causing anxiety about adherence; - Need for reassurance and manageable steps.",
+  "effective_reinforcement": [
+    "Empathy",
+    "Clear, actionable plan",
+    "Progress check-ins"
+  ],
+  "coaching_notes": "Continue with simple, concrete steps and gentle reminders. Offer optional cooler yogurt ideas and flexible targets. Schedule a 3-day check-in to assess progress and adjust. Consider providing resources for clinician/dietitian if concern persists."
+}

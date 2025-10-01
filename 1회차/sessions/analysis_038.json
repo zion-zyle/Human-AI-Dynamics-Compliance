@@ -1,0 +1,15 @@
+{
+  "user_action_estimate": 4.5,
+  "compliance_estimate": 0.92,
+  "confidence": 0.78,
+  "basis": "The user emphasizes following the ultra-small plan, explicitly planning to drink 150 ml of water and log it, and expresses reliance on reminders. This pattern has consistently correlated with actual engagement in prior messages.",
+  "cognitive_dissonance": "The user shows alignment with the plan while acknowledging the need for professional support for an eating disorder, indicating internal tension between self-managed micro-actions and recognized limits or need for external help.",
+  "negative_thought_patterns": "Softened all-or-nothing thinking, but ongoing concerns about irregular eating and memory lapses persist; potential self-doubt about long-term sustainability; ambivalence about relying solely on prompts versus professional guidance.",
+  "emotional_triggers": "Heat-related hydration stress, fear of losing track, guilt about irregular eating, desire for structure and reminders, and awareness of needing support for disorder.",
+  "effective_reinforcement": [
+    "Empathy",
+    "Clear, actionable steps",
+    "Consistent prompting"
+  ],
+  "coaching_notes": "Continue with ultra-small, concrete actions and timely prompts. Acknowledge progress, reinforce the value of tiny steps, and normalize seeking professional support when needed. Avoid overwhelming the user with choices; maintain simplicity and consistency, and periodically check in on safety and emotional state."
+}

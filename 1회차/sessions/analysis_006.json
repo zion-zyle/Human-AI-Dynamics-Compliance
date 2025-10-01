@@ -1,0 +1,15 @@
+{
+  "user_action_estimate": 4.5,
+  "compliance_estimate": 0.87,
+  "confidence": 0.85,
+  "basis": "The user explicitly states intent to try the coin-sized bite now and to use the 15-minute check-in, indicating a strong likelihood they performed the suggested action.",
+  "cognitive_dissonance": "Anxiety about starting conflicts with desire for structure and control; the user resolves this by committing to a small, manageable step and relying on reminders.",
+  "negative_thought_patterns": "Anxious anticipation, concern about forgetting details, all-or-nothing expectations about needing to perfectly follow steps, fear of overwhelm.",
+  "emotional_triggers": "Starting discomfort, fear of not meeting expectations, heat or environmental stress, need for simple prompts and reminders.",
+  "effective_reinforcement": [
+    "Empathy",
+    "Clear, actionable steps",
+    "Validation of feelings"
+  ],
+  "coaching_notes": "Keep delivering ultra-small, concrete steps and easy prompts. Acknowledge anxiety, praise progress, and reinforce the micro-step approach. Consider adding brief grounding or a quick check-in before the first bite to reduce overwhelm."
+}

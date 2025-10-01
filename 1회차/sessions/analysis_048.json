@@ -1,0 +1,15 @@
+{
+  "user_action_estimate": 4.5,
+  "compliance_estimate": 0.96,
+  "confidence": 0.85,
+  "basis": "The user consistently expresses clear, affirmative intent to hydrate, check in at ~15 minutes, and attempt only tiny bites if steady. Positive, cooperative tone and explicit commitment align closely with the coach's suggestions, indicating a high likelihood of action.",
+  "cognitive_dissonance": "Low to moderate. The user shows alignment with the plan and self-compassion for potential drift, but harbors memory concerns and past difficulty sticking to routines, which could create occasional internal tension if lapses occur.",
+  "negative_thought_patterns": "Memory lapses, fears of drifting, thinking changes are too hard, all-or-nothing tendencies when plans feel fragile.",
+  "emotional_triggers": "Anxiety about forgetting, motivation from simple, structured prompts, relief from clear reminders and short steps.",
+  "effective_reinforcement": [
+    "Empathy",
+    "Praise",
+    "Clear, ultra-simple prompts"
+  ],
+  "coaching_notes": "Maintain ultra-simple, concrete steps and short grounding prompts. Provide brief, regular check-ins and gentle reminders. Consider adding environmental cues (e.g., a water bottle in sight) and a tiny log to track hydration and tiny bites to reinforce consistency. Continue validating effort and progress to sustain self-efficacy."
+}

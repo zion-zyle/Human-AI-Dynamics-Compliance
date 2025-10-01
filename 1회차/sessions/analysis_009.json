@@ -1,0 +1,16 @@
+{
+  "user_action_estimate": 4.5,
+  "compliance_estimate": 0.96,
+  "confidence": 0.84,
+  "basis": "The user explicitly commits to trying the grape-sized bite now with water and relies on a simple 6:00 PM reminder, using positive, proactive language that signals action aligned with the suggestion.",
+  "cognitive_dissonance": "Mild internal tension between wanting to improve eating patterns and anxiety about sticking with the plan; mitigated by ultralow-friction steps and clear cues.",
+  "negative_thought_patterns": "Worry about forgetfulness, fear of overwhelm, occasional self-doubt about consistency.",
+  "emotional_triggers": "Anxiety around irregular eating, fear of failing to adhere to reminders, relief when guidance is simple and predictable.",
+  "effective_reinforcement": [
+    "Empathy",
+    "Praise",
+    "Clear, ultra-simple steps",
+    "Short, actionable cues"
+  ],
+  "coaching_notes": "Maintain ultra-simple, actionable steps with brief reminders. Validate anxiety, offer brief breathing prompts, and consider flexible cue timing. If forgetfulness persists, introduce mild visual or environmental cues to support consistency."
+}

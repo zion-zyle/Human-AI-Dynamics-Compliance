@@ -1,0 +1,14 @@
+{
+  "user_action_estimate": 4.5,
+  "compliance_estimate": 0.923,
+  "confidence": 0.84,
+  "basis": "The user explicitly commits to starting 200 ml of water now and setting a reminder to log in about 15 minutes, which aligns closely with the prior suggestion and indicates high likelihood of action.",
+  "cognitive_dissonance": "Low. The user shows clear alignment with the plan and expresses manageable steps; only minor consideration of forgetting is mitigated by the reminder.",
+  "negative_thought_patterns": "Minimal negative beliefs; occasional worry about forgetting to log, but proactive steps (reminder) reduce this.",
+  "emotional_triggers": "Heat and the need for stability drive craving for simple, concrete actions and reliable routines.",
+  "effective_reinforcement": [
+    "Empathy",
+    "Praise"
+  ],
+  "coaching_notes": "Maintain ultra-simple, actionable guidance and prompt reminder strategies. Acknowledge progress and reinforce the value of one-step-at-a-time actions; offer quick check-ins to sustain momentum."
+}

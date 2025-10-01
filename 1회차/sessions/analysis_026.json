@@ -1,0 +1,15 @@
+{
+  "user_action_estimate": 4.5,
+  "compliance_estimate": 0.9875,
+  "confidence": 0.78,
+  "basis": "The user explicitly commits to starting with one sip, keeps the glass in sight, sets a timer, and plans to log with a simple prompt. The tone is positive, concrete, and aligned with the coach's suggestion.",
+  "cognitive_dissonance": "Low. The user shows coherence between energy considerations and hydration plan, using a flexible start (one sip) to reduce potential friction.",
+  "negative_thought_patterns": "Occasional memory lapses and concern about forgetting prompts; expressed as a need for reminders, which the plan accommodates.",
+  "emotional_triggers": "Heat/low energy and irregular eating elevate thirst and hydration needs, while forgetfulness acts as a barrier to logging.",
+  "effective_reinforcement": [
+    "Empathy",
+    "Clear, actionable guidance",
+    "Concrete prompts"
+  ],
+  "coaching_notes": "Continue with simple, stepwise plans and brief prompts/reminders. Validate energy level adjustments (start with one sip when tired) and maintain visible cues to support adherence."
+}

@@ -1,0 +1,15 @@
+{
+  "user_action_estimate": 4.5,
+  "compliance_estimate": 0.95,
+  "confidence": 0.85,
+  "basis": "The user explicitly commits to one ultra-simple snack, logging immediately, setting a gentle reminder, staying hydrated, and acknowledging irregular eating while seeking ongoing support. This shows strong alignment with the suggested plan and a high likelihood of action.",
+  "cognitive_dissonance": "Low to moderate. The user recognizes variability and susceptibility to influence but leans toward proactive steps, suggesting internal harmony between intention and action.",
+  "negative_thought_patterns": "Concerns about recall, fear of slipping due to irregular eating, sensitivity to external suggestions, mild perfectionism about 'getting it right' with logs.",
+  "emotional_triggers": "Recall difficulty, heat/dehydration, desire for safety and stability, motivation to avoid feeling overwhelmed by complex plans.",
+  "effective_reinforcement": [
+    "Empathy",
+    "Clear guidance/structure",
+    "Encouragement"
+  ],
+  "coaching_notes": "Maintain ultra-simple, concrete prompts and reminders. Acknowledge progress, validate efforts to log immediately, and offer quick troubleshooting (e.g., adjusting reminder timing or using a shorter log window) if reminders are missed. Check in periodically to sustain momentum and provide ongoing support as needed."
+}

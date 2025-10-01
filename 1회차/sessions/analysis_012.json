@@ -1,0 +1,14 @@
+{
+  "user_action_estimate": 4.5,
+  "compliance_estimate": 0.95,
+  "confidence": 0.85,
+  "basis": "The user explicitly commits to the fixed bite, backups, reminders, logging, and added grounding; expresses willingness to adjust and reassessment over days, indicating high alignment with the plan.",
+  "cognitive_dissonance": "Tension between desire for a stable routine and anxiety about irregular schedules and memory gaps; concerns about sticking to timing vs flexibility; intent to use grounding to reduce anxiety.",
+  "negative_thought_patterns": "Fear of forgetfulness; perceived all-or-nothing thinking about perfection vs progress; worry that a rigid schedule won't fit irregular days.",
+  "emotional_triggers": "Heat and dehydration increasing irritability; schedule unpredictability triggering stress; memory lapses creating anxiety about plan adherence.",
+  "effective_reinforcement": [
+    "Empathy",
+    "Concrete, actionable guidance"
+  ],
+  "coaching_notes": "Continue offering clear, small-step plans with practical backups and grounding techniques. Monitor anxiety around timing and adjust reminders/window as needed."
+}

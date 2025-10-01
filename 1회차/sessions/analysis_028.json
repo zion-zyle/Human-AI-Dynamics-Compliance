@@ -1,0 +1,14 @@
+{
+  "user_action_estimate": 4.5,
+  "compliance_estimate": 0.95,
+  "confidence": 0.82,
+  "basis": "User explicitly commits to the ultra-small plan, specifies exact portions, mentions environmental factors (heat), and states they’ve set a reminder to review. This indicates strong alignment with the suggestion and concrete action taken.",
+  "cognitive_dissonance": "The user experiences anxiety about fixed portions but willingly adopts a minimal, gradual approach, suggesting internal conflict between control/rigidity and flexibility.",
+  "negative_thought_patterns": "All-or-nothing thinking about portions; fear of not following the plan exactly; concern about overeating or under-eating.",
+  "emotional_triggers": "Heat in Suwon increasing discomfort, fear of overwhelm, need for safety and predictability.",
+  "effective_reinforcement": [
+    "Empathy",
+    "Praise"
+  ],
+  "coaching_notes": "Maintain clarity with ultra-small, concrete steps. Validate their effort, reiterate that adjustments are okay, and encourage open pauses if overwhelmed. Consider offering optional dairy-free tweaks and simple cadence for check-ins to sustain momentum without triggering anxiety."
+}

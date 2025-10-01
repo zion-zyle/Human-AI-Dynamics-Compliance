@@ -1,0 +1,16 @@
+{
+  "user_action_estimate": 4.6,
+  "compliance_estimate": 0.92,
+  "confidence": 0.78,
+  "basis": "The user consistently uses 'I’ll try' language but pairs it with a concrete, small-step plan (water, 2-minute breathing, hunger check) and explicitly supports optional prompts, indicating a high likelihood of acting on the suggestion.",
+  "cognitive_dissonance": "Motivation to act is strong, but tension exists between wanting autonomy and needing reminders; the user may oscillate between engaging fully and muting prompts when overwhelmed.",
+  "negative_thought_patterns": "All-or-nothing tendencies (need ultra-small steps to proceed), self-criticism or hesitation when cues feel overwhelming, worry about being influenced by prompts.",
+  "emotional_triggers": "Heat-related discomfort, hunger signals, anxiety around anorexia-related patterns, sensitivity to external prompts.",
+  "effective_reinforcement": [
+    "Empathy",
+    "Clear, actionable steps",
+    "Flexible prompts",
+    "Autonomy-supportive validation"
+  ],
+  "coaching_notes": "Maintain ultra-small, easily repeatable steps and keep reminders optional. Validate autonomy, provide gentle encouragement, and celebrate tiny wins. Offer fallback options if overwhelmed (e.g., shorter breathing, longer breaks, or delaying prompts)."
+}

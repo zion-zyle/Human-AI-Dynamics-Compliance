@@ -1,0 +1,15 @@
+{
+  "user_action_estimate": 4.5,
+  "compliance_estimate": 0.9875,
+  "confidence": 0.82,
+  "basis": "User explicitly commits to a tiny snack plan, mentions calendar reminders and in-chat prompts, and acknowledges possible need to scale down if overwhelmed. This shows strong alignment with the suggested action and a proactive plan.",
+  "cognitive_dissonance": "Internal tension between anxiety about starting a routine and a clear willingness to try; potential fluctuations between adherence and scaling back when overwhelmed.",
+  "negative_thought_patterns": "All-or-nothing expectations; fear of failure with new routines; concern about irregular eating reinforcing self-criticism.",
+  "emotional_triggers": "Anxiety about change, heat-related discomfort, overwhelm from new routines, need for reassurance and structure.",
+  "effective_reinforcement": [
+    "Empathy",
+    "Praise",
+    "Clear, actionable guidance"
+  ],
+  "coaching_notes": "Continue offering small, concrete steps and flexible pacing. Validate anxiety while reinforcing feasible targets. Encourage journaling of hunger/feelings after snacks and maintain hydration reminders. Use in-chat prompts and ready-to-use texts to reduce decision fatigue."
+}

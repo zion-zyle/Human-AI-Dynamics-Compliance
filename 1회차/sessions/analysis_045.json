@@ -1,0 +1,16 @@
+{
+  "user_action_estimate": 4.5,
+  "compliance_estimate": 0.8725,
+  "confidence": 0.78,
+  "basis": "The user explicitly desires concrete templates and a week-long test of extensions, and expresses willingness to implement and experiment. This indicates a high likelihood they will actively set up and try the suggested templates and tracking for a week.",
+  "cognitive_dissonance": "Moderate: user seeks structure to reduce memory-related anxiety, but also notes ongoing instability and slow pace, which can create tension between wanting control and managing cognitive load.",
+  "negative_thought_patterns": "Memory-related anxiety, fear of forgetting, potential perfectionism about template accuracy or completeness, self-doubt about pace.",
+  "emotional_triggers": "Need for stability, sense of progress, reassurance from tangible tools (templates, reminders), discomfort with cognitive load and memory gaps.",
+  "effective_reinforcement": [
+    "Empathy",
+    "Clear, actionable steps",
+    "Validation of small wins",
+    "Structured templates"
+  ],
+  "coaching_notes": "Continue providing ready-to-use templates and a clear, incremental expansion plan (e.g., a 1-week test of templates and reminder settings). Offer copy-paste template blocks and optional follow-ups. Monitor for overwhelm and adjust pace as needed; emphasize small wins and steady habit formation."
+}

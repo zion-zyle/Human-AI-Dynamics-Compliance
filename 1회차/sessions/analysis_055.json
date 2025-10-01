@@ -1,0 +1,16 @@
+{
+  "user_action_estimate": 4.3,
+  "compliance_estimate": 0.99,
+  "confidence": 0.82,
+  "basis": "The user explicitly acknowledges anxiety but expresses a concrete plan to follow the yogurt and water steps with mood labeling and breathing, and requests reminders and accountability. This aligns strongly with the suggested micro-step, indicating a high likelihood of action.",
+  "cognitive_dissonance": "Tension between wanting independence and needing external structure; anxiety about irregular eating vs desire for a stable routine; memory gaps create uncertainty about remembering to label mood and perform breaths.",
+  "negative_thought_patterns": "Self-doubt about staying on plan without reminders; fear of forgetting; concern about overwhelm if prompts are insufficient; perfectionistic worry about failing if not perfectly consistent.",
+  "emotional_triggers": "Anxiety around irregular eating, susceptibility to social influence, desire for accountability and predictability, need for simple cues to stay on track.",
+  "effective_reinforcement": [
+    "Empathy",
+    "Clear, concrete prompts",
+    "Accountability from a trusted person",
+    "Tiny trackers or check-ins"
+  ],
+  "coaching_notes": "Continue offering simple, concrete steps and optional accountability supports. Provide brief daily prompts and an easy way to pause or adjust without guilt. Consider pairing with a trusted accountability buddy and a tiny mood/breath tracker to reduce memory load. Reinforce small wins and normalize needing reminders."
+}

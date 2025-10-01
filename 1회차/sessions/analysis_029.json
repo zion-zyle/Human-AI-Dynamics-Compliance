@@ -1,0 +1,14 @@
+{
+  "user_action_estimate": 4.0,
+  "compliance_estimate": 0.93,
+  "confidence": 0.78,
+  "basis": "The user explicitly commits to trying a very small, predictable snack and a single daily check-in, with hedging but clear intent to act.",
+  "cognitive_dissonance": "Low. The user shows alignment with the plan but hedges to manage memory and self-control concerns; overall approach is cohesive.",
+  "negative_thought_patterns": "Tendency to doubt consistency due to irregular eating and susceptibility to suggestions; self-criticism around forgetting reminders.",
+  "emotional_triggers": "Anxiety about sticking to a routine, fear of forgetting reminders, environmental factors (heat) that could disrupt adherence.",
+  "effective_reinforcement": [
+    "Empathy",
+    "Praise"
+  ],
+  "coaching_notes": "Maintain ultra-small, concrete steps and simple routines. Offer gentle reminders and easy ways to jot notes (e.g., a one-line end-of-day prompt). Reinforce progress with brief affirmations and track small wins to build confidence."
+}

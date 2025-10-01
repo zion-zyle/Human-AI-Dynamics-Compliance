@@ -1,0 +1,15 @@
+{
+  "user_action_estimate": 4.5,
+  "compliance_estimate": 0.95,
+  "confidence": 0.85,
+  "basis": "The user explicitly commits to starting with yogurt now and logging after finishing; expresses readiness to switch to banana with almonds on tougher days; requests a consistent daily reminder and backup prompts, indicating adherence intent.",
+  "cognitive_dissonance": "Low. The user shows alignment with structure to manage irregular eating while acknowledging potential overwhelm; some tension between desire for flexibility and fixed timing.",
+  "negative_thought_patterns": "Forgetfulness; concern about missing logging window; occasional self-criticism about progress being gradual.",
+  "emotional_triggers": "Memory lapses, irregular eating patterns, heat-related dehydration, fear of overwhelm.",
+  "effective_reinforcement": [
+    "Empathy",
+    "Clear, actionable plan",
+    "Consistency through reminders"
+  ],
+  "coaching_notes": "Maintain concrete, repeatable steps and backup prompts. Normalize imperfection and emphasize self-compassion. Offer optional micro-reminders and check-ins to sustain motivation; encourage logging immediately after eating to strengthen habit formation."
+}

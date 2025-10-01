@@ -1,0 +1,23 @@
+{
+  "user_action_estimate": 4.5,
+  "compliance_estimate": 0.95,
+  "confidence": 0.78,
+  "basis": "The user repeatedly commits to a fixed, ultra-simple nudging sequence and requests gentle, short prompts. Their tone is positive, cooperative, and they explicitly plan follow-up checks and care-team involvement, indicating high likelihood of following the suggestion closely.",
+  "cognitive_dissonance": "Tension between desire for strict adherence and memory gaps that increase worry about slipping. They seek reassurance and external prompts to bridge gaps, suggesting fluctuating confidence but underlying motivation.",
+  "negative_thought_patterns": [
+    "Memory gaps making it hard to follow steps",
+    "Concern about slipping or forgetting",
+    "Skepticism about consistency due to past lapses"
+  ],
+  "emotional_triggers": [
+    "Heat and dehydration increasing discomfort",
+    "Feeling overwhelmed or forgetful",
+    "Reliance on external reminders and care-team support"
+  ],
+  "effective_reinforcement": [
+    "Gentle, short prompts",
+    "Empathy and validation",
+    "Clear, actionable steps"
+  ],
+  "coaching_notes": "Continue with ultra-simple, consistent prompts and involve the care team. Reinforce small, doable actions and provide frequent, gentle nudges. Validate memory gaps and reassure that slips are normal; encourage hydration and safety checks. Occasionally prompt for self-runner tasks only after stability is achieved."
+}

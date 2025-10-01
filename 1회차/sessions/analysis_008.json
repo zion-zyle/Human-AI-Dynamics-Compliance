@@ -1,0 +1,16 @@
+{
+  "user_action_estimate": 4.5,
+  "compliance_estimate": 0.46,
+  "confidence": 0.78,
+  "basis": "The user consistently expresses intention to follow the plan (e.g., aiming for a tiny bite around midday tomorrow) and requests simple reminders/nudges, indicating a high likelihood of taking action aligned with the suggestion.",
+  "cognitive_dissonance": "Internal tension between anxiety/irregular eating and the commitment to a small, structured plan. The user seeks stability via ultra-simple steps, suggesting progress toward action but with underlying apprehension.",
+  "negative_thought_patterns": "I might forget; this is hard; my eating is irregular; I feel anxious about following through.",
+  "emotional_triggers": "Anxiety, heat/physical discomfort, fear of forgetting, desire for support, need for simplicity.",
+  "effective_reinforcement": [
+    "Empathy",
+    "Validation of feelings",
+    "Clear, actionable plan",
+    "Gentle reminders/nudges"
+  ],
+  "coaching_notes": "Maintain ultra-simple, flexible guidance. Reinforce small steps, provide easy reminders, and offer social support options. Acknowledge anxiety and normalize rest days if needed, while encouraging a tiny bite as a feasible next step."
+}

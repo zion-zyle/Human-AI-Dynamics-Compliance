@@ -1,0 +1,15 @@
+{
+  "user_action_estimate": 4.5,
+  "compliance_estimate": 0.9875,
+  "confidence": 0.82,
+  "basis": "The user explicitly commits to logging right after meals and to set reminders, mentions the specific snack portion, and frames the plan as doable despite irregular eating.",
+  "cognitive_dissonance": "Moderate; recognizes irregular eating but seeks consistency and uses reminders to bridge gaps.",
+  "negative_thought_patterns": "Worry about forgetting how they felt afterward; potential self-criticism if recall is unreliable; concern about maintaining memory in irregular eating patterns.",
+  "emotional_triggers": "Desire for stability and control; fear of forgetting; motivation to manage hydration and routine even on tough days.",
+  "effective_reinforcement": [
+    "Empathy",
+    "Praise",
+    "Clear actionable steps"
+  ],
+  "coaching_notes": "Maintain emphasis on small, concrete actions (log after meals, set reminders). Consider habit-stacking (e.g., log immediately after each meal before dessert) to reduce cognitive load. Validate progress and normalize variability in diet while reinforcing consistent micro-habits."
+}

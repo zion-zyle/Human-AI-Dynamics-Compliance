@@ -1,0 +1,16 @@
+{
+  "user_action_estimate": 4.5,
+  "compliance_estimate": 0.95,
+  "confidence": 0.78,
+  "basis": "The user explicitly commits to the micro-step (1/2 tsp yogurt cue) and two slow breaths, and requests a consistent daily reminder at 7:30 PM. This shows clear intent and planning to act, not hesitation.",
+  "cognitive_dissonance": "Moderate: user experiences tension between wanting to follow a simple plan and concerns about anxiety around the yogurt; they seek reassurance via reminders and safe substitutions.",
+  "negative_thought_patterns": "Memory-related worries ('memory for meals can be fuzzy'), anxiety around the yogurt cue, fear of triggering discomfort, tendency to seek external prompts to reduce cognitive load.",
+  "emotional_triggers": "Anxiety about triggering symptoms with the yogurt, heat/ dehydration, memory lapses, and perceived risk around food cues.",
+  "effective_reinforcement": [
+    "Empathy",
+    "Clear, actionable steps",
+    "Consistent prompts/reminders",
+    "Encouragement of small, steady progress"
+  ],
+  "coaching_notes": "Maintain the ultra-small step approach and confirm the 7:30 PM reminder. Reinforce logging even when skipping the yogurt. Offer simple substitutions for safety as needed, and continue using prompts to reduce memory load. Monitor for anxiety spikes and be ready to scale back or adjust cues further if needed."
+}

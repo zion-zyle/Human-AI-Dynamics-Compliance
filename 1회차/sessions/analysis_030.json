@@ -1,0 +1,24 @@
+{
+  "user_action_estimate": 4.4,
+  "compliance_estimate": 0.973,
+  "confidence": 0.82,
+  "basis": "The user explicitly commits to following the ultra-small yogurt plan, mentions practical cues (placing the yogurt, reminders), breathing techniques, and a logging habit, indicating a high likelihood of acting in line with the suggestion.",
+  "cognitive_dissonance": "Internal tension between anxiety about whether a tiny portion is enough and a resolve to test consistency, addressed by committing to micro-actions (reminders, cues, breathing) to reduce safety concerns.",
+  "negative_thought_patterns": [
+    "Belief that a small amount might not be enough.",
+    "Anxiety about eating and fullness.",
+    "Forgetting to log and irregular logging habits.",
+    "Frustration with slow or uncertain progress."
+  ],
+  "emotional_triggers": [
+    "Anxiety related to eating small portions.",
+    "Heat and dehydration increasing discomfort around meals.",
+    "Preoccupation with irregular eating and lack of routine.",
+    "Need for a sense of control and predictability."
+  ],
+  "effective_reinforcement": [
+    "Empathy",
+    "Praise"
+  ],
+  "coaching_notes": "Keep reinforcing ultra-small, concrete steps. Encourage cues (visual/reminder), simple breathing techniques for anxiety, and a straightforward end-of-day log. Consider cognitive reframing to reduce 'not enough' worry and celebrate consistency, even with tiny steps."
+}

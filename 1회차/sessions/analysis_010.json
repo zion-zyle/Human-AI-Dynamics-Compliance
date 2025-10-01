@@ -1,0 +1,16 @@
+{
+  "user_action_estimate": 4.5,
+  "compliance_estimate": 0.95,
+  "confidence": 0.85,
+  "basis": "The user expresses strong belief the plan is doable, commits to a grape-sized bite with water and a fixed 6:00 PM reminder, emphasizes concrete cues and plan to involve their care team if needed.",
+  "cognitive_dissonance": "Low to moderate. The user acknowledges irregular eating and memory challenges while affirming the plan's simplicity and feasibility, which helps reduce internal conflict.",
+  "negative_thought_patterns": "Concern about forgetting meals, sense of slow progress, potential anxiety about adherence; occasional self-doubt about consistency, countered by return-to-plan mindset.",
+  "emotional_triggers": "Anxiety spikes prompting breathing strategies; memory limitations; reminders and cues; warm weather increasing hydration motivation.",
+  "effective_reinforcement": [
+    "Empathy",
+    "Clear, actionable plan",
+    "Praise for commitment",
+    "Encouragement of care-team involvement"
+  ],
+  "coaching_notes": "Maintain ultra-simple, concrete prompts; reinforce the value of external cues and reminders; offer guidance on sharing progress with the care team; consider adding easy habit-tracking or calendar prompts to support consistency."
+}

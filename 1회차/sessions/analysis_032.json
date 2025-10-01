@@ -1,0 +1,15 @@
+{
+  "user_action_estimate": 4.5,
+  "compliance_estimate": 0.95,
+  "confidence": 0.85,
+  "basis": "The user explicitly commits to following the plan (log at 7:30, attempt yogurt cue, log even if late) and expresses readiness to use prompts to stay on track, indicating high likelihood of action.",
+  "cognitive_dissonance": "Moderate. The user acknowledges drift and memory unreliability but couples this with strong commitment to simple routines and external prompts, suggesting internal conflict between improvisation and adherence.",
+  "negative_thought_patterns": "Drift tendency; unreliable memory around eating; concern about forgetting; potential overwhelm.",
+  "emotional_triggers": "Heat and dehydration; fear of losing track; need for reminders and prompts; possible overwhelm.",
+  "effective_reinforcement": [
+    "Empathy",
+    "Clear, actionable steps",
+    "Positive reinforcement for late logging"
+  ],
+  "coaching_notes": "Maintain ultra-simple, tangible actions; continue providing prompts and reminders (e.g., 7:30 PM) to support adherence. Validate feelings of overwhelm and encourage timely clinician outreach when needed. Reinforce small successes to sustain motivation."
+}

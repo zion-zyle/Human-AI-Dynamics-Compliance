@@ -1,0 +1,14 @@
+{
+  "user_action_estimate": 4.5,
+  "compliance_estimate": 0.835,
+  "confidence": 0.82,
+  "basis": "The user explicitly commits to starting with water now, plans for a tiny bite only if ready, commits to a 2-minute slow-breathing exercise, and intends to set reminders and revisit the plan. They also request a more prominent reminder system, indicating engagement with the strategy rather than rejection.",
+  "cognitive_dissonance": "The user experiences anxiety about eating and irregular patterns, but shows a strong commitment to ultra-tiny steps. There is a potential internal tension between wanting predictability and needing flexibility to adapt reminders.",
+  "negative_thought_patterns": "Anxiety about eating, memory unreliability, concern about being easily influenced, worry about forgetting reminders.",
+  "emotional_triggers": "Anxiety around meals, irregular eating schedule, fear of forgetting tasks, desire for reliable support and reassurance.",
+  "effective_reinforcement": [
+    "Empathy",
+    "Praise"
+  ],
+  "coaching_notes": "Keep reinforcing ultra-tiny, concrete actions. Validate memory concerns and offer concrete reminder options (loud alerts, partner/friend prompts, SMS reminders). Maintain a compassionate, nonjudgmental tone and help the user normalize repeating water and breathing as needed."
+}

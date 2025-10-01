@@ -1,0 +1,15 @@
+{
+  "user_action_estimate": 4.5,
+  "compliance_estimate": 0.95,
+  "confidence": 0.85,
+  "basis": "The user explicitly commits to hydration and a 60-second breathing plan, with conditional snack allowance and waiting for cues before eating changes; this shows strong alignment with the suggestion and high likelihood of execution.",
+  "cognitive_dissonance": "Moderate tension between wanting a strictly simple routine and potential temptations or cues to snack; heat and irregular eating patterns amplify discomfort, but the user prioritizes safety and predictability to resolve it.",
+  "negative_thought_patterns": "All-or-nothing mindset (labeling the plan as 'strictly' to follow), fear of being overwhelmed, self-doubt about remembering steps.",
+  "emotional_triggers": "Heat/physical discomfort, anxiety around irregular eating, concern about losing control, need for safety and predictability.",
+  "effective_reinforcement": [
+    "Empathy",
+    "Clear, actionable steps",
+    "Safety-focused language"
+  ],
+  "coaching_notes": "Keep instructions ultra-simple and cue-based. Confirm plan at each check-in, provide brief reminders, emphasize hydration and breathing, and ensure a clear, safe pause if overwhelmed. Consider routine 5-minute check-ins to reinforce adherence."
+}

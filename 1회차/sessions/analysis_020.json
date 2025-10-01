@@ -1,0 +1,15 @@
+{
+  "user_action_estimate": 4.5,
+  "compliance_estimate": 0.95,
+  "confidence": 0.86,
+  "basis": "User expresses unequivocal readiness to implement a concrete micro-step (2 tablespoons after the next meal), commits to pre-measured portions, logging, reminders, and a nudge if they forget. Tone is proactive and highly aligned with the coaching approach.",
+  "cognitive_dissonance": "Low to moderate. User acknowledges irregular eating and heat as barriers but remains confident and committed, suggesting minimal internal conflict between intention and ability.",
+  "negative_thought_patterns": "Forgetfulness as a recurrent concern; occasional self-criticism around adherence; acknowledgment that heat and irregular schedules may threaten consistency.",
+  "emotional_triggers": "Heat-related discomfort, irregular meal timing, fear of forgetting, desire for simple, reliable routines.",
+  "effective_reinforcement": [
+    "Empathy",
+    "Clear, actionable micro-steps",
+    "Reminders / accountability"
+  ],
+  "coaching_notes": "Maintain the use of small, specific actions and timely reminders. Offer cooler, lighter options for heat and consider device reminders to reduce cognitive load. Validate progress and provide positive reinforcement to sustain momentum."
+}

@@ -1,0 +1,16 @@
+{
+  "user_action_estimate": 4.5,
+  "compliance_estimate": 0.92,
+  "confidence": 0.85,
+  "basis": "User repeatedly expresses intent to implement exact alarm times, use a minimal one-line log, and involve family. They request platform-specific guides and templates and indicate starting today, suggesting high likelihood of taking concrete action.",
+  "cognitive_dissonance": "Moderate: motivation to establish a routine competes with potential memory lapses and busy moments; reliance on external prompts (family, reminders) to reduce cognitive load.",
+  "negative_thought_patterns": "Possible worry about forgetting or inconsistency; occasional self-criticism about lapses; concern that logging may feel burdensome if reminders don’t trigger action.",
+  "emotional_triggers": "Accountability from family, clarity from concise prompts, small early wins, relief from structured reminders.",
+  "effective_reinforcement": [
+    "Empathy",
+    "Praise for progress",
+    "Social accountability through family",
+    "Clear, actionable steps"
+  ],
+  "coaching_notes": "Keep guidance ultra-concrete: provide ready-to-use setup guides (iOS/Android), ready-made templates for invites and prompts, and simple logs. Encourage sharing with family early and celebrate first small completions to reinforce adherence."
+}

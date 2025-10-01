@@ -1,0 +1,15 @@
+{
+  "user_action_estimate": 4.5,
+  "compliance_estimate": 0.95,
+  "confidence": 0.85,
+  "basis": "The user explicitly commits to starting 200 ml of water now, plans to check in ~15 minutes, and indicates logging intake for care team updates, showing strong alignment with the ultra-simple plan.",
+  "cognitive_dissonance": "Minimal. The user acknowledges irregular eating and susceptibility to suggestions, but expresses a clear plan to log intake and follow the steps, reducing internal conflict.",
+  "negative_thought_patterns": "Possible self-criticism about irregular eating patterns; no explicit negative beliefs about self-efficacy, but there is tension from external influence and the need to log accurately.",
+  "emotional_triggers": "Heat/temperature, irregular eating patterns, reliance on reminders, accountability to care team, and susceptibility to external suggestions.",
+  "effective_reinforcement": [
+    "Empathy",
+    "Clear, actionable steps",
+    "Reminders for logging"
+  ],
+  "coaching_notes": "Maintain ultra-simple, concrete plans and supportive tone. Reinforce use of reminders and hydration, address heat-related concerns, and validate the user’s effort to log intake. Offer options to adjust timing or bite size if needed and encourage ongoing self-monitoring to build consistency."
+}

@@ -1,0 +1,15 @@
+{
+  "user_action_estimate": 4.5,
+  "compliance_estimate": 0.89,
+  "confidence": 0.85,
+  "basis": "The user explicitly states they will try the bite plus water now and to set reminders, despite acknowledging irregular eating and potential drift. This direct commitment and practical planning indicate a high likelihood of taking action aligned with the suggestion.",
+  "cognitive_dissonance": "Conflict between wanting to follow a simple plan and struggle with irregular eating and susceptibility to suggestions; memory unreliability adds worry about forgetting or deviating from the plan.",
+  "negative_thought_patterns": "Belief that plans may fail due to memory lapses or being easily influenced; tendency to doubt consistency; concern about forgetting reminders.",
+  "emotional_triggers": "Heat-related dehydration concerns, desire for structure, fear of forgetting, influence from external prompts or cues.",
+  "effective_reinforcement": [
+    "Empathy",
+    "Clear, actionable steps",
+    "Consistent reminders and cues"
+  ],
+  "coaching_notes": "Maintain ultra-simple, concrete steps; continue using reminders and cues; acknowledge memory challenges and provide multiple prompts; offer quick, specific bite options; monitor drift and adjust reminder cadence or cue specificity as needed."
+}

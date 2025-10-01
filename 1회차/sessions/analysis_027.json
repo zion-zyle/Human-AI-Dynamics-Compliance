@@ -1,0 +1,15 @@
+{
+  "user_action_estimate": 4.5,
+  "compliance_estimate": 0.87,
+  "confidence": 0.85,
+  "basis": "The user explicitly requests to maintain a stable baseline and demonstrates strong commitment to following the six reminders with a calm, steady pattern. Positive, proactive language indicates high likelihood of adherence.",
+  "cognitive_dissonance": "Low. The user favors stability and routine, with only mild acknowledgment of potential overwhelm if rigidity increases; overall alignment with the plan.",
+  "negative_thought_patterns": "Possible perfectionism about adherence; concern that too rigid a pattern could reduce flexibility; occasional worry about becoming overwhelmed.",
+  "emotional_triggers": "Heat, irregular eating, memory challenges; desire for calm, predictable prompts and a simple log to stay on track.",
+  "effective_reinforcement": [
+    "Empathy",
+    "Clear, actionable steps",
+    "Consistency"
+  ],
+  "coaching_notes": "Keep the stable baseline approach; use six concrete reminders with calm language. Continue validating logging and provide gentle reassurance. Avoid frequent pattern changes; if adjustments are needed, implement small, incremental tweaks rather than radical changes."
+}

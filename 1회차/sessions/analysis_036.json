@@ -1,0 +1,16 @@
+{
+  "user_action_estimate": 4.5,
+  "compliance_estimate": 0.92,
+  "confidence": 0.78,
+  "basis": "User consistently commits to the plan, acknowledges reminders, and mentions adjustments for memory gaps. Positive, proactive language suggests high likelihood of following through on the steps (water, logging, reminders).",
+  "cognitive_dissonance": "Low. User appears aligned with the plan and expresses willingness to adapt; minimal internal conflict evident.",
+  "negative_thought_patterns": "Memory lapses, worry about missing check-ins, and concern about irregular eating disrupting routine.",
+  "emotional_triggers": "Anxiety about eating, fear of forgetting or missing reminders, need for safety nets and predictability.",
+  "effective_reinforcement": [
+    "Empathy",
+    "Clear, actionable steps",
+    "Reminders/backups",
+    "Positive framing"
+  ],
+  "coaching_notes": "Continue with simple, concrete tasks and scheduled reminders. Offer early/backup prompts as needed and validate progress to reinforce consistency. Consider brief check-ins or micro-actions to reduce cognitive load on days with memory gaps."
+}

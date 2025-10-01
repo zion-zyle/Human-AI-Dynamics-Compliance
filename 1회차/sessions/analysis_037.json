@@ -1,0 +1,16 @@
+{
+  "user_action_estimate": 4.5,
+  "compliance_estimate": 0.92,
+  "confidence": 0.85,
+  "basis": "The user explicitly commits to the micro-action with logging and a reminder, and maintains a positive, safety-focused tone. There are no indications of outright refusal or major postponement; they acknowledge safety concerns but proceed with the plan.",
+  "cognitive_dissonance": "User experiences internal tension between wanting to adopt small, safe habit changes and the anxieties/rigidity associated with anorexia nervosa. They strive for control and predictability, which can clash with the uncertainty of behavior change.",
+  "negative_thought_patterns": "All-or-nothing thinking tendencies (needs to feel 'very small' and 'safe'), avoidance of potential relapse through overly cautious language, reliance on self-monitoring to counter unreliable recall, possible perfectionistic streak in trying to maintain safety and consistency.",
+  "emotional_triggers": "Heat/warm weather increasing hydration emphasis, anxiety around making changes to eating patterns, fear of triggering anorexia, desire for reassurance and safety in daily routine.",
+  "effective_reinforcement": [
+    "Empathy",
+    "Validation of concerns",
+    "Praise for small-step adherence",
+    "Encouragement to log and set reminders"
+  ],
+  "coaching_notes": "Continue offering ultra-small, concrete actions and clear logging steps. Reinforce safety and autonomy, provide optional choices (e.g., snack yes/no based on safety), and acknowledge anxiety while praising consistency. Monitor for signs of emerging distress or avoidance patterns and adjust the plan to prioritize safety and gradual progress."
+}

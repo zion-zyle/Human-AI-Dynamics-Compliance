@@ -1,0 +1,15 @@
+{
+  "user_action_estimate": 4.5,
+  "compliance_estimate": 0.99,
+  "confidence": 0.85,
+  "basis": "The user explicitly commits to the ultra-simple steps ('I’ll try to follow it', 'I’ll check back in after 15 minutes'), indicating a high likelihood of executing small sips and attempting a tiny bite as planned.",
+  "cognitive_dissonance": "Moderate. The user acknowledges irregular eating but displays optimism and a focus on micro-steps, suggesting an attempt to align behavior with intentions despite internal tension.",
+  "negative_thought_patterns": "Hesitation about eating, fear of overwhelm, possible perfectionism about regular eating patterns.",
+  "emotional_triggers": "Heat-related discomfort, anxiety around eating, concern about irregular eating history.",
+  "effective_reinforcement": [
+    "Empathy",
+    "Praise",
+    "Clear, actionable plan"
+  ],
+  "coaching_notes": "Maintain ultra-simple, concrete steps and frequent small check-ins. Validate progress, normalize hesitations, and reinforce self-compassion. Offer brief grounding and hydration reminders; consider electrolytes if available."
+}

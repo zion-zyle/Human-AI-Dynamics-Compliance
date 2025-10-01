@@ -1,0 +1,15 @@
+{
+  "user_action_estimate": 4.5,
+  "compliance_estimate": 0.8725,
+  "confidence": 0.75,
+  "basis": "User explicitly states immediate action ('Starting with yogurt now, logging right after') and commits to keeping steps ultra-simple, indicating strong alignment with the suggestion and likely execution.",
+  "cognitive_dissonance": "Low-to-moderate. User shows readiness to act while acknowledging potential obstacles (missed reminders, need to adjust). They plan memory aids and small steps to manage anxiety, suggesting they are resolving internal conflict toward action.",
+  "negative_thought_patterns": "Mild perfectionism around ultra-simple steps; anticipatory anxiety about forgetting reminders; concern about overwhelm if steps become too complex.",
+  "emotional_triggers": "Anxiety around routines and irregular eating; heat-related discomfort; potential fear of failure if reminders are missed; need for memory cues.",
+  "effective_reinforcement": [
+    "Explicit actionable guidance",
+    "Validation and encouragement",
+    "Memory-support tools (sticky notes, phone reminders)"
+  ],
+  "coaching_notes": "Keep reinforcing ultra-simple, concrete actions and memory aids. Acknowledge anxiety but emphasize small-step progress. Consider offering a fallback (log at next snack) if a reminder is missed and encourage brief check-ins with care teammates if needed."
+}

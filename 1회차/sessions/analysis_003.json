@@ -1,0 +1,14 @@
+{
+  "user_action_estimate": 4.5,
+  "compliance_estimate": 0.95,
+  "confidence": 0.82,
+  "basis": "User explicitly commits to the sequence (water → 2-minute breathing → hunger rating → snack if 2+), mentions setting reminders, and uses decisive language ('I’ll'). This indicates a high likelihood of following the plan closely.",
+  "cognitive_dissonance": "Low. The user shows alignment with the plan and emphasizes self-kindness. Occasional concern about forgetting details and potential overwhelm suggests mild internal balancing but not active resistance.",
+  "negative_thought_patterns": "Anticipatory anxiety about eating; mild perfectionism about following steps; fear of forgetting details could contribute to self-criticism if steps lapse.",
+  "emotional_triggers": "Heat/work environment (hydration needs in hot weather), irregular eating patterns, anxiety or overwhelm related to meals and prompts.",
+  "effective_reinforcement": [
+    "Empathy",
+    "Praise"
+  ],
+  "coaching_notes": "Maintain ultra-small, concrete steps and provide reliable reminders. Use optional prompts and validate feelings. If anxiety or overwhelm increases, encourage reaching out to a clinician or support person and reinforce self-compassion."
+}

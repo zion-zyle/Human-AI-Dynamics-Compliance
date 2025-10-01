@@ -1,0 +1,14 @@
+{
+  "user_action_estimate": 4.5,
+  "compliance_estimate": 0.95,
+  "confidence": 0.85,
+  "basis": "The user explicitly commits to a concrete, low-friction action (log the snack, set a reminder) and reinforces a one-small-step approach, indicating high likelihood of following through.",
+  "cognitive_dissonance": "Low. The user aligns with the plan and acknowledges prompts influence them, but resolves this by keeping the plan simple and non-pressuring.",
+  "negative_thought_patterns": "Memory gaps and fear of forgetting; occasional worry about maintaining consistency due to irregular eating patterns.",
+  "emotional_triggers": "Prompts influence; desire for familiarity and simplicity; concern about forgetting; potential stress from irregular eating.",
+  "effective_reinforcement": [
+    "Empathy",
+    "Clear, concrete steps"
+  ],
+  "coaching_notes": "Continue with brief, actionable plans and reminders. Validate memory aids (logging) and consider adding optional contingencies (e.g., if you miss the reminder, do a quick log at next snack). Maintain supportive, non-pressuring language and reinforce self-efficacy."
+}

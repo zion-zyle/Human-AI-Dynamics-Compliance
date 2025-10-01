@@ -1,0 +1,15 @@
+{
+  "user_action_estimate": 4.5,
+  "compliance_estimate": 0.89,
+  "confidence": 0.78,
+  "basis": "The user consistently commits to the tiny yogurt plan, explicitly mentions using reminders, and expresses readiness to switch to easier options if overwhelmed, indicating a high likelihood of taking the suggested action.",
+  "cognitive_dissonance": "Low to moderate. Acknowledges anxiety and irregular patterns but maintains commitment to micro-steps and logging, reducing internal conflict.",
+  "negative_thought_patterns": "Anxiety around eating; memory challenges; beliefs that progress will be slow due to irregular patterns, which could undermine confidence over time.",
+  "emotional_triggers": "Eating-related anxiety; memory stress; need for control and predictability; environmental factors (e.g., heat) may heighten discomfort.",
+  "effective_reinforcement": [
+    "Empathy",
+    "Clear, actionable steps",
+    "Reminders and planning tools"
+  ],
+  "coaching_notes": "Continue offering ultra-short, concrete steps. Validate anxiety while reinforcing progress through micro-steps. Maintain reminders, encourage immediate logging after meals, and plan quick check-ins after logging to sustain momentum."
+}

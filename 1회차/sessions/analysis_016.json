@@ -1,0 +1,15 @@
+{
+  "user_action_estimate": 4.5,
+  "compliance_estimate": 0.8,
+  "confidence": 0.85,
+  "basis": "The user explicitly commits to following the ultra-simple plan (shade, water, 60-second calm breath) and check-ins, with an intention to try a grape only if safe, and to seek clinician help if symptoms persist. This reflects a high likelihood of taking aligned actions.",
+  "cognitive_dissonance": "Ambivalence between adhering to a slow, safe plan and the urge to snack or ease distress; competing drives between self-protective caution and the desire to eat, all within a context of irregular eating and external suggestions.",
+  "negative_thought_patterns": "Tendency toward safety-first planning (hyper-caution), possible all-or-nothing thinking about eating, worry about distress if eating occurs, anticipatory anxiety about symptoms.",
+  "emotional_triggers": "Anxiety about distress, heat-related discomfort, irregular eating patterns, influence of external prompts, fear of making things worse.",
+  "effective_reinforcement": [
+    "Empathy",
+    "Clear, ultra-simple steps",
+    "Gentle pacing and safety emphasis"
+  ],
+  "coaching_notes": "Continue delivering ultra-simple, small-step actions; validate feelings and progress; reinforce the option to pause or skip any step without judgment; consider adding brief grounding or distraction techniques if anxiety rises; remind about clinician support if symptoms persist or worsen."
+}

@@ -1,0 +1,16 @@
+{
+  "user_action_estimate": 4.5,
+  "compliance_estimate": 0.87,
+  "confidence": 0.82,
+  "basis": "The user explicitly commits to two easy sips of water and a 60-second calm breath in their final message ('I’ll try two easy sips of water now and the 60-second calm breath'), indicating a high likelihood they performed the actions aligned with the suggestion.",
+  "cognitive_dissonance": "Ambivalence about adding a snack: the user wants stability but fears the fixed-time snack. They prioritize slow, gentle progress and self-compassion.",
+  "negative_thought_patterns": "Fearful language around the snack ('feels scary'), potential avoidance of routine pressure, occasional all-or-nothing thinking about needing to do everything at once.",
+  "emotional_triggers": "Heat in Suwon and difficulty with routines heighten stress and reduce willingness to commit to additional steps; preference for gradual steps and self-soothing.",
+  "effective_reinforcement": [
+    "Empathy",
+    "Clear, actionable steps",
+    "Validation of small steps",
+    "Contextual awareness (heat) and pacing"
+  ],
+  "coaching_notes": "Continue offering ultra-simple, concrete steps and acknowledge feelings. If the snack remains anxiety-provoking, keep it optional and allow revisiting later. Emphasize self-compassion and environmental cues (heat, shade) to support sustained small-step progress."
+}

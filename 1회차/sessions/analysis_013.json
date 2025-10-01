@@ -1,0 +1,15 @@
+{
+  "user_action_estimate": 4.0,
+  "compliance_estimate": 0.93,
+  "confidence": 0.78,
+  "basis": "The user explicitly commits to checking back in 1–2 hours, maintains focus on hydration and grounding, and states they won’t push to eat unless it feels right, indicating alignment with the plan.",
+  "cognitive_dissonance": "Tension between wanting to follow gentle guidance and the need to maintain personal control given irregular patterns; some concern about being easily influenced.",
+  "negative_thought_patterns": "Self-doubt about susceptibility to suggestions; fear of losing control or making unmanageable changes; all-or-nothing tendencies implied by 'won’t push to eat' unless it feels right.",
+  "emotional_triggers": "Heat/ discomfort, irregular eating patterns, concern about external influences or pressure to eat.",
+  "effective_reinforcement": [
+    "Empathy",
+    "Clear pacing",
+    "Non-pressuring language"
+  ],
+  "coaching_notes": "Continue validating the user’s pace and autonomy. Offer optional, low-pressure micro-actions (e.g., hydrate, grounding check-in) and confirm readiness before suggesting any eating. Maintain a supportive, non-pressuring tone and plan regular, flexible check-ins."
+}

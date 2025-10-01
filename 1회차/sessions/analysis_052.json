@@ -1,0 +1,16 @@
+{
+  "user_action_estimate": 4.5,
+  "compliance_estimate": 0.9875,
+  "confidence": 0.82,
+  "basis": "User expresses clear intent to maintain a single, simple 3 PM yogurt snack, commits to trying tomorrow, and invites quick nudges; tone is cooperative and proactive.",
+  "cognitive_dissonance": "Moderate. The user balances a desire for stability with underlying anxiety around eating disorders; they acknowledge potential drift but choose compassionate persistence.",
+  "negative_thought_patterns": "All-or-nothing mindset about sticking to a weekly plan; fear of forgetting meals; sensitivity to new suggestions; self-criticism if slips occur.",
+  "emotional_triggers": "Meal-related anxiety; fear of loss of control; social influence from others; need for predictability and comfort.",
+  "effective_reinforcement": [
+    "Empathy",
+    "Praise",
+    "Clear, concrete action steps",
+    "Quick nudges in chat"
+  ],
+  "coaching_notes": "Maintain gentle, steady support. Reinforce the value of small, repeatable actions and normalize occasional slip-ups. Consider adding a brief post-snack check-in to track hunger and mood, and be ready to adjust timing or snack option if anxiety increases. Offer rotation options only after a stable week or when the user signals readiness."
+}

@@ -1,0 +1,15 @@
+{
+  "user_action_estimate": 4.5,
+  "compliance_estimate": 0.95,
+  "confidence": 0.82,
+  "basis": "The user explicitly commits to two slow sips, keeps the cup visible, and sets a 5-minute timer with a plan to check back in. They also acknowledge memory issues and potential anxiety, yet express intent to act, indicating a high likelihood of following the suggestion.",
+  "cognitive_dissonance": "User experiences tension between wanting to follow the plan and concerns about irregular eating, memory lapses, and anxiety about sticking to plans. They resolve this by framing the action as a tiny, manageable step.",
+  "negative_thought_patterns": "All-or-nothing thinking (preferring a 'tiny step' over a 'strict routine'); self-criticism about memory and susceptibility to influence; fear of failure if plans aren’t perfectly followed.",
+  "emotional_triggers": "Anxiety about planning and adherence; fatigue; concern about memory reliability; desire for support and reassurance.",
+  "effective_reinforcement": [
+    "Empathy",
+    "Praise",
+    "Clear, concrete instructions"
+  ],
+  "coaching_notes": "Maintain simple, actionable prompts and acknowledge anxiety. Reinforce the value of tiny steps and consistent check-ins. Offer optional reminders or support contacts and encourage reporting back to adjust as needed."
+}

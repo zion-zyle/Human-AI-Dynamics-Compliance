@@ -1,0 +1,14 @@
+{
+  "user_action_estimate": 4.6,
+  "compliance_estimate": 0.87,
+  "confidence": 0.84,
+  "basis": "The user repeatedly provides a concrete plan (fixed snack times, backups, prep the night before), commits to logging mood/energy (and hunger yes/no), and intends to share progress tomorrow. This combination indicates high likelihood of following through.",
+  "cognitive_dissonance": "Tension between a desire for stable routines and anxiety about forgetting meals; acknowledgment of potential disruption but reliance on backups and reminders to mitigate it.",
+  "negative_thought_patterns": "Fear of forgetting meals; worry about anxiety spikes impacting schedule; potential all-or-nothing thinking on rough days.",
+  "emotional_triggers": "Heat/heat-related discomfort; anxiety around memory lapses; concern about maintaining consistency.",
+  "effective_reinforcement": [
+    "Empathy",
+    "Praise"
+  ],
+  "coaching_notes": "Keep plans ultra-simple and concrete. Reinforce with reminders, quick post-meal logs, and backup times. Validate efforts to manage memory gaps. Prepare for disruptions with flexible slots and a clear escalation path if anxiety increases. Acknowledge small wins to reinforce adherence."
+}

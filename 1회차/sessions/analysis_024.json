@@ -1,0 +1,16 @@
+{
+  "user_action_estimate": 4.5,
+  "compliance_estimate": 0.95,
+  "confidence": 0.8,
+  "basis": "The user explicitly commits to 2–3 slow sips now, emphasizes keeping the drink in sight as a cue, has copied the reminder text, and references a 5:00 PM check-in plus tomorrow’s 3:00 PM reminder. This pattern strongly indicates imminent execution of the tiny sip plan with minimal friction.",
+  "cognitive_dissonance": "Tension between the desire for consistency and a history of irregular eating; optimism about a simple, low-pressure plan versus concern about forgetfulness and potential slips.",
+  "negative_thought_patterns": "Possibility of self-doubt about adherence; occasional all-or-nothing thinking appears mitigated by emphasis on simplicity, but underlying worry about consistency remains.",
+  "emotional_triggers": "Heat/temperature, irregular meals, fear of slipping, forgetfulness, need for reminders and support.",
+  "effective_reinforcement": [
+    "Empathy",
+    "Clear, actionable steps",
+    "Reminders and cues",
+    "Positive reinforcement for small wins"
+  ],
+  "coaching_notes": "Maintain concise, actionable guidance with cues. Reinforce that progress is iterative and non-punitive. Offer optional check-ins and additional cue strategies (e.g., visual prompts, timers). Encourage tracking of micro-steps and celebrate small wins to sustain motivation."
+}

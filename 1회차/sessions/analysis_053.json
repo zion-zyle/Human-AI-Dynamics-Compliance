@@ -1,0 +1,16 @@
+{
+  "user_action_estimate": 4.5,
+  "compliance_estimate": 0.96,
+  "confidence": 0.82,
+  "basis": "The user ends with a positive, actionable commitment to continue the micro-step, mentions a post-snack check-in, and indicates willingness to seek support if needed. They acknowledge irregular eating and potential difficulty staying on track, but frame it as a simple, reversible rule and express optimism about repetition building stability.",
+  "cognitive_dissonance": "Low to moderate. The user shows enthusiasm and a plan, but also acknowledges potential lapses and relies on reminders and support, indicating some internal tension about consistency.",
+  "negative_thought_patterns": "Self-doubt about maintaining a routine; fear of slipping or memory issues; belief that they are easily influenced, which could undermine confidence over time.",
+  "emotional_triggers": "Anxiety around eating, desire for stability, influence from environment, discomfort with irregular patterns.",
+  "effective_reinforcement": [
+    "Empathy",
+    "Praise for commitment",
+    "Clear, actionable micro-steps",
+    "Encouragement of self-monitoring"
+  ],
+  "coaching_notes": "Keep delivering concise, doable micro-steps and encourage brief post-snack check-ins. Reinforce the idea that seeking support is a strength. Consider scheduling lightweight accountability prompts and breathing-focused regulation as ongoing tools. Monitor for signs of burnout or overwhelm and adapt the plan to maintain sustainability."
+}

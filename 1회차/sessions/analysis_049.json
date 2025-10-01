@@ -1,0 +1,15 @@
+{
+  "user_action_estimate": 4.5,
+  "compliance_estimate": 0.92,
+  "confidence": 0.82,
+  "basis": "User explicitly states starting 200 ml of water now and attempting a tiny bite after about 15 minutes, with reminders. Tone is positive, concrete, and aligned with the suggestion.",
+  "cognitive_dissonance": "User experiences tension between following a simple hydration plan and ongoing concerns from anorexia nervosa, irregular eating, and memory gaps. They seek structure and predictability to reduce anxiety while confronting eating-related fears.",
+  "negative_thought_patterns": "All-or-nothing thinking about eating versus not eating; memory-related worry about forgetting; potential perfectionism about strictly following the plan; rationalizing delay of the bite by emphasizing sipping water.",
+  "emotional_triggers": "Discomfort with irregular eating, concern about forgetfulness, desire for simple, controllable steps, warmth and health concerns increasing focus on hydration.",
+  "effective_reinforcement": [
+    "Empathy",
+    "Praise",
+    "Clear, ultra-simple actions"
+  ],
+  "coaching_notes": "Maintain ultra-simple, actionable guidance; reinforce use of reminders and memory aids; validate effort despite memory gaps; offer optional tiny bite and non-pressuring alternatives; check in regularly to reinforce progress and adjust as needed; monitor for signs of distress related to eating disorder and safety concerns."
+}

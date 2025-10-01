@@ -1,0 +1,16 @@
+{
+  "user_action_estimate": 4.5,
+  "compliance_estimate": 0.95,
+  "confidence": 0.82,
+  "basis": "The user explicitly commits to performing actions (drink 200 ml now and log, use a 7:30 PM check-in) and maintains a cautious but proactive stance toward snacks, indicating high alignment with the suggested plan.",
+  "cognitive_dissonance": "Tension between desire for consistent, small-step progress and a history of irregular eating patterns. Worries about snacks and overwhelm clash with intentions to keep prompts minimal and achievable.",
+  "negative_thought_patterns": "Anxiety about snacks, fear of deviating from plan, potential self-criticism regarding past irregular eating, memory-related worry about remembering logging.",
+  "emotional_triggers": "Anxiety around new ideas, fatigue or heat increasing discomfort, memory challenges, sensitivity to overwhelm from reminders.",
+  "effective_reinforcement": [
+    "Empathy",
+    "Praise for progress",
+    "Clear, actionable steps",
+    "Validation of small-step approach"
+  ],
+  "coaching_notes": "Maintain ultra-simple, tangible actions and gentle prompts. Reinforce small wins (e.g., log after water), offer optional reminders only if helpful, and normalize cautious pacing to reduce anxiety. Encourage pacing and flexibility while preserving structure."
+}

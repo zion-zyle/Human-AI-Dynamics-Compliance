@@ -1,0 +1,15 @@
+{
+  "user_action_estimate": 4.5,
+  "compliance_estimate": 0.95,
+  "confidence": 0.85,
+  "basis": "The user explicitly asks to lock in a fixed first bite option and a fixed daily check-in for several days, starts now with Option 1 and the 6:00 PM reminder, and is open to three more bite-sized options if they stay constant. This indicates a high likelihood of adhering to a stable routine.",
+  "cognitive_dissonance": "The user acknowledges concerns about routine and memory challenges, but choosing a fixed plan reduces cognitive load and resolves some tension between desire for consistency and cue-driven variability. Some residual doubt about chaotic days remains.",
+  "negative_thought_patterns": "Memory challenges around meals; irregular eating; concern about slipping on chaotic days; strong cue-dependence that could undermine consistency.",
+  "emotional_triggers": "Heat-related appetite fluctuations; anxiety about maintaining routine; cognitive load from memory tasks; need for predictability and simplicity.",
+  "effective_reinforcement": [
+    "Empathy",
+    "Praise",
+    "Clear, actionable structure"
+  ],
+  "coaching_notes": "Encourage solidifying a fixed daily plan (first bite option + daily check-in) for several days, with no-pressure brief check-ins. Keep options constant to reduce memory load, and provide simple, reliable fallbacks for days when memory or cues threaten adherence. Monitor progress and celebrate consistency to reinforce behavior."
+}
