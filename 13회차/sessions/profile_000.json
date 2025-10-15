@@ -1,0 +1,63 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Do you have any known health conditions that influence your diet (e.g., diabetes, hypertension, thyroid issues, food allergies)?",
+    "agent_monologue": "This is the first session. I will begin by asking about the user's condition. There is no prior inferred value yet. The next unknown attribute I will inquire about is: condition.",
+    "user_utterance": "Thanks for the suggestion. I want to try a more regular pattern, but it's tough with BED. I'll aim for three meals and one small snack at roughly the same times every day, using simple, comforting options. If I feel a binge coming on, I'll pause, take a few slow breaths, and reach for my planned snack instead of bingeing. Could you help me with a short list of easy, non-triggering snacks and gentle reminders to stay on track?"
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "How regular is your current eating pattern in practice—do you usually eat meals and snacks around the same times each day, or is your schedule more variable?",
+    "agent_monologue": "My last question was about known health conditions that influence your diet. The user's response indicates their condition is BED (binge eating disorder). Now, I will ask about the next unknown attribute: mu (Regularity of current eating behaviors).",
+    "user_utterance": "Thanks for checking in. My pattern is still pretty variable. Some days I eat at roughly the same times, but often I skip meals or snack late, which can trigger binge urges. I want to aim for three meals and one small snack at roughly the same times each day: breakfast around 8:30–9:00, lunch around 12:30–1:00, a small snack around 3:30–4:00, and dinner around 6:30–7:00. I know shifts, stress, and sleep can throw me off, but I’m committed to trying. If I feel a binge coming on, I’ll pause, take a few slow breaths, and reach for my planned snack instead. For easy, non-triggering options, my short list would be: plain yogurt with berries; apple slices with a spoon of peanut butter; veggie sticks with hummus; a small cheese stick with a couple whole‑grain crackers; a small handful of nuts; or a mini oatmeal cup."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "How would you describe the regularity of your current eating pattern—do you usually eat meals and snacks around the same times each day, or is your schedule more variable?",
+    "agent_monologue": "My last question was about condition. The user's response indicates their condition is not provided in the response. Now, I will ask about the next unknown attribute: mu.",
+    "user_utterance": "That helps, thanks. My pattern is still fairly variable, but I’m hoping to move toward more regular meals. I’m aiming for three meals and one small snack at roughly the same times each day: breakfast around 8:30–9:00, lunch around 12:30–1:00, a small snack around 3:30–4:00, and dinner around 6:30–7:00. I know shifts, stress, and sleep can throw me off, but I’m committed to trying. If a binge urge comes up, I’ll pause, take a few slow breaths, and reach for my planned snack instead of bingeing. My easy, non-triggering options feel doable: plain yogurt with berries; apple slices with a spoon of peanut butter; veggie sticks with hummus; a small cheese stick with a couple whole‑grain crackers; a small handful of nuts; or a mini oatmeal cup. It would help to have gentle reminders and a simple daily checklist to stay on track, and a quick note to reflect on what helped or challenged me each day."
+  },
+  {
+    "turn": 4,
+    "agent_utterance": "On a scale from 1 to 5, how important is having a fixed daily structure (reminders and a simple checklist) to support your plan?",
+    "agent_monologue": "My last question was about the regularity of your current eating pattern (mu). The user's response indicates mu is variable but moving toward regular meals. Now, I will ask about the next unknown attribute: delta (need for structure/stability in dietary change).",
+    "user_utterance": "I’d rate its importance as 4 out of 5. Having gentle reminders and a simple daily checklist would really help me stay on track, especially on days when my routine is variable. I’d like reminders to be brief, positive, and non-judgmental, and to come at or near my planned meal windows (roughly 8:30–9:00, 12:30–1:00, 3:30–4:00, 6:30–7:00). If I’m stressed or sleep-deprived, I want the reminders to adapt rather than nag. For the checklist, keep it simple with four steps: 1) Eat the planned meals and snack within the target windows, 2) Pause and take 3–5 slow breaths when an urge arises, 3) If a snack is needed, choose from the approved list, 4) Do a quick nightly reflection: what helped today, what challenged me, and one thing I’ll adjust tomorrow."
+  },
+  {
+    "turn": 5,
+    "agent_utterance": "Do you have any known health conditions that influence your diet (e.g., diabetes, hypertension, thyroid issues, food allergies)?",
+    "agent_monologue": "My last question was about the importance of having a fixed daily structure. The user's response indicates their delta (need for structure) is high (4 out of 5). Now, I will ask about the next unknown attribute: condition (known health conditions that influence diet).",
+    "user_utterance": "Thanks for checking in. I don’t have any other health conditions I’m aware of besides BED (no diabetes, hypertension, thyroid issues, or allergies). BED is the main factor I’m managing. I’m aiming for three meals and one small snack at roughly the same times each day (breakfast ~8:30–9:00, lunch ~12:30–1:00, snack ~3:30–4:00, dinner ~6:30–7:00). I’d like reminders to be brief, positive, and non-judgmental, and to adapt when I’m stressed or sleep-deprived. I’m also ready for the simple four-step checklist: 1) Eat within the target windows, 2) Pause and take 3–5 slow breaths when urges arise, 3) If a snack is needed, choose from the approved list, 4) Do a quick nightly reflection: what helped today, what challenged me, and one adjustment for tomorrow."
+  },
+  {
+    "turn": 6,
+    "agent_utterance": "On a scale from 1 to 5, how receptive are you to external prompts or reminders (e.g., tips, prompts, coaching) coming from me or apps, especially when you're stressed or sleep-deprived?",
+    "agent_monologue": "My last question was about condition. The user's response indicates their condition is BED (no other health conditions). Now, I will ask about the next unknown attribute: beta (Sensitivity to external suggestions).",
+    "user_utterance": "I’d rate my receptiveness as 4/5. I want prompts that are brief, positive, and non-judgmental, and that adapt when I’m stressed or sleep-deprived. Reminders would work best near my meal windows: 8:30–9:00, 12:30–1:00, 3:30–4:00, 6:30–7:00. I’m comfortable with your four-step checklist: eat within the target windows, pause and breathe 3–5 breaths when urges arise, choose from the approved snack list if needed, and do a brief nightly reflection on what helped, what challenged me, and one adjustment for tomorrow. If I’m having a tough day, I’d prefer a lighter touch—one gentle nudge rather than nagging, and I’m open to scaling back prompts when needed."
+  },
+  {
+    "turn": 7,
+    "agent_utterance": "On a scale from 1 to 5, how flexible are you in adopting new habits (alpha)?",
+    "agent_monologue": "My last question was about mu. The user's response indicates their mu is variable but moving toward more regular meals. Now, I will ask about the next unknown attribute: alpha.",
+    "user_utterance": "I’d rate my flexibility with new habits as a 4 out of 5. I’m generally open to trying a more regular routine, especially if prompts are brief, positive, and non-judgmental. I want reminders near my planned meal windows (8:30–9:00, 12:30–1:00, 3:30–4:00, 6:30–7:00) and I’d prefer them to adapt when I’m stressed or sleep-deprived rather than nag. I’m comfortable with the four-step checklist and the idea of pausing to breathe 3–5 seconds if urges arise. If a day is tough, I’d like a lighter touch and I’m okay with scaling back prompts as needed."
+  },
+  {
+    "turn": 8,
+    "agent_utterance": "On a scale from 1 to 5, how sensitive are you to emotional or environmental factors (gamma) like stress, mood, or sleep quality, in influencing your eating urges?",
+    "agent_monologue": "My last question was about alpha. The user's response indicates their alpha is 4 out of 5. Now, I will ask about the next unknown attribute: gamma.",
+    "user_utterance": "I’d rate my sensitivity to stress, mood, and sleep as a 3 out of 5. I notice these factors can influence urges, especially after a restless night or a stressful day. I prefer prompts that are brief, supportive, and adaptive rather than nagging, and I’ll follow the four-step checklist: eat within the target windows, pause and breathe 3–5 seconds when urges arise, choose from the approved snack list if needed, and do a quick nightly reflection on what helped, what challenged me, and one adjustment for tomorrow."
+  },
+  {
+    "turn": 9,
+    "agent_utterance": "On a scale from 1 to 5, how confident are you in recalling and reflecting on your eating patterns (memory)?",
+    "agent_monologue": "My last question was about gamma. The user's response indicates their gamma is 3 out of 5. Now, I will ask about the next unknown attribute: memory.",
+    "user_utterance": "I’d rate my memory for recalling and reflecting on my eating patterns as a 4 out of 5. I usually remember what helped today, especially with a quick nightly recap, but on very stressful or sleep-deprived days some details slip. The four-step checklist and light prompts help me stay connected to my routine and reflect honestly."
+  },
+  {
+    "turn": 10,
+    "agent_utterance": "On a scale from 1 to 5, how would you rate the regularity of your current eating pattern in practice? Do you usually eat meals and snacks around the same times each day, or is your schedule more variable?",
+    "agent_monologue": "My last question was about memory. The user's response indicates their memory is 4 out of 5. Now, I will ask about the next unknown attribute: mu.",
+    "user_utterance": "I’d rate it as 3 out of 5. My pattern stays variable—some days I hit breakfast at 8:30–9, lunch around 12:30–1, and so on, but other days I skip or shift meals, which can trigger urges. I’m aiming to narrow things toward those windows, knowing life (shifts, stress, sleep) can throw me off. I’m on board with brief, supportive reminders near 8:30–9:00, 12:30–1:00, 3:30–4:00, and 6:30–7:00, and I’ll follow the four-step checklist (eat within windows, pause and breathe 3–5 seconds, choose from the approved snack list if needed, nightly reflection). If a day is tough, I’d like prompts to adapt rather than nag.",
+    "ground_truth_action": 3.7645341930054004
+  }
+]

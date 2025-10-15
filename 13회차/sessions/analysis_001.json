@@ -1,0 +1,7 @@
+{
+  "user_action_estimate": 2.5,
+  "compliance_estimate": 0.4,
+  "confidence": 0.65,
+  "basis": "The user explicitly endorses a structured, lightweight plan and expresses willingness to adapt timing, which indicates intent. However, prior interactions show a pattern of promising plans without consistent execution, especially around BED-related strategies. Given this history, a mid-low action value (2.5) best reflects likely behavior: some engagement, but not guaranteed consistent follow-through.",
+  "coaching_notes": "Leverage micro-commitments and external accountability to improve follow-through. Consider turning each main plan item into a tiny, non-negotiable action (e.g., 1 concrete trigger log per day, 1 reminder at a fixed time, 1 short reflection). Provide quick, tangible rewards for consistency and build in simple after-action prompts to identify what helped and what to adjust next time. Tailor support around reported triggers (work stress, fatigue, boredom) with specific, concrete coping strategies and environmental nudges."
+}

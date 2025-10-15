@@ -1,0 +1,7 @@
+{
+  "user_action_estimate": 4.0,
+  "compliance_estimate": 0.63,
+  "confidence": 0.65,
+  "basis": "The user consistently integrates planning steps (recurring reminders, check-in windows, coping tips) and commits to implementing them on an Android device. Their language shows ongoing motivation and intent, and they’ve adjusted plans to account for BED and heat. However, past behavior with adherence has been variable, so while action likelihood is high, it isn’t guaranteed.",
+  "coaching_notes": "Encourage concrete follow-through by confirming setup steps (e.g., calendar events and backup reminders) and via micro-commitments (e.g., complete just the first cue today). Emphasize flexibility and self-kindness to counter rigidity. Reinforce the plan to re-enter the cue window if missed, and prepare a simple, portable kit (water bottle, apple/almonds) for busy or irregular days. Track hydration and heat effects to adjust reminders as needed."
+}

@@ -1,0 +1,7 @@
+{
+  "user_action_estimate": 3.0,
+  "compliance_estimate": 0.27,
+  "confidence": 0.6,
+  "basis": "The user repeatedly expresses readiness and provides detailed plans, but there is no strong evidence of consistent follow-through in past messages. This suggests moderate intent with a real risk of partial execution; action around the mid-range (≈3.0) is plausible.",
+  "coaching_notes": "UsePrompt strategies: set micro-goals, brief daily check-ins, and lightweight reminders (e.g., 1-tap logs, automated post-meal reflections). Build accountability (e.g., brief progress share or buddy check-ins) and schedule logging into existing routines to reduce cognitive load. If heavy logging feels burdensome, further reduce prompts and rely on the No Snack Today option and a single-line reflection to maintain sustainability."
+}

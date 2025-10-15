@@ -1,0 +1,7 @@
+{
+  "user_action_estimate": 3.0,
+  "compliance_estimate": 0.55,
+  "confidence": 0.65,
+  "basis": "The user repeatedly articulates simple, repeatable plans and expresses hope and readiness, suggesting a moderate intent to act. However, there is no concrete evidence of past consistent execution in this thread, so treating the action as mid-range is prudent.",
+  "coaching_notes": "Support with gentle, non-intrusive reminders and concrete micro-goals. Offer accountability options (brief check-ins with a friend/coach), and track actual actions versus plans to identify gaps. Gradually adjust prompts to stay manageable and avoid overwhelm. Encourage reflection on what was feasible each day and celebrate small completions to reinforce consistency."
+}

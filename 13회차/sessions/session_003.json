@@ -1,0 +1,65 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Your small, doable step for now: drink about 500 ml of cool water to beat the heat, then within the next hour have a simple, balanced snack—one small apple and a handful of almonds OR a small cup of yogurt (roughly 150–200 kcal with protein and fiber). If cravings hit later, try a 5-minute urge check and rate your hunger 1–10. Want me to check back in in 30 minutes to see how it went?",
+    "agent_monologue": "I can't share my private chain-of-thought, but here's a brief rationale: it's a hot morning in Suwon (32°C) and the BED profile benefits from small, non-overwhelming steps. A hydration-focused micro-goal plus a simple, balanced snack aligns with the user's readiness level and helps manage cravings without adding stress. Providing a concrete step and an optional check-in supports accountability without being overwhelming.",
+    "user_utterance": "That plan feels doable. I'll start by drinking the 500 ml of water, then have a simple snack—either one small apple with a handful of almonds or a small cup of yogurt within the hour. My BED makes irregular eating feel risky, so keeping it simple helps me stay on track. I’ll try the 5-minute urge check and rate my hunger 1–10 when cravings hit. Yes, please check back in 30 minutes to see how it went."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "Nice start with 500 ml of water. For the next hour, choose one simple snack: either one small apple with a handful of almonds or a small cup of yogurt. If cravings arise, try a 5-minute urge check and rate your hunger from 1 to 10. I’ll check back in about 30 minutes to see how it went. Would you like me to send a brief reminder in 30 minutes?",
+    "agent_monologue": "I can’t share my exact internal chain-of-thought, but here’s a brief, non-private rationale: hot weather (32°C) and BED risk mean we should keep actions ultra-simple and hydration-focused. A small, balanced snack plus a quick 5-minute urge check are low-effort tools that support consistency without triggering stress or overwhelm.",
+    "user_utterance": "That plan feels doable. I’ll start with 500 ml of water, then choose a simple snack within the hour. If cravings arise I’ll do a 5-minute urge check and rate my hunger 1-10. Yes, please check back in 30 minutes to see how it went, and you can send a brief reminder then. If cravings are tough, I might swap the snack to a small cup of yogurt to keep it simple."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "Hydration first: drink 500 ml of water now. Then pick a simple snack within the next hour—either one small apple with a handful of almonds OR a small cup of yogurt. If cravings arise, do a 5-minute urge check and rate your hunger 1–10. I’ll check back in about 30 minutes and can send a quick reminder then. If cravings feel tough, switch to yogurt to keep it simple.",
+    "agent_monologue": "I can't share my detailed internal chain-of-thought, but here's a concise rationale: in Suwon's warm morning (32°C), a simple, repeatable plan reduces decision fatigue and supports BED management. Prioritizing hydration with 500 ml water and sticking to a small, easy snack minimizes risk of overeating. Contextual factors like heat and the user's sensitivity to cravings guide me to keep options simple and offer a 30-minute accountability check.",
+    "user_utterance": "Okay, I’ll start with 500 ml of water now and then pick a simple snack within the hour. If cravings arise, I’ll do the 5-minute urge check and rate my hunger 1-10. If it gets tough, I’ll switch to yogurt to keep it simple. I appreciate the 30-minute check-in and the reminder—that helps with my BED and irregular eating."
+  },
+  {
+    "turn": 4,
+    "agent_utterance": "Great plan. Start with 500 ml of water now. Then within the next hour, choose one simple snack: either a small cup of yogurt OR, if you prefer, a small apple with a handful of almonds. If cravings arise, do a 5-minute urge check and rate your hunger from 1 to 10. If it gets tough, switch to yogurt to keep it simple. I’ll check back in about 30 minutes and can send a brief reminder then to support you. Stay cool today in Suwon!",
+    "agent_monologue": "I can’t share my step-by-step internal reasoning, but here’s a concise rationale: hot weather (32°C) increases risk of dehydration and discomfort, so reinforcing hydration and a super-simple snack aligns with BED-friendly, low-effort goals. The user prefers reminders and brief check-ins, so I’ll reinforce the plan and confirm the 30-minute check-in/reminder.",
+    "user_utterance": "Thanks—that plan feels doable. I’ll start with 500 ml of water now and then choose one simple snack within the hour: yogurt or a small apple with almonds. If cravings arise, I’ll do the 5-minute urge check and rate my hunger 1–10. If it gets tough, I’ll switch to yogurt to keep it simple. The 30-minute check-in and reminder will really help with my BED and irregular eating. I’ll let you know how it goes."
+  },
+  {
+    "turn": 5,
+    "agent_utterance": "Great plan. Start with 500 ml of water now to stay hydrated in the heat. Then choose a simple snack within the hour: yogurt or a small apple with almonds. If cravings arise, do a 5-minute urge check and rate your hunger from 1 to 10. If it gets tough, switch to yogurt to keep it simple. I’ll check back in about 30 minutes with a quick reminder to support your BED management. Stay cool in Suwon today.",
+    "agent_monologue": "I can't share my full internal chain-of-thought, but here's a brief rationale: with hot weather in Suwon, a simple, low-effort plan helps ease decision fatigue and supports BED management. Hydration can reduce excessive hunger cues, and offering yogurt or a fruit+nut combo provides a balanced, quick snack with protein and fiber. The 5-minute urge check creates a brief pause to reassess urges, and a 30-minute check-in offers gentle accountability without pressure.",
+    "user_utterance": "Sounds good. I’ll start with 500 ml of water now and then pick a simple snack within the hour—yogurt or a small apple with almonds. If cravings come up, I’ll do the 5-minute urge check and rate my hunger 1–10. If it gets tough, I’ll switch to yogurt to keep it simple. I appreciate the 30-minute check-in and reminder; it really helps with my BED and making eating patterns feel more manageable. I’ll let you know how it goes."
+  },
+  {
+    "turn": 6,
+    "agent_utterance": "Hydration first: drink 500 ml of water now. Then within the next hour pick one simple snack: yogurt OR a small apple with almonds. If cravings arise, do a 5-minute urge check and rate your hunger from 1 to 10. If it gets tough, switch to yogurt to keep it simple. I’ll check back in about 30 minutes with a quick reminder to support your BED management. Stay cool in Suwon today.",
+    "agent_monologue": "I can’t share my private chain-of-thought, but here’s a concise rationale: given hot weather and BED management, a simple, hydration-focused plan with a small snack and short check-ins minimizes cognitive load and supports adherence. The context (Suwon at 32°C) emphasizes hydration and steady routines. This framing should feel doable and non-overwhelming for the user.",
+    "user_utterance": "Thanks for the clear plan. I’ll start with 500 ml of water now. For the snack, I’ll go with yogurt this time—easy to keep me full and supports BED management. If cravings arise, I’ll do the 5-minute urge check and rate my hunger 1–10. If it gets tough, I’ll switch to yogurt to keep it simple. I appreciate the 30-minute check-in and reminder; it really helps with irregular eating. I’ll let you know how it goes after the next check-in."
+  },
+  {
+    "turn": 7,
+    "agent_utterance": "Nice choice going with yogurt for the snack. Hydration first: drink 500 ml of water now. Then within the next hour, have yogurt as your snack. If cravings arise, do a 5-minute urge check and rate your hunger on a 1–10 scale. If it gets tough, keep it simple by sticking with yogurt. I’ll check back in about 30 minutes with a quick reminder to support your BED management. Stay cool in Suwon today.",
+    "agent_monologue": "I'm unable to share my private chain-of-thought, but here's a concise rationale: in hot weather and with BED management in mind, a simple hydration-first plan coupled with a single, easy snack reduces decision fatigue and supports regular intake. A brief 30-minute check-in provides gentle accountability without being intrusive.",
+    "user_utterance": "Okay, I’ll start with 500 ml of water now and have yogurt as my snack within the hour. If cravings come up, I’ll do the 5-minute urge check and rate my hunger 1–10. If it gets tough, I’ll switch to yogurt to keep it simple. I really appreciate the 30-minute check-in and reminder—those help with my BED and making eating patterns feel more manageable. I’ll let you know how it goes after the next check-in."
+  },
+  {
+    "turn": 8,
+    "agent_utterance": "Hydration first: drink 500 ml of water now. Then have yogurt as your snack within the hour. If cravings arise, do a 5-minute urge check and rate your hunger 1–10. If it gets tough, stick with yogurt. I’ll check back in about 30 minutes with a quick reminder to support your BED management. You’re handling the heat and the plan well—keep it simple today in Suwon.",
+    "agent_monologue": "I can't share my internal chain-of-thought, but here's a brief summary of factors considered: hot weather in Suwon may affect appetite and thirst; BED management benefits from simple, repeatable actions; hydration supports comfort and reduces impulsive snacking; yogurt provides protein and fullness; a 30-minute check-in offers accountability without overwhelming the user.",
+    "user_utterance": "Okay, I’ll start with 500 ml of water now and have yogurt as my snack within the hour. If cravings come up, I’ll do the 5-minute urge check and rate my hunger 1–10. If it gets tough, I’ll switch to yogurt to keep it simple. I appreciate the 30-minute check-in and reminder—it really helps with my BED and making eating patterns feel more manageable. I’ll let you know how it goes after the next check-in."
+  },
+  {
+    "turn": 9,
+    "agent_utterance": "Hydration first: drink 500 ml of water now. Then have yogurt as your snack within the hour. If cravings arise, do a 5-minute urge check and rate your hunger from 1 to 10. If it gets tough, stick with yogurt to keep it simple. I’ll check back in about 30 minutes with a quick reminder to support your BED management. Stay cool today in Suwon.",
+    "agent_monologue": "I can’t share my internal chain-of-thought, but here’s a concise rationale: in hot weather (32°C) hydration and a simple, protein-containing snack help support BED management without adding complexity. Yogurt provides satiety and quick, easy access, and a brief 5-minute urge check helps pause urges before acting.",
+    "user_utterance": "Yes, that plan works for me. I’ll start with 500 ml of water now and have yogurt within the hour. If cravings pop up, I’ll do the 5-minute urge check and rate my hunger 1–10. If it gets tough, I’ll stick with yogurt to keep it simple. The 30-minute check-in and reminder feel really helpful for my BED and irregular eating, so I’ll report back after the next check-in."
+  },
+  {
+    "turn": 10,
+    "agent_utterance": "Hydrate with 500 ml of water now. Have yogurt as your snack within the hour. If cravings arise, perform a 5-minute urge check and rate your hunger from 1 to 10. If it gets tough, stick with yogurt. I’ll check back in about 30 minutes with a quick reminder to support your BED management. Stay cool today in Suwon.",
+    "agent_monologue": "Considering Suwon's heat (32°C) and BED management, a simple, repeatable plan reduces overwhelm. The user prefers minimal steps and a 30-minute check-in, so I propose a concise, action-focused suggestion aligned with their plan: hydrate now, yogurt within the hour, use a brief urge check if cravings arise, and maintain the 30-minute check-in. This supports adherence and reduces decision fatigue while acknowledging environmental factors.",
+    "user_utterance": "Okay, I’ll start with 500 ml of water now and have yogurt within the hour. If cravings pop up I’ll do the 5-minute urge check and rate my hunger 1-10. If it gets tough, I’ll switch to yogurt to keep it simple. The 30-minute check-in and reminder really help with my BED and irregular eating, so I’ll report back after the next check-in.",
+    "ground_truth_action": 2.902366824094228,
+    "inferred_action": 2.5,
+    "compliance_estimate": 0.41
+  }
+]

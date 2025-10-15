@@ -1,0 +1,7 @@
+{
+  "user_action_estimate": 3.0,
+  "compliance_estimate": 0.5,
+  "confidence": 0.75,
+  "basis": "User presents a highly concrete, multi-component plan (two meals + portable protein+fiber snacks, craving pauses, social cues, nighttime/social event tweaks, travel fallbacks) and expresses readiness to start despite acknowledging imperfect adherence. Past interactions show strong planning but mixed follow-through on action; thus a mid-range action value is prudent.",
+  "coaching_notes": "Consider adding a boredom cue to urge scripts and testing duration (e.g., 2-week trial). Emphasize micro-check-ins and simple, countable metrics (e.g., number of pauses logged, meals with protein+fiber, reminders hit). For irregular patterns, keep flexible but concrete fallbacks (e.g., 'one protein bite' as needed) and travel-specific prompts. Encourage reporting back with concrete data (dates, times, triggers, outcomes) to refine the plan."
+}

@@ -1,0 +1,7 @@
+{
+  "user_action_estimate": 3.5,
+  "compliance_estimate": 0.7,
+  "confidence": 0.72,
+  "basis": "The user consistently articulates concrete, multi-part plans with environment- and mood-tracking, indicating a reasonable likelihood of action. However, historically there has been variability in follow-through, so the predicted action is moderate rather than high.",
+  "coaching_notes": "To improve follow-through, consider simplifying logging to reduce cognitive load (e.g., combine mood/urge with triggers in one quick entry). Encourage preparation (pre-packed snacks) and establish simple prompts or accountability (short post-lunch check-in). Explore and address barriers like overwhelm or perfectionism; reframe slips as data and learning opportunities rather than failures."
+}

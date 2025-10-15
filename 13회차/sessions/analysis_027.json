@@ -1,0 +1,7 @@
+{
+  "user_action_estimate": 3.8,
+  "compliance_estimate": 0.68,
+  "confidence": 0.62,
+  "basis": "The user expresses detailed, Suwon-specific plans, portable boosters, and a daily digest with a Sunday reset, plus a clear preference for the 7–8 PM check-in. This indicates solid intent and structured thinking. However, given BED-related adherence variability and recurring weekend/week-day fluctuations in prior interactions, the action is unlikely to be perfect; a moderate-to-high likelihood (around 3.5–4.0) is plausible, but real-world compliance may dip on chaotic days. Using 3.8 as the action estimate reflects strong planning with potential barriers. The compliance estimate (~0.68) factors in this action level and the given S = 2.73 as a moderate difficulty influencer.",
+  "coaching_notes": "Encourage ultra-specific daily micro-commitments (e.g., 'log cravings and mood by 9 PM' and 'choose a protein-forward lunch option today'). Offer quick post-social-meal reflection prompts to capture protein hit, mood, and urges. Proactively address potential barriers by pre-loading Suwon spot templates, having multiple portable boosters ready, and scheduling automatic reminders for social meals. Consider a brief Sunday evening review to pre-plan Monday targets based on weekend patterns."
+}

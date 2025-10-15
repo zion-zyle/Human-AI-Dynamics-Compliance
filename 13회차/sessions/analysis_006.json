@@ -1,0 +1,7 @@
+{
+  "user_action_estimate": 3.0,
+  "compliance_estimate": 0.55,
+  "confidence": 0.68,
+  "basis": "The user explicitly accepts the flexible plan, commits to testing Wed–Fri, and promises to share exact hours soon. Historically, they express strong intent but often delay providing concrete data or taking full follow-through until prompted. Given the current intent and repeated readiness to test, a mid-range action likelihood (around 3.0) is most realistic.",
+  "coaching_notes": "Continue to prompt for exact hours promptly to lock in the final calendar. Reinforce the toggleable trigger-tracking and the single-line overruns log, keeping reminders encouraging. Consider adding a lightweight onboarding step (e.g., one-click hour submission) to reduce friction. Monitor for delays in sharing hours and offer a quick interim template with placeholders to maintain momentum."
+}

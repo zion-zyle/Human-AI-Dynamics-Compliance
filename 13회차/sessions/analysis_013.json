@@ -1,0 +1,7 @@
+{
+  "user_action_estimate": 3.0,
+  "compliance_estimate": 0.45,
+  "confidence": 0.72,
+  "basis": "The user explicitly commits to testing multiple micro-routines (A, B, C), intends to rotate travel snacks, and maintain logging, which signals intended action. However, there is a history of enthusiastic planning with uncertain follow-through, so a cautious midpoint action value is reasonable.",
+  "coaching_notes": "Suggestions to improve adherence: turn plans into concrete if-then actions (e.g., If the 7-minute check ends, then immediately start micro-routine A for 60 seconds). Build simple reminders and cues into a routine (e.g., a visible checklist or phone notification). Use small, scalable goals and immediate logging to reinforce behavior. For tired/anxious days, have a single fallback baseline (e.g., always drink water, perform micro-routine A, and log) before considering other tactics. Maintain rotating snack ideas but ensure at least one guaranteed balanced option is always accessible. Consider adding a short accountability touchpoint (brief check-in with a friend or app) to boost consistency."
+}

@@ -1,0 +1,7 @@
+{
+  "user_action_estimate": 4.0,
+  "compliance_estimate": 0.54,
+  "confidence": 0.72,
+  "basis": "The user explicitly commits to starting today and sustaining it through tomorrow, with concrete steps (3분 루틴, mindfulness, 스크립트, 로그, 알림). 과거 대화에서 계획을 세우고 실행하려는 의도가 반복적으로 보이나, 사회적 상황 등 실제 실행의 변동성이 존재하여 완전한 이행까지는 아직 확신하기 어렵습니다. 따라서 4.0의 action 추정이 타당하지만 최상위 수준은 아닙니다.",
+  "coaching_notes": "실행을 높이려면: 1) 3시 체크인 등 자동 알림 고정, 2) 점심 후 특정 트리거에 루틴을 연결하는 하비트 스태킹, 3) 매일 간단한 1문장 로그 작성 습관화, 4) 고위험 상황에 대비한 짧은 거절 스크립트와 즉시 이용 가능한 대안 목록 준비, 5) 1주 동안의 주간 체크인으로 진척도 점검 및 조정. 환경 단서(눈에 잘 보이는 과일/물)와 사회적 지원(동료와의 공유)로 지속성을 강화하는 것이 도움이 됩니다."
+}

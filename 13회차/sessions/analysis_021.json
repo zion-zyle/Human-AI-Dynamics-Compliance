@@ -1,0 +1,7 @@
+{
+  "user_action_estimate": 2.8,
+  "compliance_estimate": 0.35,
+  "confidence": 0.82,
+  "basis": "The user verbally commits to a clear ultra-simple plan and acknowledges BED-related obstacles, but also notes the potential for slips after busy or social days. This pattern suggests moderate intent to act, but a realistic chance of deviations. Using a logistic-style mapping with S = 2.17 yields a compliance around 0.35 for a predicted action of 2.8.",
+  "coaching_notes": "The user shows reasonable awareness of barriers and a willingness to reset without judgment. To improve follow-through, reinforce small, time-bound commitments and add external accountability (e.g., brief daily check-ins, reminders, or pairing with a buddy). Prepare a quick 'slip plan' template to re-engage after a lapse and reduce decision fatigue on busy days."
+}

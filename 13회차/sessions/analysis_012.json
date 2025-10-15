@@ -1,0 +1,7 @@
+{
+  "user_action_estimate": 4.0,
+  "compliance_estimate": 0.66,
+  "confidence": 0.72,
+  "basis": "The user explicitly commits to a 3–5 pm Snack Check-In with hydration-first swaps, a true one-tap Snooze, and flexible extension to 4–6 pm. They emphasize honesty about hunger ratings and a plan to re-rate after coping actions. While this shows strong intent, there isn't clear, objective past follow-through data in this thread, so a cautious, moderately high action estimate is warranted.",
+  "coaching_notes": "Leverage their clarity by enabling quick, low-friction actions (one-tap log of 'Did it?' after the check-in, and a guaranteed one-tap Snooze). Address potential barriers by ensuring device-specific one-tap setups and adding an easy extension/next-window option. Encourage a brief post-check-in quick journaling or an 'I did it' log to reinforce consistency. If misses occur, fall back to the next feasible window and reframe misses as data for tomorrow."
+}

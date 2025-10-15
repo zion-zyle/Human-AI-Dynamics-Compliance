@@ -1,0 +1,7 @@
+{
+  "user_action_estimate": 2.5,
+  "compliance_estimate": 0.4,
+  "confidence": 0.62,
+  "basis": "The user expresses a clear, gentle plan and a willingness to log post-meal feelings, but their history with BED-oriented routines shows they often struggle with consistent follow-through, especially on busy or irregular days. The stated pace (2-minute urge-buster with optional 60-second fallbacks, end-of-day logging, micro-prompts) is feasible but fragile under stress, suggesting a modest action likelihood around 2.5 and overall compliance around 0.4.",
+  "coaching_notes": "Keep commitments ultra-small and time-bounded; provide easy end-of-day prompts and reminders; offer ultra-light prompts for busy days; add simple accountability (e.g., quick check-ins or automated reminders) and plan for days with skipped meals. Consider gradual escalation only after consistent micro-commitments are maintained. "
+}

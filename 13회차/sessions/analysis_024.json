@@ -1,0 +1,7 @@
+{
+  "user_action_estimate": 2.8,
+  "compliance_estimate": 0.75,
+  "confidence": 0.65,
+  "basis": "The user expresses flexibility and mentions potential skipping of logging on rough days, suggesting partial adherence. Past patterns show variability, so the predicted action is modestly above floor but not highly assured.",
+  "coaching_notes": "Encourage explicit micro-commitments and non-negotiables (e.g., mandatory logging on most days, or a fixed daily check-in). Build in lightweight on-the-fly adjustments as clearly defined exceptions with thresholds. Use a quick daily note to the support buddy and a short mid-day reminder to sustain momentum on irregular days."
+}
