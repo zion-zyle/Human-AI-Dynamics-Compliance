@@ -1,0 +1,65 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Take one ultra-small sip of water now (about 5 ml). Pause for 2 minutes and notice how you feel (stomach comfort, fullness, energy). If you're comfortable, have another tiny sip and repeat the pause. If not, stop and revisit hydration later. This tiny, optional step helps you stay hydrated in the heat without pressure.",
+    "agent_monologue": "I can't share my internal chain-of-thought, but here's a concise rationale: hot weather (32°C) on a Wednesday afternoon increases dehydration risk, and the user with anorexia nervosa benefits from ultra-small, optional actions. A micro-action focused on a tiny water sip aligns with prior analysis that emphasizes autonomy, safety, and short check-ins.",
+    "user_utterance": "That tiny-sip approach feels a bit like a test right now, and I get resistant when things feel scheduled. I might try a 5 ml sip if I’m calm about it, but I can’t promise a routine. Could we keep it optional, maybe tied to a meal or when I feel ready, and let me choose the drink and amount myself? If I start feeling pushed by others or the setting, please pause and we can revisit."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "Great choice to keep it optional. Let’s link hydration to meals or to a moment you feel ready, with you choosing the drink and amount—no routine or schedule. When you’re ready, you can add a tiny sip at a meal or after you’ve taken a bite, choosing any beverage you like and any amount that feels comfortable (even a single sip). Afterward, pause and check how you feel. If you sense pressure from others or the setting, we pause and revisit. If you want, tell me which meal to connect to first (e.g., tonight’s dinner) and what drink you’d prefer, and I’ll help keep it flexible and non-pressuring. It’s warm today in Suwon (32°C), so a little hydration support can feel gentle and optional.",
+    "agent_monologue": "I'm unable to share my internal chain-of-thought. Brief rationale: hot weather increases dehydration risk; the user wants an optional, meal-linked micro-action with autonomy and no scheduling pressure. I’ll propose a flexible, non-coercive prompt that can be attached to meals and chosen by the user.",
+    "user_utterance": "Okay, I can go with tying hydration to a meal and letting me choose the drink and amount, with no routine. If I feel ready, I might try a tiny sip at dinner after I’ve had a bite, and I’ll check how I feel. If I sense pressure from anyone or the setting, we pause and revisit. I’ll treat it as an optional experiment, not a rule."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "At your next meal, you can choose any drink and amount. After you’ve taken a bite, consider a tiny sip if you feel ready, then pause to check how you feel. If you sense pressure from others or the setting, we pause and revisit. This remains an optional experiment, not a rule.",
+    "agent_monologue": "I can’t share my internal chain-of-thought, but here’s a concise rationale: the user prefers optional, non-routine hydration linked to meals with personal choice. Given the hot weather, a single, flexible micro-action at the next meal fits their needs without pressure.",
+    "user_utterance": "I can try this as an optional thing, tied to meals and letting me choose the drink and amount. It stays flexible—no routine, no pressure. I might do a tiny sip after I’ve had a bite if I feel ready, and I’ll pause to check how I feel. If I sense pressure from others or the setting, we pause and revisit. If I want to opt out, that should be okay too. I’ll pick something simple and familiar when I participate, so it’s easier to decide in the moment."
+  },
+  {
+    "turn": 4,
+    "agent_utterance": "For your next meal, hydration stays optional and you choose your drink and amount. After you’ve taken a bite, if you feel ready, try a tiny sip of your chosen drink and then pause to check how you feel. You can opt out anytime. If you sense pressure from others or the setting, we pause and revisit. This is a flexible, meal-tied nudge, not a rule.",
+    "agent_monologue": "Context: hot weather in Suwon today increases thirst, but the user wants hydration as an optional, meal-tied cue with no routine. The plan is to offer a low-effort, autonomy-supportive micro-action that can be opted into or out of at the moment, without pressuring the user. Provide a concise, actionable suggestion aligned with these preferences and remind about pausing if pressure is sensed.",
+    "user_utterance": "Okay, I can keep hydration optional and tied to a meal, with me choosing the drink and amount and no routine. I’ll test it in a flexible way—maybe after I’ve taken a bite at dinner if I feel ready—and I’ll pause to check how I feel. I can opt out anytime if it starts to feel pressuring. If someone else or the setting pushes me, we pause and revisit. I’ll keep it optional and not a rule, and I’ll pick something simple and familiar when I participate so I can decide in the moment. If tonight is chaotic, I might skip."
+  },
+  {
+    "turn": 5,
+    "agent_utterance": "For your next meal in Suwon (32°C), hydration stays optional and tied to the meal. After you've taken a bite, if you feel ready, try a tiny sip (about 5 ml) of a drink you choose—water or something familiar—and pause to notice how you feel. You can opt out anytime. If anyone or the setting feels pressuring, we pause and revisit. If dinner is chaotic, you can skip. Keep it simple and in the moment so you can decide freely.",
+    "agent_monologue": "I can't share my internal chain-of-thought, but here's a brief rationale: in hot weather and during meals, a lightweight, optional micro-action linked to a bite supports autonomy and minimizes pressure. This framing respects your preference for flexibility and helps you test hydration without turning it into a rule.",
+    "user_utterance": "I understand the plan to keep hydration optional and tied to a meal, with me choosing the drink and amount and no routine. If I feel ready, I might try a tiny sip after I’ve had a bite, but I’ll pause to check how I feel and I can opt out anytime if it starts to feel pressuring. If someone pushes me or the setting is uncomfortable, we pause and revisit. I’ll treat it as an optional experiment, not a rule, and decide in the moment with something simple and familiar. If tonight is chaotic, I might skip."
+  },
+  {
+    "turn": 6,
+    "agent_utterance": "For tonight's dinner, hydration stays optional and tied to the meal. You choose the drink and the amount, with no routine. After you've taken a bite, if you feel ready, try a tiny sip of your chosen drink (even a small amount, like 5 ml). Then pause to notice how you feel and decide if you want to continue or opt out. You can opt out anytime if it starts to feel pressuring. If someone pushes you or the setting feels uncomfortable, we pause and revisit. If tonight is chaotic, you can skip. Keep it simple and in the moment so you can decide freely.",
+    "agent_monologue": "I can't share my internal chain-of-thought, but here's a brief rationale: given the user's explicit preference for optional, meal-tied hydration with autonomy and no routine, and considering the hot weather in Suwon (32°C), a tiny, non-pressuring micro-action after a bite is a low-effort way to check in on hydration while preserving control.",
+    "user_utterance": "Okay, I can keep it optional and meal-tied, with me choosing the drink and amount and no routine—but I’m wary tonight. If I feel ready, I might try a tiny sip after I’ve had a bite, but it has to be my idea, not pushed, and I’ll pause to check how I feel. I should be able to opt out anytime, and if the setting or others feel pressuring, we pause and revisit. If tonight is chaotic, I might skip. I’ll decide in the moment and keep it simple and familiar."
+  },
+  {
+    "turn": 7,
+    "agent_utterance": "For tonight's dinner, hydration stays optional and meal-tied. After you’ve taken a bite, you can choose to take a tiny sip (around 5 ml) of a drink you select, or skip entirely. If you feel pressured by others or the setting, pause and revisit. You can opt out anytime and decide in the moment with something simple and familiar. If tonight is chaotic, it’s okay to skip.",
+    "agent_monologue": "I can’t share my internal chain-of-thought, but here is a brief rationale: the user is in hot weather and prefers an autonomous, meal-tied approach with optional, tiny actions. A brief, actionable suggestion aligned with those preferences supports comfort and control without pressure.",
+    "user_utterance": "I understand the plan: hydration stays optional and meal-tied, I choose the drink and amount, no routine. Tonight I’m wary because my eating pattern is irregular and I tend to resist changes. If I feel ready after I’ve had a bite, I might try a tiny sip, but it has to be my idea and I’ll pause to check how I feel. I can opt out anytime, and if someone pushes me or the setting feels pressuring, we pause and revisit. If tonight is chaotic, I might skip. I’ll decide in the moment and keep it simple and familiar."
+  },
+  {
+    "turn": 8,
+    "agent_utterance": "Tonight, hydration stays optional and tied to your meal. After you’ve taken a bite, if you feel ready and it’s your idea, try a tiny sip—about 5 ml—of a drink you choose. Pause to notice how you feel and you can opt out anytime. If someone pushes you or the setting feels pressuring, pause and revisit. If tonight is chaotic, you can skip. Keep it simple and in the moment, choosing something familiar.",
+    "agent_monologue": "I can't share my internal chain-of-thought, but here's a concise rationale: given the user's preference for optional, meal-tied hydration and the hot environment, a tiny, autonomy-supportive sip after a bite is a low-friction way to support hydration without pressure.",
+    "user_utterance": "I'm glad hydration can stay optional and meal-tied. Tonight I'm wary because my eating pattern is irregular and I tend to resist changes. If I feel ready after I’ve taken a bite, I might try a tiny sip, but it has to be my idea and I’ll pause to check how I feel. I can opt out anytime, and if someone pushes me or the setting feels pressuring, we pause and revisit. I’ll keep it simple and familiar and decide in the moment. If tonight is chaotic, I might skip."
+  },
+  {
+    "turn": 9,
+    "agent_utterance": "After your next bite, if it’s your idea and you feel ready, try a tiny sip (about 5 ml) of a drink you choose (water or something familiar). Pause to notice how you feel and you can opt out anytime. If someone pushes you or the setting feels pressuring, pause and revisit. If tonight is chaotic, you may skip. Keep it simple and in the moment, tied to your meal.",
+    "agent_monologue": "I can't share my full internal reasoning, but here's a concise justification: given Suwon's 32°C heat and the user's preference to avoid routines, a single, optional micro-action tied to meals supports hydration without pressure.",
+    "user_utterance": "That plan makes sense to me: a tiny sip only if it's my idea, after I’ve had a bite. I’m wary tonight because my eating pattern is irregular and I tend to resist changes. I want to keep it optional and not pushy, so I can opt out anytime. If someone pushes me or the setting feels pressuring, we pause and revisit. I’ll keep it simple and familiar, decide in the moment, and may skip if tonight is chaotic. If I do sip, I’ll aim for a small amount (like 5 ml) and check how I feel right after."
+  },
+  {
+    "turn": 10,
+    "agent_utterance": "Given it’s warm (32°C) in Suwon tonight, hydration stays optional and tied to your meal. After you’ve taken a bite, if it’s your idea and you feel ready, try a tiny sip about 5 ml of a drink you choose. Pause to notice how you feel and you can opt out anytime. If anyone pushes you or the setting feels pressuring, pause and revisit. If tonight is chaotic, you may skip. Keep it simple, in the moment, and familiar.",
+    "agent_monologue": "I can’t share my internal chain-of-thought, but here’s a concise rationale and a practical suggestion aligned with the user’s plan and the current context.",
+    "user_utterance": "Okay, I hear that hydration stays optional and meal-tied, and I can choose the drink and amount with no routine. I'm wary tonight because my eating is irregular and I tend to resist changes. If I feel ready after I’ve taken a bite, I might try a tiny sip, but it has to be my idea and I’ll pause to check how I feel. I can opt out anytime, and if someone pushes me or the setting feels pressuring, we pause and revisit. I’ll keep it simple and familiar, decide in the moment, and may skip if tonight is chaotic.",
+    "ground_truth_action": 3.084488893362662,
+    "inferred_action": 3.0,
+    "compliance_estimate": 0.94
+  }
+]

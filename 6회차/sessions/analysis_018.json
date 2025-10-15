@@ -1,0 +1,15 @@
+{
+  "user_action_estimate": 4.5,
+  "compliance_estimate": 0.695,
+  "confidence": 0.85,
+  "basis": "The user explicitly commits to the ultra-tiny water step and a 10-minute check-in, with safety/voluntary boundaries, indicating a high likelihood of following the suggested action.",
+  "cognitive_dissonance": "The user experiences tension between environmental influence and personal boundaries, balancing social-eating concerns with a concrete micro-action.",
+  "negative_thought_patterns": "Environmental overwhelm, self-doubt about eating around others, all-or-nothing thinking at times.",
+  "emotional_triggers": "Social eating pressure, fear of losing control, discomfort in around others, hot weather context.",
+  "effective_reinforcement": [
+    "Empathy",
+    "Clear, actionable steps",
+    "Respect for autonomy"
+  ],
+  "coaching_notes": "Keep leveraging ultra-tiny, on-your-terms steps. After the 10-minute check-in, invite the user to name bodily signals (hunger, fullness, fatigue) and mood. Reinforce safety cues and autonomy; gradually introduce optional tiny bites only when clearly voluntary and safe."
+}

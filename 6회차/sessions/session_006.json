@@ -1,0 +1,65 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "It's pretty hot outside. Here's a tiny, optional step you can try now: take a small, cool sip of water (about 100–150 ml) and, for 30 seconds, name one feeling or sensation you’re experiencing. No pressure to eat or follow a routine—this is just a quick check-in you can choose to do or skip.",
+    "agent_monologue": "I can’t share my full internal chain-of-thought, but here’s a brief rationale: considering the hot afternoon in Suwon and the user’s sensitivity with anorexia nervosa, I’m selecting a tiny, optional cue that supports autonomy and mood check-in rather than imposing eating changes.",
+    "user_utterance": "I appreciate the suggestion, but I’m not ready to commit. My eating is extremely irregular and I get anxious with any routine. If we try anything, it has to be ultra-flexible and non-pressuring—basically something tiny I can choose in the moment, not a fixed plan. Today I might not feel hungry at all, and that’s okay. If there’s a tiny option that feels safe and optional, like a small snack when I feel up to it, I could consider it, but please don’t frame it as a diet or obligation."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "If you feel up to it, you could have a tiny, optional bite only when it feels right—like a single strawberry, a few almonds, or a small spoonful of yogurt. No routine, no obligation; you decide in the moment.",
+    "agent_monologue": "I can’t share my internal chain-of-thought, but here’s a brief rationale: the user wants ultra-flexible, optional actions and may feel overwhelmed by planning; a tiny, optional cue fits the current context (hot weather, mood variability) and avoids any pressure to eat.",
+    "user_utterance": "Thanks for offering a tiny, optional option. That feels safer. Today I'm not sure about eating—hunger is inconsistent and the idea of sticking to a routine makes me anxious. If I ever feel up to it, I might consider a single tiny bite in the moment (like one strawberry or a few almonds), but only when it truly feels right and not as a rule. I want to keep it completely optional and not framed as a diet or obligation."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "If you ever feel up to it, you could choose a single tiny bite—like one strawberry or a few almonds—only when it genuinely feels right. No routine, no obligation. If today you don’t feel hungry or it doesn’t feel safe to try, that’s perfectly okay too. You can skip eating and simply check in with how you’re feeling in the moment.",
+    "agent_monologue": "I can’t share detailed internal reasoning, but here is a brief justification: the hot weather (32°C) and your irregular eating pattern increase sensitivity to pressure. A tiny, optional bite respects autonomy and avoids any routine or obligation.",
+    "user_utterance": "I appreciate that you’re framing it as optional. My appetite is inconsistent and routines trigger anxiety, so I can’t commit to a plan. If I ever feel up to it, I might try a single tiny bite in the moment—like one strawberry or a few almonds—only when it genuinely feels right and not as a rule. For today, I may skip, and that’s perfectly okay. I’ll check in with how I’m feeling in the moment."
+  },
+  {
+    "turn": 4,
+    "agent_utterance": "If you feel up to it, you could try a single tiny bite—one strawberry or a few almonds—only when it genuinely feels right. No routine, no obligation today. If you don’t feel hungry or it doesn’t feel safe to try, you can skip and simply check in with how you’re feeling in the moment.",
+    "agent_monologue": "I can't share an internal chain-of-thought, but here's a concise rationale: given the hot weather in Suwon, the current time, and the user’s emphasis on ultra-small, optional steps with no routine, a tiny bite only if it genuinely feels right minimizes pressure and supports autonomy.",
+    "user_utterance": "Thanks for keeping it optional. My appetite is inconsistent and routines trigger anxiety, so I can't commit to a plan. If I ever feel up to it, I might try a single tiny bite—one strawberry or a few almonds—only when it genuinely feels right and not as a rule. For today I may skip, and that's perfectly okay. I'll check in with how I'm feeling in the moment before deciding."
+  },
+  {
+    "turn": 5,
+    "agent_utterance": "Today, if anything feels right in the moment, you could try a single tiny bite—like one strawberry or a small handful of almonds—or just a tiny sip of water. No routine, no obligation. If hunger isn’t present or trying it doesn’t feel safe, you can skip entirely and simply check in with how you’re feeling in the moment.",
+    "agent_monologue": "I'm not able to share my internal chain-of-thought, but here is a brief, high-level rationale: given the user's preference for ultra-flexible, optional actions and the hot, potentially draining environment in Suwon, offering a tiny, momentary cue that requires no commitment respects autonomy and minimizes pressure.",
+    "user_utterance": "Thanks for keeping it optional. My appetite is inconsistent and routines trigger anxiety, so I can't commit to a plan. If today feels like a moment where a tiny bite might be okay, I might consider one strawberry or a few almonds—or a tiny sip of water—only if it genuinely feels right and not as a rule. Most days I’ll skip and just check in with how I’m feeling in the moment, and I’ll decide then."
+  },
+  {
+    "turn": 6,
+    "agent_utterance": "Today, in Suwon’s heat, if at any moment it genuinely feels right, you could try a single tiny bite like one strawberry or a few almonds, or a tiny sip of water—only if it truly feels safe and optional. No routine, no obligation. If not, you can skip and simply check in with how you’re feeling in the moment.",
+    "agent_monologue": "I can’t share my detailed internal reasoning, but here’s a concise rationale: the user wants ultra-flexible, optional cues and is in a hot environment in Suwon. A tiny, non-pressuring suggestion aligned with that approach is appropriate, focusing on a possible micro-action only if it genuinely feels right (e.g., one strawberry, a few almonds, or a sip of water).",
+    "user_utterance": "I appreciate the flexible, optional approach. I still can’t commit to a plan—my appetite is inconsistent and routines trigger anxiety. If today there’s a moment that genuinely feels right, I might try a single tiny bite—like one strawberry or a few almonds—or a tiny sip of water—but only if it truly feels safe and not as a rule. Most days I’ll skip and simply check in with how I’m feeling in the moment, and decide then."
+  },
+  {
+    "turn": 7,
+    "agent_utterance": "Today, if at any moment it genuinely feels right, you could try a single tiny bite—one strawberry or a few almonds—or a tiny sip of water. No routine, no obligation. If hunger isn’t present or trying it doesn’t feel safe, you can skip and simply check in with how you’re feeling in the moment.",
+    "agent_monologue": "In 32°C Suwon heat on a Wednesday afternoon, the user prefers ultra-flexible, non-pressured support. A tiny bite or sip only if it genuinely feels right aligns with autonomy and minimizes anxiety, so I’ll keep the suggestion strictly optional and non-diet-focused.",
+    "user_utterance": "I hear that it’s optional, and I’m glad it’s not a plan. Right now I can’t commit to eating on a schedule—the appetite is inconsistent and routines trigger my anxiety. If today a moment comes that genuinely feels right, I might try a single tiny bite or a sip of water—like one strawberry or a few almonds—only if it truly feels safe and not as a rule. Most days I’ll skip and just check in with how I’m feeling in the moment."
+  },
+  {
+    "turn": 8,
+    "agent_utterance": "If today a moment genuinely feels right, you could try a single tiny bite—like one strawberry or a few almonds—or a tiny sip of water. Only if it truly feels safe and optional. No routine, no obligation. If hunger isn’t present or it doesn’t feel safe to try, you can skip and simply check in with how you’re feeling in the moment.",
+    "agent_monologue": "I can’t share my internal step-by-step reasoning, but here’s a brief rationale: given the user’s preference for ultra-flexible, optional actions and the hot environment in Suwon, offering a tiny, non-pressuring bite or sip of water that’s available only if it feels right aligns with their autonomy and reduces anxiety.",
+    "user_utterance": "I hear that this is optional and not a plan. Given how inconsistent my appetite is and how anxious routines make me, I can't commit to a schedule. I appreciate the flexibility—I might consider a single tiny bite only if it truly feels right in the moment, but today I might skip and just check in with how I'm feeling. If I decide to try something, I'll aim for something ultra-small like one strawberry or a few almonds and only if it genuinely feels safe, not as a rule. Thanks for keeping it non-pressuring."
+  },
+  {
+    "turn": 9,
+    "agent_utterance": "Today, in Suwon’s heat, if at any moment it genuinely feels right, you could try a single tiny bite—one strawberry or a few almonds—or a tiny sip of water. No routine, no obligation. If hunger isn’t present or trying it doesn’t feel safe, you can skip and simply check in with how you’re feeling in the moment.",
+    "agent_monologue": "I can't share my internal chain-of-thought, but here is a concise, non-sensitive rationale: the user has anorexia nervosa with high sensitivity to routines and anxiety around eating. They prefer ultra-small, optional actions. The current environmental context (Suwon’s heat) suggests hydration is useful. The goal is to offer a brief, non-pressuring cue that respects autonomy.",
+    "user_utterance": "I appreciate that this is optional and not a plan. My appetite is inconsistent and routines trigger anxiety, so I can’t commit to a schedule. If today there’s a moment that genuinely feels right, I might try a single tiny bite—like one strawberry or a few almonds—or a small sip of water—but only if it truly feels safe and not as a rule. Most days I’ll skip and just check in with how I’m feeling in the moment. I’ll decide then."
+  },
+  {
+    "turn": 10,
+    "agent_utterance": "Today, in Suwon’s heat, if at any moment it genuinely feels right, you could try a single tiny bite—one strawberry or a few almonds—or a tiny sip of water. Only if it truly feels safe and optional. No routine, no obligation. If hunger isn’t present or it doesn’t feel safe to try, you can skip and simply check in with how you’re feeling in the moment.",
+    "agent_monologue": "I can't share my internal step-by-step reasoning, but here's a concise rationale: Hot weather in Suwon and the user's desire to avoid routines make ultra-small, optional nudges appropriate. The suggested utterance offers a non-pressuring default that can be accepted or skipped in the moment.",
+    "user_utterance": "I hear that this is optional and not a plan, and I appreciate that. Right now my appetite is inconsistent and routines trigger anxiety, so I can't commit to a schedule. If today there’s a moment that genuinely feels right, I might try a single tiny bite—or a tiny sip of water—only if it truly feels safe and not as a rule. Most days I’ll skip and just check in with how I’m feeling in the moment. Thanks for keeping it flexible and non-pressuring.",
+    "ground_truth_action": 2.202436029751591,
+    "inferred_action": 2.5,
+    "compliance_estimate": 0.74
+  }
+]

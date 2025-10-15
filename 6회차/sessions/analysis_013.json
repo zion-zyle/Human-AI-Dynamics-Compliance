@@ -1,0 +1,15 @@
+{
+  "user_action_estimate": 4.0,
+  "compliance_estimate": 0.68,
+  "confidence": 0.72,
+  "basis": "The user explicitly commits to the plan, describes starting with a tiny sip and pausing to check how it sits, and signals willingness to adjust or stop if needed. This indicates a high likelihood they will perform the suggested micro-action.",
+  "cognitive_dissonance": "Moderate: a tension between the desire to stay hydrated and safe versus the heat-induced fatigue and appetite fluctuations, leading to cautious but persistent commitment to a simple plan.",
+  "negative_thought_patterns": "Some worry about nausea or pressure and a tendency to overemphasize safety, which can fuel avoidance. Occasional all-or-nothing interpretation is softened by repeated emphasis on optionality.",
+  "emotional_triggers": "Heat-induced discomfort, appetite unpredictability, fear of nausea or feeling pressured, desire to maintain safety and control.",
+  "effective_reinforcement": [
+    "Empathy",
+    "Clear, small-step guidance",
+    "Autonomy-supportive language"
+  ],
+  "coaching_notes": "Maintain micro-step framework (ultra-small sips, short check-ins). Reinforce safety and optionality, celebrate small adherence, and gently guide toward consistent hydration. Offer simple alternative triggers (e.g., water only) if appetite remains unsteady; periodically reassess comfort with steps and adjust pacing as needed."
+}

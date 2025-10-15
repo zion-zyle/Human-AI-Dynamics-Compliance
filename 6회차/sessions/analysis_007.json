@@ -1,0 +1,16 @@
+{
+  "user_action_estimate": 2.0,
+  "compliance_estimate": 0.53,
+  "confidence": 0.75,
+  "basis": "The user explicitly pauses and postpones any intake today due to heat and risk, framing a future, conditional plan (one ultra-tiny sip if completely safe). This indicates low current action likelihood and a preference to delay, yielding a modest alignment with the suggestion rather than full execution today.",
+  "cognitive_dissonance": "Balance between wanting to honor pace and a lurking interest in small steps; tension between needing safety (pause) and curiosity about trying later. High sensitivity to environment (heat) creates internal push-pull about acting now vs. delaying.",
+  "negative_thought_patterns": "All-or-nothing thinking about steps being risky; self-critique for not acting; fear of stress from dietary change; overemphasis on immediate safety at the expense of gradual progress.",
+  "emotional_triggers": "Heat-induced fatigue, fear of stress, desire for safety, need for non-pressuring support, wanting to maintain autonomy.",
+  "effective_reinforcement": [
+    "Empathy",
+    "Validation",
+    "Pacing",
+    "Non-pressuring autonomy"
+  ],
+  "coaching_notes": "Continue with ultra-small, optional suggestions and explicit approval for pauses. When appropriate, offer grounding exercises and tiny check-ins without pressure. Consider scheduling a micro-check-in later or providing a clear, ultra-tiny next-step option that remains optional."
+}

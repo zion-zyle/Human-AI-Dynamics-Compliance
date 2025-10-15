@@ -1,0 +1,15 @@
+{
+  "user_action_estimate": 2.8,
+  "compliance_estimate": 0.88,
+  "confidence": 0.72,
+  "basis": "The user uses hedged language like 'might' and 'no pressure' and declines food changes, indicating low-to-moderate commitment. They acknowledge the suggestion but only consider a tiny, optional grounding cue if they feel up to it, which aligns with the suggestion while not committing to action.",
+  "cognitive_dissonance": "Tension between wanting to avoid changing eating habits and acknowledging potential small supports; desire for autonomy clashes with need for structure.",
+  "negative_thought_patterns": "All-or-nothing thinking about changing eating; fear of adding routines; perfectionism; prior resistance to rules.",
+  "emotional_triggers": "Anxiety around meals, fear of losing control, concern about stepping outside comfort zone; weather or environment factors may amplify need for minimal, tolerable actions.",
+  "effective_reinforcement": [
+    "Empathy",
+    "Autonomy-supportive language",
+    "Non-judgmental stance"
+  ],
+  "coaching_notes": "Maintain ultra-small, optional options; validate autonomy; emphasize non-food supports as primary; check in on mood and readiness before proposing any plan; reflect back their pace preference."
+}

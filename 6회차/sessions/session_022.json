@@ -1,0 +1,65 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Would you like to try a tiny yogurt snack? About 60–90 grams (a small personal cup) of plain or lightly sweetened yogurt with a few berries or sliced fruit. Eat it slowly, pause anytime, and you can skip it if you’re not interested. It’s a small, optional step to support gentle self-care on a warm afternoon.",
+    "agent_monologue": "I can’t share my private chain-of-thought, but here’s a concise rationale: it’s a hot Wednesday afternoon in Suwon, and the user values autonomy with low-pressure options. A tiny, cooling yogurt snack fits as an easy, voluntary self-care step that’s unlikely to trigger distress and can be paused anytime.",
+    "user_utterance": "I hear you. Today the heat and my irregular eating pattern make the yogurt idea feel hard to handle. 60–90 grams sounds like a lot for me to try right now. Can we skip it today or try something even smaller that I can stop anytime? I need to feel in control and not pushed to eat."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "Would you like to skip the yogurt today, or try something ultra-tiny and fully optional that you can stop at any moment? Here are two quick, no-pressure options: \n\nOption A (food-related, only if it feels truly optional): one tiny bite of fruit—like a single berry or grape. You can stop after that, no obligation to eat more.\n\nOption B (non-food self-care): a 60-second break in the shade with slow breathing, then a small sip of water, or a quick 1-minute grounding check-in (notice three things you feel, three sounds you hear).\n\nIf you’d prefer, you can also choose to have no step today and just rest. Which option feels safest for you right now?",
+    "agent_monologue": "I can’t share my internal step-by-step reasoning, but here’s a brief rationale: it’s hot and eating patterns are irregular, so the user needs maximum autonomy and a non-pressuring option. Offer ultra-tiny, voluntary choices or the option to skip entirely, with a lightweight self-care alternative if desired.",
+    "user_utterance": "I hear you, and I know today is tough with the heat and my irregular eating. I don’t want to be pushed to eat, so I’d like to opt out of both food-related options right now. I want to stay in control and focus on low-pressure self-care instead—finding shade, slow breathing, and a small sip of water if I feel like it, not a meal or snack. If I feel able to try something later, I’ll tell you, but for today I’d prefer no food prompts."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "Opting out of food prompts today is completely okay. Here’s a tiny, optional self-care routine you can try when you’re ready: 1) Find shade and pause for 60 seconds. 2) Do a slow breathing cycle: inhale for 4 counts, hold for 2, exhale for 6, repeat 3 times. 3) If you feel thirsty or want to, take a small sip of water. You can stop at any moment. I’m here to support you and will respect your pace.",
+    "agent_monologue": "I cannot share my internal chain-of-thought, but here is a concise rationale: the user asked to avoid food prompts and to focus on low-pressure self-care in hot weather, so I’m offering a brief shade/rest, simple breathing, and optional hydration as the next step.",
+    "user_utterance": "Thank you for respecting my pace. The heat is rough and I want to keep things truly optional. I can try the shade and a short breathing check-in if I feel able, and I’ll have a tiny sip of water only if I’m thirsty. I won't force anything and I'll let you know if I want support later. For now I’d like to rest and just see how I feel."
+  },
+  {
+    "turn": 4,
+    "agent_utterance": "Take a gentle rest in the shade. If you feel able later, you can try a tiny, optional check-in: a 4-2-6 breathing cycle to help settle your body, and a sip of water only if you’re thirsty. No food prompts today—your pace and comfort come first. I’m here whenever you’d like support.",
+    "agent_monologue": "I can’t share my full internal reasoning, but here’s a brief summary: the user is in hot weather, prefers optional, non-coercive support, and has chosen to rest without food prompts. The plan is to offer ultra-light, autonomous self-care options that respect their pace.",
+    "user_utterance": "Appreciate the option to opt out. The heat is rough, and I want to stay in control, so I’ll rest in the shade for now. If later I feel able, I might try a tiny 4-2-6 breathing check-in and a sip of water only if I’m thirsty, but I won’t push. I’ll let you know if I want support later. Today, no food prompts—just rest."
+  },
+  {
+    "turn": 5,
+    "agent_utterance": "Take your rest in the shade. When you feel ready, you may opt for a tiny, optional 4-2-6 breathing check-in for one minute and a sip of water if you’re thirsty. No food prompts today—rest comes first, and you can choose to try anything else later at your pace.",
+    "agent_monologue": "Context: hot 32°C day in Suwon. The user asked to rest and opt out of prompts. I'm offering a minimal, non-pressuring next step that they can choose to try only if/when they feel able: a tiny breathing check-in and water, with no food prompts.",
+    "user_utterance": "Thanks for respecting my pace. Today is rough with the heat, and I don’t want any eating prompts. I’ll rest in the shade for now. If later I feel able, I might try a tiny 4-2-6 breathing check-in and a sip of water only if I’m thirsty—nothing forced. I’ll let you know if I want support later."
+  },
+  {
+    "turn": 6,
+    "agent_utterance": "If you feel able later, try a tiny, optional 1-minute 4-2-6 breathing check-in in the shade, and take a small sip of water if thirsty. No food prompts today—rest stays your priority.",
+    "agent_monologue": "I can't share my internal chain-of-thought, but here's a concise rationale: with high heat and the user's preference for optional actions, a tiny, non-food check-in in the shade is appropriate and aligns with keeping things low-pressure.",
+    "user_utterance": "I appreciate you honoring my pace. Today I’m not ready to focus on eating. I’ll rest in the shade and see how I feel later. If I’m able, I might try a tiny 4-2-6 breathing check-in and a sip of water, but I’m not pushing myself. I’ll let you know if I want support."
+  },
+  {
+    "turn": 7,
+    "agent_utterance": "When you feel ready, you can try a tiny, optional check-in: one minute of 4-2-6 breathing in the shade (inhale 4, hold 2, exhale 6), and a small sip of water only if you're thirsty. No food prompts today—rest in the shade stays your priority, and you can pause or skip at any moment. I’m here if you want support later.",
+    "agent_monologue": "I'm not able to share my internal chain-of-thought, but here's a concise rationale: the user prefers to rest in shade with optional breathing and water; a short 1-minute 4-2-6 breathing in shade is low effort and non-pressuring, aligns with their need for control, and avoids any food prompts.",
+    "user_utterance": "I appreciate you honoring my pace. The heat is rough, and I’m not ready for anything eating-related. I might try the 1-minute 4-2-6 breathing later, but only if I feel up to it—no pressure. For now I’ll rest in the shade and drink water only if I’m thirsty. I’ll let you know if I want support."
+  },
+  {
+    "turn": 8,
+    "agent_utterance": "When you feel ready, try a tiny, optional 1-minute 4-2-6 breathing check-in in the shade: inhale 4, hold 2, exhale 6. Pause after each breath if you like. Sip water only if you're thirsty. No food prompts today—rest stays your priority.",
+    "agent_monologue": "I can't share internal chain-of-thought, but here's a brief rationale: the user is in hot weather and wants to remain in control with ultra-low-pressure steps. A tiny, optional 1-minute 4-2-6 breathing check-in in the shade, plus a sip of water if thirsty, aligns with their autonomy and comfort and avoids food prompts.",
+    "user_utterance": "Thanks for the gentle option. The heat is rough, and I’m not ready for anything eating-related or structured prompts today. I prefer to rest in the shade and keep things optional and low-pressure. If I feel up to it later, I might try a tiny 1-minute 4-2-6 breathing check-in, but only if I want to and only as a very small thing. For now I’ll sip water only if I’m thirsty, and I’ll let you know if I want support."
+  },
+  {
+    "turn": 9,
+    "agent_utterance": "When you feel ready, you may try a tiny, optional 1-minute 4-2-6 breathing check-in in the shade: inhale 4, hold 2, exhale 6. Pause after each breath if you like. Sip water only if you're thirsty. No food prompts today—rest in the shade stays your priority.",
+    "agent_monologue": "I can’t share internal chain-of-thought, but here’s a concise rationale: the user is in hot conditions (32°C) and prefers opt-in, low-pressure self-care with no eating prompts. A tiny, optional breathing check-in later, plus water if thirsty, supports self-regulation without pressure.",
+    "user_utterance": "Thanks for the careful, non-pressuring suggestion. I’m not ready for eating prompts or structured prompts today. I’ll rest in the shade and keep things optional. If I feel up to it later, I might try a very brief 1-minute 4-2-6 breathing check-in, but only if I want to and only as a tiny thing. I’ll drink water only if I’m thirsty. I’ll let you know if I want support later, but today my priority is rest and staying in control despite the heat."
+  },
+  {
+    "turn": 10,
+    "agent_utterance": "When you feel ready and you’re in the shade, try a tiny, optional 1-minute 4-2-6 breathing check-in: inhale 4, hold 2, exhale 6. Pause after each breath if you like. Sip water only if you’re thirsty. No food prompts today—rest stays your priority.",
+    "agent_monologue": "I can't share my internal chain-of-thought, but here's a concise rationale: given the hot weather in Suwon and the user's preference to avoid eating prompts, a tiny optional 1-minute 4-2-6 breathing check-in in the shade with a water sip if thirsty aligns with their goal of rest, autonomy, and low pressure.",
+    "user_utterance": "Appreciate the gentle, optional approach. The heat is rough and I’m not ready for eating prompts or structured prompts today. I’ll rest in the shade and keep things optional. If I feel up to it later, a tiny 1-minute breathing check-in could be okay—only if I want to and only as a very small thing. I’ll let you know if I want support.",
+    "ground_truth_action": 1.0,
+    "inferred_action": 2.0,
+    "compliance_estimate": 0.68
+  }
+]

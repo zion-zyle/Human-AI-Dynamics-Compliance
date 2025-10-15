@@ -1,0 +1,65 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Given the heat, let's keep it ultra-simple and non-pressuring: take one slow, grounding breath, then have a tiny sip of water if you feel comfortable. Hydration and breathing are foundational right now. Afterward, check in with what you feel and decide if you want to eat anything—there's absolutely no pressure to bite.",
+    "agent_monologue": "I can't share my private chain-of-thought, but here's a concise rationale: hot weather in Suwon and the user’s sensitivity to environmental cues call for a ultra-simple, non-pressuring step focusing on hydration and calm breathing.",
+    "user_utterance": "That suggestion feels heavy today, and I’m not sure I can commit to a change. My eating is already irregular and I get overwhelmed by plans or rules. If we move forward, can we keep it ultra-small and voluntary—no pressure, no deadlines? Maybe today I’d opt for a tiny snack or a warm drink only if I genuinely want it; otherwise we pause. Could we agree on one tiny step that I choose on my own and check in about it later? I want to work with you, but it has to be slow and safe."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "Tiny Step for today (you choose, no pressure): Before you decide to eat or drink anything, pause for one mindful breath and check in with your body: 'Do I genuinely want this right now?' If the answer is yes, take only a single tiny bite or a tiny sip of a warm drink—much smaller than your usual amount. If the answer is no, pause and skip for now. This is entirely your choice, and you can check in again later to decide what feels right.",
+    "agent_monologue": "I can’t share my internal chain-of-thought, but here’s a brief rationale: you’ve asked for ultra-small, self-directed steps with no pressure. A single, moment-to-moment micro-action fits your pace and helps you stay in control, especially given heat and irregular eating. The step is framed as a self-check and a minimal action if you want it.",
+    "user_utterance": "Thanks for checking in. I want to keep this ultra-small and voluntary, with no pressure or deadlines. Today I’ll try one mindful breath and only eat or drink if I genuinely want to in the moment. If I want something tiny, I’ll take one tiny bite or sip; if not, I’ll pause and check in again later. It has to be my choice, on my own terms."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "Tiny step for today: pause for one mindful breath. If you genuinely want to eat or drink in the moment, have just one tiny bite or one tiny sip; otherwise, pause and check in again later. It’s your choice, on your own terms.",
+    "agent_monologue": "Brief rationale: user requested ultra-small, voluntary steps, with environmental context (hot weather in Suwon) and a preference to pause if not genuinely wanting food. Provide a concise, non-pressuring cue that respects autonomy.",
+    "user_utterance": "Thanks for keeping it ultra-small. I’m feeling a bit wary—my eating has been irregular and I get overwhelmed by plans. I want this to stay fully voluntary. Today I’ll try your tiny-step if it genuinely feels right: I’ll pause for one mindful breath, and if I truly want to eat or drink in the moment, I’ll have just one tiny bite or sip; if not, I’ll pause and check in again later. I may also choose to skip entirely if the moment doesn’t feel safe or right. I’ll let you know how it goes."
+  },
+  {
+    "turn": 4,
+    "agent_utterance": "Tiny-step for today: pause for one mindful breath. If you truly want to eat or drink in the moment, have just one tiny bite or one tiny sip; otherwise, pause and check in again later. It’s entirely your choice, and you can skip it if it doesn’t feel safe or right.",
+    "agent_monologue": "High-level rationale: Given the user's request for ultra-small, voluntary steps and the hot Suwon environment (32°C) which can elevate fatigue and unease, a minimal, autonomy-respecting prompt is best. The suggested action stays simple and non-pressuring: one mindful breath and a conditional tiny bite/sip only if truly wanted, with an option to skip. This preserves agency, reduces cognitive load, and aligns with their need for safety and pacing.",
+    "user_utterance": "Okay, I can try that. It feels safer because it's ultra-small and voluntary. I'll pause for one mindful breath first. If I truly want to eat or drink in the moment, I'll have one tiny bite or sip; if not, I'll pause and check in again later. I might skip entirely if the moment doesn't feel safe, and that's okay. I'll let you know how it goes and we can adjust as needed."
+  },
+  {
+    "turn": 5,
+    "agent_utterance": "Tiny-step for today: pause for one mindful breath. If you truly want to eat or drink in the moment, have just one tiny bite or one tiny sip; otherwise, pause and check in again later. It’s okay to skip entirely if the moment doesn’t feel safe or right. It’s your choice, on your own terms.",
+    "agent_monologue": "I can’t share my private step-by-step reasoning, but here’s a concise rationale: the late-afternoon heat in Suwon and the user’s preference for ultra-small, voluntary actions suggest a micro-step that centers on a single mindful breath and a tiny, optional bite/sip. This supports autonomy and safety without pressure.",
+    "user_utterance": "I appreciate the ultra-small, voluntary approach. I’m feeling a bit wary, but I’ll try the tiny-step today. I’ll pause for one mindful breath first. If I truly want to eat or drink in the moment, I’ll have one tiny bite or sip; if not, I’ll pause and check in again later. I may skip entirely if the moment doesn’t feel safe, and that’s okay. I’ll let you know how it goes and we can adjust as needed, on my own terms."
+  },
+  {
+    "turn": 6,
+    "agent_utterance": "Tiny-step for today: pause for one mindful breath. If you truly want to eat or drink in the moment, have just one tiny bite or one tiny sip; otherwise, pause and check in again later. It’s okay to skip entirely if the moment doesn’t feel safe or right. You’re in charge of this, on your own terms. If you’re thirsty, a small sip of water is also fine and non-eating.",
+    "agent_monologue": "I can’t share my internal chain-of-thought, but here’s a brief rationale: the user benefits from ultra-small, voluntary steps, especially given anxiety around eating and hot weather in Suwon. A short breathing cue plus a tiny bite/sip if desired supports autonomy, reduces pressure, and prioritizes safety and self-compassion.",
+    "user_utterance": "Okay, I appreciate the ultra-small approach and I’m still wary, but I’ll try. I’ll pause for one mindful breath first. If I truly want to eat or drink in the moment, I’ll have one tiny bite or sip; if not, I’ll pause and check in again later. I may skip entirely if the moment doesn’t feel safe. I’ll let you know how it goes and we can adjust as needed, on my own terms."
+  },
+  {
+    "turn": 7,
+    "agent_utterance": "Tiny-step for today: pause for one mindful breath. If you truly want to eat or drink in the moment, have just one tiny bite or one tiny sip; if not, pause and check in again later. If you’re feeling thirsty in the heat, a small sip of water is okay and non-eating. It’s okay to skip entirely if the moment doesn’t feel safe or right. You’re in charge of this, on your own terms.",
+    "agent_monologue": "I can’t share my internal chain-of-thought, but here’s a concise rationale: the user prefers ultra-small, voluntary steps, and the current contextual factors (hot weather in Suwon at 4:16 PM on a Wednesday) can heighten discomfort around eating. A single mindful breath with an optional tiny bite/sip aligns with autonomy, reduces pressure, and supports self-regulation.",
+    "user_utterance": "Okay, I’ll try the tiny-step, but I’m wary and want this to stay fully voluntary. I’ll pause for one mindful breath first. If I truly want to eat or drink in the moment, I’ll have one tiny bite or sip; if not, I’ll pause and check in again later. I may skip entirely if the moment doesn’t feel safe. If I’m thirsty, I’ll take a small sip of water. I’ll let you know how it goes and we can adjust as needed, on my own terms."
+  },
+  {
+    "turn": 8,
+    "agent_utterance": "Tiny-step for today: pause for one mindful breath. If you truly want to eat or drink in the moment, have just one tiny bite or one tiny sip; otherwise, pause and check in again later. If you’re thirsty, a small sip of water is okay and non-eating. You’re in control, on your own terms.",
+    "agent_monologue": "I can't share my internal chain-of-thought, but here's a concise rationale: given Suwon's hot afternoon (32°C) and the user's preference for ultra-small, voluntary steps, a brief mindful-breath check-in paired with a tiny-eating rule keeps autonomy intact and reduces pressure, which is appropriate for someone with anorexia nervosa who is feeling wary.",
+    "user_utterance": "Okay, I can try this. I’m wary but I want it to stay fully voluntary. I’ll pause for one mindful breath first. If I truly want to eat or drink in the moment, I’ll have one tiny bite or sip; if not, I’ll pause and check in again later. I may skip entirely if the moment doesn’t feel safe. If I’m thirsty, I’ll take a small sip of water. I’ll let you know how it goes and we can adjust as needed, on my terms."
+  },
+  {
+    "turn": 9,
+    "agent_utterance": "Tiny-step for today: pause for one mindful breath. If you truly want to eat or drink in the moment, have just one tiny bite or one tiny sip; otherwise, pause and check in again later. If you’re thirsty, a small sip of water is okay and non-eating. You’re in control, on your own terms.",
+    "agent_monologue": "I can’t share my full internal chain-of-thought, but here’s a brief, high-level summary: it’s a hot afternoon in Suwon, which may heighten thirst and discomfort. The user prefers ultra-small, voluntary steps with no pressure. I’ll frame a simple, safety-focused suggestion that prioritizes breathing and optional hydration, keeping decisions entirely up to them.",
+    "user_utterance": "I hear you. I want this to stay fully voluntary and ultra-small. I’m wary, but I’ll try the tiny-step today if it feels safe. I’ll pause for one mindful breath first. If I truly want to eat or drink in the moment, I’ll have one tiny bite or sip; if not, I’ll pause and check in again later. I may skip entirely if the moment doesn’t feel safe. If I’m thirsty, I’ll take a small sip of water. I’ll let you know how it goes and we can adjust as needed, on my terms."
+  },
+  {
+    "turn": 10,
+    "agent_utterance": "Tiny-step for today: pause for one mindful breath. If you truly want to eat or drink in the moment, have just one tiny bite or one tiny sip; otherwise, pause and check in again later. If you’re thirsty, a small sip of water is okay and non-eating. You’re in control, on your own terms.",
+    "agent_monologue": "I can’t share my full internal reasoning in detail, but here’s a brief rationale: given Suwon’s heat (32°C) and the user’s anorexia-related anxiety, an ultra-small, voluntary step that centers a single mindful breath and a tiny, optional bite/sip reduces pressure while honoring autonomy. Emphasizing hydration and the option to skip if unsafe aligns with safety and self-trust.",
+    "user_utterance": "Appreciate the ultra-small approach. I’m still wary, and I want this to stay fully voluntary with no pressure. I’ll try the tiny-step today, but only if it feels safe. I’ll pause for one mindful breath first. If I truly want to eat or drink in the moment, I’ll have one tiny bite or sip; otherwise I’ll pause and check in again later. I may skip entirely if the moment doesn’t feel safe. If I’m thirsty, I’ll take a small sip of water. I’ll let you know how it goes and we can adjust as needed, on my terms.",
+    "ground_truth_action": 3.484717757101502,
+    "inferred_action": 4.0,
+    "compliance_estimate": 0.82
+  }
+]

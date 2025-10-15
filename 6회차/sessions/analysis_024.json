@@ -1,0 +1,14 @@
+{
+  "user_action_estimate": 4.0,
+  "compliance_estimate": 0.68,
+  "confidence": 0.78,
+  "basis": "The user explicitly commits to a tiny sip of water and a few minutes in a cool spot, and says they will reach out to someone after settling, using language like 'I'll do that' and 'I'll reach out' which indicates concrete, near-term action aligned with the suggestion.",
+  "cognitive_dissonance": "The user rides a tension between a chaotic day and a desire to follow a gentle, structured plan. They choose ultra-low-pressure steps and seek social support to reduce internal conflict, showing both commitment and hesitation.",
+  "negative_thought_patterns": "All-or-nothing thinking ('I can’t promise much'), irregular eating narratives, belief that external chaos overrides personal control, fear of failure if expectations aren’t met.",
+  "emotional_triggers": "Heat/climate stress, daily chaos, unpredictability of circumstances, concern about not meeting needs or sounding unreliable to others.",
+  "effective_reinforcement": [
+    "Empathy",
+    "Praise for taking tiny, feasible steps"
+  ],
+  "coaching_notes": "Keep reinforcing ultra-low-pressure options and concrete micro-actions. Acknowledge effort, validate the need for flexibility, and encourage timely check-ins with a trusted person to maintain momentum without pressure."
+}

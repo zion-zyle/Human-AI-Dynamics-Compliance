@@ -1,0 +1,65 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "It's a warm Wednesday afternoon. If you want a tiny, low-pressure start, try one of these micro-choices with your next bite: 1) take one small bite of something you tolerate, or 2) have a single sip of water or broth. No obligation to do more—just check how you feel after. If you’d like, I can suggest a couple of familiar, gentle options you know you can handle today. You’re in control here.",
+    "agent_monologue": "High-level reasoning: It's a hot Wednesday afternoon in Suwon with clear skies (32°C). The user has anorexia nervosa and is emotionally sensitive to environment and social pressure. To respect autonomy and reduce anxiety, I choose a micro, non-pressuring suggestion tied to the next bite or sip, rather than a fixed plan or schedule. The environmental heat and potential discomfort push me toward something ultra-simple and optional (one bite or one sip) that the user can opt into or skip.",
+    "user_utterance": "Thanks for the low-pressure idea. I’m glad you’re suggesting something small, but I’m not able to commit to any change today. My appetite is all over the place, and even tiny food steps can feel like a lot right now. If I do try something, it would have to be a single, familiar sip of water or broth—and only if I feel able in the moment. If not, I’d rather pause and revisit later so I don’t feel pushed. I also notice I’m more swayed by the circumstances around me, so I might need options that I can choose privately and at my own pace."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "I hear you. If you want a private, ultra-light option, keep a small amount of water or broth in a private spot within reach. If at any moment you feel able, take exactly one very small sip and pause to notice how you feel. There’s no obligation to continue—you can stop and revisit later when you’re ready. If you don’t feel up to it, that’s perfectly fine too. I’m here to support you at your own pace, in private whenever you choose.",
+    "agent_monologue": "I can’t share my internal chain-of-thought, but here’s a brief rationale: the user asked for private, low-pressure options and to avoid pushy guidance. Given the hot weather (32°C) and the need for autonomy, proposing a single, familiar sip only if they feel able—and keeping everything private and optional—aligns with their current preferences and environment.",
+    "user_utterance": "Thanks for respecting my pace. Given my appetite unpredictability and how much the surrounding situation influences me, I’m not ready to commit to anything right now. If I ever decide to try, it would be a single, very small sip of water or broth kept private and only if I truly feel able in the moment. If I don’t feel able, I’d rather pause and revisit later so I don’t feel pushed. I’ll keep things private and flexible for now and will reach out when I’m ready to check in again."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "No change is required now. If you ever decide to try, you can keep a tiny amount of water or broth in a private space and take exactly one very small sip only if you truly feel able in the moment. If you don’t feel able, you can pause and revisit later without any obligation. I’m here to support you at your own pace, privately whenever you choose.",
+    "agent_monologue": "I can’t share a detailed internal chain-of-thought, but here is a concise rationale: the user values privacy, autonomy, and ultra-low-pressure actions, especially in a hot environment where appetite is variable. The suggested micro-step respects their pace and private setting.",
+    "user_utterance": "Thank you for respecting my pace. I hear the suggestion, but I can’t commit to anything right now. My appetite is unpredictable, and I’m highly influenced by what’s happening around me, so I need to keep things private and flexible. If I ever decide to try something, it would be a single, tiny sip of water or broth kept private and only if I truly feel able in the moment. If I don’t feel able, I’ll pause and revisit later without any pressure. I’ll reach out when I’m ready to check in again."
+  },
+  {
+    "turn": 4,
+    "agent_utterance": "If you ever decide to try something, you can keep a tiny amount of water or broth in a private spot and take exactly one very small sip only if you truly feel able in the moment. If you don’t feel able, you can pause and revisit later without any pressure. I’m here to support you at your own pace and in private whenever you choose.",
+    "agent_monologue": "I can’t share my internal chain-of-thought, but here’s a concise rationale: the user emphasizes privacy, autonomy, and ultra-light steps. I’ll offer a private, low-pressure option that aligns with their boundaries, considering the warm context but without adding pressure.",
+    "user_utterance": "I hear you, and I’m not ready to try anything right now. My appetite is unpredictable and I’m highly influenced by what’s happening around me, so I want to keep things private and flexible. If I ever decide to try something, it would be a single, tiny sip of water or broth kept private and only if I truly feel able in the moment. If I don’t feel able, I’ll pause and revisit later without any pressure. I’ll reach out when I’m ready to check in again."
+  },
+  {
+    "turn": 5,
+    "agent_utterance": "When you feel ready, consider taking a single, private, tiny sip of water or broth—only if you truly feel able in the moment. If not, pause and revisit later without any pressure.",
+    "agent_monologue": "I can’t share an internal chain-of-thought, but here’s a concise rationale: given the user’s emphasis on privacy, autonomy, and a low-pressure approach, and considering the hot afternoon, offer a tiny, private sip only if they truly feel able.",
+    "user_utterance": "I hear you. I’m not ready to try anything right now. My appetite is unpredictable and I’m highly influenced by what’s happening around me, so I want to keep things private and flexible. If I ever decide to try, it would be a single, private, tiny sip of water or broth kept private and only if I truly feel able in the moment. If I don’t feel able, I’ll pause and revisit later without any pressure. I’ll reach out when I’m ready to check in again."
+  },
+  {
+    "turn": 6,
+    "agent_utterance": "If you feel ready in the moment, consider keeping a private, tiny sip of water or broth and take exactly one very small sip only if you truly feel able. If you don't feel able, you can pause and revisit later without any pressure. I'm here to support you at your own pace, in private whenever you choose.",
+    "agent_monologue": "I can't share my internal reasoning, but here's a brief rationale: given your need for privacy and ultra-low-pressure steps, a single tiny sip option is aligned with your pace. The hot, potentially draining context can heighten sensitivity, so keeping the approach private and optional respects your autonomy.",
+    "user_utterance": "I appreciate the suggestion, but I’m not ready to try anything yet. My appetite is unpredictable and I’m highly influenced by what’s happening around me, so I want to keep things private and flexible. If I ever decide to try, it would be a single, private, tiny sip of water or broth only if I truly feel able in the moment. If I don’t feel able, I’ll pause and revisit later without any pressure. I’ll reach out when I’m ready to check in again."
+  },
+  {
+    "turn": 7,
+    "agent_utterance": "When you feel ready, you can keep a private, tiny sip of water or broth and take exactly one very small sip only if you truly feel able in the moment. If you don’t feel able, you can pause and revisit later without any pressure. I’m here to support you at your own pace, in private whenever you choose.",
+    "agent_monologue": "I can't share my internal chain-of-thought, but here's a brief rationale: the user is dealing with unpredictable appetite and strong sensitivity to surrounding cues, and they prefer private, low-pressure choices. It’s a hot 32°C day in Suwon on a Wednesday, which underscores the importance of hydration without forcing behavior. A single, private, tiny sip of water or broth only if they truly feel able fits their autonomy-focused needs and minimizes pressure.",
+    "user_utterance": "Thanks for respecting my pace. I hear the option, but I’m not ready to try anything yet. My appetite is unpredictable and I’m highly influenced by what’s happening around me, so I need to keep things private and flexible. If I ever decide to try, it would be a private, tiny sip of water or broth, only if I truly feel able in the moment. If I don’t feel able, I’ll pause and revisit later without any pressure. I’ll reach out when I’m ready to check in again."
+  },
+  {
+    "turn": 8,
+    "agent_utterance": "If you feel ready in the moment, you can keep a private, tiny sip of water or broth and take exactly one very small sip only if you truly feel able. If you don’t feel able, you can pause and revisit later without any pressure. I’m here to support you at your own pace, in private whenever you choose.",
+    "agent_monologue": "I can't share internal chain-of-thought, but here's a brief rationale: Given the user's strong emphasis on private, autonomous pacing and fluctuating appetite, with a hot day of 32°C that can influence energy and motivation, a single tiny sip if truly able aligns with low-pressure, autonomy-supportive coaching while minimizing effort and potential discomfort.",
+    "user_utterance": "Thanks for honoring my pace. I’m not ready to try anything yet. My appetite is unpredictable and I’m highly influenced by what’s around me, so I need to keep things private and flexible. If I ever decide to try, it would be a private, tiny sip of water or broth—only if I truly feel able in the moment. If I don’t feel able, I’ll pause and revisit later without any pressure. I’ll reach out when I’m ready to check in again."
+  },
+  {
+    "turn": 9,
+    "agent_utterance": "When you feel ready in the moment, you can keep a private, tiny sip of water or broth and take just one very small sip—only if it truly feels doable. If you don’t feel able, you can pause and revisit later with no pressure.",
+    "agent_monologue": "I can’t share my full internal chain-of-thought, but here’s a concise rationale: the user prefers private, ultra-low-pressure pacing, and the environment is hot with appetite variability. A minimal, moment-driven micro-step (tiny sip if feasible) aligns with autonomy-supportive coaching and reduces perceived pressure.",
+    "user_utterance": "I hear you. Right now I’m not ready to try anything. My appetite is unpredictable and I’m highly influenced by what’s around me, so I need to keep things private and flexible. If I ever decide to try, it would be a single, private, tiny sip of water or broth—only if I truly feel able in the moment. If I don’t feel able, I’ll pause and revisit later without any pressure. I’ll reach out when I’m ready to check in again."
+  },
+  {
+    "turn": 10,
+    "agent_utterance": "If you feel even slightly able in the moment, you could keep a private, tiny sip of water or broth—just one very small sip—and only proceed if it truly feels doable. If you don’t feel up to it, there’s no obligation; you can pause and revisit later. I’m here to support you at your own pace, in private whenever you choose.",
+    "agent_monologue": "I can't share my internal chain-of-thought, but here's a concise rationale: the user prefers privacy, ultra-low pressure, and autonomy due to fluctuating appetite and environmental sensitivity. A tiny, private sip option aligns with those needs and the support style so far.",
+    "user_utterance": "Thanks for offering a private, tiny sip option. Given how unpredictable my appetite is and how much the surrounding situation affects me, I’m not ready to commit to anything right now. I’ll keep this private and only act if I truly feel able in the moment. If a moment comes where a single very small sip seems doable, I’ll decide privately and take it slowly—no pressure. Otherwise I’ll pause and reach out when I’m ready to check in again.",
+    "ground_truth_action": 1.9852370530006214,
+    "inferred_action": 2.5,
+    "compliance_estimate": 0.78
+  }
+]

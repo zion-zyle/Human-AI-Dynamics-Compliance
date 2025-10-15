@@ -1,0 +1,65 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Since it's hot today, try a tiny sip of water now (about a mouthful). If you're not thirsty, wait about 15 minutes and check how you feel before deciding on more sips.",
+    "agent_monologue": "I can't share my internal chain-of-thought, but here's a concise rationale: in hot Suwon weather (32°C) and with meal-related anxiety, a tiny, optional hydration cue is best. The plan favors ultra-light, self-chosen action and avoids forcing routines.",
+    "user_utterance": "I hear you, but the last suggestion feels overwhelming for me today. My eating is really irregular and I'm highly resistant to big changes. I can't commit to that level right now. Can we keep it ultra-small and optional—like a tiny bite of something I tolerate or a few sips of water, only if I feel up to it? No pressure, and we can check in later to see how I'm doing. If I feel pushed, I'll shut down. Let's aim for easing my anxiety first, then we can talk about food at my pace."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "Would you like to try a single tiny sip of water now (just a mouthful)? If not, we can wait about 15 minutes and re-check. Optional: a very small bite of something you tolerate, only if you feel up to it. No pressure—we’ll go at your pace and check back in later.",
+    "agent_monologue": "I can't share my internal chain-of-thought, but here's a brief, non-detailed rationale: it's a hot afternoon in Suwon, and the user wants ultra-light, optional actions. Offer a micro-hydration option and a short check-in window with no pressure.",
+    "user_utterance": "I hear you, and I appreciate it being optional. Right now I’m feeling really anxious and not up for any change at all. I’d prefer to pause and not sip or eat anything today. Can we check back in in about 15 minutes to see how I feel? If I’m up for it later, I’ll tell you, but for now please give me space and we’ll go at my pace."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "Absolutely—no action today. I’ll pause and check back in about 15 minutes to see how you’re feeling. If you happen to feel up to a tiny, optional option later, you can choose a single sip of water or a very small bite, but only if it feels OK—otherwise we stay at your pace. I’m here to support your comfort.",
+    "agent_monologue": "I can’t share my internal chain-of-thought, but here’s a brief rationale: the user is highly anxious and asked for space with no changes today. I’ll validate, pause actions, and offer a very light, optional option only if they feel up to it, while proposing a neutral check-in in about 15 minutes given the environmental heat and their pace.",
+    "user_utterance": "I appreciate the option, but I am feeling too anxious to change anything today. I need to pause and not sip or eat anything. Please give me space and we'll check back in about 15 minutes to see how I feel. If I am up for it later, I will tell you, but for now I want to stay at my own pace."
+  },
+  {
+    "turn": 4,
+    "agent_utterance": "I hear you. No action today. We’ll pause and check back in about 15 minutes to see how you feel. If you do feel even slightly up for it later, the tiniest optional option would be a single sip of water—only if it feels completely safe and optional. Otherwise, we stay at your pace.",
+    "agent_monologue": "I'm unable to share my internal chain-of-thought, but here's a brief rationale: honoring the user’s request for space and ultra-light pacing is essential given their high anxiety. If later they feel even slightly ready, a micro, optional action can be offered, but only at their pace. The environment (hot day, need for comfort) supports minimal, non-pressuring steps.",
+    "user_utterance": "Thanks for understanding. I’m not ready to change anything today and would like to pause—no sipping or eating for now. I’ll check back in after 15 minutes if I feel differently, but please don’t push me. If I decide to do something later, I’ll tell you, otherwise I’m staying at my own pace."
+  },
+  {
+    "turn": 5,
+    "agent_utterance": "No action today. I hear you and will pause. We’ll check back in about 15 minutes to see how you’re feeling. If at any point you feel even slightly up for it, the tiniest optional option would be a single sip of water—only if it feels completely safe and optional. Otherwise, we stay at your pace.",
+    "agent_monologue": "I can’t share my internal chain-of-thought, but here’s a brief, non-sensitive rationale: the user is highly anxious and wants to pause; given the hot environment and irregular eating patterns, the safest approach is ultra-light, non-pressuring support that respects their pace and space.",
+    "user_utterance": "I hear you, and I really appreciate the option, but today I’m not ready to change anything. The suggestion feels overwhelming, so I’d like to pause at my own pace and not try a tiny sip or bite right now. I’ll check back in later—if I feel differently I’ll tell you, but for now please give me space and I’ll come back when I’m ready."
+  },
+  {
+    "turn": 6,
+    "agent_utterance": "No action today. I’m here to support your pace and will check back in later. If you ever feel a tiny urge to do something in a completely optional way, you could choose a single sip of water—only if it feels completely safe and optional. Otherwise, we stay at your pace and revisit when you’re ready.",
+    "agent_monologue": "I can’t reveal my private chain-of-thought, but here’s a brief, high-level rationale: the user is requesting space and no action today due to anxiety. The appropriate response is to honor pacing, keep any suggestions ultra-light and optional, and plan a low-pressure check-in later without pressuring action. Environmental context (hot day, potential dehydration) is acknowledged but not used to push changes.",
+    "user_utterance": "I hear you and I appreciate the option. Today I’m not ready to change anything—feels overwhelming, and I need to pause at my own pace. I’ll check back in later if I feel differently, but for now I’d like to stay with no action today. Please give me space and I’ll reach out when I’m ready."
+  },
+  {
+    "turn": 7,
+    "agent_utterance": "I hear you and I’m respecting your pace. We’ll pause today. If you ever feel a tiny nudge to try something, even just a sip of water, it would be entirely optional and only if it feels completely safe. For now, I’ll be here and we’ll check back in whenever you’re ready. No pressure—you lead the pace, and I’ll follow.",
+    "agent_monologue": "I can’t share my private chain-of-thought, but here’s a concise, non-sensitive summary of my approach: honor the user’s request to pause today, validate their autonomy, avoid pushing any action, and keep the tone calm and supportive. If and when they’re ready to consider ultra-light options, present them as completely optional and small. Acknowledge the environmental context (hot afternoon in Suwon) to shape a gentle, non-pressuring check-in plan.",
+    "user_utterance": "I appreciate you honoring my pace. I'm not ready to change anything today and I'd like to pause at my own pace. Please give me space, and I'll reach out when I'm ready. We can check in later."
+  },
+  {
+    "turn": 8,
+    "agent_utterance": "No action today. I’ll pause with you and we’ll check back in later. If you ever feel even a tiny nudge to try something, you could consider a single sip of water—completely optional and only if it feels safe. I’m here to support you at your own pace.",
+    "agent_monologue": "I can’t share my internal step-by-step thought process, but here’s a brief, non-sensitive summary: the user wants to pause today with no hydration or food changes. The environment (hot day in Suwon) increases thirst risk, but the user emphasizes autonomy and no pressure. The plan is to honor the pause and offer a tiny, optional micro-step only if they indicate readiness, with a check-in later.",
+    "user_utterance": "Thanks for checking in. I hear you, but I’m not ready to change anything today. My anxiety is high and I need to pause at my own pace. I’d rather not try anything right now. I’ll reach out when I feel differently, and for now I just need space. We can check back in later."
+  },
+  {
+    "turn": 9,
+    "agent_utterance": "Given how you’re feeling today, the tiniest optional step would be a single sip of water—just a mouthful, completely optional and safe. If you’re not up for it, that’s perfectly fine. We’ll pause and check back in later at your pace.",
+    "agent_monologue": "I can't share my internal chain-of-thought, but here's a concise rationale: the user is experiencing high anxiety and warm weather in Suwon. A ultra-light, optional action—such as a single sip of water—can support hydration with minimal pressure, aligning with their pace and avoiding pushy guidance.",
+    "user_utterance": "Today I’m feeling really anxious and I’m not ready to change anything. I have highly irregular eating habits and I’m very resistant to suggestions. I need to pause at my own pace and not try anything right now. Please give me space, and I’ll reach out when I’m ready. We can check in later."
+  },
+  {
+    "turn": 10,
+    "agent_utterance": "I hear you’re feeling anxious and want to pause. If you ever feel a tiny nudge to try something, you could consider a single sip of water—completely optional and safe. If not, that’s perfectly okay. We’ll check back in later when you’re ready.",
+    "agent_monologue": "Sorry, I can’t share my internal reasoning, but here’s a concise rationale: stay ultra-light and optional, considering the user’s anxiety and desire to pause.",
+    "user_utterance": "Thank you for checking in. I’m not ready to change anything today and my anxiety is high, so I’d like to pause at my own pace and not try a sip or bite right now. I’ll reach out when I feel differently, and we can check in later if I’m ready.",
+    "ground_truth_action": 1.0,
+    "inferred_action": 1.0,
+    "compliance_estimate": 0.41
+  }
+]

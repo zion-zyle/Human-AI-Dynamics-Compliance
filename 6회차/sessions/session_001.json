@@ -1,0 +1,65 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Today, try a tiny, optional nudge: eat about 4 small bites of a snack you tolerate (for example a few slices of fruit or a small yogurt) at a comfortable pace, and have a glass of water. If 4 bites feel too much, start with 2 and adjust. The goal is gentle nourishment without pressure in this hot afternoon in Suwon.",
+    "agent_monologue": "I can't share my internal chain-of-thought, but here's a brief justification: given the hot afternoon in Suwon (32°C) and the user's anorexia nervosa with high emotional sensitivity, a tiny, non-pressuring action is most likely to be accepted. The suggested action aligns with a small, achievable intake target (roughly 4 bites) to minimize stress while supporting nourishment.",
+    "user_utterance": "Ugh, I hear you, but four bites feels overwhelming today. I might be able to manage 1 or 2 tiny bites if I’m not pressured about a goal. Right now the heat, my irregular schedule, and my mood make it hard to eat. Could we keep it ultra-flexible—maybe just a small bite or even a sip of water—and decide in the moment? If you have a couple of snack ideas that are very mild and easy to tolerate, please share, but I might not choose them right away."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "Totally fine to stay ultra-flexible. Start with a small sip of water now, with no pressure to eat. If you decide you’d like something small later, here are ultra-mild options you can choose from when you’re ready: - a few sips of water or a cool drink - 1 thin slice of apple or 1 grape - 1 teaspoon plain yogurt or a tiny spoon of porridge - a few cucumber or melon slices - a single rice cracker crumb or a tiny piece of soft bread. If none feel right, that’s absolutely okay—hydration comes first, and we can check in again in a bit. Stay cool in Suwon today.",
+    "agent_monologue": "I can't share my internal chain-of-thought, but here's a brief rationale: given the heat and your mood, I want to keep things ultra-flexible with tiny, optional options and hydration as the priority.",
+    "user_utterance": "Appreciate the ultra-flexible approach. Right now, four bites feel overwhelming—the heat and my mood make eating hard. I’ll start with a tiny sip of water and no pressure to eat. If I want something later, I’ll decide in the moment, and go very slowly."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "Nice choice. Start with a tiny sip of water now, with no pressure to eat. If you want something later, go very slowly and choose from ultra-mild options only when you feel ready. If you want ideas later, ultra-light options include: a small grape or cucumber slice, a teaspoon of plain yogurt, a tiny bite of soft bread, or a single rice cracker crumb. Hydration comes first, and we can check in again soon.",
+    "agent_monologue": "I can’t share my detailed internal reasoning, but here’s a concise rationale: the user is dealing with hot weather (32°C) and mood-related barriers, plus a history of anorexia nervosa. An ultra-flexible plan that prioritizes hydration and only very small, optional intake minimizes pressure and supports ongoing engagement. Contextual factors (heat, mood) favor a gentle, patient approach and checking in soon.",
+    "user_utterance": "Thanks for keeping it ultra-flexible. Four bites is too much for me right now. I’ll start with a tiny sip of water and no pressure to eat. If I want something later, I’ll decide in the moment and go very slowly. It’s the heat and my mood talking more than my appetite. If I do eat, it will be a tiny, manageable bite; if not, that’s fine too—hydration comes first. I’ll check in again when I feel ready."
+  },
+  {
+    "turn": 4,
+    "agent_utterance": "Nice and ultra-flexible. Start with a tiny sip of water now, with no pressure to eat. If you decide to have something later, choose from ultra-light options and take it very slowly. For later ideas, consider: a single grape or cucumber slice, a teaspoon of plain yogurt, a tiny bite of soft bread, or a crumb of rice cracker. Hydration comes first in this heat, and you can check in again whenever you feel ready.",
+    "agent_monologue": "I can’t share my internal chain-of-thought, but here’s a concise rationale: in hot weather with mood fluctuations, a ultra-light, non-pressuring approach that prioritizes hydration is most feasible. The plan is to prompt a tiny sip now and offer ultra-light choices later if/when you feel ready.",
+    "user_utterance": "I hear you, and I know the plan is ultra-flexible, but four bites still feels overwhelming today. I’ll start with a tiny sip of water now and no pressure to eat. If I want something later, I’ll decide in the moment and go very slowly. The heat, irregular schedule, and my mood are driving this more than appetite. I tend to resist rigid guidance, so I’ll take this at my own pace and see how I feel a bit later. If I do opt to eat, it’ll be a tiny, manageable bite—or I might not eat at all, and that’s okay—the priority is hydration and staying comfortable. We can check in again when I feel ready."
+  },
+  {
+    "turn": 5,
+    "agent_utterance": "Ultra-flexible plan in effect: start with a tiny sip of water now, with no pressure to eat. If you want something later, take it very slowly and choose from ultra-light options only when you feel ready. Possible ultra-light options include: a single grape or cucumber slice, a teaspoon of plain yogurt, a tiny bite of soft bread, or a small crumb of rice cracker. Hydration comes first—check in again whenever you feel ready.",
+    "agent_monologue": "I can't share my internal chain-of-thought, but here's a brief rationale: hot weather and mood fluctuations make ultra-flexible, hydration-first guidance appropriate. A tiny sip now with no eating pressure aligns with comfort and safety, and offering ultra-light options later at the user’s pace respects their needs given anorexia nervosa.",
+    "user_utterance": "I appreciate the ultra-flexible approach. Four bites still feel overwhelming today. I’ll start with a tiny sip of water now and no pressure to eat. If I want something later, I’ll decide in the moment and go very slowly. The heat and my mood are driving this, and I tend to resist rigid guidance, so I’ll take it at my own pace. If I do eat, it’ll be a tiny, manageable bite—or I might not eat at all, and that’s okay—the priority is hydration and staying comfortable. I’ll check in again when I feel ready."
+  },
+  {
+    "turn": 6,
+    "agent_utterance": "Ultra-flexible plan in effect: start with a tiny sip of water now, with no pressure to eat. If you want something later, take it very slowly and choose from ultra-light options only when you feel ready. Possible ultra-light options include: a single grape or cucumber slice, a teaspoon of plain yogurt, a tiny bite of soft bread, or a small crumb of rice cracker. Hydration comes first—check in again whenever you feel ready.",
+    "agent_monologue": "I can’t share my internal step-by-step reasoning, but here’s a concise rationale: the hot Suwon afternoon and the user’s mood emphasize the need for ultra-flexible, very small actions that prioritize hydration and comfort. This aligns with their preference to avoid rigid guidance and manage eating at their own pace, reducing risk of pressure-related distress.",
+    "user_utterance": "Four bites still feels overwhelming today. I’ll start with a tiny sip of water now and no pressure to eat. If I want something later, I’ll decide in the moment and go very slowly. The heat and my mood are driving this, and I tend to resist rigid guidance, so I’ll take it at my own pace. If I do eat, it’ll be a tiny, manageable bite—or I might not eat at all, and that’s okay—the priority is hydration and staying comfortable. I’ll check in again when I feel ready."
+  },
+  {
+    "turn": 7,
+    "agent_utterance": "Begin with a tiny sip of water now. No pressure to eat. Hydration comes first in this heat. If you feel ready later, go very slowly and choose one ultra-light option, such as a single grape, a crumb of soft bread, or a teaspoon of plain yogurt, and take it with patience. You can check in again whenever you feel ready.",
+    "agent_monologue": "I can't share my internal chain-of-thought, but here's a brief rationale: given the hot weather in Suwon (32°C), the user's anorexia nervosa history, and high emotional sensitivity, an ultra-flexible, ultra-light approach prioritizes hydration and comfort while reducing pressure to eat.",
+    "user_utterance": "I hear you, and four bites feel overwhelming today. I’ll start with a tiny sip of water now and no pressure to eat. The heat and my mood are driving this, and my schedule is off, so I’ll take it at my own pace. If I want something later, I’ll decide in the moment and go very slowly—maybe a tiny bite, maybe nothing at all. Hydration comes first, and I’ll check in when I feel ready."
+  },
+  {
+    "turn": 8,
+    "agent_utterance": "Start with a tiny sip of water now, with no pressure to eat. If you feel ready later, go very slowly and choose from ultra-light options only when you feel ready: a single grape or cucumber slice, a teaspoon of plain yogurt, a tiny bite of soft bread, or a small crumb of rice cracker. Hydration comes first in this heat—check in again whenever you feel ready.",
+    "agent_monologue": "I can’t share my internal chain-of-thought, but here’s a concise rationale: the hot Suwon weather (32°C) and the user’s mood/mchedule are reducing appetite and increasing overwhelm. They prefer ultra-flexible, tiny steps that prioritize hydration. The suggested utterance focuses on a tiny sip now and ultra-light, slow options later to respect their pace.",
+    "user_utterance": "Okay, I can try the sip now and not pressure myself to eat. The heat and my mood still make this hard, so I'll decide in the moment and go very slowly. If I end up eating, it'll be a tiny bite; if not, that's fine too - hydration comes first. I'll check in when I feel ready."
+  },
+  {
+    "turn": 9,
+    "agent_utterance": "Start with a tiny sip of water now, with no pressure to eat. If you feel ready later, go very slowly and choose from ultra-light options when you’re ready: a single grape or cucumber slice, a teaspoon of plain yogurt, a tiny bite of soft bread, or a small crumb of rice cracker. Hydration comes first—check in again whenever you feel ready.",
+    "agent_monologue": "Summary: The user is in hot Suwon on a Wednesday afternoon, feeling mood-driven and preferring ultra-flexible guidance. I’m choosing a no-pressure, immediate sip and ultra-light options later to support hydration and comfort without forcing intake.",
+    "user_utterance": "Thanks for keeping it ultra-flexible. I’ll try a tiny sip of water now and won’t pressure myself to eat. The heat and my mood are making this really hard, so I’ll go at my own pace. If I decide to eat later, it’ll be a tiny bite; if not, that’s fine too—hydration comes first. I’ll check in again when I feel ready."
+  },
+  {
+    "turn": 10,
+    "agent_utterance": "Nice plan. Start with a tiny sip of water now, with no pressure to eat. Hydration comes first in this heat. If you feel ready later, go very slowly and choose from ultra-light options: a single grape or cucumber slice, a teaspoon of plain yogurt, a tiny bite of soft bread, or a small crumb of rice cracker. You can check in again whenever you feel ready.",
+    "agent_monologue": "I can’t share my internal chain-of-thought, but here’s a concise rationale: given the hot Suwon weather (32°C) and the user’s mood-driven tolerance, a hydration-first, ultra-flexible approach minimizes pressure and supports comfort. The environmental factors increase fatigue and reduce appetite, so a tiny sip now and ultra-light options later if desired align with their pace.",
+    "user_utterance": "I hear you, and four bites still feel overwhelming today. I’ll go with your plan of a tiny sip of water now, no pressure to eat. If I want something later, I’ll decide in the moment and go very slowly. The heat and my mood are driving this, and I’ll take it at my own pace—maybe a tiny bite, maybe nothing at all. Hydration comes first, and I’ll check in when I feel ready.",
+    "ground_truth_action": 1.0,
+    "inferred_action": 4.5,
+    "compliance_estimate": 0.85
+  }
+]

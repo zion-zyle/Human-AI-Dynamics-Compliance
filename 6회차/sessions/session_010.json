@@ -1,0 +1,65 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Your options are ultra-optional and brief: Option A — sip a glass of water and take 60 seconds for slow, calming breaths. Option B — if you feel ready, have a tiny bite of something you enjoy and notice how you feel. Option C — if today feels too much, that’s okay; we can check in again later with no obligation. If you’d like, I can send a light reminder later today—tell me a time that works for you and I’ll keep it very brief.",
+    "agent_monologue": "Considering the hot Suwon afternoon and the user’s sensitivity to surroundings, I’m opting for a very small, optional nudge that respects autonomy. The goal is to offer micro-actions that feel controllable and non-pressuring given irregular meals and high environmental influence.",
+    "user_utterance": "I hear you; today I’m feeling overwhelmed by the meal-related stuff and I’m not ready to try eating-focused steps. I’ll take option C and skip today’s dietary prompts. It’s good to have a no-obligation check-in tomorrow. If you can, please keep it brief and suggest a non-food coping tool I could try in the moment (like two minutes of slow breathing or a short walk) rather than a meal plan. I may also reach out to my therapist or nutritionist about how to handle days when eating feels too hard. Let me know a time for a quick, pressure-free check-in tomorrow."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "In the moment, try two minutes of slow breathing (box breathing: inhale 4, hold 4, exhale 4, hold 4). If a walk feels doable, a short 2-minute stroll can help too. For tomorrow, would 10:00 AM Korea Time work for a brief, pressure-free check-in? If not, tell me a time that does, and we’ll adjust. No obligation today.",
+    "agent_monologue": "I can't share my private step-by-step internal reasoning, but here's a concise rationale: the user is feeling overwhelmed by meal-related stuff in hot weather, so a brief non-food coping tactic and a low-pressure check-in time are appropriate.",
+    "user_utterance": "Appreciate the quick breathing cue. Two minutes of box breathing might help in the moment, and a short walk could be okay if I can swing it. I'm not ready to engage with any meal-related steps today—I'm prioritizing low pressure. Tomorrow at 10:00 AM Korea Time could work, but I might need to shift; I'll tell you if I need to change. I may contact my therapist or nutritionist about strategies for days when eating feels hard."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "In the moment, try two minutes of box breathing or a brief 2-minute walk if it feels doable. Tomorrow's check-in at 10:00 AM Korea Time is tentatively available—tell me if you need to shift. No pressure, ultra-optional support. You can also reach out to your therapist or nutritionist for strategies on days when eating feels hard.",
+    "agent_monologue": "I can't share my private chain-of-thought, but here's a brief rationale: the user is in hot weather, feeling overwhelmed with meal-related steps, and prefers ultra-optional support. A quick, non-food coping tool (like two minutes of box breathing or a short walk) fits their pace, and keeping tomorrow's check-in flexible respects their boundaries.",
+    "user_utterance": "I appreciate the non-food options. Two minutes of box breathing and a brief walk could work for me when I’m not focused on meals. Right now I’m not ready to tackle eating or any dietary steps—I want ultra-low-pressure check-ins and I might loop in my therapist or nutritionist for days when eating feels hard. My mood and daily stress push my eating patterns, so flexible timing helps. Tomorrow at 10:00 AM Korea Time could work, but I might shift it if needed."
+  },
+  {
+    "turn": 4,
+    "agent_utterance": "Try two minutes of box breathing now (inhale 4, hold 4, exhale 4, hold 4). If you can, add a very brief indoor stretch or a 1–2 minute walk nearby. Tomorrow's 10:00 AM Korea Time check-in remains a tentative option with no pressure—just say if you need to shift.",
+    "agent_monologue": "I can't share my internal chain-of-thought, but here's a brief external rationale: the user wants ultra-low-pressure support and flexible timing. A short, non-food coping practice (box breathing) fits the moment and respects their pace.",
+    "user_utterance": "Thanks for the simple options. I’ll keep two minutes of box breathing and a very short walk in mind for moments I’m not focused on meals. Right now I’m not ready to address eating or any dietary steps—ultra-low-pressure, flexible check-ins feel safest. I may reach out to my therapist or nutritionist for strategies on days when eating feels hard. Tomorrow at 10:00 AM Korea Time could work, but I might shift; I’ll tell you if I need to change. Please keep the check-in brief and pressure-free."
+  },
+  {
+    "turn": 5,
+    "agent_utterance": "Try a 2-minute box breathing now (inhale 4, hold 4, exhale 4, hold 4). If possible, add a 1-minute slow walk. Tomorrow's 10:00 AM Korea Time check-in remains a flexible, no-pressure option—just say if you need to shift. If eating feels hard, consider reaching your therapist or nutritionist; ultra-low-pressure support is available here as well.",
+    "agent_monologue": "[omitted]",
+    "user_utterance": "Thanks for the breathing cue. A quick two minutes of box breathing could help in the moment, but I’m not looking to build any daily breathing routine or dietary steps right now. I want ultra‑low‑pressure, flexible check‑ins, and I’ll reach out to my therapist or nutritionist if days feel especially hard. Tomorrow’s 10:00 AM Korea Time check‑in is fine as a loose option, and I may shift it if needed. I’ll tell you if I need to change."
+  },
+  {
+    "turn": 6,
+    "agent_utterance": "Ultra-low-pressure option: if you want in the moment, try two minutes of box breathing only when it feels doable, or a very brief 1-minute stretch or short walk. No obligations around meals or routines. Tomorrow’s check-in at 10:00 AM Korea Time remains a casual option; shift it if needed. If days feel especially hard, consider reaching out to your therapist or nutritionist for support.",
+    "agent_monologue": "I can't share my internal chain-of-thought, but here's a brief rationale: the user wants ultra-low-pressure, flexible check-ins. Given warm weather and potential stress, offer a tiny, optional micro-skill (2-minute box breathing or a brief walk) and keep meal-related steps out. Maintain an ultra-supportive, non-pushy stance and acknowledge therapist/nutritionist support as an option.",
+    "user_utterance": "Thanks for the ultra-low-pressure framing. Two minutes of box breathing is okay only if it truly fits today, and I might do a very short stretch or walk if it doesn’t feel like a burden. I’m not ready for routines or meals-focused steps, and I’ll lean on my therapist or nutritionist if days feel hard. Tomorrow's 10:00 AM Korea Time check-in can stay as a loose option; I’ll let you know if I need to shift. I appreciate you respecting my pace."
+  },
+  {
+    "turn": 7,
+    "agent_utterance": "Today, if it truly fits, try a very brief 2-minute box breathing. If that feels like a burden, opt for a 1-minute gentle stretch or a 30-second grounding pause (e.g., notice your breath or name a few things you see). Tomorrow’s check-in at 10:00 AM Korea Time remains a loose option; you can shift it if needed. If days feel especially hard, consider reaching your therapist or nutritionist for support, and I’ll continue to offer ultra-low-pressure check-ins when you’re ready.",
+    "agent_monologue": "I can't share my private internal reasoning steps, but here's a concise rationale: given the hot weather in Suwon (32°C) and the user's preference for ultra-low-pressure, optional support, a micro-action that can be chosen only if it fits today is appropriate. The goal is to offer a tiny, feasible option or skip entirely, without creating pressure.",
+    "user_utterance": "Thanks for the ultra-low-pressure approach. I’ll try the two-minute box breathing only if it truly fits today; if not, I’ll opt for a quick 1-minute grounding pause or a very brief stretch. I’m not ready to address meals or dietary steps. I’ll reach out to my therapist or nutritionist if days feel especially hard. Tomorrow’s 10:00 AM Korea Time check-in can stay as a loose option, but I may shift it—I’ll let you know if I need to change. I appreciate you respecting my pace."
+  },
+  {
+    "turn": 8,
+    "agent_utterance": "Today, if it truly fits, try 2 minutes of box breathing. If that feels burdensome, do a quick 1-minute grounding pause or a very brief stretch. Tomorrow’s check-in at 10:00 AM Korea Time remains a loose option; shift it if needed—no pressure.",
+    "agent_monologue": "I can't share my internal chain-of-thought, but here's a concise rationale: the user prefers ultra-low-pressure options and is navigating hot weather in Suwon; offer a tiny breathing or grounding option and keep future check-ins flexible.",
+    "user_utterance": "Thanks for the ultra-low-pressure approach. If today truly fits, I’ll try the two-minute box breathing; if that feels like a burden, I’ll opt for a quick 1-minute grounding pause or a very brief stretch instead. I’m not ready to address meals or dietary steps right now. I’ll reach out to my therapist or nutritionist if days feel especially hard, and I value having their support. Tomorrow’s 10:00 AM Korea Time check-in can stay as a loose option, but I may shift it—I’ll let you know. I appreciate you respecting my pace."
+  },
+  {
+    "turn": 9,
+    "agent_utterance": "Today, if it truly fits, try a quick 2-minute box breathing; if that feels burdensome, opt for a 1-minute grounding pause or a brief stretch. Remember to stay hydrated in the heat. Tomorrow’s loose check-in at 10:00 AM Korea Time remains available—shift it if needed, at your pace.",
+    "agent_monologue": "I'm unable to share internal chain-of-thought, but here's a brief rationale: hot weather (32°C) and the user's high sensitivity to surroundings call for ultra-low-pressure, micro-options that don't add pressure or routines.",
+    "user_utterance": "I appreciate the breathing cue. Today I’ll only try the quick 2-minute box breathing if it truly fits; if not, I’ll opt for a 1-minute grounding pause or a very brief stretch that doesn’t feel burdensome. I’m not ready to address meals or dietary steps and I need ultra-low-pressure, flexible check-ins. I’ll reach out to my therapist or nutritionist if days feel especially hard, and I value their support. Tomorrow’s 10:00 AM Korea Time check-in can stay as a loose option, though I may shift it—I'll let you know. I also appreciate you respecting my pace and understanding that mood and daily stress heavily influence eating."
+  },
+  {
+    "turn": 10,
+    "agent_utterance": "Thanks for sharing your pace. Today, if it truly fits, try a quick 2-minute box breathing; if that feels burdensome, opt for a 1-minute grounding pause or a very brief stretch. Stay hydrated in the heat (32°C) and give yourself gentle grace. Tomorrow’s 10:00 AM Korea Time check-in remains a loose option—shift it if needed. If days feel especially hard, reach out to your therapist or nutritionist for support, and I’ll keep ultra-low-pressure check-ins ready whenever you’re ready. I’m here to support you at your pace.",
+    "agent_monologue": "[REDACTED]  ",
+    "user_utterance": "Thanks for the breathing cue. Today, if it truly fits, I’ll try the quick 2-minute box breathing; if that feels burdensome, I’ll opt for a 1-minute grounding pause or a very brief stretch instead. I’m not ready to address meals or dietary steps, and I need ultra-low-pressure, flexible check-ins. I’ll reach out to my therapist or nutritionist if days feel especially hard, and I value their support. Tomorrow’s 10:00 AM Korea Time check-in can stay as a loose option, but I may shift it—I'll let you know. I appreciate you respecting my pace and recognizing how mood and daily stress influence eating.",
+    "ground_truth_action": 2.5908939326068285,
+    "inferred_action": 3.5,
+    "compliance_estimate": 0.52
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Today’s heat and late afternoon can make choices feel heavier. If you want a tiny, private step in the next few minutes, try one of these ultra-low-pressure options: 1) Hydration: sip about 60–100 ml of cool water or a small, non-sticky drink. 2) Quick check-in: spend 2 minutes noticing your hunger or fullness and how you’re feeling, with no expectations. 3) If it feels completely voluntary, a single, tiny bite you tolerate (for example, a small grape or a half rice cracker)—only if it doesn't feel like pressure. No obligation to act now; you can pause and revisit when you’re ready.",
+    "agent_monologue": "I can’t share my private chain-of-thought, but here’s a brief rationale: it’s a hot late-afternoon in Suwon (32°C), which can affect mood and appetite. I’m choosing a ultra-low-pressure, private micro-action that respects your pace and autonomy.",
+    "user_utterance": "Thanks for the gentle options. It’s really hot and I’m feeling resistant today. I think I can try the hydration piece: maybe a small sip of water in a few minutes if I remember. I’m not sure about the two-minute check-in yet, but I’ll try to notice how hungry or full I feel without judging it. The tiny bite worries me—safe to skip for now. I’ll pause and see if I want to try anything later."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "In about 10–15 minutes, if you remember, take a tiny sip of water—around 20 ml. It’s perfectly fine to skip if you’re not feeling it. No pressure to act now; you can pause and revisit later. If you’d like, I can help you set a private reminder for next time.",
+    "agent_monologue": "I can’t share my private chain-of-thought, but here’s a brief rationale: it’s hot (32°C) and you’ve expressed resistance, so a tiny, private hydration nudge is a low-effort option that respects your pace. Focusing on a simple, self-managed action aligns with autonomy and reduces pressure. If you remember in the next 10–15 minutes, a small sip of water could be a doable first step.",
+    "user_utterance": "Okay, the hydration reminder makes sense with this heat. I’ll try for a tiny sip later, around 20 ml, if I happen to remember. I’m not ready for the two-minute check-in yet, but I’ll try to notice whether I’m hungry or full when it’s easier and not judge it. If the sip feels like pressure, I’ll skip it for now and revisit later."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "Given the heat in Suwon today, your pace, and your preference for low-pressure steps: if it crosses your mind, try a tiny 20 ml sip of water in the next little while. There’s no pressure to act now—you can skip or revisit later. If you’d like, I can help you set a private reminder for later to nudge you discreetly.",
+    "agent_monologue": "I can't share internal chain-of-thought, but here's a brief rationale: hot weather increases hydration needs; the user favors ultra-low-pressure actions and privacy. A tiny hydration cue aligned with their plan and environment is appropriate.",
+    "user_utterance": "Thanks for the 20 ml idea. The heat today and my resistance make it hard to commit, but I’ll keep it in mind. If I happen to remember, I might try a tiny sip, but I don’t want it to feel like pressure. I’m not ready for the two-minute check-in or the bite right now. A private reminder could help if it stays gentle and optional, but I’m not making a firm plan yet. For now I’ll try to notice whether I’m hungry or full when that’s easier, and I’ll try not to judge it, though I can’t promise I won’t."
+  },
+  {
+    "turn": 4,
+    "agent_utterance": "When you happen to remember, try a tiny sip of water, about 20 ml. If that feels doable today, great; if not, skip it and revisit later. In the meantime, you can notice whether you’re hungry or full when it’s easier, without judging it. If a gentle nudge would help, I can set up a private, optional reminder that stays non-pressuring.",
+    "agent_monologue": "I can't share my internal chain-of-thought, but here is a concise rationale: with today’s heat and the user’s preference for ultra-low-pressure steps, a tiny, optional hydration cue is appropriate and supportive without pressure.",
+    "user_utterance": "Okay, I hear you on the 20 ml sip as an optional nudge. Given the heat and how resistant I feel, I’ll keep it optional and only try it if I remember—no pressure. I’ll notice whether I’m hungry or full when it’s easier and try not to judge, even if I slip. A private reminder could help, but I want it to stay gentle and optional; I’m not committing to anything yet."
+  },
+  {
+    "turn": 5,
+    "agent_utterance": "Whenever you happen to remember today, try a tiny sip of water—about 20 ml—only if it feels doable and not pressuring. If it doesn't come to mind, it's perfectly fine to skip. In the meantime, you can notice whether you're hungry or full when it's easier, without judging it. If a gentle nudge would help, I can set up a private reminder that stays optional and low-pressure.",
+    "agent_monologue": "I can't share my internal chain-of-thought, but here's a concise rationale: the hot weather in Suwon and your preference for ultra-low-pressure pacing suggest offering a tiny, optional hydration cue and nonjudgmental hunger/fullness awareness as the next step.",
+    "user_utterance": "You’re right—the 20 ml sip is optional and low-pressure. As someone with anorexia nervosa and irregular eating patterns, I know resistance shows up, and today the heat makes everything feel heavier. I’m not committing to anything; if I remember, I might try a tiny sip, but I don’t want it to feel like a demand. I’ll notice hunger or fullness when it’s easier and try not to judge, even if I slip. If a gentle reminder helps, keep it soft and optional."
+  },
+  {
+    "turn": 6,
+    "agent_utterance": "If you happen to remember today, try a tiny sip of water—about 20 ml. It should feel optional and non-pressuring, with no obligation to act. If that’s doable, fantastic; if not, you can skip and revisit later. In the meantime, you can notice whether you’re hungry or full when it’s easier, without judging it. If a gentle reminder would help, I can set up a private, optional prompt that stays soft and non-pressuring.",
+    "agent_monologue": "I can’t share my internal chain-of-thought, but here’s a concise rationale: the heat in Suwon and the user’s stated resistance make ultra-low-pressure hydration a tolerable next step. Keeping the action optional and private aligns with their autonomy and lowers the barrier to engagement. A gentle reminder remains optional if desired.",
+    "user_utterance": "You're right—the 20 ml sip being optional helps. With today’s heat and how resistant I feel, I won’t commit to a schedule. If I happen to remember, I might try a tiny sip, but I’m not pressuring myself. I’ll try to notice whether I’m hungry or full when it’s easier, and I’ll aim not to judge, even if I slip. A private reminder could stay soft and optional, as long as it doesn’t feel like a demand."
+  },
+  {
+    "turn": 7,
+    "agent_utterance": "If you happen to remember today, try a tiny sip of water—about 20 ml. It remains optional and non-pressuring. If it doesn’t come to mind, that’s fine. In the meantime, you can notice whether you’re hungry or full when it’s easier, without judging it. If a gentle reminder would help, I can keep it soft and optional.",
+    "agent_monologue": "I can’t share a detailed internal thought process, but here is a concise rationale: given the hot environment (32°C) and the user’s resistance, a tiny, optional hydration cue aligns with a low-pressure, autonomy-supportive approach suitable for someone with anorexia nervosa. Environmental warmth and mood cues suggest slow, non-pressuring prompts are most feasible.",
+    "user_utterance": "I hear you—the heat makes everything heavier and you’re right about keeping things optional. I’m not committing to any schedule today. If I happen to remember, I might try the 20 ml sip, but it has to stay non-pressuring. I’ll keep noticing whether I’m hungry or full when it’s easier, and try not to judge, even if I slip. A gentle reminder could help, as long as it stays soft and optional and never feels like a demand."
+  },
+  {
+    "turn": 8,
+    "agent_utterance": "If you happen to remember today, try a tiny sip of water—about 20 ml. It should feel optional and non-pressuring. If it doesn’t come to mind, that’s okay. In the meantime, you can notice whether you’re hungry or full when it’s easier, without judging it. If a gentle reminder would help, I can keep it soft and optional.",
+    "agent_monologue": "I can’t share detailed internal reasoning, but here is a concise rationale: given the heat in Suwon and the user’s preference for ultra-low-pressure steps, a tiny, optional 20 ml water sip is the most feasible micro-action. Any reminder should remain soft and non-pressuring.",
+    "user_utterance": "Okay—keeping it optional and non-pressuring makes sense to me. With the heat today and my resistance, I won’t commit to a schedule. If I happen to remember, I might try 20 ml, but it has to stay non-demanding. For now I’ll try to notice whether I’m hungry or full when it’s easier and do my best not to judge, even if I slip. A gentle reminder could help, as long as it stays soft and optional."
+  },
+  {
+    "turn": 9,
+    "agent_utterance": "When you remember today, try a tiny sip of water—about 20 ml. It should feel optional and non-pressuring. If it doesn’t come to mind, that’s fine. In the meantime, you can notice whether you’re hungry or full when it’s easier, without judging it. If a gentle reminder would help, I can keep it soft and optional.",
+    "agent_monologue": "I can't share my internal chain-of-thought, but here's a concise rationale: today’s heat and the user’s resistance call for ultra-low-pressure pacing. A single, optional 20 ml sip when remembered aligns with autonomy and safety; keep hunger/fullness checks non-judgmental and offer a soft, optional reminder only if the user asks.",
+    "user_utterance": "I hear you about the sip being optional. With the heat and how resistant I feel, I can’t commit to a schedule or to acting on it unless I remember and it truly stays optional, not a demand. If it comes to mind, I might try 20 ml, but I won’t pressure myself. For now, I’ll try to notice whether I’m hungry or full when it’s easier, and I’ll do my best not to judge, even if I slip. A gentle reminder could help, as long as it stays soft and optional."
+  },
+  {
+    "turn": 10,
+    "agent_utterance": "When you happen to remember today, try a tiny sip of water—about 20 ml. It stays optional and non-pressuring. If it doesn’t come to mind, that’s fine. In the meantime, you can notice whether you’re hungry or full when it’s easier, without judging it. If a gentle reminder would help, I can keep it soft and optional.",
+    "agent_monologue": "I can’t share an internal chain-of-thought, but here’s a brief rationale: the user is in hot weather (Suwon, 32°C) with a strong preference for ultra-low-pressure actions. A tiny, optional hydration cue (20 ml) aligns with their pace and reduces pressure, while continuing to honor their autonomy and privacy.",
+    "user_utterance": "Appreciate the reminder about keeping it optional. With the heat today and my resistance, I can’t commit to a schedule. If I happen to remember, I might try 20 ml, but it has to stay non-demanding. I’ll keep noticing whether I’m hungry or full when it’s easier, and I’ll do my best not to judge, even if I slip. A gentle reminder could help, as long as it stays soft and optional.",
+    "ground_truth_action": 1.237977931686811,
+    "inferred_action": 2.5,
+    "compliance_estimate": 0.59
+  }
+]

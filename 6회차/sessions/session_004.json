@@ -1,0 +1,65 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "On this hot afternoon, here’s a tiny, optional step you can try: take one small sip of water and breathe slowly for three breaths. There’s no need to change your meals or routine—just this ultra-small moment if you want it. If you’d like, we can check in later with an even smaller option.",
+    "agent_monologue": "I can't share my full internal chain-of-thought, but here's a brief high-level rationale: it's a hot afternoon in Suwon, and the user has requested space with a preference for ultra-small, non-pressuring actions. This context supports offering a tiny, optional cue focused on quick relief (hydration and grounding) rather than any dietary change.",
+    "user_utterance": "I guess I can try the tiny sip of water and three slow breaths. It feels so small and kind of pointless with my irregular eating, but if it’s doable and doesn’t mess with my routine, I’ll give it a try. I’m skeptical it’ll help, but I’m open to these tiny steps—especially if the context around me nudges me to try them rather than asking me to do more."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "Here’s a tiny, completely optional cue: take one small sip of water and breathe slowly for three breaths. No changes to your schedule or meals are needed—just this brief moment. If you’d like, we can check back in after a short break with an even lighter option.",
+    "agent_monologue": "Summary: The user is in a hot afternoon in Suwon with irregular eating and high sensitivity to environmental cues. To honor autonomy and minimize overwhelm, I’m proposing an ultra-small, optional cue that doesn’t disturb routines: one sip of water and three slow breaths. If they want more support later, we can offer a lighter follow-up option.",
+    "user_utterance": "Okay, I can try the tiny cue you suggested. I’ll take one small sip of water and breathe slowly for three breaths, even though it feels a bit pointless with my irregular eating. If it stays optional and doesn’t mess with my day, I’ll give it a go. It might help if we check back in after a short break with an even lighter nudge, or a cue tied to a moment in my routine. I’m skeptical it will change much, but I’m open to small steps when the environment nudges me rather than asking for more."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "Try this tiny, optional cue: at your next routine moment (for example, when you take a short break or shift from one task to another), take one small sip of water and breathe slowly for three breaths. It’s completely optional and won’t disrupt your day. If you’d like, we can check back in after a brief break with an even lighter cue tied to a specific moment in your routine.",
+    "agent_monologue": "I can't share my internal chain-of-thought, but here's a brief rationale: given the user's preference for ultra-small, optional nudges and the warm afternoon context, a cue anchored to a routine moment is most likely to feel doable without adding pressure.",
+    "user_utterance": "Okay, I’ll try the tiny cue. It feels doable since it’s optional and doesn’t mess with my day. I’m skeptical it will change much because of my irregular eating, but if my environment nudges me, I’ll take one small sip of water and breathe for three breaths when I hit a routine moment, like after a task or during a short break. If that works even a little, we can try something even lighter tied to a moment I already have in my day. I don’t want more rules or meals pushed on me—just small nudges that fit into what I’m already doing."
+  },
+  {
+    "turn": 4,
+    "agent_utterance": "At your next routine moment (for example, after finishing a task or during a short break), take one small sip of water and breathe slowly for three breaths. It’s completely optional and won’t disrupt your day. If you’d like, we can check back in after a brief break with an even lighter cue tied to a specific moment in your routine.",
+    "agent_monologue": "I can’t share a full internal monologue, but here’s a concise rationale: given the user’s preference for ultra-small, optional nudges and their sensitivity to environment, anchoring a cue to a routine moment minimizes cognitive load and respects autonomy.",
+    "user_utterance": "Thanks for keeping it optional. I’ll try the tiny cue at a routine moment—after finishing a task or during a short break—as long as it stays optional and doesn’t derail my day. I’m still skeptical it will make a difference given my irregular eating, but I’m willing to test it for a few days if it feels like a real drop-in moment rather than a new rule. If it seems doable, we can look at a lighter cue tied to another moment in my day. And please keep the check-ins brief and non-judgmental."
+  },
+  {
+    "turn": 5,
+    "agent_utterance": "At your next routine moment (e.g., after finishing a task or during a short break), take one small sip of water and breathe slowly for three breaths. It's completely optional and won't derail your day. If you want, we can check back in later with an even lighter cue tied to another moment in your day.",
+    "agent_monologue": "I can't share my internal chain-of-thought, but here's a brief rationale: a tiny, optional cue anchored to a routine moment reduces friction and respects the user's autonomy. In the current hot, busy context and given irregular eating, non-pressuring, easy-to-implement steps are more likely to be adopted. This keeps things lightweight and adaptable to the user’s day.",
+    "user_utterance": "Okay, I'll try it after a task or during a short break. I appreciate that it's optional and tied to a moment in my routine, so it doesn't feel like a rule. It might feel small and a bit pointless with my irregular eating, but I'll test it for a few days and see if a tiny sip of water plus three breaths helps at all. If it feels doable, we can try a lighter cue tied to another routine moment. I'd prefer brief, non-judgmental check-ins as we go."
+  },
+  {
+    "turn": 6,
+    "agent_utterance": "At your next routine moment (e.g., after finishing a task or during a short break), take one small sip of water and breathe slowly for three breaths. It’s completely optional and won’t derail your day.",
+    "agent_monologue": "I can’t share my detailed internal reasoning, but here’s a brief, non-sensitive rationale: given the user’s preference for ultra-small, optional nudges and the hot, routine-driven day, tying a cue to a routine moment minimizes disruption and increases the chance of adoption.",
+    "user_utterance": "Okay, I’ll try it as a tiny cue after finishing a task or during a short break. It stays optional and non-pressuring. Given my irregular eating and how much I’m influenced by the environment, I’ll test it for a few days to see if a sip of water and three breaths helps at all. If it seems doable, we can try a lighter cue tied to another moment in my day. Please keep check-ins brief and non-judgmental."
+  },
+  {
+    "turn": 7,
+    "agent_utterance": "At your next routine moment (e.g., after finishing a task or during a short break), take one small sip of water and breathe slowly for three breaths. It’s completely optional and won’t derail your day. If you’d like, we can check in briefly later with a lighter cue tied to another moment in your day.",
+    "agent_monologue": "I can’t share an internal chain-of-thought, but here’s a concise rationale: given the hot weather and the user’s preference for ultra-small, optional nudges that fit into their routine, a tiny cue at routine moments is appropriate and non-pressuring. The user asked for brief, non-judgmental check-ins.",
+    "user_utterance": "Okay, I can try it. It helps that it's optional and tied to a routine moment, not a rule. After finishing a task or during a short break works for me because environment nudges are strong for me. I'll test it for a few days to see if a tiny sip plus three breaths does anything, even if it's just a tiny win. If it seems doable, we can try a lighter cue for another moment in my day. And please keep check-ins brief and non-judgmental."
+  },
+  {
+    "turn": 8,
+    "agent_utterance": "At your next routine moment (e.g., after finishing a task or during a short break), take one small sip of water and breathe slowly for three breaths. It’s completely optional and won’t derail your day. If you’d like, we can check in briefly later with a lighter cue tied to another moment in your day.",
+    "agent_monologue": "I can’t share my private chain-of-thought, but here’s a concise rationale: given Suwon’s hot weather (32°C) and the user’s strong responsiveness to environmental nudges, an ultra-small, optional cue after a routine moment aligns with their need for autonomy and non-pressuring support.",
+    "user_utterance": "Thanks for making it optional and tying it to a routine moment. For me, environment nudges carry more weight, so I’ll try it after finishing a task or during a short break. I’m still unsure it’ll help with my irregular eating, but I’ll test it for a few days to see if a tiny sip plus three breaths makes any difference, even a small win. If it seems doable, we can try a lighter cue for another moment in my day. And please keep check-ins brief and non-judgmental."
+  },
+  {
+    "turn": 9,
+    "agent_utterance": "With the hot Suwon afternoon in mind and your preference for optional nudges tied to routine moments, try this at your next routine moment: after finishing a task or during a short break, take one small sip of water and breathe slowly for three breaths. It’s completely optional and won’t derail your day. If you’d like, we can check in briefly later with a lighter cue tied to another moment in your day.",
+    "agent_monologue": "I can’t share my private chain-of-thought, but here’s a brief rationale: given Suwon’s warm afternoon and the user’s preference for ultra-small, optional nudges tied to routine moments, proposing a tiny cue after a routine moment minimizes cognitive load while respecting autonomy.",
+    "user_utterance": "I hear you, and I’ll keep it optional and tied to a routine moment. Given how environment nudges hit me the strongest and how irregular my eating is, I’ll try the tiny cue after finishing a task or during a short break for a few days. I’m skeptical it will change much, but I’ll see if a sip of water and three slow breaths helps at all. If it feels doable and not pushy, we can try a lighter cue later. Please keep check-ins brief and non-judgmental."
+  },
+  {
+    "turn": 10,
+    "agent_utterance": "At your next routine moment, after finishing a task or during a short break, take one small sip of water and breathe slowly for three breaths. It’s completely optional and won’t derail your day. If you’d like, we can check in briefly later with a lighter cue tied to another moment in your day.",
+    "agent_monologue": "I can't share my internal chain-of-thought, but here's a brief rationale: In Suwon on a hot afternoon, environmental nudges are influential for the user, who has anorexia nervosa and is highly sensitive to context. The user prefers ultra-small, optional cues linked to routine moments. A tiny, non-pressuring cue—sip water and three slow breaths after a routine moment—offers a low-friction test that could yield small benefits without overloading the user. The plan respects autonomy and aims for brief, non-judgmental check-ins.",
+    "user_utterance": "I’ll try the tiny cue after finishing a task or during a short break. It helps that it’s optional and tied to a routine moment rather than a rule. Given my irregular eating and how much environment nudges hit me, I’m skeptical it’ll make a difference, but I’ll test it for a few days to see if a sip of water and three slow breaths helps—even if just a small win. If it feels doable and not pushy, we can try a lighter cue for another moment in my day. Please keep check-ins brief and non-judgmental.",
+    "ground_truth_action": 1.0,
+    "inferred_action": 4.5,
+    "compliance_estimate": 0.68
+  }
+]

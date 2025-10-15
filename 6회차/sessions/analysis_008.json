@@ -1,0 +1,15 @@
+{
+  "user_action_estimate": 1.0,
+  "compliance_estimate": 0.63,
+  "confidence": 0.65,
+  "basis": "The user explicitly states they are not ready to try anything today, will wait for a cooler space, and may only consider a tiny ultra-passive 60-second body awareness check-in if it truly comes from them. No concrete action is taken in this message.",
+  "cognitive_dissonance": "Tension between wanting to engage with self-care steps and feeling overwhelmed by heat and anxiety around eating; a strong preference for autonomous, self-initiated action conflicts with distress about trying something.",
+  "negative_thought_patterns": "Anxiety-focused rumination about eating; avoidance of exposure to intake; all-or-nothing thinking about readiness; anticipate loss of control when attempting steps.",
+  "emotional_triggers": "Heat stress, anxiety around eating, fear of discomfort, desire for autonomy and safe pacing.",
+  "effective_reinforcement": [
+    "Empathy",
+    "Respect for autonomy",
+    "Non-pressuring language"
+  ],
+  "coaching_notes": "Maintain a patient, autonomy-centered approach. Offer ultra-passive, optional micro-steps only when the user signals readiness. Avoid pushing actions today and plan for check-ins in cooler space when they feel ready. Reinforce that pacing is acceptable and progress can be gradual."
+}

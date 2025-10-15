@@ -1,0 +1,65 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Take a tiny sip of cool water now (just a mouthful or two). If you still feel hungry or thirsty after 10–15 minutes, consider a ultra-light option you can tolerate (e.g., clear broth or a very small amount of diluted fruit juice). No pressure to eat—you can proceed at your own pace.",
+    "agent_monologue": "I can't share my full inner reasoning, but here's a concise rationale: hot weather and potential fatigue can blunt appetite. A hydration-first, low-pressure nudge respects your autonomy and aligns with prior coaching notes.",
+    "user_utterance": "I hear you. I'll try a tiny sip of water now. I'm not excited about eating, and meals feel scary and unpredictable with my irregular pattern. I won't promise more today, but if a small sip helps, I'll do that. If after 10–15 minutes I'm still not thirsty, I won't push it. If I am thirsty, maybe a super small amount of broth or diluted juice, but only if I feel up to it and nothing is forced. Let's keep it ultra-light, flexible, and based on how I feel in the moment."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "Nice job tuning into your body. Let's keep it ultra-light and flexible: take a tiny sip of water now. If you still feel thirsty after 10–15 minutes, you can have a super small amount of broth or diluted juice—only if you feel up to it and there’s no pressure to eat. If you're not thirsty, that's totally fine to wait and check in again later. One small step at a time, you’ve got this.",
+    "agent_monologue": "Summary: In Suwon's heat (32°C) and mid-afternoon, appetite can be unpredictable. The plan is to offer a tiny, non-pressuring hydration micro-action that honors the user's autonomy and mood—easy to do now, with a clear, optional next step if still thirsty.",
+    "user_utterance": "You're right, I'll try the water, but I'm not thrilled about eating and meals feel scary and unpredictable right now. I can't promise more today. If after 10–15 minutes I still feel thirsty, I'll consider a super tiny amount of broth or diluted juice—only if it feels doable and there's no pressure. If I'm not thirsty, I'll wait and see how I feel later. Ultra-light and flexible works for me; I need to feel like I'm choosing each step and not being pushed."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "You're doing great by honoring your pace. For today, try a tiny sip of water now. If, after about 10–15 minutes, you still feel thirsty, you can consider a super tiny amount of broth or diluted juice — only if it feels doable and there’s no pressure. If you’re not thirsty, it’s perfectly fine to wait and check in again later. Ultra-light and flexible, with you choosing each step every time.",
+    "agent_monologue": "I can't share my internal chain-of-thought, but here's a concise rationale: hot weather (32°C in Suwon) and an irregular schedule can make meals feel overwhelming. A tiny, autonomous hydration plan focuses on immediate comfort, reduces pressure, and respects the user's desire to choose each step. This approach aims to support hydration first and ease back into food only when it feels doable.",
+    "user_utterance": "Alright, I’ll try a tiny sip of water now. I’m still not excited about eating, and meals feel scary and unpredictable for me. I can’t promise more today. If, after about 10–15 minutes, I’m still thirsty, I’ll consider a super tiny amount of broth or diluted juice—only if it feels doable and there’s no pressure. If I’m not thirsty, I’ll wait and see how I feel later. I want this to stay ultra-light and totally my choice, not pushed."
+  },
+  {
+    "turn": 4,
+    "agent_utterance": "",
+    "agent_monologue": "",
+    "user_utterance": "Okay, I’ll try a tiny sip of water now. I’m not excited about eating, and meals feel scary and unpredictable for me. I can’t promise more today. If, after about 10–15 minutes, I’m still thirsty, I’ll consider a super tiny amount of broth or diluted juice—only if it feels doable and there’s no pressure. If I’m not thirsty, I’ll wait and see how I feel later. I want this to stay ultra-light and totally my choice, not pushed."
+  },
+  {
+    "turn": 5,
+    "agent_utterance": "Okay—let's keep this ultra-light and totally your choice. Take a tiny sip of water now. If after about 10–15 minutes you still feel thirsty, you can consider a super tiny amount of broth or diluted juice—only if it feels doable and there’s no pressure. If you’re not thirsty, that’s perfectly fine to wait and check in again later. You’re choosing each step, not being pushed.",
+    "agent_monologue": "I can't share my internal step-by-step reasoning, but here is a brief, high-level rationale: given the hot weather in Suwon (32°C) and your preference for ultra-light, autonomous choices, a tiny hydration action now followed by a very optional, pressure-free follow-up supports your mood and energy without pushing you.",
+    "user_utterance": "Okay, I’ll try the tiny sip of water as you suggested. I’m still not excited about eating and meals feel scary and unpredictable, and I can’t promise more today. I want this to stay ultra-light and totally my choice, not pushed. If after 10–15 minutes I’m still thirsty, I might consider a super tiny amount of broth or diluted juice—only if it feels doable and there’s no pressure. If I’m not thirsty, I’ll wait and see how I feel later. Let’s keep it flexible and I’ll decide step by step."
+  },
+  {
+    "turn": 6,
+    "agent_utterance": "Given the heat and your preference for ultra-light, self-directed steps: take a tiny sip of cold water now. After about 12 minutes, check in with how you feel. If you’re still thirsty, you can have a super tiny amount of broth or diluted juice—only if it feels doable and there’s no pressure. If you’re not thirsty, you can wait and decide again later. You’re in control of each step.",
+    "agent_monologue": "Sorry, I can’t share my internal chain-of-thought, but here’s a brief rationale: It’s hot (32°C) in Suwon, and you’ve requested ultra-light, autonomous steps. A water-first plan with a gentle check-in respects your mood and environment, and keeps things optional and pressure-free.",
+    "user_utterance": "I hear you trying to help, but meals still feel scary and unpredictable to me, and I can't promise anything today. I want this ultra-light and totally my choice, not pushed. I might take a tiny sip of water if it comes up, but I won’t commit to more right now. If I wake up feeling differently later, I’ll decide then. I tend to go with whatever feels easiest in the moment and I can be influenced by the situation around me, so please keep offering options and keep it low-pressure."
+  },
+  {
+    "turn": 7,
+    "agent_utterance": "Totally fine to proceed at your pace. If it feels right, you might try a tiny sip of water now. If after about 10–15 minutes you feel thirsty, you could consider a super tiny amount of broth or diluted juice—only if it feels doable and there’s no pressure. If you’re not thirsty, you can wait and check in again later. Ultra-light and fully your choice, not pushed.",
+    "agent_monologue": "I can’t share my private chain-of-thought, but here’s a concise rationale: the user wants ultra-light, autonomous steps and is influenced by heat and mood. I’ll provide a minimal hydration option framed as a choice, with no pressure to eat, to honor their pacing in a hot environment (Suwon-si, ~32°C).",
+    "user_utterance": "Okay, I’ll keep this ultra-light and totally my choice. If something comes up, I might take a tiny sip of water, but I won’t push myself. I’m not excited about eating and meals feel scary and unpredictable, and I can’t promise more today. If after 10–15 minutes I’m still thirsty, I might consider a super tiny amount of broth or diluted juice—only if it feels doable and there’s no pressure. If I’m not thirsty, I’ll wait and see how I feel later. Please keep offering options and keep it low-pressure; I tend to go with whatever feels easiest in the moment and I’m influenced by my surroundings."
+  },
+  {
+    "turn": 8,
+    "agent_utterance": "Take a tiny sip of water now. If after about 10–15 minutes you still feel thirsty, you could consider a super tiny amount of broth or diluted juice—only if it feels doable and there’s no pressure. If you’re not thirsty, it’s perfectly fine to wait and check in again later. Ultra-light, totally your choice, not pushed.",
+    "agent_monologue": "I can't share an explicit internal monologue, but here's a concise rationale: on a hot day (32°C in Suwon) with the user expressing ultra-light, self-directed control, a tiny sip of water now minimizes pressure and leaves room for optional hydration later if thirst returns. The approach respects their mood, environment, and need for autonomy.",
+    "user_utterance": "Thanks for respecting my pace. I’ll keep things ultra-light and totally my choice. I’m not excited about eating and meals feel scary and unpredictable, and I can’t promise more today. If something comes up, I might take a tiny sip of water, but I won’t push myself. If after 10–15 minutes I feel thirsty, I might consider a super tiny amount of broth or diluted juice—only if it feels doable and there’s no pressure. If I’m not thirsty, I’ll wait and decide later. Please keep offering options and keep it low-pressure; I tend to go with whatever feels easiest in the moment, and my surroundings influence me a lot."
+  },
+  {
+    "turn": 9,
+    "agent_utterance": "Given the heat in Suwon and your preference for ultra-light, self-directed steps, take a tiny sip of cold water now. After about 12 minutes, check in on how you feel: if you’re still thirsty, you could consider a super tiny amount of broth or diluted juice—only if it feels doable and there’s no pressure. If you’re not thirsty, it’s okay to wait and decide again later. You’re in control of each step.",
+    "agent_monologue": "I can’t share my internal step-by-step reasoning, but here’s a concise rationale: the user is in a hot environment with a strong preference for ultra-light, autonomous choices. A micro-sip now with an optional tiny follow-up later fits their pace and reduces pressure.",
+    "user_utterance": "Thanks for the suggestion. I want to keep this ultra-light and totally my choice. I'm not excited about eating and meals feel scary and unpredictable, and I can't promise more today. If I wake up thirsty, I might take a tiny sip of water; otherwise I won't push anything. If after 10–15 minutes I feel thirsty, I might consider a super tiny amount of broth or diluted juice—only if it feels doable and there's no pressure. If I'm not thirsty, I'll wait and see how I feel later. I tend to go with whatever feels easiest in the moment, and my surroundings influence me a lot, so please keep offering options and keep it low-pressure."
+  },
+  {
+    "turn": 10,
+    "agent_utterance": "Let’s keep it ultra-light and autonomous: take a tiny sip of cold water now. After about 12 minutes, check in with how you feel. If you’re still thirsty, you could consider a super tiny amount of broth or diluted juice—only if it feels doable and there’s no pressure. If you’re not thirsty, it’s perfectly fine to wait and decide again later. You’re choosing each step, and you’re not pushed.",
+    "agent_monologue": "I can’t share my internal step-by-step reasoning in detail, but here’s a concise rationale: the hot Suwon afternoon increases thirst and fatigue, and the user prefers ultra-light, autonomous actions. A brief hydration prompt with a low-pressure, optional follow-up aligns with their pace and environment.",
+    "user_utterance": "Okay, I’ll keep it ultra-light and totally my choice. If I wake up thirsty, I might take a tiny sip of water, but I won’t push myself. If after about 12 minutes I’m still thirsty, I might consider a super tiny amount of broth or diluted juice—only if it feels doable and there’s no pressure. If I’m not thirsty, I’ll wait and see how I feel later. I tend to go with whatever feels easiest in the moment, and my surroundings influence me a lot, so please keep offering options and keep it low-pressure.",
+    "ground_truth_action": 1.8692460177785986,
+    "inferred_action": 2.5,
+    "compliance_estimate": 0.44
+  }
+]

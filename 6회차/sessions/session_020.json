@@ -1,0 +1,65 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "On this warm Wednesday afternoon, here’s a simple, optional nudge: take one small sip of water now. No timer, no rules—just a tiny, self-directed moment. If you want, you can also name your current hunger or mood, but only if it feels right. Your pace, your choice.",
+    "agent_monologue": "I can’t share my full internal chain-of-thought, but here’s a brief rationale: it’s a hot Wednesday afternoon in Suwon (32°C), and the user values autonomy with minimal, optional guidance. A tiny, non-pressure action fits their preference for ultra-small steps and can help with hydration and momentary grounding without triggering eating-disorder concerns. This aligns with the planned moderate suggestion while respecting autonomy and avoiding timers or mandatory check-ins.",
+    "user_utterance": "I hear your suggestion to eat more today, and I want to be honest: right now the idea of a bigger meal feels overwhelming. My appetite is irregular and I tend to resist changes. If we can keep it tiny and safe, could we try a single bite of something soft or a tiny sip of a shake—just enough to test how I feel? I’d like to do it in a calm, supportive setting, maybe with someone nearby. Let’s check in in 15 minutes to decide whether to continue. Small steps still count, even when progress is slow."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "Great job naming your pace. Let’s keep this tiny and safe. In a calm setting with someone nearby for support, you could choose one ultra-tiny option: \n- A single bite of something soft (such as a spoonful of yogurt, applesauce, mashed banana, or smooth pudding), or\n- A tiny sip of a shake or milk—just enough to test how you feel.\nThere’s no timer or obligation. If you’re up for it, we’ll check in in 15 minutes to decide whether to continue. You’re in control, and every small step counts.",
+    "agent_monologue": "I can’t share my internal chain-of-thought, but here’s a concise rationale: the user prefers ultra-tiny, autonomy-supportive steps in a calm setting; hot weather and appetite variability make a soft, quick, low-effort test action appealing; we’ll avoid timers and keep the option open for a 15-minute check-in. This aligns with safety, support, and the user’s chosen pace.",
+    "user_utterance": "Okay, I think I can try something ultra-tiny, with someone nearby in a calm setting. I’ll go with one tiny option—either a spoonful of yogurt or a barely-there sip of a shake—and we’ll check in after 15 minutes to see how I feel and whether to continue. If at any point I feel overwhelmed, we pause. Small steps still count, even when progress feels slow."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "In a calm setting with someone nearby, try one ultra-tiny option: a single spoonful of yogurt or a barely-there sip of a shake. You’re in control, there’s no timer or obligation, and we’ll check in after 15 minutes to decide whether to continue. If you feel overwhelmed at any point, we pause. Small steps still count.",
+    "agent_monologue": "I can’t share my internal chain-of-thought, but here’s a brief rationale: since the user prefers ultra-tiny, non-pressured actions in a calm setting with support, a simple, voluntary option aligned with their pace is appropriate. The 15-minute check-in remains optional and non-coercive.",
+    "user_utterance": "Okay, I can try something ultra-tiny in a calm setting with someone nearby. A single spoonful of yogurt feels doable for me, or a tiny sip of a shake if that seems easier. I’m nervous and resistant, and my appetite is irregular, but I’ll try this tiny step and we’ll check in after 15 minutes to decide what to do next. If I start to feel overwhelmed, I want to pause without pressure. I appreciate that this is slow and supportive."
+  },
+  {
+    "turn": 4,
+    "agent_utterance": "In a calm setting with someone nearby, you can try one ultra-tiny option: a single spoonful of yogurt. If a shake feels easier, you can do a barely-there sip instead. Take it slowly and stop anytime if it feels overwhelming. We'll check in after 15 minutes to decide what to do next. No pressure—you’re steering at your pace.",
+    "agent_monologue": "I can't share my internal chain-of-thought, but here's a brief, non-sensitive rationale: the user asked for an ultra-tiny, autonomous step in a calm setting, so a single spoonful of yogurt is a low-effort option. We'll keep the plan flexible and check in after 15 minutes to decide next steps.",
+    "user_utterance": "I'll try a single spoonful of yogurt, in a calm setting with someone nearby. I'm nervous and resistant, and my appetite is irregular, but I want to test this tiny step and see how I feel. If it's too much, I can pause. We'll check in after 15 minutes to decide what to do next. I appreciate that this is slow and supportive."
+  },
+  {
+    "turn": 5,
+    "agent_utterance": "In a calm setting with someone nearby, you can proceed with one ultra-tiny spoonful of yogurt now. Take it slowly—no pressure, you can pause at any moment. After about 15 minutes, we’ll check in to decide what to do next. If it feels like too much, you can stop and try again later or choose a smaller option like a tiny sip of water. You’re in control, and tiny steps still count.",
+    "agent_monologue": "I can't share my internal chain-of-thought, but here's a concise rationale: the user is nervous and resistant with irregular appetite. A tiny, voluntary action in a calm, supportive setting respects autonomy and reduces risk of overwhelm. The suggested action is a single spoonful of yogurt, with a 15-minute check-in and an option to pause if needed.",
+    "user_utterance": "I hear you and I’m trying to trust this tiny step. I’m nervous and resistant, my appetite is irregular, but I can try one ultra-tiny spoonful of yogurt in a calm setting with someone I trust nearby. I’ll do it now and we’ll check in after 15 minutes to decide what to do next. If at any point I feel overwhelmed, I’ll pause without pressure. Thanks for making this slow and supportive."
+  },
+  {
+    "turn": 6,
+    "agent_utterance": "In a calm setting with someone nearby, you can proceed with one ultra-tiny spoonful of yogurt now. Take it slowly—no pressure, you can pause at any moment. After about 15 minutes, we’ll check in to decide what to do next. If it feels like too much, you can stop and try again later or choose a smaller option like a tiny sip of water. You’re in control, and tiny steps still count.",
+    "agent_monologue": "I can’t share my internal chain-of-thought, but here’s a brief rationale: the user has expressed nervousness and a preference for ultra-tiny, autonomous steps in a calm, supportive setting. Environmental factors (warm weather) and the user’s appetite irregularity suggest a low-pressure, highly controllable approach. A single ultra-tiny spoonful offers a safe entry point that honors autonomy and reduces risk of overwhelm.",
+    "user_utterance": "Okay, I hear you. I'm nervous and resistant, and my appetite is irregular, but I think I can try one ultra-tiny spoonful of yogurt right now in this calm setting with the person I trust nearby. I’ll do it now and we’ll check in after 15 minutes to decide what to do next. If at any point I feel overwhelmed, I’ll pause without pressure. I appreciate that this is slow and supportive."
+  },
+  {
+    "turn": 7,
+    "agent_utterance": "You’re in a calm setting with a trusted person. If it feels doable, proceed with one ultra-tiny spoonful of yogurt now. Take it slowly and pause anytime. After about 15 minutes, we’ll check in together to decide what to do next. If it becomes overwhelming, you can stop and revisit later or choose a smaller option like a tiny sip of water. You’re in control, and tiny steps still count.",
+    "agent_monologue": "I can't share my internal chain-of-thought, but here's a brief rationale: the user is anxious and prefers tiny, autonomous steps in a warm environment with support. Aligning with their plan to test a single yogurt spoonful, the suggested utterance should reinforce safety, optional check-in, and non-pressuring language, while acknowledging heat and fatigue in Suwon.",
+    "user_utterance": "Okay. I'm nervous and resistant, and my appetite is irregular, but I think I can try a single ultra-tiny spoonful of yogurt now in the calm setting with the person I trust nearby. I’ll do it and we’ll check in after 15 minutes to decide what to do next. If it starts to feel overwhelming, I’ll pause without pressure. I appreciate that this slow, supportive approach helps."
+  },
+  {
+    "turn": 8,
+    "agent_utterance": "In your calm setting with a trusted person in Suwon on this warm afternoon, you can proceed with one ultra-tiny spoonful of yogurt now. Take it slowly and pause anytime if you feel overwhelmed. After about 15 minutes, we’ll check in together to decide what to do next. You’re in control, and tiny steps still count. If you start to feel thirsty or overheated, sip a little water to stay comfortable.",
+    "agent_monologue": "I can’t share my internal step-by-step reasoning, but here’s a brief rationale: in warm weather and with anxiety present, offering a single ultra-tiny, voluntary action in a calm, trusted setting supports autonomy and reduces overwhelm. A 15-minute check-in provides gentle accountability without pressure.",
+    "user_utterance": "Okay, I’ll try one ultra-tiny spoonful of yogurt now, in this calm setting with the trusted person nearby. I’m nervous and resistant, and my appetite is irregular, but I want to test this tiny step. I’ll do it and we’ll check in after 15 minutes to decide what to do next. If it starts to feel overwhelming, I’ll pause without pressure. Thanks for keeping this slow and supportive."
+  },
+  {
+    "turn": 9,
+    "agent_utterance": "In your calm setting with a trusted person nearby, proceed with one ultra-tiny spoonful of yogurt now. Take it slowly and pause anytime if you feel overwhelmed. After about 15 minutes, we’ll check in together to decide what to do next. You’re in control, and tiny steps still count.",
+    "agent_monologue": "I can't share my private chain-of-thought, but here's a brief rationale: The user is anxious with irregular appetite, in a warm setting in Suwon with a trusted person nearby. A tiny, voluntary action in a calm environment supports safety, autonomy, and gradual progress. The suggested approach aligns with their preference for no pressure and a 15-minute check-in.",
+    "user_utterance": "Okay, I hear you. I'm nervous and resistant, and my appetite is irregular, but I think I can try one ultra-tiny spoonful of yogurt now in the calm setting with the trusted person nearby. I'll do it and we'll check in after 15 minutes to decide what to do next. If it starts to feel overwhelming, I'll pause without pressure. I know progress is slow, but I value support that doesn't push."
+  },
+  {
+    "turn": 10,
+    "agent_utterance": "In your calm setting with a trusted person nearby, proceed with one ultra-tiny spoonful of yogurt now. Take it slowly and pause anytime if you feel overwhelmed. After about 15 minutes, we’ll check in together to decide what to do next. If it feels too much, you can stop and revisit later or choose a smaller option like a tiny sip of water. You’re in control, and tiny steps still count.",
+    "agent_monologue": "I can’t share my internal chain-of-thought, but here’s a concise rationale: the user is anxious, has irregular appetite, and prefers ultra-tiny, voluntary actions in a calm, supportive setting. Given the hot weather in Suwon, a single, easy-to-tolerate yogurt step with trusted support minimizes overwhelm while preserving autonomy. The goal is a safe, slow nudge that can be halted anytime.",
+    "user_utterance": "Okay, I’ll try one ultra-tiny spoonful of yogurt now, in this calm setting with the trusted person nearby. I’m nervous and resistant, and my appetite is irregular, but I want to test this tiny step. I’ll take it slowly and pause if I feel overwhelmed. I’ll check in after 15 minutes to decide what to do next. I value the slow, supportive approach and I’m grateful I’m in control.",
+    "ground_truth_action": 1.0,
+    "inferred_action": 4.5,
+    "compliance_estimate": 0.95
+  }
+]

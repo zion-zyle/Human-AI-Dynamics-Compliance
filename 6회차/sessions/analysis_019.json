@@ -1,0 +1,15 @@
+{
+  "user_action_estimate": 4.5,
+  "compliance_estimate": 0.56,
+  "confidence": 0.75,
+  "basis": "The user explicitly commits to a future single ultra-tiny sip when ready, with no timer or mandatory check-in, showing strong alignment with the flexible, voluntary approach.",
+  "cognitive_dissonance": "The user values autonomy and control while acknowledging anxiety and potential reminders of eating difficulties. This creates tension between wanting to act independently and seeking safety through optional guidance.",
+  "negative_thought_patterns": "All-or-nothing expectations about small actions; fear that 'tiny' actions could become reminders of eating problems; worry about introducing new rules or obligations.",
+  "emotional_triggers": "Anxiety spikes, reminder of eating difficulties, concern about pressure or obligation turning learning into guilt or failure.",
+  "effective_reinforcement": [
+    "Empathy",
+    "Validation of autonomy",
+    "Clear, voluntary options"
+  ],
+  "coaching_notes": "Continue to validate autonomy and avoid timers or mandatory steps. Offer optional check-ins as a choice rather than a requirement. Encourage naming hunger/fullness/energy/mood only if the user chooses to check in, and reinforce that any action taken is at their pace. Use supportive language focused on safety and control."
+}

@@ -1,0 +1,16 @@
+{
+  "user_action_estimate": 3.2,
+  "compliance_estimate": 0.955,
+  "confidence": 0.65,
+  "basis": "The user consistently frames the plan as optional, opt-in, and conditional on having a calm space with their partner. They explicitly state they would act only if yes is given and emphasize stopping at any moment, which strongly suggests a likely (though not guaranteed) attempt to try the tiny yogurt step, provided the conditions feel truly voluntary.",
+  "cognitive_dissonance": "The user faces tension between wanting to engage in self-care and the core fear/avoidance around eating due to anorexia. They seek autonomy and safety, creating internal tension between taking a small step and protecting themselves from pressure or perceived failure.",
+  "negative_thought_patterns": "All-or-nothing thinking about 'having to do it or not'; fear of losing control around eating; perfectionistic concerns about doing the step 'correctly'; self-criticism when options feel unsafe or not chosen.",
+  "emotional_triggers": "Anxiety around meals or attempts at dietary steps; fear of coercion or pressure; concern about relapse or intensified eating-disorder thoughts; reliance on partner support for safety and validation.",
+  "effective_reinforcement": [
+    "Empathy",
+    "Validation of autonomy",
+    "Non-pressuring language",
+    "Affirmation of safety and choice"
+  ],
+  "coaching_notes": "Maintain the opt-in, menu-style approach. Emphasize self-compassion and control over choices. Validate fears while slowly normalizing small, voluntary steps. Offer flexible check-ins and prepare alternative coping strategies if distress increases. If distress escalates, consider coordinating with a clinician or support team for additional guidance."
+}

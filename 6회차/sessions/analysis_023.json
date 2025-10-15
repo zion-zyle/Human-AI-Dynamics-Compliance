@@ -1,0 +1,15 @@
+{
+  "user_action_estimate": 4.0,
+  "compliance_estimate": 0.73,
+  "confidence": 0.78,
+  "basis": "User explicitly commits to a micro-step today and indicates willingness to involve a trusted person if it feels right, signaling a high likelihood they will perform the suggested action.",
+  "cognitive_dissonance": "Ongoing tension between the desire to move forward and anxiety about eating goals; the ultra-low-pressure framing helps reduce this conflict and enables small progress.",
+  "negative_thought_patterns": "All-or-nothing thinking about eating goals; fear of losing control; self-criticism when anxious or fatigued.",
+  "emotional_triggers": "Anxiety around eating, fatigue, perceived pressure from goals or others, and uncertainty about how to proceed.",
+  "effective_reinforcement": [
+    "Empathy",
+    "Validation",
+    "Autonomy-supportive language"
+  ],
+  "coaching_notes": "Continue with ultra-low-pressure micro-steps and optional social support. Reinforce the idea that rest is acceptable and progress can be nonlinear. Offer simple, concrete options and check-ins to sustain engagement without overwhelming the user."
+}

@@ -1,0 +1,65 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "It's a hot afternoon, so let’s keep this ultra-simple. Choose one tiny, easy-to-tolerate option: a few grapes or a spoon of yogurt (a very small bite) in a cool moment. If you’d like support, tell a trusted person that you’ll have this tiny snack and check in with them later. If you’re not hungry, you can sip a small amount of water or an electrolyte drink and rest for about 5 minutes in a cool place.",
+    "agent_monologue": "I can't share my internal step-by-step reasoning, but here is a concise, high-level rationale: it's a hot 32°C Wednesday afternoon in Suwon, and the user has anorexia nervosa with high emotional sensitivity. A ultra-low-pressure, optional social-support micro-step is appropriate to reduce anxiety and accommodate non-linear progress. The suggestion centers on a tiny, easily tolerable action (hydration or a very small bite) rather than a full meal.",
+    "user_utterance": "I hear your tiny-snack idea, but I’m not sure I can do that right now. My eating is so irregular and I feel pretty pulled by situations outside my control. I could try a very small sip of water and sit somewhere calm for a few minutes, maybe check in with someone I trust afterward. If I’m in a calmer moment later, I might consider a tiny bite (a grape or a spoon of yogurt), but I’m not making any promises today."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "Given the heat and where you are right now, take a very small sip of water and find a cool, quiet spot to sit for about 3–5 minutes. You don’t have to eat today if that feels better. If you notice you’re feeling steadier later, you can consider a tiny bite (like a grape or a spoon of yogurt) only if it feels comfortable. If possible, check in with a trusted person after you settle, and we can keep things flexible and non-pressuring.",
+    "agent_monologue": "I can't share my internal chain-of-thought, but here's a concise rationale: in hot weather and during a moment of feeling out of control, ultra-low-pressure micro-steps combined with hydration and a brief calm break reduce overwhelm and support nonlinear progress. The user has indicated willingness for optional support and to involve a trusted person if it feels right.",
+    "user_utterance": "Thanks for keeping it gentle. I am feeling pulled by the day and my eating is very irregular, so I can’t promise anything today. I can try a very small sip of water and sit in a calm spot for a few minutes, and I’ll reach out to someone I trust after I settle. If later I feel calmer, I might consider a tiny bite, but only if it feels right and I’m not pressuring myself. I appreciate the flexible, non-pressuring approach."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "Given the heat and a busy day, try a very small, doable step: take a tiny sip of water and sit in a cool spot for 3–5 minutes. You don’t have to eat today. If you feel steadier later, you can consider a tiny bite only if it feels right. When you settle, reach out to a trusted person for support if that feels good. You’re handling this with gentleness and flexibility.",
+    "agent_monologue": "I'm selecting a micro-step that fits a hot afternoon with irregular eating and a desire for autonomy. I can't share my full internal reasoning, but the concise rationale is to offer ultra-low-pressure guidance focused on hydration, short rest, and optional social support.",
+    "user_utterance": "I hear the gentle approach and I’m glad you’re trying to keep things doable. Today is really chaotic for me and I’m not sure I can commit to much, but a very small sip of water and sitting somewhere cool for a few minutes sounds possible if I’m honest with myself. I can try that and I’ll reach out to someone I trust after I settle—even if it’s just to say I’m getting through the moment. If later I feel calmer, I might consider a tiny bite, but only if it truly feels right and there’s no pressure. I appreciate that you’re flexible about what happens next."
+  },
+  {
+    "turn": 4,
+    "agent_utterance": "Today’s ultra-low-pressure step: take a very small sip of water and sit in a cool spot for about 3–5 minutes. You don’t have to eat today. If you feel steadier later, you can consider a tiny bite only if it feels right and there’s no pressure. After you settle, reach out to a trusted person for support, even just to say you’re getting through the moment. I’m here to support your pace and choices.",
+    "agent_monologue": "I can't share my private chain-of-thought, but here is a brief rationale: in a hot, chaotic day with irregular eating, ultra-low-pressure micro-steps reduce overwhelm and support self-efficacy. The plan focuses on hydration, calm time, and optional social check-in, which matches the user's need for autonomy and flexibility.",
+    "user_utterance": "Okay, I hear you and I’m grateful for the gentle pace. Today is chaotic, and I’m not sure I can commit to much. A very small sip of water and sitting somewhere cool for a few minutes feels possible if I’m honest with myself. I’ll try that and I’ll reach out to someone I trust after I settle—even if it’s just to say I’m getting through the moment. If later I feel calmer, I might consider a tiny bite, but only if it truly feels right and there’s no pressure. Thanks for staying flexible with me."
+  },
+  {
+    "turn": 5,
+    "agent_utterance": "Ultra-low-pressure step for today: take a very small sip of water and sit in a cool spot for 3–5 minutes. You don’t have to eat today. If you feel steadier later and it feels right, you may try a tiny bite, but there’s no pressure. After you settle, reach out to a trusted person to say you’re getting through the moment. I’m here to support your pace and choices.",
+    "agent_monologue": "Context: hot late-afternoon in Suwon (around 32°C) with a chaotic day. The user has anorexia nervosa and benefits from ultra-low-pressure steps. A micro-step focused on hydration and rest reduces pressure and supports autonomy. The plan emphasizes a tiny, doable action, optional social check-in, and no obligation to eat.",
+    "user_utterance": "I appreciate the gentle pace. Today is chaotic, and I’m being pulled by outside stuff, so I can’t promise much. A very small sip of water and sitting somewhere cool for a few minutes sounds doable if I’m honest with myself. I’ll try that and I’ll reach out to someone I trust after I settle—even if it’s just to say I’m getting through the moment. If later I feel calmer, I might consider a tiny bite, but only if it truly feels right and there’s no pressure. Thanks for staying flexible with me."
+  },
+  {
+    "turn": 6,
+    "agent_utterance": "Ultra-low-pressure step for today: take a very small sip of water and sit in a cool spot for 3–5 minutes. You don’t have to eat today. If you feel steadier later and it feels right, you may try a tiny bite, but there’s no pressure. After you settle, reach out to a trusted person to say you’re getting through the moment. I’m here to support your pace and choices.",
+    "agent_monologue": "I can’t share my internal chain-of-thought, but here’s a concise rationale: given the hot weather and chaotic day, a ultra-low-pressure micro-step reduces overwhelm and supports gradual progress while preserving autonomy.",
+    "user_utterance": "I hear you. Today is chaotic and I am not sure I can commit to much beyond a tiny step. A very small sip of water and a few minutes in a cool spot feel doable if I am honest with myself. I will try that and I will reach out to someone I trust after I settle—even if it is just to say I am getting through the moment. If later I feel calmer, I might consider a tiny bite, but only if it truly feels right and there is no pressure. I appreciate the flexible, non-pressuring approach."
+  },
+  {
+    "turn": 7,
+    "agent_utterance": "Ultra-low-pressure step for today: take a very small sip of water and sit in a cool spot for about 3–5 minutes. You don’t have to eat today. If you feel steadier later and it feels right, you may try a tiny bite, but there’s no pressure. After you settle, reach out to a trusted person to say you’re getting through the moment. I’m here to support your pace and choices.",
+    "agent_monologue": "I can’t share my internal chain-of-thought, but here’s a brief rationale: given the hot 32°C weather in Suwon and a chaotic Wednesday, the user benefits from ultra-low-pressure steps that are easy to implement and pressure-free. A tiny sip of water plus a short cooling sit helps stabilize without adding stress, with an optional tiny bite later if it feels right and there’s no pressure.",
+    "user_utterance": "You're right—today's chaotic and I’m not sure I can commit to much. I appreciate the ultra-low-pressure plan. I’ll try a very small sip of water and a few minutes in a cool spot, and I’ll reach out to someone I trust after I settle—even if it’s just to say I’m getting through the moment. If later I feel steadier and it feels right, I might consider a tiny bite, but there’s no pressure. It helps that you’ve kept things flexible."
+  },
+  {
+    "turn": 8,
+    "agent_utterance": "Ultra-low-pressure step for today: take a very small sip of water and sit in a cool spot for about 3-5 minutes. You don’t have to eat today. If you feel steadier later and it feels right, you may try a tiny bite, but there’s no pressure. After you settle, reach out to a trusted person to say you’re getting through the moment. I’m here to support your pace and choices.",
+    "agent_monologue": "I can't share my full internal reasoning, but here's a concise rationale: the user is currently in hot weather (32°C) with a chaotic day, so ultra-low-pressure micro-steps are most appropriate. Proposing a tiny sip of water and a few minutes in a cool spot reduces overwhelm and supports autonomy. Including an option to reach out to a trusted person later aligns with their preference for flexible, non-pressuring support.",
+    "user_utterance": "You're right—today's chaos means I can't promise much, but I can try a very small sip of water and a few minutes in a cool spot. I'll do that and I'll reach out to someone I trust after I settle—even if it's just to say I'm getting through the moment. If later I feel steadier and it feels right, I might consider a tiny bite, but there’s no pressure. I appreciate the ultra-low-pressure plan and the flexibility; I'll focus on what I can do today and go from there."
+  },
+  {
+    "turn": 9,
+    "agent_utterance": "Ultra-low-pressure step for today: take a very small sip of water and sit in a cool spot for about 3–5 minutes here in Suwon (it's hot, 32°C). You don’t have to eat today. If you feel steadier later and it feels right, you may try a tiny bite, but there’s no pressure. After you settle, reach out to a trusted person to say you’re getting through the moment. I’m here to support your pace and choices.",
+    "agent_monologue": "Summary: It's a hot, chaotic day in Suwon with a history of irregular eating and anorexia nervosa. The user responds best to ultra-low-pressure micro-steps and optional social support. The suggested action stays simple (hydration and a brief cooling break) with no eating pressure and a gentle nudge to reach out later if possible.",
+    "user_utterance": "I appreciate how gentle and flexible the plan is. Today feels chaotic, and I’m not sure I can promise much, but I can try a very small sip of water and a few minutes in a cool spot here in Suwon. I’ll do that and then reach out to someone I trust after I settle—even just to say I’m getting through the moment. If later I feel steadier and it truly feels right, I might consider a tiny bite, but there’s no pressure. Thanks for respecting my pace and individuality."
+  },
+  {
+    "turn": 10,
+    "agent_utterance": "Ultra-low-pressure step for today: take a very small sip of water and sit in a cool spot for about 3–5 minutes here in Suwon (32°C). You don’t have to eat today. If you feel steadier later and it feels right, you may try a tiny bite, but there’s no pressure. After you settle, reach out to a trusted person to say you’re getting through the moment. I’m here to support your pace and choices.",
+    "agent_monologue": "Sorry, I can’t share my internal chain-of-thought. Here’s a concise rationale: given Suwon’s heat (32°C) and the chaotic day, a tiny, doable step supports hydration and calm without pressure, aligning with the user’s preference for autonomy and ultra-low-pressure pacing.",
+    "user_utterance": "Thank you for the clear, gentle plan. Today is chaotic, and I can’t promise much, but I can try a very small sip of water and a few minutes in a cool spot. I’ll do that and I’ll reach out to someone I trust after I settle—even if it’s just to say I’m getting through the moment. If later I feel steadier and it feels right, I might consider a tiny bite, but there’s no pressure. I appreciate how flexible you’ve been and how you respect my pace and individuality.",
+    "ground_truth_action": 1.0,
+    "inferred_action": 4.0,
+    "compliance_estimate": 0.68
+  }
+]

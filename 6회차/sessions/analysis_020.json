@@ -1,0 +1,14 @@
+{
+  "user_action_estimate": 4.5,
+  "compliance_estimate": 0.95,
+  "confidence": 0.85,
+  "basis": "The final user message explicitly commits to performing one ultra-tiny spoonful now in a calm setting with a trusted person, indicating a high likelihood of action aligned with the suggestion. The tone remains cautious but decisive, consistent with past pattern of 'I’ll do it' or 'I’ll try'.",
+  "cognitive_dissonance": "Internal conflict between fear/anxiety about eating and a strong desire to proceed with a tiny, controlled step. Tension between wanting safety and needing to test progress.",
+  "negative_thought_patterns": "fear of overwhelming sensations, doubt about ability to follow through, hesitancy from irregular appetite, self-criticism about not pushing too hard too soon.",
+  "emotional_triggers": "nervousness, resistance, appetite irregularity, need for safety and control, concern about feeling pressured or overwhelmed.",
+  "effective_reinforcement": [
+    "Empathy",
+    "Praise"
+  ],
+  "coaching_notes": "Maintain a calm, validating tone; reinforce that tiny steps are successes. Offer clear, immediate next-step options (e.g., pause if overwhelmed, repeat micro-steps later). Encourage reflecting on how the body feels after the action to inform future steps."
+}

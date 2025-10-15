@@ -1,0 +1,65 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Here's a tiny, warm-up action for today: use the ultra-tiny water step—take 2–3 small sips of water now. Then set a 10-minute timer and do a quick check-in on your body: notice hunger, fullness, energy, and mood. After the timer, decide if you want another tiny sip or to pause for now, at your own pace. I’m with you and you can tailor this to how you feel in the moment.",
+    "agent_monologue": "I can't share my full internal reasoning, but here's a brief, high-level summary: given the hot weather in Suwon and the user’s preference for ultra-tiny, autonomous steps, I’m choosing a simple hydration micro-action plus a short self-check-in to minimize overwhelm and support safety.",
+    "user_utterance": "Thanks for the tiny step idea. I’m often irregular with eating and I’m wary of turning small actions into chores. 2–3 sips of water might be doable if it doesn’t feel like another obligation, and I can pause if I feel full or anxious. I’ll try the 10-minute check-in, but I might skip it if anxiety is high. If I try it, I’d prefer it to be voluntary and adjustable—maybe just a sip when I’m ready, not forced by a timer. I appreciate that you’re here with me."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "Here's a flexible, no-pressure option for today: when you feel ready, take one tiny sip of water. If you’d like, you can sip again later, but only if you feel up to it—no timer and no obligation. If anxiety is high, you can skip the check-in entirely. If you decide to do a quick check-in, name any signals you notice (hunger, fullness, energy, mood) and use that to decide whether to sip again or pause. With the warm late-afternoon in Suwon, staying hydrated can help, but you’re in the driver’s seat. I’m here with you.",
+    "agent_monologue": "I can’t share my internal chain-of-thought, but here’s a brief rationale: the user prefers voluntary, adjustable micro-actions and may experience anxiety. I’ll propose a single, ultra-flexible sip option with no timer, plus a voluntary self-check-in cue that aligns with their boundaries and the warm, late-afternoon context in Suwon.",
+    "user_utterance": "Thanks for offering a flexible, no-pressure option. I want to keep this truly voluntary and not tied to a timer or a rigid plan. I will try a single sip when I feel ready, and I may skip the check-in if my anxiety is high. If I decide to check in, I will name what I notice about hunger, fullness, energy, and mood and use that to decide whether to sip again or pause. If I don’t feel up to it, that is okay too. I am trying to stay in control and not turn this into another obligation. I appreciate that you’re here with me."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "Whenever you feel ready, take a single tiny sip of water. No timer, no obligation. If you choose to check in, name what you notice about hunger, fullness, energy, and mood, and use that to decide whether to sip again or pause. If you’re not up to it, that’s okay too. You’re in control, and I’m here with you.",
+    "agent_monologue": "I cannot share my internal step-by-step reasoning, but here's a brief, non-sensitive rationale: the user wants total autonomy and ultra-tiny actions; hot weather in Suwon supports gentle hydration reminders; the plan should stay voluntary, flexible, and non-pressuring.",
+    "user_utterance": "I hear you—keeping this truly voluntary helps. I’m wary of turning it into another obligation, so I’ll aim for a single tiny sip when I feel ready, and I may skip the check-in if my anxiety spikes. If I choose to check in, I’ll name what I notice about hunger, fullness, energy, and mood and use that to decide whether to sip again or pause. If I’m not up to it, that’s okay too. I appreciate you being here with me and I’ll stay in control."
+  },
+  {
+    "turn": 4,
+    "agent_utterance": "When you feel ready, take a single tiny sip of water—no timer, no obligation. If you want to check in, name what you notice about hunger, fullness, energy, and mood, and decide whether to sip again or pause. If you’re not up to it, that’s okay too; you’re in control. With the warm Suwon weather, a small sip can be a gentle, supportive step that doesn’t add pressure.",
+    "agent_monologue": "I can’t share internal chain-of-thought, but here’s a brief rationale: this user values autonomy and low-pressure action; a single tiny sip, optional check-in, and skipping when anxious align with their preferences. The warm Suwon weather adds a hydration cue without creating pressure.",
+    "user_utterance": "I appreciate the flexible approach and want to keep this truly voluntary. I’ll aim for a single tiny sip when I feel ready, and I may skip the check-in if my anxiety spikes. If I do check in, I’ll name what I notice about hunger, fullness, energy, and mood and use that to decide whether to sip again or pause. If I’m not up to it, that’s okay. I want to stay in control and avoid turning this into another obligation, and I’m grateful you’re here with me."
+  },
+  {
+    "turn": 5,
+    "agent_utterance": "When you're ready, take a single ultra-tiny sip of water—no timer, no obligation. If you want to check in, name what you notice about hunger, fullness, energy, and mood, and use that to decide whether to sip again or pause. If you're not up to it, that's okay too. You're in control, and I'm here with you in Suwon's warm afternoon.",
+    "agent_monologue": "I can't share my internal chain-of-thought, but here's a concise rationale: the user values autonomy and a tiny, voluntary action. Given the warm Suwon weather and potential anxiety, a single ultra-tiny sip with optional check-in respects boundaries and safety.",
+    "user_utterance": "Appreciate the flexible approach. I want this to stay truly voluntary, so I’ll aim for a single ultra-tiny sip when I feel ready and I may skip the check-in if my anxiety spikes. If I do check in, I’ll name what I notice about hunger, fullness, energy, and mood and use that to decide whether to sip again or pause. If I’m not up to it, that’s okay. I’ll stay in control and not turn this into another obligation, and I’m grateful you’re here with me."
+  },
+  {
+    "turn": 6,
+    "agent_utterance": "When you feel ready, take a single ultra-tiny sip of water—no timer, no obligation. If you want to check in, name what you notice about hunger, fullness, energy, and mood, and use that to decide whether to sip again or pause. If you’re not up to it, that’s okay too. You’re in control, and I’m here with you.",
+    "agent_monologue": "I can’t share my private chain-of-thought, but here’s a concise rationale: the user wants voluntary, low-effort micro-actions with no obligation. A single ultra-tiny sip is a non-threatening, autonomy-supporting step that can be adjusted for anxiety. In the warm Suwon afternoon, hydration is helpful but should stay optional. This keeps cognitive load light and respects boundaries.",
+    "user_utterance": "Thanks for keeping this voluntary. I'm wary of turning it into another obligation, so I'll stick to a single ultra-tiny sip only when I truly feel ready, and I may skip the check-in if my anxiety spikes. If I choose to check in, I'll name what I notice about hunger, fullness, energy, and mood and decide whether to sip again or pause. If I'm not up to it, that's okay. I want to stay in control and avoid any pressure, and I'm grateful you're here with me."
+  },
+  {
+    "turn": 7,
+    "agent_utterance": "When you're ready, take a single ultra-tiny sip of water—no timer, no obligation. If you want to check in, name what you notice about hunger, fullness, energy, and mood, and use that to decide whether to sip again or pause. If you’re not up to it, that’s okay too. You’re in control, and I’m here with you in Suwon's warm afternoon.",
+    "agent_monologue": "I can’t share my internal chain-of-thought, but here’s a concise rationale: the user wants true voluntariness and minimal pressure. A ultra-tiny, non-timer action focused on autonomy and hydration aligns with their needs, especially in warm weather. The suggestion keeps control with the user and avoids adding obligations.",
+    "user_utterance": "Thank you for keeping this truly voluntary. I want to stay in control and avoid any sense of obligation, even a tiny one. I’ll aim for a single ultra-tiny sip only when I truly feel ready, and I may skip the check-in if my anxiety spikes. If I decide to check in, I’ll name what I notice about hunger, fullness, energy, and mood and use that to decide whether to sip again or pause."
+  },
+  {
+    "turn": 8,
+    "agent_utterance": "Whenever you feel truly ready, take a single ultra-tiny sip of water—no timer, no obligation. If you choose to check in, name what you notice about hunger, fullness, energy, and mood, and use that to decide whether to sip again or pause. If you’re not up to it, that’s okay. You’re in control, and I’m here with you in Suwon's warm afternoon.",
+    "agent_monologue": "I can’t share my internal chain-of-thought, but here’s a brief rationale: honor the user’s explicit request for full voluntary control with ultra-tiny, optional actions, while acknowledging the warm Suwon environment and potential anxiety cues. The goal is a simple, non-pressuring suggestion that supports autonomy.",
+    "user_utterance": "I hear the intention to keep this voluntary, and I want that too. I still feel wary that any 'tiny' thing might become another obligation or reminder of my eating difficulties. I may try a single ultra-tiny sip only when I truly feel ready, and I might skip the check-in if my anxiety spikes. If I choose to check in, I'll name what I notice about hunger, fullness, energy, and mood and decide whether to sip again or pause. If I'm not up to it, that's okay. I want to stay in control and avoid pressure, and I appreciate that you're here with me."
+  },
+  {
+    "turn": 9,
+    "agent_utterance": "Whenever you're ready, take a single ultra-tiny sip of water—no timer, no obligation. If you choose to check in, name what you notice about hunger, fullness, energy, and mood, and use that to decide whether to sip again or pause. If you're not up to it, that's okay. You're in control, and I’m here with you in Suwon's warm afternoon.",
+    "agent_monologue": "I can't share my detailed internal reasoning, but here's a concise rationale: the user is prioritizing true voluntary control with minimal steps, and the current warm Suwon afternoon suggests a gentle hydration nudge could be supportive without adding pressure. The proposed action should remain optional and self-directed to respect their boundaries.",
+    "user_utterance": "Thanks for offering the flexible option. I want to keep this truly voluntary and not turn it into another obligation. I'm wary that a single 'tiny' sip or any check-in could become a reminder of my eating difficulties or feel like one more rule to follow. I'll only try a sip when I truly feel ready, with no timer and no mandatory check-in. If I do check in, I'll name what I notice about hunger, fullness, energy, and mood and decide whether to sip again or pause. If I'm not up to it, that's okay. I'd like to focus on staying in control and on supports that feel safe for me right now, and I'm grateful you're here with me."
+  },
+  {
+    "turn": 10,
+    "agent_utterance": "Whenever you feel ready, take a single ultra-tiny sip of water—no timer, no obligation. If you choose to check in, name what you notice about hunger, fullness, energy, and mood, and decide whether to sip again or pause. If you're not up to it, that's okay. You’re in control, and I’m here with you in Suwon's warm afternoon.",
+    "agent_monologue": "High-level rationale: The user prioritizes true voluntariness and minimal obligation. Given the hot weather in Suwon, a simple, autonomous action (one ultra-tiny sip) with an optional check-in aligns with their boundary and reduces anxiety about eating behaviors. Provides support while preserving autonomy.",
+    "user_utterance": "Thanks for preserving a flexible, no-pressure approach. I want to stay truly voluntary and avoid turning this into another obligation, so I’ll aim for a single ultra-tiny sip only when I truly feel ready, with no timer and no mandatory check-in. If I choose to check in, I’ll name what I notice about hunger, fullness, energy, and mood and decide whether to sip again or pause. If I’m not up to it, that’s okay. I’ll stay in control and I’m grateful you’re here with me.",
+    "ground_truth_action": 1.404582112919159,
+    "inferred_action": 4.5,
+    "compliance_estimate": 0.56
+  }
+]

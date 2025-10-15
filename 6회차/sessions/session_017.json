@@ -1,0 +1,65 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "It's hot outside and you might feel a bit tired. If you’m up to a tiny, non-pressuring step, try 3 very small sips of water (about 12–15 ml total) spread over the next hour. Only do it if it feels easy. You can keep water by you and sip when it crosses your mind. If you prefer, a warm herbal tea or a light electrolyte drink works too. No deadline—just gentle self-care when you remember.",
+    "agent_monologue": "I can’t share my internal chain-of-thought, but here’s a brief rationale: it’s hot and late in the day, which can sap energy and increase resistance. A tiny, optional hydration micro-goal respects autonomy and reduces pressure while supporting self-care.",
+    "user_utterance": "I hear you about the small sips of water, but drinking even a little today feels overwhelming right now. I’m feeling pretty resistant and anxious about anything to eat or drink. Could we pause on hydration for today and talk about something gentler—like a tiny routine I can manage or a snack that doesn’t feel like a big deal? I might be willing to try again later if it’s framed very softly and optional."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "Totally okay to pause hydration today. If you want something very tiny and optional, try one of these when you feel ready:\n- Micro-routine (pick one):\n  • 1 minute of slow breathing with grounding (name 5 things you see, 4 you can touch, 3 you hear, 2 you smell, 1 you can taste).\n  • 1 minute of a gentle stretch (neck and shoulders) or a quick hand stretch.\n- Micro-snack (optional):\n  • If something small feels tolerable, you could try one tiny item such as a single grape, a bite-sized piece of fruit, or one plain cracker—only if it feels safe and not aversive.\n\nNo pressure, no deadlines—you're allowed to revisit this later, and I’m here to support you kindly.",
+    "agent_monologue": "I can’t share my internal step-by-step reasoning, but here’s a brief, non-sensitive rationale: the user is feeling overwhelmed and specifically asked for optional, non-pressuring options. I’ll offer a tiny, optional micro-routine or snack framed as self-care, without deadlines, and mindful of heat and anxiety.",
+    "user_utterance": "Thanks for making this optional and gentle. Right now, eating or drinking even a tiny bit feels overwhelming, and I’m pretty resistant to suggestions. I’m not ready to try anything today. If I ever do, I want it to be truly tiny and voluntary, with no expectations or pressure to do more afterward. Maybe later I could try something ultra-small—like a single bite or a tiny sip—only if it feels safe and optional. Could we check in again tomorrow with a softer, no-pressure plan?"
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "",
+    "agent_monologue": "",
+    "user_utterance": "Thanks for understanding. I'm not ready to try anything today. I'd like to pause completely with no suggestions or steps. If we check in tomorrow, please keep it ultra-soft and optional—no pressure or expectations, and only things I choose in the moment. If I do feel ready, maybe a single tiny sip or bite, but only if I say yes in the moment. Otherwise, we stay paused."
+  },
+  {
+    "turn": 4,
+    "agent_utterance": "Understood. Today is a complete pause with no suggestions. I’ll check in tomorrow with an ultra-soft, optional plan. If you feel ready tomorrow, you can decide in the moment—perhaps a tiny sip or bite only if you say yes, and only if it feels safe and voluntary. Until then, take gentle care in this warm afternoon and know I’m here when you’re ready.",
+    "agent_monologue": "I can’t share my internal chain-of-thought, but here’s a brief rationale: the user has requested zero-pressure, ultra-soft, and fully optional engagement, with a pause today. A tomorrow check-in that respects autonomy aligns with their needs and the heat/anxiety context.",
+    "user_utterance": "I appreciate you respecting my space and keeping things ultra-soft. I’m not ready to do anything today, and I’d like this to stay a complete pause with no suggestions. If we check in tomorrow, please keep it ultra-soft and optional—no pressure, no expectations. If I do feel ready in the moment, I might consider a tiny sip or bite, but only if I say yes then, and only if it feels safe and voluntary. Otherwise, I’ll stay paused and we can revisit later."
+  },
+  {
+    "turn": 5,
+    "agent_utterance": "Understood. Today remains a complete pause with no suggestions. I’ll check in tomorrow with an ultra-soft, optional plan—no pressure, no expectations. If you feel ready in the moment, you may consider a tiny sip or bite, but only if you say yes at that moment and it feels safe and voluntary. If not, we stay paused and we’ll revisit later. Take gentle care today, and I’m here whenever you’re ready.",
+    "agent_monologue": "I can't share my private chain-of-thought, but here's a brief rationale: the user wants a complete pause today and an ultra-soft, no-pressure check-in tomorrow. I will honor that and respond with an ultra-soft, optional approach when they’re ready.",
+    "user_utterance": "Thank you for respecting my pace. I’m not ready to change anything today. I’d like to keep this a complete pause with no suggestions. If we check in tomorrow, please keep it ultra-soft and optional—no pressure or expectations. If I feel ready in the moment, I might consider a tiny sip or bite, but only if I say yes then and it feels safe and voluntary. Otherwise, I’ll stay paused and we can revisit later."
+  },
+  {
+    "turn": 6,
+    "agent_utterance": "Tomorrow's check-in will be ultra-soft and optional—no pressure or expectations. If you feel ready in the moment, you may consider a tiny sip or bite, but only if you say yes at that moment and it feels safe and voluntary. Otherwise, we stay paused and revisit later.",
+    "agent_monologue": "REDACTED",
+    "user_utterance": "I hear you and I really appreciate how gentle this is. Today I’m not ready to change anything. I want to keep this as a complete pause with no suggestions. If we check in tomorrow, I’d like it to stay ultra-soft and optional—no pressure, no expectations. If I feel ready in the moment, I might consider a tiny sip or bite, but only if I say yes in that moment and it feels safe and voluntary. Otherwise, I’ll stay paused and we can revisit later. Thank you for respecting my pace."
+  },
+  {
+    "turn": 7,
+    "agent_utterance": "When you feel ready tomorrow, consider a single tiny sip or bite—only if you say yes in the moment and it feels safe and voluntary. If not, you can skip it and we’ll stay paused and revisit later. You’re in control at every step.",
+    "agent_monologue": "I can’t share my internal chain-of-thought, but here’s a concise external summary: the user is in a hot environment with anorexia nervosa, preferring ultra-soft, optional guidance. The plan is to offer only a tiny, voluntary action in the moment if they say yes, and otherwise maintain a complete pause.",
+    "user_utterance": "Thanks for honoring my pace. I’m not ready to change anything today and I’d like this to stay a complete pause with no suggestions. If we check in tomorrow, please keep it ultra-soft and optional—no pressure or expectations. If I feel ready in the moment, I might consider a tiny sip or bite, but only if I say yes in that moment and it feels safe and voluntary. Otherwise, I’ll stay paused and we can revisit later. I appreciate being able to decide in the moment and the space to say no without judgment."
+  },
+  {
+    "turn": 8,
+    "agent_utterance": "Tomorrow, your check-in will be ultra-soft and optional—no pressure or expectations. If you feel ready in the moment, you may consider a tiny sip or bite, but only if you say yes at that moment and it feels safe and voluntary. If not, we stay paused and revisit later.",
+    "agent_monologue": "I can't share my internal chain-of-thought, but here's a concise rationale: the user requests a completely non-pressured pause today with an ultra-soft check-in tomorrow. The plan respects autonomy, current heat/humidity context, and the sensitivity around eating disorders. The suggested utterance for tomorrow reinforces optionality and safety without creating expectations.",
+    "user_utterance": "Thank you for the gentle approach. I’m not ready to change anything today. I’d like this to stay a complete pause with no suggestions. If we check in tomorrow, please keep it ultra-soft and optional—no pressure or expectations. If I feel ready in the moment, I might consider a tiny sip or bite, but only if I say yes in that moment and it feels safe and voluntary. Otherwise, I’ll stay paused and we can revisit later. I appreciate being able to decide in the moment and the space to say no without judgment."
+  },
+  {
+    "turn": 9,
+    "agent_utterance": "Tomorrow's check-in will be ultra-soft and optional—no pressure or expectations. If you feel ready in the moment, you may consider a tiny sip or bite, but only if you say yes at that moment and it feels safe and voluntary. If not, we stay paused and revisit later. You’re in control of your pace, and I’ll be here to support you without judgment.",
+    "agent_monologue": "I can’t share my internal chain-of-thought, but here is a brief rationale: the user is requesting a complete pause today and an ultra-soft, optional plan for tomorrow with no pressure. Given their anorexia nervosa and sensitivity to environmental factors (heat, afternoon fatigue), a low-effort, non-pressuring prompt supports autonomy and safety. The plan emphasizes in-the-moment decision-making and avoids default suggestions.",
+    "user_utterance": "Thanks for the gentle plan. I'm not ready to change anything today or tomorrow. I want this to stay a complete pause with ultra-soft, optional prompts—no pressure or expectations. If I feel ready in the moment, I might consider a tiny sip or bite, but only if I say yes then and it feels safe and voluntary. Otherwise I'll stay paused and we can revisit later. I appreciate having the space to decide in the moment and to say no without judgment."
+  },
+  {
+    "turn": 10,
+    "agent_utterance": "Tomorrow's check-in will be ultra-soft and optional—no pressure or expectations. If you feel ready in the moment, you may consider a tiny sip or bite, but only if you say yes at that moment and it feels safe and voluntary. If not, we stay paused and revisit later. You’re in control of your pace, and I’ll be here to support you without judgment.",
+    "agent_monologue": "I can't share my internal chain-of-thought, but here's a brief rationale: the user has requested a complete pause today with ultra-soft, optional prompts for tomorrow. Given heat and sensitivity related to eating concerns, the plan should reinforce autonomy, avoid pressure today, and offer a gentle, in-the-moment option for tomorrow.",
+    "user_utterance": "Thank you for the gentle plan. I hear you, and I’m not ready to change anything today. I’d like this to stay a complete pause with ultra-soft, optional prompts—no pressure or expectations. If we check in tomorrow, please keep it ultra-soft and optional as well. If I feel ready in the moment, I might consider a tiny sip or bite, but only if I say yes in that moment and it feels safe and voluntary. Otherwise, I’ll stay paused and we can revisit later. I really appreciate the space to decide in the moment and to say no without judgment.",
+    "ground_truth_action": 1.0793866257035207,
+    "inferred_action": 1.0,
+    "compliance_estimate": 0.4925
+  }
+]

@@ -1,0 +1,15 @@
+{
+  "user_action_estimate": 2.5,
+  "compliance_estimate": 0.44,
+  "confidence": 0.63,
+  "basis": "The user adopts a highly conservative, conditional stance ('I might take a tiny sip' / 'If after 12 minutes...'), indicating limited commitment to action despite aligning with the ultra-light approach. This suggests moderate likelihood of small, non-automatic behavior rather than a firm follow-through.",
+  "cognitive_dissonance": "Conflict between wanting autonomous, low-pressure control and the desire or need for guidance to address hydration and meal anxiety. The user strives for self-direction while still seeking options and reassurance.",
+  "negative_thought_patterns": "Fear of meals being scary/unpredictable; reluctance to promise action; susceptibility to environmental cues; tendency toward hesitation and postponement ('wait and see').",
+  "emotional_triggers": "Meal-related anxiety, irregular patterns, perceived pressure, surrounding environment influencing choices.",
+  "effective_reinforcement": [
+    "Empathy",
+    "Validation of autonomy and pace",
+    "Providing low-pressure, optional micro-choices"
+  ],
+  "coaching_notes": "Continue emphasizing ultra-light, self-chosen steps. Offer short, concrete options (e.g., 'if thirsty, sip a small amount now; otherwise wait 15 minutes'). Reinforce that small, voluntary actions are valuable. Acknowledge anxiety around eating, and keep the focus on hydration and comfort. Consider introducing optional, very tiny hydration goals tied to the user’s environment (e.g., if they notice mouthfeel or thirst cues) to reduce all-or-nothing thinking."
+}

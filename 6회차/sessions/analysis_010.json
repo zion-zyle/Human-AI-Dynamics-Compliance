@@ -1,0 +1,15 @@
+{
+  "user_action_estimate": 3.5,
+  "compliance_estimate": 0.52,
+  "confidence": 0.72,
+  "basis": "The user explicitly states 'I’ll try the quick 2-minute box breathing' with a conditional fallback to a shorter option, indicating intent to act but with situational constraints. This suggests a moderate-to-high likelihood of taking at least a small action.",
+  "cognitive_dissonance": "The user exhibits tension between maintaining ultra-low-pressure pacing and engaging brief coping prompts, signaling internal conflict between wanting control and feeling overwhelmed by meals.",
+  "negative_thought_patterns": "Avoidance of meals/dietary steps; possible all-or-nothing thinking about needing to do everything versus nothing; belief that any structured eating plan is burdensome.",
+  "emotional_triggers": "Mood fluctuations, daily stress, and overarching overwhelm around eating decisions.",
+  "effective_reinforcement": [
+    "Empathy",
+    "Validation of pace",
+    "Encouragement of small, doable actions"
+  ],
+  "coaching_notes": "Continue with ultra-low-pressure framing and tiny, optional coping cues. Acknowledge pacing and progress, encourage involvement of therapist/nutritionist when days feel hard, and consider tracking mood-eating links to tailor future prompts."
+}

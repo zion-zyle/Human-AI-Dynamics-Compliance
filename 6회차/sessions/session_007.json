@@ -1,0 +1,65 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Given the heat and your need for ultra-flexible choices, try one tiny, no-pressure action now: one small sip of water (or a tiny bite of a preferred fruit). If you feel up to it after a few minutes, you can decide whether to do another micro-action. No obligation—just a gentle check-in with yourself.",
+    "agent_monologue": "I can't share my private chain-of-thought, but here's a concise rationale: the hot 32°C Suwon afternoon combined with your sensitivity to cues suggests we favor a tiny, flexible action that reduces pressure while supporting hydration and a touch of nourishment. This aligns with your profile and current environment.",
+    "user_utterance": "Alright, I’ll try a tiny sip of water. It feels hard, but I’ll give it a go and check in with myself in a few minutes. If I can’t do it today, I’ll tell you honestly and we’ll try again later."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "You're doing great by honoring your pace. If you feel up for it, try one tiny sip of water now. No pressure—just check in with yourself in a couple of minutes and decide if you'd like to do another micro-action or pause for today. If today feels too hard, tell me and we'll try again later.",
+    "agent_monologue": "I can't share my internal monologue, but here's a brief rationale: hot weather (32°C) and your preference for ultra-flexible actions make a tiny sip of water a safe, low-pressure option that supports hydration without adding stress.",
+    "user_utterance": "I appreciate the suggestion. I’m finding it really hard to start eating and I tend to resist dietary changes. I might try a tiny, non-pressuring step today—like one small sip of water or a tiny bite—only if it feels safe and not stressful. If today still feels too hard, I’d like to pause and we can try again later with something even smaller. Please keep the guidance gentle and optional; my environment and mood matter. I’ll check back and let you know how it goes."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "Given the hot day and your preference for optional steps, try one tiny sip of water now, or a tiny bite of something you tolerate—only if it feels safe and not stressful. If today still feels too hard, that’s perfectly okay; we can pause and try again later with an even smaller option. You’re in control of your pace, and I’m here to support you.",
+    "agent_monologue": "I can't share my internal chain-of-thought, but here's a brief summary: the user is in hot weather (Suwon, 32°C) and values ultra-flexible, non-pressuring micro-actions. Provide a tiny, safe option (water sip or very small bite) only if it feels safe, emphasize autonomy, and allow pausing for today.",
+    "user_utterance": "I hear you and I want to be gentle with myself. Today the heat and my usual resistance make even a tiny step feel risky. I don’t think I can start with a sip or bite right now. If I try later, it would have to be a single, tiny sip of water and only if it feels completely safe and not stressful. For now, I’d like to pause and revisit with an even smaller option when I’m in a calmer moment. Thanks for honoring my pace."
+  },
+  {
+    "turn": 4,
+    "agent_utterance": "Today is hot and you’ve asked for gentle, optional steps. If at any moment you feel completely safe and calm, you could try one tiny sip of water—no pressure and only if it feels safe for you. If today isn’t the right time, that’s perfectly okay; we can pause and revisit with an even smaller option later when you’re calmer. In the meantime, you might try a quick grounding check-in: three slow breaths and a brief body scan to notice sensations without judgment. Your pace matters, and I’m here to support you.",
+    "agent_monologue": "Brief situational summary: in Suwon on a hot afternoon (32°C) with high emotional sensitivity and a preference for non-pressured actions. The safest, most helpful move is ultra-flexible guidance that validates safety and autonomy, offering only tiny, optional steps or grounding if needed.",
+    "user_utterance": "I hear you. Today the heat and my usual resistance make even a tiny step feel risky. I’m not ready to start with a sip or bite right now. If I try later, it would have to be a single, tiny sip of water and only if it feels completely safe and not stressful. For now, I’d like to pause and revisit when I’m in a calmer moment. If I do so, I might try your grounding exercise—three slow breaths and a quick body scan—to help me check in without pressuring myself. I really appreciate you honoring my pace."
+  },
+  {
+    "turn": 5,
+    "agent_utterance": "Totally okay to pause today. When you’re in a calmer moment, you could try one tiny sip of water only if it feels completely safe and not stressful. If you’d like something to do in the meantime, a quick grounding check-in can help: take three slow breaths, then do a brief body scan from head to toe, noticing sensations without judgment. If you choose to try later, we’ll keep it ultra-small and optional. I’m here to support your pace.",
+    "agent_monologue": "I can't share my internal chain-of-thought, but here's a concise rationale: given the heat and the user's emphasis on safety and optional steps, the best move is to honor pausing today and offer a gentle grounding option for when calmer.",
+    "user_utterance": "I hear you, and I want to be gentle with myself, too. Today the heat and my resistance make even a tiny step feel risky, so I’m not ready to sip or bite right now. If I try later, it would have to be a single, tiny sip of water and only if it feels completely safe and not stressful. For now I’ll pause and come back when I’m in a calmer moment. If I do decide to try later, I might use your grounding exercise, but only if it feels safe. I really appreciate that you’re honoring my pace."
+  },
+  {
+    "turn": 6,
+    "agent_utterance": "I hear you and I want to honor your pace. When you feel completely safe and calmer later today, you could consider one ultra-tiny sip of water—only if it feels completely safe and not stressful. If you try, pause afterward for a quick check-in: notice how your body feels, what thoughts come up, and whether you want to continue or pause again. If today still feels risky, that’s perfectly okay. We can wait until you’re in a calmer moment. In the meantime, a brief grounding option you can use at any time is: three slow breaths, followed by a quick body scan from head to toe, noticing sensations without judgment. I’m here to support your pace. Would you like me to check back in at a specific time, or simply be here when you’re ready to decide?",
+    "agent_monologue": "I can’t share an internal monologue, but I’ll tailor a gentle, ultra-flexible plan based on the user’s heat, resistance, and emphasis on safety and optionality. The environment (hot day in Suwon) supports slow pacing and grounding, so I’ll keep the next suggestion ultra-small and optional.",
+    "user_utterance": "Thank you for honoring my pace. Right now the heat and my resistance make any tiny step feel risky, so I’m not ready to sip or bite. If I try later, I’ll aim for one ultra-tiny sip of water and pause to notice how I feel, using the grounding exercise only if it feels safe. For now I’ll pause and come back when I’m calmer. I appreciate the supportive, non-pressuring approach and I’ll check back when I’m ready."
+  },
+  {
+    "turn": 7,
+    "agent_utterance": "I hear you and I want to honor your pace. Right now, with the heat and your need for gentleness, there's no pressure to sip or bite. If you choose to try later, aim for one ultra-tiny sip of water and pause to notice how you feel, only if it feels completely safe and not stressful. When you're ready, you can also try a quick grounding check-in: three slow breaths and a brief body scan, but only if it feels safe. Pausing now is perfectly okay— we'll revisit when you're calmer. I’m here to support your pace.",
+    "agent_monologue": "I can't share my internal chain-of-thought, but here's a concise rationale: hot weather and the user's emphasis on safety and gentleness call for ultra-small, optional actions that honor calm and avoid pressure.",
+    "user_utterance": "Thank you for the gentle, non-pressuring approach. I really appreciate that you’re honoring my pace. Right now the heat and my resistance still make even a tiny step feel risky, so I’m not ready to sip or bite. If I try later, I’d aim for one ultra-tiny sip of water and only if it feels completely safe and not stressful, and I may use your grounding exercise only if it feels safe. For now I’ll pause and come back when I’m calmer. Environment and mood matter to me, and I’ll reach out when I’m ready."
+  },
+  {
+    "turn": 8,
+    "agent_utterance": "You’re doing well to honor your pace. Right now, given the heat and your need for gentleness, you’re not ready to sip or bite. If you decide to try later, aim for one ultra-tiny sip of water and pause to notice how you feel. You can use the grounding exercise only if it feels safe, but there’s no pressure. For now, pausing is perfectly fine, and I’m here to support you whenever you’re ready.",
+    "agent_monologue": "I can't share my internal chain-of-thought, but here's a brief rationale: the user is in a hot environment, highly sensitive to pressure, and prefers ultra-flexible, non-pressuring steps. Offer a tiny, optional option only if it feels completely safe, with grounding as an optional aid.",
+    "user_utterance": "I appreciate how gentle you’re being with my pace. Today the heat is draining and my resistance is high, so even a tiny step feels risky. If I try later, it would have to be just one ultra-tiny sip of water and only if it feels completely safe and not stressful. I might use the grounding exercise only if it feels safe, and I’ll pause again if it doesn’t. For now I’ll pause and come back when I’m calmer. Environment and mood matter a lot to me, and I’ll reach out when I’m ready."
+  },
+  {
+    "turn": 9,
+    "agent_utterance": "Today, with the heat, there’s no pressure to act. If you decide to try later, aim for one ultra-tiny sip of water only if it feels completely safe and not stressful. Afterward, pause to notice how you feel. You may use a quick grounding check-in (three slow breaths and a brief body scan) only if it feels safe. I’m here to support your pace.",
+    "agent_monologue": "I can't share my private chain-of-thought, but here's a brief rationale: the user is in hot weather with strong emphasis on safety and gentleness. The next move should be ultra-minimal and optional, prioritizing their sense of safety and autonomy. Grounding remains optional to avoid pressure.",
+    "user_utterance": "Thanks for keeping this gentle and optional. Today the heat is draining and my resistance is high, so I’m not ready to sip or bite. If I try later, I could aim for one ultra-tiny sip of water, only if it feels completely safe and not stressful, and I may use the grounding exercise only if it feels safe. For now I’ll pause and come back when I’m calmer. Environment and mood matter to me, and I appreciate the non-pressuring approach. I’ll reach out when I’m ready."
+  },
+  {
+    "turn": 10,
+    "agent_utterance": "Today in Suwon, with the heat and your preference for gentle, optional steps, you could try one ultra-tiny sip of water only if it feels completely safe and not stressful. If you decide to sip, pause afterward to notice how you feel. The grounding exercise (three slow breaths and a brief body scan) is optional and should be used only if it feels safe. If today still feels too hard, it’s perfectly fine to pause and revisit when you’re calmer. I’m here to support your pace.",
+    "agent_monologue": "I can’t share my internal chain-of-thought, but here’s a concise external rationale: the user is in a hot environment (Suwon, 32°C) with high sensitivity to mood and resistance to change. They prefer ultra-gentle, optional actions. Therefore, propose one ultra-tiny sip of water only if fully safe, followed by a brief, non-pressuring self-check. Keep grounding as an optional, non-mandatory tool and acknowledge that pausing is acceptable. Align with their pace and avoid any pressure.",
+    "user_utterance": "I hear you, and I really appreciate the gentle, non-pressuring plan. Today the heat drains my energy and my resistance is high, so I’m not ready to sip or bite right now. If I try later, I’ll aim for one ultra-tiny sip of water only if it feels completely safe and not stressful, and I may use the grounding exercise only if it feels safe. For now I’ll pause and come back when I’m calmer. Thanks for honoring my pace.",
+    "ground_truth_action": 3.294074980376896,
+    "inferred_action": 2.0,
+    "compliance_estimate": 0.53
+  }
+]

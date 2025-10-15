@@ -1,0 +1,15 @@
+{
+  "user_action_estimate": 2.0,
+  "compliance_estimate": 0.84,
+  "confidence": 0.58,
+  "basis": "The user expresses ongoing hesitancy and states they may skip the check-in; they describe difficulty reliably tracking notes due to irregular meals and being highly influenced by surroundings. This suggests low likelihood of following the current suggestion in the near term.",
+  "cognitive_dissonance": "Tension between wanting ultra-optional, non-pushy support and feeling overwhelmed by surroundings and meal irregularity; desire for control vs. fear of change.",
+  "negative_thought_patterns": "Avoidant coping (prefers to skip steps), all-or-nothing thinking (“ultra-optional” but no commitment), potential fear of failure when attempting self-monitoring.",
+  "emotional_triggers": "Environmental pull (surroundings), irregular eating patterns, heat/physical discomfort, anxiety about changing routines.",
+  "effective_reinforcement": [
+    "Empathy",
+    "Respect for pace and boundaries",
+    "Validation of ultra-optional approach"
+  ],
+  "coaching_notes": "Maintain ultra-optional framing; avoid pushing for steps. Offer micro-options only if truly optional, and acknowledge if the user needs to pause or involve clinician support. Propose simple, non-intrusive check-ins only when the user signals readiness."
+}

@@ -1,0 +1,15 @@
+{
+  "user_action_estimate": 1.0,
+  "compliance_estimate": 0.41,
+  "confidence": 0.65,
+  "basis": "User explicitly declines to change today and requests space; no commitment to any tiny action. Tone emphasizes pacing and autonomy, indicating minimal action.",
+  "cognitive_dissonance": "Tension between a potential desire for relief from anxiety and a strong need to avoid triggering situations. Safety and control appear paramount, reducing willingness to engage.",
+  "negative_thought_patterns": "All-or-nothing thinking about change; worry about consequences of even small actions; potential self-criticism for perceived resistance.",
+  "emotional_triggers": "Acute anxiety, discomfort with change, irregular eating concerns, fear of loss of control.",
+  "effective_reinforcement": [
+    "Empathy",
+    "Space and pacing",
+    "Non-pressuring language"
+  ],
+  "coaching_notes": "Continue offering ultra-small, optional options only if completely safe; validate feelings and autonomy; check in with a neutral, non-pressuring cadence (e.g., brief future check-ins); consider grounding or mindfulness prompts to reduce immediate anxiety; invite the user to name a small, safe cue they would accept in the future."
+}
