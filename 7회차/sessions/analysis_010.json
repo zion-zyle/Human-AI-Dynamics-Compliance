@@ -1,0 +1,7 @@
+{
+  "user_action_estimate": 2.0,
+  "compliance_estimate": 0.43,
+  "confidence": 0.72,
+  "basis": "The user explicitly states they are not ready to eat today and will focus on non-food supports, planning a check-in later. This aligns with a low level of actionable intake-related progress, given their history of favoring ultra-simple steps and delaying eating. Using the last suggestion value S = 1.08 and a conservative compliance mapping (approximately 0.3 slope) yields a compliance around 0.43 when action is 2.0.",
+  "coaching_notes": "The user is prioritizing pacing and non-food supports. Maintain a non-pressuring stance, validate their need for control, and offer flexible check-ins. Consider suggesting clinician or therapist involvement to discuss pacing and safety, while continuing to reinforce coping strategies and environmental supports (hydration, rest, cooling)."
+}

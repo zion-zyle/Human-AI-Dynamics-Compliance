@@ -1,0 +1,7 @@
+{
+  "user_action_estimate": 1.0,
+  "compliance_estimate": 0.18,
+  "confidence": 0.85,
+  "basis": "The user repeatedly emphasizes zero pressure and a desire not to commit to actions, despite past interactions where action was offered. This pattern indicates consistently low likelihood of taking steps, even when presented with small options. Therefore, a very low action value (1.0) is most realistic.",
+  "coaching_notes": "Respect the user's autonomy and continue to prioritize descriptive, non-actionable discussion. Avoid pushing for steps; acknowledge their need for control and the potential impact of external pressure. If the user ever expresses readiness, offer ultra-low-friction options and confirm comfort before proceeding. Monitor for changes in mood or distress and ensure a supportive, trusted space."
+}

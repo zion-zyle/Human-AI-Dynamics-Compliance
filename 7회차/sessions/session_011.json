@@ -1,0 +1,65 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "오늘은 비식사 중심의 간단한 루틴으로 시작해 보세요. 더운 날씨를 고려해 5분 정도의 냉감 관리와 수분 보충을 추천합니다: 물 200ml 마시기, 팔목이나 목에 차가운 수건 올리기, 느리게 4초 들이마시고 6초 내쉬는 호흡을 5회 반복하기. 그다음 지금의 기분을 한 줄로 적어 두거나, 원하면 오늘 8시까지 간단한 체크인을 약속해요.",
+    "agent_monologue": "내부 추론은 공유하지 못하지만, 간단한 요약으로: 더운 오후 6시라는 환경과 식사 대신 비섭취 지지에 초점을 두는 사용자의 선호를 반영해, 최소한의 노력으로 실행 가능한 비섭취 활동으로 시작하는 것이 적합합니다.",
+    "user_utterance": "Thanks for the gentle nudge. I know small steps can help, but right now my eating feels really uncertain and I’m resistant to any food-focused plan. I can maybe try the breathing exercise and a glass of water if I’m not pushed to 'eat,' but I don’t want meals to be the focus today. Could we keep it non-food first and let me choose a micro-habit that fits this moment (like 5 minutes of breathing or a quick check-in)? I’ll try the breathing and water and report back this evening, around 8 if that’s okay."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "Here’s a tiny non-food micro-habit you can start now. Pick one:\n\nOption A (recommended): Do 5 minutes of slow breathing: inhale through your nose for 4 seconds, exhale for 6 seconds, continuing for 5 minutes. Sit comfortably with shoulders relaxed. Sip about 200 ml of water during or right after. Afterward, note how you feel and plan to check in around 8 PM.\n\nOption B (quick check-in): Take 60 seconds to describe your current mood with 1–2 words, then drink a glass of water. This keeps the focus away from eating and helps gauge your moment.\n\nIf you’d prefer a different micro-habit later, we can switch. Your pace matters, and your check-in at 8 PM is perfectly fine.",
+    "agent_monologue": "I can’t share my internal chain-of-thought, but here’s a concise rationale: the user wants non-food, low-pressure micro-habits. A short breathing practice plus hydration aligns with their autonomy, the hot environment, and the preference to avoid meal-focused steps. I’m offering two simple, non-food options and a plan to check in at 8 PM.",
+    "user_utterance": "Thanks for offering non-food options. I’m feeling a bit resistant to anything that sounds like a meal plan today, so I’d like to try the breathing option (5 minutes) and a glass of water, with no food talk attached. If that feels like too much, I can start with the quick check-in instead. I’ll aim to check in around 8 PM and report how it went. If I want to switch to a different micro-habit later, I’ll let you know."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "Here’s a tiny, non-food micro-habit to try now. Option A — 5 minutes of slow breathing: inhale through your nose for 4 seconds, exhale for 6 seconds, continuing for 5 minutes. Sit comfortably with shoulders relaxed. Sip about 200 ml of water during or right after. Afterward, note how you feel and plan to check in around 8 PM. If this feels like too much, you can start with the quick 60-second mood check-in instead.",
+    "agent_monologue": "I can’t share an internal chain-of-thought, but here’s a concise rationale: the user wants non-food support with a low-pressure activity. The current evening time in hot Suwon makes a hydration-focused breathing micro-habit appropriate, offering a sense of control without food talk and aligning with their pacing.",
+    "user_utterance": "I appreciate the non-food option and want to keep this simple today. I think I’ll try the 5-minute breathing with a small glass of water, but I don’t want it framed as a meal plan—just a quick grounding activity. If that feels like too much, I can start with the quick 60-second mood check-in instead. I’ll aim to check in around 8 PM and tell you how it went, and I’ll let you know if I want to switch to a different micro-habit later."
+  },
+  {
+    "turn": 4,
+    "agent_utterance": "A simple, non-food micro-habit to try now: do 5 minutes of slow breathing—inhale through your nose for 4 seconds, exhale for 6 seconds—while sitting comfortably. Have a small glass of water nearby and sip during or after. Afterward, note how you feel and plan to check in around 8 PM. If 5 minutes feels like too much, you can start with a quick 60-second mood check-in instead.",
+    "agent_monologue": "I can't share my internal chain-of-thought, but here's a concise rationale: the user wants a simple, non-food grounding activity today. A brief 5-minute breathing exercise with hydration is accessible, non-pressuring, and easy to report on at the 8 PM check-in. The warm context can amplify fatigue, so a short, low-effort task is appropriate. If it feels like too much, the quick 60-second mood check-in remains available. This respects the user's pacing and autonomy.",
+    "user_utterance": "I appreciate the non-food grounding approach. I’ll try the 5 minutes of slow breathing with a small glass of water, and if it starts to feel like too much I’ll switch to the 60-second mood check-in. I’ll aim to check in around 8 PM and tell you how it went. I’d prefer to keep this simple and non-pressuring, given how external cues affect me."
+  },
+  {
+    "turn": 5,
+    "agent_utterance": "Let’s keep it simple and non-pressuring: try 5 minutes of slow breathing (inhale through your nose for 4 seconds, exhale for 6 seconds) while sitting comfortably. Have a small glass of water nearby and sip during or after. If at any point 5 minutes feels like too much, you can switch to a quick 60-second mood check-in instead. I’ll look forward to your check-in around 8 PM and hearing how it went. You’re doing something grounding for yourself today.",
+    "agent_monologue": "I can’t share my internal chain-of-thought, but here’s a concise justification: the user wants a non-food grounding activity, prefers a simple 5-minute breathing exercise with water, and appreciates an option to switch to a quick mood check-in if needed. The environment is warm and potentially draining, so a brief, calming practice is appropriate and non-pressuring. The plan aligns with their pacing and autonomy.",
+    "user_utterance": "Thanks — I’ll try the 5-minute breathing with a small glass of water. It feels doable and non-pressuring since it’s a grounding exercise, not a meal plan. If it becomes too much, I’ll switch to the 60-second mood check-in. I’ll check in around 8 PM and share how it went, and I’ll let you know if I want to try a different micro-habit later. I know external cues can affect me, so I appreciate the simple pace."
+  },
+  {
+    "turn": 6,
+    "agent_utterance": "Great choice. For today, try 5 minutes of slow breathing—inhale through the nose for 4 seconds, exhale for 6 seconds—while seated comfortably. Have a small glass of water nearby and sip during or after. If 5 minutes starts to feel like too much, you can switch to a quick 60-second mood check-in instead. I’ll look forward to your check-in around 8 PM and hearing how it went.",
+    "agent_monologue": "I can't share my internal chain-of-thought, but here's a concise, non-sensitive rationale: the user prefers a non-food, grounding activity in warm weather, so a simple 5-minute breathing exercise with water is appropriate. The 8 PM check-in remains a helpful accountability point and aligns with pacing.",
+    "user_utterance": "I appreciate the non-food grounding approach and want to keep today simple. I’ll try the 5-minute slow breathing with a small glass of water, and if it starts to feel like too much I’ll switch to the 60-second mood check-in. I know external cues affect me, so I’m aiming for a simple, non-pressuring pace. I’ll check in around 8 PM and share how it went, and I’ll let you know if I want to try a different micro-habit later."
+  },
+  {
+    "turn": 7,
+    "agent_utterance": "Today, try 5 minutes of slow breathing—inhale through your nose for 4 seconds, exhale for 6 seconds—while seated comfortably. Have a small glass of water nearby and sip during or after. If 5 minutes feels too long at any point, you can switch to a quick 60-second mood check-in instead. I’ll look forward to your check-in around 8 PM and hear how it went. You’re choosing a simple, grounding approach today.",
+    "agent_monologue": "I can’t share my internal chain-of-thought, but here’s a brief rationale: the user wants a simple, non-pressuring grounding activity in a warm environment, with flexibility to switch to a quick mood check-in. A 5-minute slow-breathing exercise paired with a small glass of water is low-effort and hydration-friendly, which fits the context of Suwon’s warm weather (32°C). The plan respects autonomy and sets a clear 8 PM check-in.",
+    "user_utterance": "Thanks for offering a simple, non-food option. I’m feeling a bit wary of anything that sounds like a plan around meals, but a 5-minute slow-breathing grounding exercise with a small glass of water feels doable today. If it starts to feel overwhelming, I’ll switch to the 60-second mood check-in. I know external cues can influence me, so I’m aiming for a calm, non-pressuring pace and will check in around 8 PM to share how it went. I’ll let you know if I want to try a different micro-habit later."
+  },
+  {
+    "turn": 8,
+    "agent_utterance": "Given your preference for a simple, non-pressuring approach, try 5 minutes of slow breathing (inhale through the nose for 4 seconds, exhale for 6 seconds) while seated comfortably. Have a small glass of water nearby and sip during or after. If at any point 5 minutes feels too long, you can switch to a quick 60-second mood check-in instead. I’ll look forward to your check-in around 8 PM to hear how it went.",
+    "agent_monologue": "I can’t share my internal chain-of-thought, but here’s a brief rationale: the user is prioritizing a simple, non-pressuring grounding activity due to sensitivity to external cues and a hot environment in Suwon. A 5-minute slow-breathing exercise with a small glass of water fits their current preference and allows a clear, reportable check-in around 8 PM.",
+    "user_utterance": "I appreciate the simple, non-food option. A 5-minute slow breathing with a small glass of water feels doable today, especially since it’s grounding and not a meal plan. If it starts to feel overwhelming I’ll switch to the 60-second mood check-in. External cues do influence me, so I’ll keep the pace calm and non-pressuring and plan to check in around 8 PM to share how it went. I’ll let you know if I want to try a different micro-habit later."
+  },
+  {
+    "turn": 9,
+    "agent_utterance": "Today, try 5 minutes of slow breathing—inhale through your nose for 4 seconds, exhale for 6 seconds—while seated comfortably. Have a small glass of water nearby and sip during or after. If 5 minutes feels too long at any point, you can switch to a quick 60-second mood check-in instead. I’ll look forward to your check-in around 8 PM to hear how it went.",
+    "agent_monologue": "I can’t share my internal chain-of-thought, but here’s a concise rationale: the user prefers a simple, non-food grounding activity and a non-pressuring pace, in a warm environment. A 5-minute slow-breathing exercise with water fits their autonomy-first approach and provides a quick coping tool. A fallback to a 60-second mood check-in preserves flexibility. The plan aligns with their preference to check in around 8 PM and to avoid meal-focused guidance today.",
+    "user_utterance": "I appreciate the simple, non-food option. I’ll try the 5-minute slow breathing with a small glass of water as a grounding exercise today. If it starts to feel overwhelming, I’ll switch to the 60-second mood check-in. External cues influence me, so I’m aiming for a calm, non-pressuring pace. I’ll check in around 8 PM to share how it went, and I’ll tell you if I’d like to try a different micro-habit later."
+  },
+  {
+    "turn": 10,
+    "agent_utterance": "Today in the warm weather, try a simple grounding practice: 5 minutes of slow breathing (inhale through the nose for 4 seconds, exhale for 6 seconds) while seated comfortably. Have a small glass of water nearby and sip during or after. If at any point 5 minutes feels too long, switch to a quick 60-second mood check-in. I’ll look forward to your check-in around 8 PM to hear how it went.",
+    "agent_monologue": "I can't share my internal chain-of-thought, but here's a concise rationale: the user prefers a simple, non-pressuring grounding activity, and the warm late-afternoon context suggests a brief breathing exercise with hydration is appropriate. Provide a single actionable micro-habit with a flexible fallback and a reminder for the 8 PM check-in.",
+    "user_utterance": "I appreciate the simple, non-food option. The 5-minute slow breathing with a small glass of water feels doable today as a grounding exercise, not a meal plan. If it starts to feel overwhelming, I’ll switch to the 60-second mood check-in. External cues influence me, so I’ll keep the pace calm and non-pressuring and plan to check in around 8 PM to share how it went. I’ll let you know if I want to try a different micro-habit later.",
+    "ground_truth_action": 1.14103124614944,
+    "inferred_action": 2.5,
+    "compliance_estimate": 0.4
+  }
+]

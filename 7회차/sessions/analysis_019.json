@@ -1,0 +1,7 @@
+{
+  "user_action_estimate": 2.0,
+  "compliance_estimate": 0.38,
+  "confidence": 0.72,
+  "basis": "The user repeatedly emphasizes control and declines any intake today, despite occasional mentions of possible action later. Past behavior shows a pattern of low action and delaying decisions, which makes a modest action (2.0) more realistic than strong compliance with the assistant’s suggestion.",
+  "coaching_notes": "Maintain a non-pressuring stance and acknowledge boundaries. Focus on identifying underlying barriers (e.g., heat stress, anxiety about intake) and offer ultra-low-friction, optional prompts only when the user signals readiness. Consider exploring what small, truly voluntary cues might feel acceptable in the moment and tailor follow-ups to their pace."
+}

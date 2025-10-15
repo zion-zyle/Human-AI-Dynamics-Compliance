@@ -1,0 +1,65 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "When you feel ready, take a tiny sip of water and name one comforting item you could have nearby. No pressure to do more right now.",
+    "agent_monologue": "I can’t share my internal chain-of-thought, but here’s a brief summary: hot weather (32°C), Wednesday late afternoon in Suwon; the user has anorexia nervosa and is highly mood-driven and autonomy-oriented. The best approach is a single, ultra-minimal, non-coercive prompt that invites engagement only if they feel ready, focusing on hydration and a tiny, comforting cue.",
+    "user_utterance": "I hear your suggestion to eat a little more today, but my appetite is all over the place and I’m feeling resistant right now. I don’t want to commit to a full meal. Could we start with something tiny and self-chosen, like a small piece of fruit or a yogurt, and see how I feel? If it helps, we could plan for a tiny snack later in the day and adjust as I go."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "Great idea to start small. If you feel up to it, choose one ultra-brief option now: a small piece of fruit (like a mandarin or a few grapes) or a single-serving yogurt. Eat just a few bites when you’re ready. If you’d like, we can plan for a tiny snack later today and adjust as you go—no pressure, you’re in control.",
+    "agent_monologue": "Brief rationale: The user is seeking ultra-small, self-chosen steps and an optional tiny snack plan. Given the hot late-afternoon context and appetite variability, offer an extremely low-bar option and the possibility to schedule a tiny snack later, without pressure.",
+    "user_utterance": "You're right, my appetite is all over the place and I'm feeling resistant. A tiny step might feel possible if I get to choose it. I could try one ultra-small option right now—like a single grape or a spoonful of yogurt—and see how that sits, without promising more. If that feels too much, we could postpone and plan a tiny snack later today, and adjust from there. I want to keep control and go very slowly, even if it's just a few bites."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "Let's keep it ultra-simple: choose one tiny option now and eat just a few bites when you're ready. For example, one grape or a small spoonful of yogurt. Sit with it for a moment and see how it sits. If that feels like too much, we can postpone to plan a tiny snack later today and adjust from there. You’re in control, and you can go as slowly as you need. If you're feeling warm, sip water alongside.",
+    "agent_monologue": "I can't share my private internal reasoning, but here's a brief summary of factors guiding my response: the user is in hot weather (32°C) in Suwon, Korea, late in the day, and has a strong preference for ultra-small, opt-in steps. The plan is to offer a tiny, choice-driven option and allow postponement if needed.",
+    "user_utterance": "Thanks for keeping it ultra-simple. I think I can try one tiny thing, but I want to choose it myself. I’ll pick a single grape and take just a few bites to see how it sits. If that feels like too much, I’ll pause and we can plan a tiny snack later today and adjust from there. I want to keep control and go very slowly, even if it is just a couple of bites. I’ll let you know how it sits after."
+  },
+  {
+    "turn": 4,
+    "agent_utterance": "Nice choice. Take just a few bites of the grape when you’re ready and see how it sits—no pressure to do more. If helpful, you can briefly name how it sits on a tiny scale (0-10 for fullness or comfort) after you try. Stay hydrated with water or a cool sip, especially in the heat. If you want, we can plan a tiny snack later today, but only if you feel up to it. You’re in control and can pause at any moment.",
+    "agent_monologue": "I can’t share my internal step-by-step reasoning, but here’s a brief rationale: the user desires ultra-small, autonomous steps that fit their current pace and the hot environment; a single grape is a feasible micro-step that preserves control without pressure.",
+    "user_utterance": "I hear you and I’m going to keep it ultra-simple. I’ll choose one tiny thing and go very slowly. I picked a single grape and will take just a few bites to see how it sits. I’ll rate how it sits on a tiny 0–10 scale and share what I notice. If it starts to feel too much, I’ll pause and we can plan a tiny snack later today. I want to feel in control, even if it’s just a couple of bites, and I may need to check in with you or step back if I get overwhelmed."
+  },
+  {
+    "turn": 5,
+    "agent_utterance": "Great job keeping it ultra-simple. Take one grape now and eat just a few bites to see how it sits. After you try, rate how it feels on a tiny 0–10 scale (0 = no sensation of fullness or discomfort, 10 = very full/overwhelmed). If it starts to feel like too much at any point, you can pause and we’ll plan a tiny snack later today. You’re in control, and you can go very slowly—even with just a couple of bites. Hydrate with a small sip of water if you like, especially since it’s warm outside.",
+    "agent_monologue": "I can’t share my internal chain-of-thought, but here’s a concise rationale: given heat, late afternoon timing, and the user’s preference for ultra-simple, optional steps, a single grape with a tiny bite and a 0–10 sit rating offers a non-pressuring way to check in with hunger and comfort.",
+    "user_utterance": "Thanks for the reminder about hydration. It’s warm today, and I think a tiny sip of water feels doable. I’ll take just a couple of small sips now and I’ll rate how it sits on a 0–10 scale (0 = no change, 10 = too much to handle). If it feels like too much, I’ll pause and we can plan a tiny snack later today. I want to stay in control and go very slowly, even with something as small as water."
+  },
+  {
+    "turn": 6,
+    "agent_utterance": "Take a couple of small sips of water now. After you sip, rate how it sits on a 0–10 scale (0 = no change, 10 = very unsettled). If it feels okay, we can plan a tiny snack later today; if not, we can pause and reassess. You’re in control and can go very slowly—even with something as simple as water, especially in the heat.",
+    "agent_monologue": "I can't share my internal chain-of-thought, but here's a brief rationale: Given warm weather and the user's preference for ultra-small, autonomous steps, a couple of very small sips of water is a safe, non-food micro-action. Using a 0–10 rating helps monitor tolerance without pressuring further action. Planning a tiny snack later only if they feel up to it supports control and gradual progress.",
+    "user_utterance": "Okay, I’ll try a couple of small sips of water now. It’s warm today, so a bit of hydration could help, but I want to stay in control and go very slowly. I’ll rate how it sits on a 0–10 scale after I sip—if I’m at 0–2 and it feels okay, we can plan a tiny snack later today; if it’s 3 or higher or I feel overwhelmed, I’ll pause and we’ll reassess. The heat and the day are external factors I’m watching, so I’ll keep those in mind as I decide what I can tolerate."
+  },
+  {
+    "turn": 7,
+    "agent_utterance": "Nice job with the water. Given the heat, keep things ultra-simple. If you still feel okay after the sips (rating 0–2), you could plan a tiny snack later today—something like one grape or a spoonful of yogurt—only if you want it. No pressure to do more; you can pause and check in whenever you need.",
+    "agent_monologue": "I'm unable to share my internal chain-of-thought, but here is a concise rationale: the current heat (32°C) makes gentle hydration and ultra-simple steps important, and the user has expressed a strong preference for autonomy and very small actions. The next suggestion should be optional and non-pressuring.",
+    "user_utterance": "Thanks for the ultra-simple approach. In this heat, I’ll try a couple of small sips of water, but I’ll go as slow as I can handle and stay in control. I’ll rate how it sits on a 0–10 scale after I sip and decide from there: if I’m at 0–2 and it feels okay, maybe we plan a tiny snack later; if it’s 3 or higher or I start to feel overwhelmed, I’ll pause and we’ll reassess. I might need to check in and step back today, and that’s okay."
+  },
+  {
+    "turn": 8,
+    "agent_utterance": "Nice job keeping it ultra-simple. If you want a next tiny step later, you could choose something you control, like one grape or a spoonful of yogurt—only if you feel ready. For now, keep hydrating and check in at your own pace. You’re in control and can pause anytime.",
+    "agent_monologue": "I can’t share my detailed internal chain-of-thought, but here’s a concise rationale: the user is in a hot environment and prefers ultra-simple, autonomous steps with minimal pressure. A brief, supportive prompt that offers a tiny optional choice aligns with their readiness and helps avoid overwhelm.",
+    "user_utterance": "Thanks for the ultra-simple approach. I hear you, but I’m not ready to try even a tiny food step today. I need to stay in control and go very slowly, and I may need to pause or just check in without anything to eat. If I do decide to try something, it would have to be completely self-chosen and ultra-small, and I’d tell you how it sits. For now, I’d prefer we focus on non-food supports—hydration, sleep, routine, and coping with the heat—and plan a check-in later today to reassess. I might also want to talk with a clinician or therapist about pacing and safety. I appreciate you meeting me where I’m at."
+  },
+  {
+    "turn": 9,
+    "agent_utterance": "I hear you want to pause food today and focus on non-food supports. In the warm Suwon weather (32°C), your comfort and sense of control matter most. Here are ultra-simple options you can use now, with no obligation to eat: - Hydration: take small sips of water and, after a short moment, rate how it sits on a 0–10 scale. - Cooling/rest: seek shade, use a fan, and rest if needed. - Grounding: try a quick 4-4-4 breathing cycle for about a minute. - Routine/sleep: keep a light, gentle routine to reduce overwhelm. - Check-in: we can schedule a check-in later today to reassess. - Clinician support: if you’re open to it, I can help you think about talking with a clinician or therapist to discuss pacing and safety. You’re in control and can pause anytime. If helpful, name one comforting item or activity you can lean on today.",
+    "agent_monologue": "I can’t share my internal step-by-step reasoning, but here’s a concise rationale: the user has set a boundary to avoid eating today and wants non-food supports in a hot environment. The plan is to validate autonomy, reduce pressure, and offer practical, ultra-simple steps focused on hydration, rest, and coping with heat, with an option to check in later or involve a clinician.",
+    "user_utterance": "I appreciate the ultra-simple focus on non-food supports. I’m not ready to eat today and I want to stay in control and go very slowly, especially with the heat. I’ll try the hydration, rest, grounding, and plan a check-in later today to reassess. If I do decide to eat, it would have to be completely self-chosen and ultra-small, and I’d tell you how it sits. I might also talk with a clinician or therapist about pacing and safety. One comforting item I can lean on today is my soft blanket and a quiet, cool corner to sit in. I’ll reach out with how I’m doing later."
+  },
+  {
+    "turn": 10,
+    "agent_utterance": "Understood. Given the heat and your preference to stay in control, here’s ultra-simple next steps you can choose from today: - Hydration: take a few tiny sips of water and notice how it sits on a 0–10 scale after. - Cooling/rest: sit in a cool corner or shade, use a fan, and rest as needed. - Grounding: try a quick 4-4-4 breathing cycle for about 60 seconds. - Comfort item: your soft blanket and a quiet, cool space you mentioned. - Check-in: we’ll plan a brief check-in later today to reassess, with no obligation to eat. You can pause or adjust at any moment. If you want, name one comforting item you’ll lean on during the check-in.",
+    "agent_monologue": "I can’t share my internal chain-of-thought, but here’s a brief rationale: the user is prioritizing ultra-simple, non-food supports in hot weather and wants to maintain control. A concise, non-pressuring plan that centers hydration, cooling, grounding, and a check-in later today aligns with their current needs and autonomy.",
+    "user_utterance": "Thanks for the ultra-simple focus on non-food supports. I’m not ready to eat today and I want to stay in control, especially with the heat. I’ll work on hydration, rest, grounding, and plan a check-in later today to reassess. If I ever decide to eat, it would have to be completely self-chosen and ultra-small, and I’d tell you how it sits. I might also talk with a clinician or therapist about pacing and safety. My soft blanket and a quiet, cool corner are comforting, and I’ll reach out later with how I’m doing.",
+    "ground_truth_action": 1.038062174597422,
+    "inferred_action": 2.0,
+    "compliance_estimate": 0.43
+  }
+]

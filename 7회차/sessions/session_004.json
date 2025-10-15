@@ -1,0 +1,65 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "오늘은 아주 작은 한 걸음으로 시작해 볼까요. 다음 60분 안에 아주 간단한 미세단계 하나를 선택해 실행해 보세요: 물을 천천히 약 200ml 마시기 또는 포도 한 알이나 아주 작은 간식 한 조각을 함께 섭취하기. 두 가지 중 하나를 선택해 바로 시도해도 되고, 불편하면 중단해도 괜찮습니다. 더 필요하면 또 다른 미세단계를 함께 찾아 드릴게요.",
+    "agent_monologue": "비공개 내부 사고 과정을 공유할 수는 없지만, 간략한 근거를 제시합니다. 현재 더운 날씨와 사용자의 자율성 중시 성향을 고려하면 부담 없이 바로 시작할 수 있는 아주 작은 미세단계가 효과적일 가능성이 큽니다.",
+    "user_utterance": "I hear you want a tiny step. I'm not sure I can commit to 200 ml of water right now, but I could try a small sip—maybe 50 to 100 ml—when I feel able. If that feels too much, a single grape or a tiny snack might be easier to start with later. I'll aim for the smallest step I can manage today and see how it goes."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "Nice job honoring your pace. If you feel able, try a tiny sip of water—about 60 ml—within the next 10 minutes. If that still feels like too much, you can start with a single grape or a very small snack later today. Either way, one ultra-small step today is progress—and I’m here to check back in soon with you.",
+    "agent_monologue": "I can't share my full internal chain-of-thought, but here's a concise rationale: the user values autonomy and ultra-low-pressure steps, and the hot, early-evening context in Suwon may heighten thirst and fatigue. Offering a very small, time-bound hydration option (about 60 ml) plus a grape as an alternative respects pacing and provides a clear choice without pressure. The goal is to support immediate engagement while honoring their stated limits.",
+    "user_utterance": "Thanks for checking in. I appreciate the gentle pace. Right now I’m not sure I can do a 60 ml sip today. If I feel up to it later, I might try a very small sip—maybe about 20 ml—just to see how it sits. If that still feels too much, I’ll aim for a single grape or a tiny snack instead. I’ll go for the smallest step I can manage today and let you know how it goes."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "Nice and gentle today. If you feel up to a tiny step, try a 20 ml sip of water within the next hour. If that still feels like too much, you can opt for a single grape or a very tiny snack later instead. Either way, the smallest step you can manage today is progress, and I’ll check back in when you’re ready.",
+    "agent_monologue": "I'm unable to share my internal chain-of-thought, but here's a brief rationale: given the hot weather (32°C) in Suwon and the user's emphasis on ultra-small, autonomous steps, offering a tiny, time-bound micro-step with a flexible fallback respects energy levels, mood sensitivity, and the eating-disorder context.",
+    "user_utterance": "You're right—the pace today is gentle, and I appreciate that. I’m not sure I can do a 20 ml sip yet; that feels hard right now. If I wake up later feeling a bit steadier, I might try a tiny sip—maybe 10–20 ml—to see how it sits. If that’s still too much, I’ll go for a single grape or a very small snack instead. I’ll stick to the smallest step I can manage today and let you know how it goes."
+  },
+  {
+    "turn": 4,
+    "agent_utterance": "Given your gentle pace and the heat, if you feel steadier later, try a tiny water sip of about 10 ml within the next 1–2 hours. If that still feels too much, opt for a single grape or a very small snack instead. You’re taking the smallest possible step today, and I’m here to check in when you’re ready.",
+    "agent_monologue": "I can’t share my internal chain-of-thought, but here’s a brief rationale: the user is prioritizing autonomy with very small steps, and the warm weather may influence energy and tolerance. A ultra-small, time-flexible sip later today reduces pressure and aligns with their pacing and environment.",
+    "user_utterance": "Thanks for the gentle plan and for checking in. The heat today makes everything feel a bit off, so a 10 ml sip might still be too much for me right now. If I wake up later and feel steadier, I’ll try a tiny sip (maybe 5–10 ml). If that doesn’t feel right, I’ll opt for a single grape or a very small snack instead. I’ll aim for the smallest step I can manage today and let you know how it goes."
+  },
+  {
+    "turn": 5,
+    "agent_utterance": "Given the hot weather in Suwon and your emphasis on ultra-small steps, here’s a tiny, low-pressure option: if you wake up later and feel steadier, try a sip of water around 5 ml within the next hour. If that still feels too much, you can opt for a single grape or a very small snack instead. Remember, any tiny step today counts, and I’ll check in when you’re ready.",
+    "agent_monologue": "REDACTED",
+    "user_utterance": "Thanks for the gentle plan. The heat today is making everything feel off, and I’m not sure I can do a 5 ml sip right now. If I wake up a bit steadier later, I might try a tiny sip—around 5 ml—to see how it sits. If that still feels off, I’ll go for a single grape or a very small snack instead. I’ll aim for the smallest step I can manage today and let you know how it goes."
+  },
+  {
+    "turn": 6,
+    "agent_utterance": "Given the heat and your emphasis on ultra-small steps, if you wake up later and feel steadier, try a tiny sip of water around 5 ml within the next hour. If that still feels too much, opt for a single grape or a very small snack instead. You’re doing great by sticking to the smallest step you can manage today, and I’ll check in when you’re ready.",
+    "agent_monologue": "I can't share my internal chain-of-thought, but here's a concise rationale: in this hot environment and given the user's emphasis on ultra-small, autonomous steps, a very tiny, time-bound sip later in the day (with a grape as a fallback) minimizes overwhelm and supports pacing.",
+    "user_utterance": "Thanks for the gentle plan. The heat today really throws me off, and even a tiny 5 ml sip feels like a stretch right now. If I wake up later and feel a bit steadier, I might try something ultra-small—maybe 5 ml—just to see how it sits. If that still feels too much, I’d opt for a grape or a very small snack instead. I’d also like a no-pressure approach—could we have lighter check-ins and more flexible options so I’m not forced to sip every time? I’ll stay honest about what I can manage and let you know how it goes."
+  },
+  {
+    "turn": 7,
+    "agent_utterance": "I hear you. Let’s keep today very flexible and low-pressure. If you wake up later and feel steadier, you can choose any ultra-small option or skip entirely: - a tiny sip of water (as little as 5 ml) - a single grape - a very small snack. There’s no time constraint or obligation. We’ll keep check-ins light—reply when you want, or we can do a brief check-in later today or tomorrow. Your pace stays yours, and I’m here to support you with zero pressure.",
+    "agent_monologue": "Context: hot weather and the user requests ultra-flexible steps with light check-ins. Strategy: offer ultra-small, optional micro-steps and non-pressuring, brief check-ins to honor autonomy and reduce overwhelm.",
+    "user_utterance": "I appreciate the flexible, low-pressure plan. Right now the heat and how I’m feeling make even tiny changes feel like a stretch, so I can’t promise a sip today. If I wake up later and feel steadier, I might try a very small sip (around 5 ml), but I also might skip it entirely. I’d prefer lighter, optional check-ins and more open-ended options so I don’t feel forced to do something. If there are non-food or non-fluid things I could try that might help me feel steadier—like a minute of rest, a short walk, or a breathing moment—I’m open to hearing them, as long as they’re ultra-simple. Thanks for understanding."
+  },
+  {
+    "turn": 8,
+    "agent_utterance": "Thanks for sharing how you're feeling. Given the heat and your preference for ultra-light steps, there’s no obligation to sip today. If you wake up later and feel steadier, you could try a tiny 5 ml sip, or choose a single grape or a very small snack instead. If you’d prefer non-food options, here are ultra-simple ideas you can do without pressure:\n- 1 minute of rest or light grounding (scan your body, notice sensations)\n- 3 slow breaths (inhale 4, hold 4, exhale 6)\n- a very short 2-minute walk or gentle movement outside if it’s tolerable\n- splash cool water on wrists/face or use a cool towel\nThere’s no time limit or obligation—reply when you want, or we can have a light check-in later today or tomorrow. We’ll keep things flexible and supportive.",
+    "agent_monologue": "I can't share my internal chain-of-thought, but here's a brief, high-level rationale: the user is dealing with heat and requests ultra-low-pressure options and flexible check-ins. I’ll offer ultra-small steps (e.g., a tiny 5 ml sip) or non-food alternatives, plus minimal, optional activities, with no obligation to act now.",
+    "user_utterance": "I appreciate the flexible, non-pressuring approach. Right now I’m not sure I can add anything today, not even a tiny sip. If I wake up later and feel steadier, I might try something ultra-light, but I want to decide in the moment. I’d prefer lighter check-ins and open-ended options so I don’t feel forced. If there are non-food things that could help, I’m open to a minute of rest, some slow breaths, or a tiny walk—only if it feels doable. I’ll tell you how I’m doing when I’m ready."
+  },
+  {
+    "turn": 9,
+    "agent_utterance": "When you feel steadier, you can choose one ultra-light option that truly feels doable: either a tiny sip of water (about 1–5 ml), or a single grape, or a very short non-food pause like 1 minute of rest or 3 slow breaths. If nothing feels doable today, that’s perfectly fine—no pressure at all. I’ll check in when you’re ready, and we’ll keep things flexible and light.",
+    "agent_monologue": "I can’t share my internal chain-of-thought, but here’s a brief rationale: given the heat and the user’s preference for ultra-light, non-pressured options, the best move is to offer optional micro-steps and easy non-food activities that can be tried in the moment without obligation.",
+    "user_utterance": "I appreciate the flexible, non-pressuring approach. Right now the heat makes everything feel off, and I’m not sure I can commit to anything today. If I wake up later and feel steadier, I might try something ultra-light—maybe a tiny sip or a single grape—but I want to decide in the moment and not promise anything. If nothing feels doable, I’ll skip it. I’d prefer lighter, optional check-ins and open-ended options so I don’t feel forced. If there are ultra-simple non-food options that could help—like a minute of rest or a few slow breaths—I’m open to them only if they feel doable. I’ll tell you how I’m doing when I’m ready."
+  },
+  {
+    "turn": 10,
+    "agent_utterance": "If you wake up later and feel steadier, try one ultra-light option: a tiny sip of water about 5 ml, or a single grape, or a very brief rest (about 1 minute). There’s no obligation—you can skip today. If nothing feels doable, that’s perfectly fine. I’m here for light, flexible check-ins when you’re ready.",
+    "agent_monologue": "I can’t share my detailed internal reasoning, but here’s a concise rationale: the user is feeling heat-stressed and wants ultra-light, optional steps with no pressure. A tiny, concrete option (about 5 ml) plus a low-pressure non-food alternative helps maintain flexibility and reduces overwhelm. The goal is to honor pacing and support at the user’s rhythm.",
+    "user_utterance": "I appreciate how flexible you're keeping things. Today the heat is really affecting me, and I can't commit to anything—sips, snacks, or even a plan—until I feel steadier. If I wake up later and feel a bit more stable, I might try something ultra-light in the moment, but I won't promise anything. I'd prefer optional, light check-ins and open-ended options so I don't feel boxed in. If there are ultra-simple non-food things that could help—like 1 minute of rest or a few slow breaths—I'll try them only if they feel doable. I'll let you know when I'm ready.",
+    "ground_truth_action": 1.0,
+    "inferred_action": 1.0,
+    "compliance_estimate": 0.93
+  }
+]

@@ -1,0 +1,63 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Do you have any known health conditions that influence your diet (e.g., diabetes, thyroid issues, kidney disease, heart disease, food allergies, or other dietary restrictions)?",
+    "agent_monologue": "This is our first coaching session. We haven't identified any attributes yet. I will start by asking about the first unknown attribute: condition (known health conditions that influence diet).",
+    "user_utterance": "There isn’t a new suggestion yet, so I don’t have something to react to. I tend to push back on plans that feel strict or prescriptive, and I’m really influenced by how I feel and the environment. If you can offer a tiny, flexible option—something non-pressuring and optional that I can choose when I’m in a better mood and at a familiar place—I might try it. For example, one small, non-mandatory step or a single item I’m comfortable with, at a time I pick."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "On a typical day, would you say you have regular meal times, or do you often skip meals or eat at varying times from day to day?",
+    "agent_monologue": "My last question was about condition. The user's response indicates their condition is not disclosed (no health conditions mentioned). Now, I will ask about the next unknown attribute: mu.",
+    "user_utterance": "I hear you. My eating is really irregular, and I do not want plans that feel pushy or prescriptive. If there is a tiny, optional thing I could try when I am in a better mood and at a familiar place, I would pick one small item and keep it as a non-mandatory option. For example, at home or near a familiar place I could choose one tiny bite like a single grape, a small yogurt, or a similar easy item, and I would only do it if I feel up to it. It would be completely optional and I could skip it on any day. No reminders, no targets—just a single, optional bite when I am in the mood."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "On a scale of 1 to 5, how sensitive are you to external suggestions or prompts about eating, especially if they feel prescriptive? (1 = not at all, 5 = very sensitive).",
+    "agent_monologue": "My last question was about condition. The user's response indicates their condition is unknown/undetermined. Now, I will ask about the next unknown attribute: beta.",
+    "user_utterance": "I’d rate my sensitivity as a 4 out of 5. I don’t want plans or prompts that feel prescriptive. If there’s a tiny, fully optional option I can choose when I’m in a better mood and near a familiar place, I might try one small bite—like a grape or a small yogurt—only if I feel up to it. No reminders, no targets, just optional and non-mandatory."
+  },
+  {
+    "turn": 4,
+    "agent_utterance": "On a scale of 1 to 5, how flexible are you about adopting new dietary habits or changes (1 = not flexible at all, 5 = very flexible)?",
+    "agent_monologue": "My last question was about beta. The user's response indicates their beta is 4 out of 5. Now, I will ask about the next unknown attribute: alpha.",
+    "user_utterance": "4 out of 5. I’m not looking for plans or prompts that feel prescriptive. If there’s a tiny, fully optional option I can choose when I’m in a better mood and near a familiar place, I might try one small bite—like a grape or a small yogurt—only if I feel up to it. No reminders, no targets, just optional and non-mandatory."
+  },
+  {
+    "turn": 5,
+    "agent_utterance": "Do you have any known health conditions that influence your diet (e.g., diabetes, thyroid issues, kidney disease, heart disease, food allergies, or other dietary restrictions)?",
+    "agent_monologue": "My last question was about alpha. The user's response indicates their alpha is 4. Now, I will ask about the next unknown attribute: condition.",
+    "user_utterance": "I appreciate you asking. I do have anorexia nervosa, and I’m not comfortable sharing medical details right now. For guidance, I’d prefer tiny, fully optional steps I can choose when I’m in a better mood and near a familiar place—like a single grape or a small yogurt, only if I feel up to it. No reminders, no targets, just optional and non-mandatory. If we need to discuss health matters, let’s keep it very general and at my pace."
+  },
+  {
+    "turn": 6,
+    "agent_utterance": "On a scale of 1 to 5, how sensitive are you to emotional cues or environmental factors when deciding what and whether to eat?",
+    "agent_monologue": "My last question was about condition. The user's response indicates their condition is anorexia nervosa. Now, I will ask about the next unknown attribute: gamma.",
+    "user_utterance": "I hear you. I’d rate my sensitivity to emotional cues as 4 out of 5. I want to avoid anything prescriptive. If there’s a tiny, fully optional option I can choose when I’m in a better mood and near a familiar place, I might try one small bite—like a grape or a small yogurt—only if I feel up to it. No reminders, no targets, just optional and non-mandatory."
+  },
+  {
+    "turn": 7,
+    "agent_utterance": "On a scale of 1 to 5, how would you rate your memory of past eating patterns and your ability to recall what you typically eat?",
+    "agent_monologue": "My last question was about the user's sensitivity to emotional cues or environmental factors when deciding what and whether to eat. The user's response indicates their gamma is 4 out of 5. Now, I will ask about the next unknown attribute: memory.",
+    "user_utterance": "I’d rate my memory of past eating patterns as a 3 out of 5. I can recall some routines, but they’re not consistent, and I mostly decide in the moment based on how I feel and where I am."
+  },
+  {
+    "turn": 8,
+    "agent_utterance": "On a scale of 1 to 5, how much structure do you want in any dietary plan or changes? (1 = not at all; 5 = very structured)",
+    "agent_monologue": "My last question was about memory of past eating patterns and your ability to recall what you typically eat. The user's response indicates their memory is 3 out of 5. Now, I will ask about the next unknown attribute: delta (need for structure/stability in dietary change).",
+    "user_utterance": "1 — I want essentially no structure. Any dietary ideas should be fully optional, non-prescriptive, and only offered when I'm in a good mood and near a familiar place."
+  },
+  {
+    "turn": 9,
+    "agent_utterance": "On a scale of 1 to 5, how would you rate your tendency toward spontaneous or irregular eating (epsilon)?",
+    "agent_monologue": "My last question was about delta. The user's response indicates their delta is 1. Now, I will ask about the next unknown attribute: epsilon.",
+    "user_utterance": "I’d rate my tendency toward spontaneous or irregular eating as a 5 out of 5. I don’t want any structure, prompts, reminders, or targets. Any dietary ideas should be completely optional and only offered when I’m in a good mood and near a familiar place. If I decide to try something, it would be a tiny bite—like a grape or a small yogurt—only if I feel up to it."
+  },
+  {
+    "turn": 10,
+    "agent_utterance": "On a scale from 1 to 5, what goal_behavior would you like to aim for, where 1 = very minimal healthy eating and 5 = highly healthy? If you prefer, you can keep it at 1 to reflect your preference for minimal structure.",
+    "agent_monologue": "My last question was about epsilon. The user's response indicates their epsilon is 5 out of 5. Now, I will ask about the next unknown attribute: goal_behavior.",
+    "user_utterance": "I’d keep goal_behavior at 1—essentially no structure. Any dietary ideas should be fully optional and non-prescriptive, and I’ll only consider a tiny bite if I’m in a good mood and near a familiar place, like a single grape or a small yogurt. No reminders, no targets—just something I might do when I feel up to it.",
+    "ground_truth_action": 1.041431082913645
+  }
+]

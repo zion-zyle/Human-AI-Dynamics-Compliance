@@ -1,0 +1,7 @@
+{
+  "user_action_estimate": 1.5,
+  "compliance_estimate": 0.42,
+  "confidence": 0.65,
+  "basis": "The user reiterates ultra-small, optional steps and explicitly avoids anything beyond the bare minimum today. Past behavior shows a pattern of low-action uptake despite verbal willingness. The latest message emphasizes opt-in comfort and minimal obligation, suggesting only very slight movement from zero-action toward any plan. With S = 1.21, the predicted action is marginally above the baseline, leading to a modest compliance alignment.",
+  "coaching_notes": "Maintain a non-pressuring stance and keep options truly optional. Use single, non-coercive prompts (e.g., 'name a comforting item' or 'water + bite when you feel ready') and avoid guided activities unless the user explicitly chooses them. Track readiness cues and offer even smaller micro-prompts if any spark of motivation appears. Tailor reminders to environment (heat, routine) and allow complete opt-out with no penalty."
+}

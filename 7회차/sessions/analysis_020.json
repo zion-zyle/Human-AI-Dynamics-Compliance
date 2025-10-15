@@ -1,0 +1,7 @@
+{
+  "user_action_estimate": 2.0,
+  "compliance_estimate": 0.34,
+  "confidence": 0.65,
+  "basis": "The user explicitly commits to starting with triggers and maintains a strict pace, but their history shows a pattern of signaling intent without timely follow-through. Given this and the current request to proceed with triggers only, a low-to-moderate action value (around 2.0) best reflects likely behavior.",
+  "coaching_notes": "Keep the process ultra-anchored to the user’s pace and environment focus. To improve alignment: - Offer a minimal, one-item trigger prompt (e.g., 'List one trigger around your surroundings') before moving to the next step. - Reassure that no intake will be discussed unless the user signals readiness. - Validate their need for a pressure-free, autonomy-driven flow and avoid any nudges toward eating. - Schedule reliance on explicit signals rather than implicit progress; reflect back their stated pace and adjust prompts accordingly."
+}

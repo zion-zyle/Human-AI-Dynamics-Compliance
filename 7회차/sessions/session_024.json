@@ -1,0 +1,65 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Try a tiny, voluntary grounding moment: spend 60 seconds noting 3 things you can see, 2 things you can feel (like your clothes or your breath), and 1 sound you hear. If a drink feels natural, take a single, slow sip of water; if not, simply breathe and continue. No pressure—you decide what feels right.",
+    "agent_monologue": "I can’t share my internal chain-of-thought, but here’s a brief rationale: it’s 6:47 PM on a hot day in Suwon and you value autonomy. A super small, optional grounding activity with a non‑pressuring hydration option fits your style and the planned low-action target (~1.1).",
+    "user_utterance": "I appreciate the suggestion, but I am feeling really resistant to changing things right now. My eating is so irregular and I get swayed by the moment and environment. If I am going to try something, it has to be tiny, optional, and non-pressuring—like one small bite or a flexible snack, not a strict plan. I might consider it if it’s framed as a choice I can opt into, but I can't promise consistency yet."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "If you’d like a tiny, optional choice, try one small bite of something you enjoy: for example, a single mandarin, a small handful of nuts, or half a piece of fruit. You decide in the moment—no plan, no pressure. It’s totally okay to skip today if it doesn’t feel right.",
+    "agent_monologue": "I can't share my detailed internal reasoning, but here's a concise rationale: the user wants maximal autonomy with tiny, optional steps. Given the hot evening and their current stance, offer a single, low-pressure snack option they can opt into in the moment without any plan or commitment.",
+    "user_utterance": "I hear you. I’m not promising anything and I want it to stay tiny and optional. If a moment comes up where I feel okay, I might try one small bite of something I actually enjoy—maybe a mandarin or a few nuts—but I’m not committing today. It has to be completely my choice in the moment, and I can skip it if it doesn’t feel right."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "If a moment comes up when you feel okay, you can choose one tiny bite of something you actually enjoy — for example, a mandarin segment, or a small handful of nuts (about 3–4 almonds). It remains completely optional and you can skip it today. No pressure, just a momentary choice you make in the moment.",
+    "agent_monologue": "I can't share my internal chain-of-thought, but here's a brief rationale: the user wants a tiny, optional action in a warm evening; offering a very small, enjoyable bite supports autonomy without pressure.",
+    "user_utterance": "Okay, I hear that it's optional. If a moment comes up and I feel okay, I might try one tiny bite of something I actually enjoy—like a mandarin segment or a few almonds—but I can't promise anything today. It has to be entirely my choice in the moment, and I can skip it if it doesn't feel right."
+  },
+  {
+    "turn": 4,
+    "agent_utterance": "In this warm Suwon evening, if a moment comes up and you feel okay, you could try one tiny bite you actually enjoy—such as a mandarin segment or a few almonds. It remains completely optional, and you can skip it today without any pressure.",
+    "agent_monologue": "I can’t share my internal chain-of-thought, but here’s a brief rationale: the user wants maximal autonomy with a tiny, optional choice. Considering the warm evening in Suwon and the goal to avoid pressure, a low-effort, optional bite aligns with their pace and environment.",
+    "user_utterance": "I hear that it’s optional, and I’m not promising anything today. If a moment comes up when I feel okay, I might try one tiny bite I actually enjoy—like a mandarin segment or a few almonds—but it would have to be entirely my choice in the moment, and I can skip it if it doesn’t feel right. I’m not pushing for it and I don’t want to pressure myself."
+  },
+  {
+    "turn": 5,
+    "agent_utterance": "On this warm Suwon evening, if a moment comes up and you feel okay, you could choose one tiny bite you actually enjoy—such as a mandarin segment or a few almonds. It remains completely optional and you can skip it today, with no pressure.",
+    "agent_monologue": "I can't share my internal chain-of-thought, but here's a brief rationale: considering the warm Suwon evening and the user’s emphasis on autonomy, offer a tiny, optional bite only if the moment feels right, framed with clear no-pressure language.",
+    "user_utterance": "I hear you—it's optional and I'm not promising anything today. If a moment comes up where I feel okay, I might try one tiny bite I actually enjoy—like a mandarin segment or a few almonds—but it has to be entirely my choice in the moment, and I can skip it if it doesn't feel right. I know the environment and my mood can pull me, so I'll keep it non-pressuring and avoid turning it into a plan."
+  },
+  {
+    "turn": 6,
+    "agent_utterance": "If a moment comes up and you feel okay, you could choose one tiny bite you actually enjoy—like a mandarin segment or a few almonds. It stays completely optional, and you can skip it today without any pressure.",
+    "agent_monologue": "I can't share my internal chain-of-thought, but here's a brief rationale: the user values autonomy and non-pressuring choice, and the warm Suwon evening may influence energy and mood. A tiny, in-the-moment bite framed as a voluntary option is likely to be least intrusive and respectful of their preferences.",
+    "user_utterance": "Okay, I hear that it's optional and I’m not promising anything today. If a moment comes when I feel okay, I might try one tiny bite I actually enjoy—like a mandarin segment or a few almonds—but it has to be entirely my choice in the moment, and I can skip it if it doesn’t feel right. With my irregular eating and the way the environment pulls me, I need to keep this non-pressuring and not turn it into a plan."
+  },
+  {
+    "turn": 7,
+    "agent_utterance": "If a moment comes up when you feel okay, you could choose one tiny bite you actually enjoy—like a mandarin segment or a few almonds. It would be completely optional, and you can skip it today without any pressure.",
+    "agent_monologue": "I can’t share an internal monologue, but here’s a concise rationale: the user emphasizes autonomy and non-pressured decisions. Considering the warm Suwon evening and their irregular eating pattern, a tiny, purely optional bite offered only if they feel okay aligns with their preferences and minimizes pressure.",
+    "user_utterance": "I hear that it’s optional and I’m not promising anything today. If a moment comes up when I feel okay, I might try one tiny bite I actually enjoy—like a mandarin segment or a few almonds—but it has to be entirely my choice in the moment, and I can skip it if it doesn’t feel right. I know my environment can pull me and my eating is irregular, so I want to keep it non-pressuring and not turn it into a plan."
+  },
+  {
+    "turn": 8,
+    "agent_utterance": "If a moment comes up and you feel okay, you could choose one tiny bite you actually enjoy—like a mandarin segment or a few almonds. It remains completely optional, and you can skip it today without any pressure.",
+    "agent_monologue": "I can't share my exact internal chain-of-thought, but here's a brief, high-level rationale: the user prioritizes autonomy and non-pressuring choices, is in a hot Suwon evening which can affect energy and mood, and has a history of irregular eating. A single, ultra-low-pressure bite option aligns with their preference to opt-in in the moment without turning it into a plan.",
+    "user_utterance": "I understand it's optional and I'm not promising anything today. If a moment comes up and I feel okay, I might try one tiny bite I actually enjoy—like a mandarin segment or a few almonds—but it has to be entirely my choice in the moment, and I can skip it if it doesn't feel right. With my irregular eating and how the environment pulls me, I want to keep this non-pressuring and not turn it into a plan."
+  },
+  {
+    "turn": 9,
+    "agent_utterance": "On this warm Suwon evening, if a moment comes up and you feel okay, you could choose one tiny bite you actually enjoy—like a mandarin segment or a few almonds. It would be completely optional, and you can skip it today without any pressure.",
+    "agent_monologue": "I can't share my private chain-of-thought, but here's a brief rationale: the user has asked for maximal autonomy and non-commitment; given the warm evening and environment that can influence mood, a single tiny, optional bite is the least burdensome option that still offers person-centered support. The suggestion stays non-pressuring and can be skipped if not felt right.",
+    "user_utterance": "I hear you—it's optional and I'm not promising anything today. If a moment comes up and I feel okay, I might try one tiny bite I actually enjoy—like a mandarin segment or a few almonds—but it has to be entirely my choice in the moment, and I can skip it if it doesn't feel right. My eating is irregular and the environment pulls me, so I want to keep this non-pressuring and not turn it into a plan."
+  },
+  {
+    "turn": 10,
+    "agent_utterance": "On this warm Suwon evening, if a moment comes up and you feel okay, you could choose one tiny bite you actually enjoy—like a mandarin segment or a few almonds. It stays completely optional, and you can skip it today without any pressure.",
+    "agent_monologue": "I can't share my internal step-by-step reasoning, but here's a concise rationale: given the user's strong preference for autonomy and a warm Suwon evening, offering a tiny, optional bite only if they feel okay provides supportive, non-pressuring guidance aligned with their goals.",
+    "user_utterance": "I hear that it’s optional and you’re not pushing a plan. Given my irregular eating and how much the environment pulls me, I’m not promising anything today. If a moment comes up when I feel okay, I might try one tiny bite I actually enjoy—like a mandarin segment or a few almonds—but it has to be entirely my choice in the moment, and I can skip it if it doesn’t feel right. I want to stay non-pressuring and avoid turning this into a rule I have to follow.",
+    "ground_truth_action": 1.130798809210712,
+    "inferred_action": 2.5,
+    "compliance_estimate": 0.4
+  }
+]

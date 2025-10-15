@@ -1,0 +1,7 @@
+{
+  "user_action_estimate": 2.0,
+  "compliance_estimate": 0.48,
+  "confidence": 0.82,
+  "basis": "The user consistently avoids commitments unless a 'real moment' arises and requires ultra low-key, non-directive support. Past behavior shows low engagement with planned actions. Using the agent's last suggestion (S = 1.21), compliance = (user_action_estimate / 5) * S = (2.0/5) * 1.21 ≈ 0.48.",
+  "coaching_notes": "The user exhibits cautious, non-committal behavior and emphasizes autonomy. To improve alignment, explore underlying barriers (anxiety, appetite volatility) and offer even smaller, non-event-based prompts or environment-backed cues that require minimal or no planning."
+}

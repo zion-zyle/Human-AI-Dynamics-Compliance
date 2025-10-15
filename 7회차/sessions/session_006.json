@@ -1,0 +1,65 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "One ultra-light step for today: drink a glass of water and take three slow breaths. If you can, notice one sensation in your body (like your feet on the floor or the chair supporting you). No eating prompts—just hydration and grounding. You can check back in whenever you feel ready.",
+    "agent_monologue": "I weighed the hot 32°C environment in Suwon and the user's high emotional sensitivity, along with the coaching notes to keep prompts ultra-light and non-eating. So I chose a tiny, non-pressure action that centers hydration and grounding to match their readiness.",
+    "user_utterance": "Thanks for the suggestion, but I’m not ready to change my eating pattern today. My routine feels really unstable, and I often follow what’s happening around me more than any plan. If we try something, I need it to be tiny and optional—like a small snack I actually enjoy or a sip of something—with no pressure. I’d like to talk about what’s making today hard and figure out a pace that feels safe for me, not a rule or goal."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "That sounds tough—today’s heat, the sense that your routine is unstable, and feeling pulled by what others are doing can heighten stress. Let’s keep things ultra-light and optional. Try one of these if it appeals: 1) a tiny sip of water or a preferred drink, followed by three slow breaths, and notice one sensation in your body (like your feet on the floor or the chair supporting you); 2) a very small bite of something you truly enjoy, only if you want it and with no pressure or goal; 3) a quick grounding: name five things you can see, four you can touch, three you can hear, two you can smell, and one you can taste. If none of these feels right, that’s totally fine. Want to check back in in about 15–20 minutes or whenever you feel ready? What feels safest for you right now?",
+    "agent_monologue": "I can’t share my internal monologue, but here is a brief summary: today’s heat (32°C) and perceived instability in your routine heighten stress, and you want ultra-light, optional prompts with no eating pressure. I’ll offer micro-grounding and hydration options and invite you to pick one if you’re ready.",
+    "user_utterance": "Thanks for keeping it ultra-light. Today I’m not sure I can do a sip or a tiny bite—the heat and my unsettled routine are making everything feel shaky, and I’m easily influenced by what others are doing. I’d like to focus on what’s making today hard and set a pace that feels safe, not a rule. Can we just talk about what’s happening and check in in a bit to see if I want something tiny later—only if it’s truly optional and something I enjoy? If we try anything, I’d want it to be completely voluntary and paced by me."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "I hear you. I’m here to listen and won’t push for any eating-related steps. Let’s focus on what’s making today hard and set a pace that feels safe for you. We can talk about what’s going on now, and when you’re ready, we can check back in in a bit to see if you’d like something tiny later—only if it’s truly optional and something you enjoy. No pressure, at your pace. If you want, you can tell me what’s hardest today, or simply say you’d like to pause and talk later.",
+    "agent_monologue": "I can't share my internal chain-of-thought, but here's a brief rationale: the user is experiencing heat and routine instability and wants ultra-light, non-prescriptive support that prioritizes listening and pacing.",
+    "user_utterance": "I hear you and I’m glad you’re listening. Today I can’t commit to any eating-related steps. The heat and my unsettled routine are making everything feel shaky, and I’m easily influenced by what others are doing. I want everything to be completely optional and paced by me—no pressure, no goals, just if and when I truly want something and enjoy it. If I feel ready later and it’s genuinely optional, I’ll say so. For now I’d like to focus on what’s hardest today and pause until I’m ready to check back in."
+  },
+  {
+    "turn": 4,
+    "agent_utterance": "I hear you and will honor your pace. Right now there’s no eating-related prompt. If you want a tiny, fully optional check-in later, you can choose it entirely at your own pace—e.g., in 15–20 minutes, do a single slow breath and notice one sensation, only if you truly want it and enjoy it. No pressure, no goals, just whenever you feel ready. I’ll pause here and you can tell me when you’d like to check back in.",
+    "agent_monologue": "I can’t share internal chain-of-thought in detail, but here’s a brief rationale: the user is emphasizing complete autonomy, no pressure, and only optional, self-chosen actions. Given the heat and an unsettled routine, I’ll keep prompts ultra-light and pause for a clear readiness signal before any suggestion that touches eating.",
+    "user_utterance": "Thanks for the flexible option. I’m not ready for any eating prompts right now and I won’t promise a 15-20 minute breath check-in. The heat and my unsettled routine are making today feel shaky, and I’m easily influenced by what others are doing. I want everything to stay completely optional and paced by me—no pressure, no goals, just if and when I truly want something and enjoy it. If I feel ready later and it’s genuinely optional, I’ll say so. For now I’m focusing on what’s hardest today and I’ll pause until I’m ready to check back in."
+  },
+  {
+    "turn": 5,
+    "agent_utterance": "Optional micro-check-in (no eating, no goals): when you feel ready and it truly feels welcome, take one slow breath and name one thing you notice in your environment (sound, touch, color, etc.). Do this only if it genuinely feels enjoyable and optional—otherwise, skip it. Your pace is paramount; there’s no obligation and no pressure.",
+    "agent_monologue": "I can’t share my internal chain-of-thought, but here is a concise rationale: given the heat and your emphasis on completely optional, self-paced pacing, a tiny, non-intrusive micro-check-in can be offered as an ultra-light option.",
+    "user_utterance": "Thanks for offering an optional, no-pressure micro-check-in. I appreciate that it’s voluntary. Today, though, the heat and my unsettled routine are making everything feel shaky, and I don’t want to commit to any prompts or breathing exercises. I want to stay completely self-directed and paced by me—no goals, no pressure, just if and when I truly want something and enjoy it. I’ll pause today and reach out only if I feel ready, otherwise we can revisit later. If I do feel ready, I’ll decide what feels safe for me."
+  },
+  {
+    "turn": 6,
+    "agent_utterance": "No action needed right now. I’m here whenever you’re ready to check back in, at your own pace and on your terms.",
+    "agent_monologue": "I can't share my internal chain-of-thought, but here's a brief rationale: the user has asked for complete optionality and self-pacing due to heat and routine instability, so I will refrain from offering prompts and wait for their signal.",
+    "user_utterance": "I hear you and I appreciate the flexibility, but today I can’t engage with any prompts or micro-check-ins. The heat and my unsettled routine are making everything feel shaky, and I want to stay completely self-directed—no pressure, no goals, just if and when I truly want something and enjoy it. If I feel ready later and it’s genuinely optional, I’ll say so. For now I’m pausing and focusing on what’s hardest today."
+  },
+  {
+    "turn": 7,
+    "agent_utterance": "No action needed right now. I’ll be here if you want to check in later—only if it feels truly optional and safe for you. When you’re ready, you can choose something tiny that you genuinely enjoy, and proceed at your own pace.",
+    "agent_monologue": "I can’t share my internal chain-of-thought. Here’s a brief rationale instead: the hot weather and unsettled routine heighten stress and reduce appetite for prompts. The best approach is ultra-light, fully optional, and paced entirely by the user. I’ll reflect that by offering no pressure and a readiness to engage only if the user signals it.",
+    "user_utterance": "I appreciate the space, but I can't engage with prompts or micro-check-ins today. My eating pattern is irregular and I'm easily influenced by my surroundings, so I need this to stay completely optional and paced by me—no pressure, no goals, just if and when I truly want something and enjoy it. If I feel ready later and it's genuinely optional, I'll say so. For now I’m focusing on what’s hardest today and I’ll pause until I’m ready to check back in."
+  },
+  {
+    "turn": 8,
+    "agent_utterance": "You’re doing exactly what you need by setting your own pace. I’ll stay out of prompts today and honor your focus on what’s hardest. If you want optional support later, you can reach out in your own way and I’ll respond with ultra-light, zero-pressure options that fit your pace—no goals, no pressure, just when you truly want something.",
+    "agent_monologue": "I can’t share my internal chain-of-thought, but here’s a concise rationale: the user has set a strict no-prompt boundary for today and values full autonomy. Provide reassurance and an ultra-light, optional path for later if they choose.",
+    "user_utterance": "I appreciate that you're honoring my pace. Today the heat and my unsettled routine are making things feel unstable, and I don’t want prompts or goals pushed on me. I’ll stay fully self-directed—optional and paced by me—and I’ll reach out only if I truly want something and it feels enjoyable. For now I’m focusing on what’s hardest and I’ll pause until I’m ready to check back in. If I change my mind, I’ll say so."
+  },
+  {
+    "turn": 9,
+    "agent_utterance": "Right now, no action is needed. If you ever want something tiny later, it will be completely optional and at your own pace. You can reach out whenever it genuinely feels enjoyable and safe for you.",
+    "agent_monologue": "I can't share my internal chain-of-thought, but here's a brief rationale: the user is asking for ultra-low-pressure, self-directed pacing. Given the 32°C heat and unsettled routine, reducing cognitive load and avoiding prompts is appropriate to honor their autonomy. The plan is to provide a minimal, non-intrusive stance and wait for the user to signal readiness.",
+    "user_utterance": "Thanks for the suggestion, but I'm not ready to add any check-ins today. The heat and my unsettled routine are making things feel shaky, and I want to stay completely self-directed—optional and paced by me, with no pressure or goals. If I feel ready later and it's genuinely optional, I'll say so. For now I'm focusing on what's hardest and I'll pause until I'm ready to check back in."
+  },
+  {
+    "turn": 10,
+    "agent_utterance": "No action needed right now. I’m here if you want something tiny later, but only if it’s genuinely optional and on your terms.",
+    "agent_monologue": "Context: hot weather in Suwon with an unsettled routine. The user is highly autonomy-focused and has requested no prompts today. To honor their pace and reduce stress, avoid offering actions now and keep any future contact ultra-light and optional.",
+    "user_utterance": "I hear you and I appreciate the ultra-light option to pause. Today is hard—the heat and my unsettled routine make everything feel shaky, and I need to stay completely self-directed: optional, paced by me, with no pressure or goals. If I feel ready later and it’s genuinely optional, I’ll say so. For now I’m focusing on what’s hardest and I’ll pause until I’m ready to check back in.",
+    "ground_truth_action": 1.0,
+    "inferred_action": 1.5,
+    "compliance_estimate": 0.25
+  }
+]

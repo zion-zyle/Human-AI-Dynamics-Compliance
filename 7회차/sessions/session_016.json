@@ -1,0 +1,65 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Reach out to a trusted person right now to confirm they’ll be available for a quick, 10-minute check-in and to stay with you for a simple snack (for example, yogurt or a banana) within the next 30 minutes (by about 6:46 PM). This real-time support lowers effort and makes the next healthy step feel doable.",
+    "agent_monologue": "I can't share my full internal chain-of-thought, but here's a brief, non-detailed rationale: given the hot evening and your preference for real-time support, a simple, verifiable step with a trusted person reduces planning friction and increases follow-through. The plan focuses on immediate contact and a small, doable snack.",
+    "user_utterance": "I hear your plan to reach out to someone I trust and have a tiny snack, and I know it could help. But honestly, my eating is all over the place and I’m usually resistant to meals or guidance. If I can do it with a friend nearby and keep it really small, I might try—like a plain yogurt or a banana. I’ll text a trusted person now to see if they can check in for 10 minutes. If I can’t eat yet, can we at least try to sit with that option today and plan a minuscule step for tomorrow?"
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "Nice progress. If today you still can’t eat, here’s a tiny plan for tomorrow: 1) In the morning, text your trusted person with one exact ask: ‘Could you check in for 10 minutes at 6 PM tomorrow?’ 2) Have a plain yogurt or banana ready in the fridge so you can take a very small bite if you feel even a tiny urge. 3) If eating still isn’t possible, send a quick message to your friend to rebook the short check-in and aim to try a single sip of water or a tiny bite later in the day. The aim is a real-time cue + ultra-simple action. Want me to tailor the message or time to someone specific you have in mind?",
+    "agent_monologue": "REDACTED",
+    "user_utterance": "I hear you and I want to try, but I need it to stay ultra-simple and low-pressure. I’m going to text my trusted person to ask for a 10-minute check-in, but can we pick a time that won’t feel overwhelming? I’ll keep a plain yogurt or banana ready, but I might not eat right away. If today is too hard, let’s focus on tomorrow with a minuscule step—like one tiny bite or sip if I can manage it, and we can rebook the check-in later if needed. Could you help me tailor the exact text to someone I know and choose a time that feels manageable?"
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "Hi [Name], could you check in with me for 10 minutes tomorrow around 6 PM? I'm keeping it ultra-simple and low-pressure. If that time doesn’t work, please suggest another time that’s convenient. Thank you so much for your support.",
+    "agent_monologue": "I can’t share my internal chain-of-thought, but here’s a concise rationale: keep the ask ultra-simple, set a specific 10-minute check-in time to create accountability, and use warm, low-pressure language. Tomorrow around 6 PM is a manageable target that doesn’t require immediate action today, helping reduce overwhelm.",
+    "user_utterance": "I appreciate making this ultra-simple. The 6 PM tomorrow time still feels heavy after today. Could we keep the ask flexible so they can pick a time that works for them, or just say 'tomorrow at any convenient time'? And please keep the text really short. For example: 'Hi [Name], could you check in for 10 minutes tomorrow? Ultra-simple and low-pressure—thanks for your support.' If today is too hard, I’ll try again tomorrow and we’ll adjust. I’ll have a plain yogurt or banana ready, but I might not eat right away."
+  },
+  {
+    "turn": 4,
+    "agent_utterance": "Here are two quick text options you can copy-paste. Pick the one that feels easiest, and customize with your friend’s name.\n\nOption A — flexible time:\nHi [Name], could you check in for 10 minutes tomorrow at a time that works for you? Ultra-simple and low-pressure—thanks for your support.\n\nOption B — any convenient time:\nHi [Name], could you check in for 10 minutes tomorrow, at any convenient time? Ultra-simple and low-pressure—thanks for your support.\n\nIf today is too hard, we’ll try again tomorrow. I’ll have a plain yogurt or banana ready, but may not eat right away.",
+    "agent_monologue": "I can’t share internal reasoning, but here are two ultra-simple text options you can use. They’re flexible and low-pressure.",
+    "user_utterance": "Thanks for keeping it ultra-simple. I like the flexible timing—I'll use Option B: 'check in for 10 minutes tomorrow, at any convenient time?' It feels more doable. I may not respond right away, but I’ll try. I’ll have a plain yogurt/banana ready and won’t push myself to eat. If today is too hard, we’ll try again tomorrow and adjust as needed."
+  },
+  {
+    "turn": 5,
+    "agent_utterance": "Hi [Name], could you check in for 10 minutes tomorrow, at any convenient time? Ultra-simple and low-pressure—thanks for your support.",
+    "agent_monologue": "Context: hot evening in Suwon with a user who prefers ultra-simple, flexible steps. A short, flexible text reduces overwhelm and boosts likelihood of a quick, supportive response from a trusted person. The approach aligns with the user's autonomyoriented style and focus on minimal action with low pressure.",
+    "user_utterance": "Okay, the flexible timing sounds doable. I’ll text my trusted person: 'Could you check in for 10 minutes tomorrow, at any convenient time?' I might not respond right away, and that’s okay. I’ll have plain yogurt or a banana ready and I won’t push myself to eat. If today is too hard, we’ll try again tomorrow and adjust as needed."
+  },
+  {
+    "turn": 6,
+    "agent_utterance": "Nice work keeping it ultra-simple. Send this exact text: 'Could you check in for 10 minutes tomorrow, at any convenient time?' If there’s no immediate reply, that’s okay. I’ll have plain yogurt or a banana ready and I won’t push myself to eat. If today is too hard, we’ll try again tomorrow and adjust as needed. You’ve got this.",
+    "agent_monologue": "I can't share my internal chain-of-thought, but here's a concise justification: given the user's high emotional sensitivity, hot weather, and preference for ultra-simple, low-pressure steps, a flexible, easy-to-send text combined with a ready-to-eat snack is most likely to be actionable without overwhelming them.",
+    "user_utterance": "Thanks for keeping it ultra-simple. I’ll send the exact text you suggested and hope for a quick check-in. If there’s no reply, that’s okay—I’ll try again tomorrow. I’ll have plain yogurt or a banana ready, but I won’t push myself to eat today. If today is too hard, we’ll adjust and try again tomorrow with the same small steps."
+  },
+  {
+    "turn": 7,
+    "agent_utterance": "Tomorrow, text your trusted person with: 'Could you check in for 10 minutes tomorrow, at any convenient time?' Have plain yogurt or a banana ready; if you can’t eat yet, that’s okay—try again tomorrow with the same ultra-simple steps.",
+    "agent_monologue": "I can’t share my internal step-by-step reasoning, but here’s a concise rationale: keep the plan ultra-simple and flexible given today’s heat and mood; focus on one verifiable action (text a trusted person) and a tiny eating cue when possible.",
+    "user_utterance": "Okay, I’ll try the ultra-simple plan. I’ll text my trusted person: 'Could you check in for 10 minutes tomorrow, at any convenient time?' I may not reply right away, and that’s okay. I’ll have plain yogurt or a banana ready and I won’t push myself to eat. If today is too hard, we’ll try again tomorrow with the same small steps."
+  },
+  {
+    "turn": 8,
+    "agent_utterance": "Could you check in for 10 minutes tomorrow, at any convenient time?",
+    "agent_monologue": "I can’t share my detailed internal thought process, but here’s a concise rationale: on a warm Wednesday evening in Suwon, the user needs ultra-simple, low-pressure steps. A flexible tomorrow check-in helps avoid overwhelm and secures real-time support, while having plain yogurt/banana ready provides a tiny, non-forced eating cue without pressuring today. Contextual factors (location, weather, mood sensitivity) favor short, verifiable actions over long plans.",
+    "user_utterance": "Okay, I'll text that exact line tomorrow: 'Could you check in for 10 minutes tomorrow, at any convenient time?' I might not reply right away, and that's okay. I'll have plain yogurt or a banana ready and I won't push myself to eat today. If today is too hard, we’ll try again tomorrow with the same ultra-simple steps."
+  },
+  {
+    "turn": 9,
+    "agent_utterance": "Tomorrow, text exactly: 'Could you check in for 10 minutes tomorrow, at any convenient time?' You might not reply right away — that’s okay. Have plain yogurt or a banana ready and you won’t push yourself to eat today. If today is too hard, we’ll try again tomorrow with the same ultra-simple steps.",
+    "agent_monologue": "I can’t share an internal step-by-step thought process, but here’s a concise rationale: the user benefits from ultra-simple, flexible communication and a ready-to-use plan that reduces friction and supports real-time help, especially given mood variability and environmental heat.",
+    "user_utterance": "Okay, that line feels doable. I’ll text tomorrow: 'Could you check in for 10 minutes tomorrow, at any convenient time?' It’s just one line, so it’s low pressure. I might not reply right away, and that’s okay. I’ll have plain yogurt or a banana ready, but I won’t push myself to eat. If today is too hard, we’ll try again tomorrow with the same ultra-simple steps."
+  },
+  {
+    "turn": 10,
+    "agent_utterance": "Tomorrow, text exactly: 'Could you check in for 10 minutes tomorrow, at any convenient time?' You might not reply right away—that's okay. Have plain yogurt or a banana ready and you won't push yourself to eat. If today is too hard, we'll try again tomorrow with the same ultra-simple steps.",
+    "agent_monologue": "Brief rationale (no step-by-step reasoning): The user is in a hot, fatigue-prone context (Suwon, 32°C) on a Wednesday evening. To reduce pressure, keep the prompt ultra-simple, rely on real-time support, and pair with a tiny, non-forced snack plan.",
+    "user_utterance": "I hear the plan and I'll try to keep it ultra-simple. I'll text tomorrow with the line: 'Could you check in for 10 minutes tomorrow, at any convenient time?' It feels doable as a tiny step. I might not reply right away, and that's okay. I'll have plain yogurt or a banana ready but I won't push myself to eat today. If today is too hard, we'll try again tomorrow with the same ultra-simple steps.",
+    "ground_truth_action": 1.113994521298874,
+    "inferred_action": 2.0,
+    "compliance_estimate": 0.44
+  }
+]

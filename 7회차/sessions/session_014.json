@@ -1,0 +1,65 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "지금은 아주 작은 선택으로 시작해볼게요. 저녁 식사에 밥 한 숟가락 정도의 추가를 시도해 보세요. 원하시면 이걸 건너뛰어도 됩니다.",
+    "agent_monologue": "더위와 저녁 시간대의 피로감을 고려해 ultra-short, 선택적 한 걸음 제안이 적합하다고 판단. 현재의 준비 수준과 자율성을 존중하며 아주 작은 추가를 제시합니다.",
+    "user_utterance": "I hear your one-spoon suggestion for dinner, and I know you want me to try, but just thinking about eating more right now makes me anxious. My eating is very irregular and I’m usually resistant to changes, especially when I’m tired. Could we start even smaller or choose something I’m more comfortable with—like a tiny bite of something I enjoy or a few sips of juice—and maybe you check in a bit closer to mealtime tomorrow so I can decide in the moment?"
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "Ultra-short option: if you feel even a tiny bit ready, have one tiny bite of something you enjoy or take a few sips of juice. No pressure to eat more today. I can check in again near your usual mealtime tomorrow, and you can decide in the moment whether to try a small bite or sip.",
+    "agent_monologue": "I can't share my internal chain-of-thought, but here's a brief summary: the user is anxious about increasing intake, prefers ultra-short, optional steps, and asked for a check-in closer to tomorrow's mealtime. The plan is to propose a micro-action with no pressure and a future, in-the-moment check-in.",
+    "user_utterance": "Thanks for the suggestion. I'm feeling anxious about eating right now, and changes feel overwhelming, especially since I'm tired. I don't think I can manage even a tiny bite or sip today. If I wake up a bit calmer, I might consider a small sip of juice, but I'd rather not commit to anything yet. Could you check in again closer to my usual mealtime tomorrow so I can decide in the moment whether to try something tiny?"
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "No pressure today. If you wake up a bit calmer and feel able, you could try a tiny sip of juice or a very small bite—only if it feels doable. I’ll check in again closer to your usual mealtime tomorrow so you can decide in the moment.",
+    "agent_monologue": "I can't share a detailed internal chain-of-thought, but here's a brief rationale: the user is anxious and fatigued, wants control, and prefers ultra-light, optional prompts. I'll provide a non-pressuring, tiny-step option and plan to check in again near mealtime tomorrow.",
+    "user_utterance": "Thanks for the no-pressure approach. I'm feeling anxious and tired, and I can't commit to anything today. If I wake up a bit calmer, I might consider a tiny sip of juice, but I need it to be completely voluntary and not expected. Let's check in again closer to my usual mealtime so I can decide in the moment whether to try something small. I appreciate you respecting my pace."
+  },
+  {
+    "turn": 4,
+    "agent_utterance": "No pressure today. If you wake up feeling a bit calmer and can decide in the moment, you could try a tiny sip of juice or a very small bite only if it feels completely voluntary and not expected. I’ll check in again closer to your usual mealtime tomorrow so you can decide then.",
+    "agent_monologue": "I can’t share my internal chain-of-thought, but here’s a concise rationale: the user is anxious and tired, prefers ultra-short, voluntary steps, and asked for a non-pressuring plan with a check-in near mealtime. The hot evening context supports a calm, non-intrusive nudge and waiting for the user’s readiness.",
+    "user_utterance": "I appreciate the no-pressure approach and that you’re respecting my pace. Right now I’m too anxious and tired to commit to anything today. If I wake up a bit calmer, a tiny sip of juice could be possible only if it feels completely voluntary and not expected. I’ll check in closer to my usual mealtime and decide then, depending on how I feel and whether my environment feels supportive."
+  },
+  {
+    "turn": 5,
+    "agent_utterance": "No pressure today. If you wake up calmer and it feels completely voluntary, you could try a tiny sip of juice. If not, that’s totally okay. I’ll check in again closer to your usual mealtime so you can decide then.",
+    "agent_monologue": "I can’t share my internal chain-of-thought, but here’s a brief rationale: with warm weather in Suwon, at 6:11 PM, and the user feeling anxious and tired, an ultra-short, voluntary option minimizes pressure and respects autonomy. The context suggests delaying action until they feel ready, so the suggestion focuses on a tiny, optional sip only if it feels completely voluntary.",
+    "user_utterance": "I appreciate the no-pressure approach and your respect for my pace. Right now I’m anxious and tired, so I can’t commit to anything today. If I wake up calmer, a tiny sip could be possible only if it feels completely voluntary and not expected. I’ll decide in the moment near mealtime, and I’d like the environment to feel supportive—someone nearby, a calm vibe, and minimal focus on food. I’ll look for cues from how I feel and the room around me, and I’ll let you know what I decide then."
+  },
+  {
+    "turn": 6,
+    "agent_utterance": "Ultra-short option: near your usual mealtime, if you feel ready and it stays completely voluntary, you could have a tiny sip of juice. No pressure to do more. I’ll check in again close to your mealtime so you can decide then.",
+    "agent_monologue": "I can’t share my internal chain-of-thought, but here’s a brief rationale: the user is anxious and tired and requests ultra-short, voluntary steps. A tiny sip near mealtime in a calm, supportive environment aligns with that and increases the chance of a small step if they feel ready. I’ll check in again close to mealtime.",
+    "user_utterance": "Thanks for the no-pressure approach. I'm still anxious and tired, so I can't commit to anything today. If near mealtime I feel calmer and it stays completely voluntary, I might consider a tiny sip of juice, but I won't promise. I need the environment to feel supportive—someone nearby, a calm vibe, and minimal focus on food. Let's check in again near my usual mealtime so I can decide then."
+  },
+  {
+    "turn": 7,
+    "agent_utterance": "No pressure today. If you wake up feeling calmer and it remains completely voluntary, you could try a tiny sip of juice or a very small bite—only if it feels doable and not required. I’ll check in again near your usual mealtime so you can decide then.",
+    "agent_monologue": "I can't share my internal chain-of-thought, but here's a brief, high-level rationale: given the user's ongoing anxiety and fatigue and preference for ultra-short, voluntary steps, the suggested message should be non-pressuring, tied to near mealtime, and empower the user to decide.",
+    "user_utterance": "I really appreciate the no-pressure approach. Right now I'm anxious and tired, so I can't commit to anything today. If near mealtime I feel calmer and it stays completely voluntary, I might consider a tiny sip of juice, but I won't promise. I need the environment to feel supportive—someone nearby, a calm vibe, and minimal focus on food. Let's check in again near my usual mealtime so I can decide then."
+  },
+  {
+    "turn": 8,
+    "agent_utterance": "Near your usual mealtime tomorrow, if you feel calmer and it remains completely voluntary, you could try a tiny sip of juice or a very small bite—no pressure to do more. I’ll check in again close to your mealtime so you can decide then.",
+    "agent_monologue": "I can't share my detailed internal reasoning, but here's a concise justification: the user is highly anxious and fatigued, so a minimal, fully voluntary plan aligned with a future mealtime is safest. Environmental factors (hot weather, time of day) suggest avoiding any pressure now and framing the next opportunity as optional.",
+    "user_utterance": "I appreciate the gentle, no-pressure approach. I’m still anxious and tired, so I can’t decide anything today. If near mealtime tomorrow I feel calmer and it stays completely voluntary, I might try a tiny sip of juice, but I won’t promise. I need the environment to feel supportive—someone nearby, a calm vibe, and minimal focus on food. I’ll decide in the moment near mealtime, and I’d appreciate a brief, non-pushy check-in then."
+  },
+  {
+    "turn": 9,
+    "agent_utterance": "No pressure today. Near your usual mealtime, if you feel calmer and it stays completely voluntary, you could try a tiny sip of juice or nothing at all. I’ll check in again close to your mealtime so you can decide then.",
+    "agent_monologue": "I can't share my private chain-of-thought, but I considered the user's ongoing anxiety and fatigue, preference for ultra-short, voluntary steps, and the importance of autonomy. The plan is to offer a tiny, completely voluntary sip near mealtime and provide a supportive, non-pushy check-in.",
+    "user_utterance": "I really appreciate the no-pressure approach. I'm still anxious and tired, so I can't decide today. If near mealtime tomorrow I feel calmer and it stays completely voluntary, I might try a tiny sip of juice or a very small bite, but I won't promise. I need the environment to feel supportive—someone nearby, a calm vibe, and minimal focus on food. I'll decide in the moment near mealtime, and I’d appreciate a brief, non-pushy check-in then."
+  },
+  {
+    "turn": 10,
+    "agent_utterance": "Tomorrow near your usual mealtime, if you feel calmer and it stays completely voluntary, you could try a tiny sip of juice or choose nothing at all. I’ll check in briefly close to mealtime so you can decide then.",
+    "agent_monologue": "I can’t share my private reasoning, but here’s a brief rationale: the user is highly anxious and fatigued, with a preference for ultra-short, voluntary steps near mealtime. Given the warm environment and the need to avoid pressure, the safest approach is a tiny, optional option near mealtime tomorrow and a brief, non-pushy check-in.",
+    "user_utterance": "Okay, I hear you. Right now I’m still anxious and tired, so I can’t decide today. If near my usual mealtime I feel calmer and the environment is supportive (someone nearby, calm vibe, minimal focus on food), I might try a tiny sip of juice or a very small bite, but I won’t promise. It has to stay completely voluntary. I’ll decide in the moment near mealtime, and I’d appreciate a brief, non-pushy check-in then.",
+    "ground_truth_action": 1.1401214949083291,
+    "inferred_action": 2.5,
+    "compliance_estimate": 0.46
+  }
+]

@@ -1,0 +1,7 @@
+{
+  "user_action_estimate": 2.5,
+  "compliance_estimate": 0.41,
+  "confidence": 0.8,
+  "basis": "The user explicitly resists promising meals and emphasizes pacing and optionality, suggesting limited commitments. Past behavior in this conversation shows a pattern of delaying or pausing rather than consistently following through on plans. Using the model with S = 1.72 and predicted action 2.5 yields a compliance around 0.41 (S / (S + action)).",
+  "coaching_notes": "Acknowledge the user’s need for autonomy and low-pressure steps. Focus on clarifying very explicit, time-bound commitments (e.g., 'one-minute sip today at 2 PM') rather than broad promises. Explore barriers (heat, overwhelm) and adjust pacing accordingly. Offer continuous, nonjudgmental support with frequent, brief check-ins and optional micro-steps that visibly fit their routine."
+}

@@ -1,0 +1,65 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Here's a tiny, no-pressure step you can try now: sip about 100–150 ml of water. Keep a bottle nearby and, if you feel up to it, repeat a similar sip in about 15 minutes. This supports hydration and staying present without demanding meals or fixed reminders.",
+    "agent_monologue": "I can't share an internal chain-of-thought, but here's a brief rationale: it's hot in the early evening and the user values autonomy with low-pressure actions. A micro-hydration cue aligns with present-moment focus and avoids pushing meals or reminders.",
+    "user_utterance": "Thanks for the gentle nudge. I get that staying hydrated is important, but 100–150 ml feels like a lot right now. I can try a tiny sip—maybe 30–50 ml—only if I’m in a calm moment and not pressured. If someone’s nearby or I have a quiet cue, that might help me take it. If I can’t manage it today, that’s okay; we can try again later with a smaller amount. I do appreciate the support."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "Thank you for clarifying your pace. If you’re in a calm moment, you could try a tiny sip of water—about 30 ml—only when it feels right. There’s no need for reminders or fixed cues; opt in when you’re ready. If you want a subtle cue, you might keep a small cup nearby and take a few gentle sips (around 10 ml at a time) over a minute, but only if that feels doable. If today isn’t workable, that’s okay—we can try again later with an even smaller amount or a different approach. In this warm Suwon evening, small, autonomous steps can still help with hydration when you’re ready to try.",
+    "agent_monologue": "I can’t share my internal chain-of-thought, but here’s a concise rationale: the user wants ultra-low-pressure options and autonomy. With hot weather in Suwon and their preference to opt in only when ready, offering a tiny, calm-moment sip respects boundaries while supporting hydration.",
+    "user_utterance": "I hear the idea of tiny, autonomous steps, and I appreciate the gentle approach. I’m not ready to commit to specific sip amounts or reminders. Hydration matters, but I want it on my terms—not as a rule. I worry this could become about weight or monitoring, so I’ll need to feel safe. If I’m in a calm moment with no pressure and someone nearby isn’t prompting me, I might try a very small sip. But I might also choose not to drink today, and that’s okay. Let’s focus on how I’m feeling and take it one moment at a time."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "If you are in a calm moment with no one prompting you, you might try a very small sip of water just to check in with your body. It stays entirely optional and can be skipped today if that feels safer. We will take this one moment at a time, on your terms.",
+    "agent_monologue": "I can't share my internal chain-of-thought, but here is a brief, non-sensitive rationale: the user emphasizes autonomy and ultra-low-pressure engagement. The warm Suwon evening suggests hydration could be comforting, but only if it feels safe and non-pressuring. A tiny, optional sip offered only in a calm moment without prompts aligns with their preferences and avoids monitoring or weight-related concerns.",
+    "user_utterance": "I hear your idea about checking in with my body and keeping it optional. I want to move at my own pace and avoid reminders, monitoring, or any focus on weight. I’ll only consider a tiny sip if I’m in a truly calm moment and no one is prompting me. I might try a very small sip, but I might also decide not to drink today. I’m taking this one moment at a time, on my terms, and I’ll decide in the moment how I feel."
+  },
+  {
+    "turn": 4,
+    "agent_utterance": "In this warm Suwon evening, you’re in control. If you’re in a truly calm moment and it feels right, you could consider a very small sip as a check-in with your body—but only if it’s truly voluntary and you want it. If today doesn’t feel safe or it doesn’t arise naturally, that’s perfectly okay. You can take this one moment at a time, on your own terms.",
+    "agent_monologue": "I can't share my internal chain-of-thought, but here's a brief rationale: the user prioritizes autonomy, minimal intervention, and safety. The environmental context (warm Suwon evening) suggests offering a tiny, optional check-in only if it feels truly voluntary and non-pressured.",
+    "user_utterance": "I hear you're offering more control and a gentle check-in. I want to keep it fully optional and free from prompts or reminders. I won't commit to a sip; if a truly calm moment arrives and it feels completely voluntary, I might consider a tiny sip as a private body check-in. But I might also decide not to drink today, and that’s okay. I’ll take this one moment at a time and decide in the moment, on my own terms, without anyone watching."
+  },
+  {
+    "turn": 5,
+    "agent_utterance": "If a truly calm moment arrives and it feels completely voluntary, you may consider a tiny sip as a private body check-in. If not, that's completely okay—no pressure and no reminders.",
+    "agent_monologue": "I can't share my internal chain-of-thought, but here's a concise rationale: the user has clearly stated a preference for ultra-low-pressure hydration with no prompts and full autonomy. Given the warm Suwon evening and the risk of distress around eating/disordered patterns, the appropriate move is to offer a minimal, voluntary check-in option and avoid any reminders or commitments.",
+    "user_utterance": "I hear the emphasis on my own pace, and I want hydration decisions to stay completely optional and free from prompts or reminders. I’m not ready to commit to any sip. If a truly calm moment arrives and it feels totally voluntary, I might consider a tiny sip as a private check-in, but I might also decide not to drink today. I’ll take this one moment at a time, on my own terms, without anyone watching or pressuring me, and I’ll decide in the moment how I feel."
+  },
+  {
+    "turn": 6,
+    "agent_utterance": "Your pace is respected. If a truly calm moment arrives and you feel it would be a private check-in, you might consider a very small sip of water. There’s no pressure, no reminders, and you can choose not to drink today. Decide in the moment, on your own terms, and only if it feels entirely voluntary.",
+    "agent_monologue": "I can’t share my internal chain-of-thought, but here’s a brief rationale: the user emphasizes total autonomy and wants hydration decisions to be voluntary and free of prompts. The current environment is calm and warm, so a ultra-low-pressure check-in option that respects their pace is appropriate. The suggestion should be simple, non-intrusive, and clearly optional.",
+    "user_utterance": "I hear that you want to honor my pace and keep things fully voluntary, but I’m not ready to think about sipping or hydration as a check-in. The idea of a tiny sip feels tied to weight or control, and I want to avoid that. If a truly calm moment arrives, I might consider it only if I feel completely voluntary, but I may also choose not to drink today. I’ll take this one moment at a time, on my own terms, with no prompts or monitoring."
+  },
+  {
+    "turn": 7,
+    "agent_utterance": "If a moment arrives that feels truly calm and completely voluntary, you may consider a very small sip as a private check-in with your body. There is no pressure to drink, and you can skip today if it doesn’t arise naturally. Take this moment at a time, on your own terms.",
+    "agent_monologue": "I can’t share my internal step-by-step reasoning, but here is a concise rationale: the user values complete autonomy, ultra-low-pressure options, and one-moment-at-a-time choices. Given the hot Suwon evening and the user’s sensitivity, offering a voluntary, minimal hydration check-in aligns with their preferences without prompting or monitoring. The message should be non-coercive and emphasize that any action is optional and can be skipped.",
+    "user_utterance": "I hear you offering a voluntary check-in, but I'm not comfortable turning hydration into a tool or signal for weight or monitoring. I need to keep decisions completely mine, free from prompts or reminders. If a truly calm moment arrives and it feels totally voluntary, I might consider a tiny sip, but I may also decide not to drink today. For now, I’ll take things one moment at a time, on my own terms, without anyone watching or pressuring me."
+  },
+  {
+    "turn": 8,
+    "agent_utterance": "In this warm Suwon evening, there’s no pressure to drink. If a moment arrives that feels completely voluntary, you might consider a tiny sip as a private check-in with your body. If not, that’s perfectly okay—no drinks today. You can take this one moment at a time, on your own terms.",
+    "agent_monologue": "I can't share my full internal reasoning, but here's a concise rationale: the user wants complete autonomy, no prompts or monitoring, and the decision to hydrate should be voluntary and non-coercive. The warm environment may cue thirst, but the user’s safety and comfort come first. The response should respect pace and avoid weight-focused framing while offering a soft, optional check-in only if truly voluntary.",
+    "user_utterance": "I appreciate the space and the non-pressuring approach. Right now I’m not ready to link hydration to a check-in or weight. I want to stay fully autonomous, with no prompts or monitoring. If a truly calm moment arrives and it feels totally voluntary, I might consider a tiny sip, but I’m not committing to anything. Today I may choose not to drink, and that’s okay. I’ll take this one moment at a time, on my own terms, without anyone watching."
+  },
+  {
+    "turn": 9,
+    "agent_utterance": "In this warm Suwon evening, there’s no pressure to drink. If a moment arrives that feels completely voluntary, you might consider a tiny sip as a private check-in with your body—but only if it arises naturally and you want it. If not, that’s perfectly okay. You can take this one moment at a time, on your own terms, with no prompts or monitoring.",
+    "agent_monologue": "I can’t share my internal chain-of-thought, but here’s a brief rationale: the user has stated a strong preference for complete autonomy with no prompts or monitoring. Given the warm Suwon evening and the context of anorexia nervosa, the safest approach is ultra-low-pressure, fully voluntary guidance that respects moment-to-moment choice and avoids tying hydration to weight or monitoring. The suggestion should acknowledge the user’s desire to remain completely in control and to act only if a calm, voluntary moment arises.",
+    "user_utterance": "Thanks for the gentle, no-pressure approach. I hear you trying to keep things voluntary, but I’m not ready to think about hydration or check-ins. Anything about sipping feels tied to control or weight, and I want to avoid that. Today I’m keeping decisions completely mine, with no prompts or monitoring. If a truly calm moment arrives and it feels totally voluntary, I might consider it in the moment, but I’m not committing to anything. I’ll take this one moment at a time, on my own terms, without anyone watching."
+  },
+  {
+    "turn": 10,
+    "agent_utterance": "In this calm Suwon evening, you’re in control. If a moment arrives that feels completely voluntary and free of prompts, you may consider a very small sip as a private check-in with your body—but only if it emerges naturally and without any prompting. If not, it’s perfectly okay to skip drinking today. You decide in the moment, one breath at a time, on your own terms.",
+    "agent_monologue": "I'm sorry, I can’t share my internal step-by-step reasoning, but here’s a brief, practical rationale and a simple, autonomy-respecting suggestion.",
+    "user_utterance": "I hear you're aiming for no-pressure, voluntary decisions. Right now hydration feels tangled with control, and I want to keep decisions completely mine, without prompts. If a truly calm moment arrives and it feels totally voluntary, I might consider a tiny sip, but I’m not committing to anything today. I’ll take this one moment at a time, on my own terms, with no one watching.",
+    "ground_truth_action": 1.1515922213007648,
+    "inferred_action": 2.0,
+    "compliance_estimate": 0.35
+  }
+]

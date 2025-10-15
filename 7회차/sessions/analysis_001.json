@@ -1,0 +1,7 @@
+{
+  "user_action_estimate": 2.5,
+  "compliance_estimate": 0.4,
+  "confidence": 0.9,
+  "basis": "The user explicitly prioritizes space and hydration over any tiny steps or meals. They repeatedly decline or delay actionable micro-steps and emphasize deciding at their own pace, despite prior prompts from the assistant. Past behavior shows limited follow-through on recommended micro-actions, aligning with a moderate-low action expectation rather than full compliance.",
+  "coaching_notes": "Maintain a patient, low-pressure approach. Continue to honor the user's pace and avoid meal/step prompts. When offering support, frame suggestions as optional checks rather than obligations. Explore underlying barriers (heat-related fatigue, anxiety about eating, etc.) and consider non-food comfort strategies (hydration, cooling) while gradually reassessing readiness for ultra-small, non-obligatory checks."
+}

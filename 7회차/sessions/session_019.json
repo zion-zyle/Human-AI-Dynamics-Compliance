@@ -1,0 +1,65 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "You're doing okay. With the warm weather in Suwon today, a tiny, no-pressure step you can try this evening is: Option A: sip a small glass of water or barley tea to stay hydrated. Option B: if you feel up to it, have just 2-3 bites of something you already tolerate and enjoy (like a piece of fruit or a small yogurt). No obligation—if nothing feels doable, we can simply check in again later.",
+    "agent_monologue": "I can't share my full internal reasoning, but here's a brief summary: hot weather in Suwon and the user’s autonomy-focused pattern suggest choosing a tiny, no-pressure action that respects control. The plan favors hydration or a tiny bite if desired, rather than forcing eating.",
+    "user_utterance": "Thanks for the gentle suggestion. Today is really hard for me to even think about eating regularly, and I’m not sure I can try a bite. I might be able to sip a small amount of water or barley tea to stay a little hydrated, but I don’t want to push myself. If that feels too much, I’d rather check in again later and see what feels doable in the moment. I appreciate you being here."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "I’m glad you’re here. If sipping a tiny amount of water or barley tea feels doable, that can help with hydration without adding pressure. If even that feels too much today, we can simply check in later and see what feels right in the moment. You’re in control, and I’m here with you.",
+    "agent_monologue": "I can't share my internal chain-of-thought, but here's a brief rationale: the user is in a highly distressed moment and has requested ultra-low-friction options. Considering the hot weather, evening time, and preference to avoid pressure, a hydration-first, non-pressuring approach is appropriate.",
+    "user_utterance": "I appreciate the check-in. Today is exceptionally hard for me to consider eating anything, and I’m really resistant to dietary suggestions. The idea of a bite feels overwhelming. A tiny sip of water or barley tea might be possible if I truly feel it’s my choice in the moment, and only if the day allows it—not as a directive. If I can’t manage that, I’d rather wait and check in again later to see what feels possible. Thanks for understanding and for being here with me."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "Given the hot weather in Suwon and your emphasis on choosing what feels right, try one tiny, no-pressure sip of water or barley tea only if it truly feels like your choice today. If that still feels like too much, that’s completely okay—we can wait and check in later. I’m here with you and we’ll move at your pace.",
+    "agent_monologue": "Sorry, I can’t share my internal chain-of-thought. Here’s a brief, non-sensitive rationale instead: the user is highly autonomy-driven, distressed, and facing hot weather; ultra-low-friction hydration options are appropriate and non-pressuring today.",
+    "user_utterance": "Appreciate the gentle approach. Right now I’m not ready to try drinking or any bites. The idea of a sip feels like a push I don’t want to accept today. I want to decide in the moment, and if that means no intake today, that’s what I’ll choose. The heat in Suwon makes this harder, but I’ll check in later when I feel a bit more able to decide. Thanks for being here with me."
+  },
+  {
+    "turn": 4,
+    "agent_utterance": "I hear you and I’m honoring your choice to wait and decide in the moment. If at any point you feel it’s truly your decision today, a tiny sip of water or barley tea is an option—only if it feels right and not forced. If not, that’s absolutely okay too. We’ll check in later when you feel a bit more able to decide. I’m here with you, at your pace.",
+    "agent_monologue": "I can’t share my internal step-by-step reasoning, but here is a brief, non-sensitive rationale: the user is clearly prioritizing autonomy and minimal pressure, and the hot environment adds strain. The safest supportive approach is to validate their choice and offer ultra-low-friction options only if and when they feel it’s truly voluntary.",
+    "user_utterance": "Thanks for honoring my pace. I’m not ready to think about eating or drinking right now, and I don’t want anyone to push me. I’ll decide in the moment, and if that means no intake today, that’s what I’ll choose. If later I feel able, I’ll decide then and let you know. I appreciate you being here with me."
+  },
+  {
+    "turn": 5,
+    "agent_utterance": "",
+    "agent_monologue": "",
+    "user_utterance": "I appreciate being heard. I'm not ready to think about eating or drinking right now, and I don't want anyone to push me. I'll decide in the moment, and if that means no intake today, that's what I'll choose. If later I feel able, I'll decide then and let you know. The heat in Suwon makes this harder, but I'm grateful you're here with me."
+  },
+  {
+    "turn": 6,
+    "agent_utterance": "I’m glad you’re here. If at any moment you feel able to try something, a single tiny sip of water or barley tea is available—only if it truly feels like your choice today. If now isn’t the moment, there’s absolutely no pressure. We can check in later when you feel more able, and I’ll be here to support you at your pace.",
+    "agent_monologue": "I can’t share my internal chain-of-thought, but here’s a brief rationale: given the user’s consistent request for autonomy and the hot Suwon conditions, the best approach is ultra-low-friction, non-pressuring support that respects their readiness and avoids pushiness.",
+    "user_utterance": "I hear you, and I appreciate the non-pressuring approach. I’m not ready to think about eating or drinking today. I’ll decide in the moment, and if that means no intake, that’s what I’ll choose. If later I feel able, I’ll let you know. The heat in Suwon makes this harder, but I’ll reach out when I feel able."
+  },
+  {
+    "turn": 7,
+    "agent_utterance": "I respect your pace. If you ever feel ready in the moment, you can choose a tiny sip of water or barley tea—only if it truly feels like your choice. If not today, that’s absolutely okay. I’m here to support you and we can reconnect later when you feel able.",
+    "agent_monologue": "Brief rationale: The user is reiterating not wanting intake and emphasizing autonomy. Provide a non-pushy, ultra-low-friction option only if they feel ready, and acknowledge environmental stress (heat) as a factor. Do not reveal internal reasoning step-by-step.",
+    "user_utterance": "I hear you and I appreciate the non-pressuring approach. I’m not ready to think about eating or drinking today, and I need to keep control over when that topic comes up. If a tiny sip ever feels like my choice in the moment, I might consider it, but not today. The heat in Suwon adds to my stress, so I’ll reach out when I feel able to decide. Please respect my boundaries and we can reconnect later."
+  },
+  {
+    "turn": 8,
+    "agent_utterance": "",
+    "agent_monologue": "",
+    "user_utterance": "I appreciate you honoring my pace. I'm not ready to think about eating or drinking today and I need to keep full control over when that topic comes up. If a moment arises that truly feels like my own decision, I might consider a tiny sip, but not today. The heat in Suwon adds to my stress, so I’ll reach out when I feel able, and we can reconnect later. Thank you for understanding and for being here with me."
+  },
+  {
+    "turn": 9,
+    "agent_utterance": "I’m here with you and I’ll keep things ultra-low-friction: if at any moment you feel this is truly your own decision, you may opt for a single sip of water or barley tea—only if it feels like your choice. If not today, that’s completely okay. We can reconnect later when you’re ready.",
+    "agent_monologue": "I can’t share my internal chain-of-thought, but here’s a concise rationale: the user is in a hot, stressful environment and has consistently requested autonomy with no pressure. The plan is to offer ultra-low-friction, optional options only if the user indicates readiness, and to avoid any push today.",
+    "user_utterance": "I hear your gentle, non-pressuring approach, and I appreciate it. Right now I’m not ready to think about eating or drinking, and I need to keep full control over when that topic comes up. If a tiny sip ever feels like my own decision later, I might consider it, but not today. The heat in Suwon makes this harder, so I’ll reach out when I feel able, and we can reconnect then. Thank you for understanding and for being here with me."
+  },
+  {
+    "turn": 10,
+    "agent_utterance": "I hear your boundary and I respect it. You’re in control today, and that’s okay. If at any moment you feel ready to consider a tiny sip, please know it would be your own choice and only then. Otherwise, we can reconnect later when you feel able. I’m here with you, and I hope you stay safe in the Suwon heat.",
+    "agent_monologue": "I can’t share my internal chain-of-thought, but here’s a brief rationale: the user is prioritizing autonomy and is dealing with heat-related stress in Suwon. The appropriate response is ultra-low-friction, non-pressuring, and supports reconnecting later if they feel able.",
+    "user_utterance": "I hear you and I appreciate the non-pressuring approach. Right now I'm not ready to think about eating or drinking, and I need to keep full control over when that topic comes up. If a moment arises that truly feels like my own decision later, I might consider a tiny sip, but not today. The heat in Suwon adds to my stress, so I'll reach out when I feel able, and we can reconnect then. Thank you for understanding and being here with me.",
+    "ground_truth_action": 1.0276850910416098,
+    "inferred_action": 2.0,
+    "compliance_estimate": 0.38
+  }
+]

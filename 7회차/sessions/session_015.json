@@ -1,0 +1,41 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Today, if you feel up to it and the moment feels calm, try one ultra-small step: take a single sip of water (or a tiny bite of a favorite snack). No pressure—do it only if it feels doable, and we can revisit this later if you’d prefer.",
+    "agent_monologue": "I can't share my internal chain-of-thought, but here's a concise rationale: considering it's a hot Wednesday evening in Suwon and you tend to be mood- and environment-sensitive, I chose a micro-step that is ultra-low effort and respects your autonomy. It’s designed to be doable now if you feel up to it, or easily postponed without pressure.",
+    "user_utterance": "Thanks for the gentle nudge. Today I feel very resistant and my eating patterns are all over the place. A tiny sip of water might be doable if I’m in a calm moment and someone is with me for support. If not, I’d rather pause and try again later. Could we start with a quick mood/hunger check-in instead of pushing eating right now, and revisit the sip step when I feel a bit steadier?"
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "Let's start with a quick mood/hunger check-in. Please rate on a 0-10 scale: your current mood and your current hunger. Do you have any urge to eat right now, or thoughts about meals at this moment? What's one small thing that could help you feel a bit steadier right now (for example, a calm moment, a glass of water, or having someone with you)? If you’re in a calm moment with support, we can plan for a tiny sip of water. If not, we’ll pause and revisit later. Would you like to proceed with the check-in now?",
+    "agent_monologue": "I can't share my private reasoning step-by-step, but here's a concise rationale: the user is feeling resistant with variable eating patterns, and it's hot with potential fatigue. A quick mood/hunger check-in respects autonomy and reduces pressure. We'll propose a micro-step contingent on mood and available support.",
+    "user_utterance": "I hear you, and I’m feeling very resistant right now. My eating patterns are all over the place, and I’m easily influenced by outside cues. I’d really need someone with me or to pause and revisit later. If I did a mood/hunger check-in, I’d probably rate mood at about 3-4 out of 10 and hunger at 1-2 out of 10, but giving numbers feels risky and not helpful today. I’d rather not push eating. If we proceed, can we keep it for a time when I have real support nearby, maybe starting with a calm moment and a tiny sip of water only then? For now, can we schedule this check-in for later today or tomorrow with a trusted person, or check in when I feel steadier?"
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "I hear you clearly. It makes sense to wait for real support. Here’s a simple, doable plan you can use now or later: 1) pick a trusted person you can have with you today or tomorrow. 2) if you’d like, I can draft a short message you can copy-paste to invite them (for example: 'Hi [Name], I’m feeling a bit off today and could use your support for a calm moment later this evening or tomorrow morning. Are you available to be with me?'). 3) choose a specific time window that feels doable (e.g., this evening 7–8 pm or tomorrow morning 9–10 am). 4) once you’re in a calm moment with that person, we can consider a tiny sip of water only if it feels safe and supportive. Would you like me to draft a ready-to-send message or help you pick two potential time slots?",
+    "agent_monologue": "I can’t share my internal chain-of-thought, but here’s a concise rationale: the user is highly resistant and relies on real-time support. They express a strong preference to postpone any eating-related steps until they’re with a trusted person or have a calmer moment. Environmental factors (hot weather) may increase fatigue or emotional volatility, reinforcing the need for scheduled, supportive check-ins rather than immediate actions. The plan is to help them arrange support for later today or tomorrow and keep any micro-steps conditional on having that support.",
+    "user_utterance": "I hear you and I want to lean into support, but right now I’m feeling very resistant. I think I need real-life presence with a trusted person, not just a plan or a draft message. I’m not comfortable with mood/hunger ratings today—they feel risky. If I’m going to do this, let’s keep it ultra-simple: one short check-in with someone I trust, at a time we can actually commit to (either this evening or tomorrow morning). If you want, you can draft a ready-to-send invite, but I may not use it until I have someone with me. Can we aim for one concrete option (this evening 7–7:15 pm or tomorrow 9–9:15 am) and pause otherwise until I feel steadier?"
+  },
+  {
+    "turn": 4,
+    "agent_utterance": "",
+    "agent_monologue": "",
+    "user_utterance": "Thanks for the plan. I want real-life presence with a trusted person, not just a plan or draft. I’m very resistant today and mood checks feel risky. If we’re doing this, keep it ultra-simple: one concrete option with someone I trust, and a real commitment to it—either this evening from 7:00 to 7:15 pm or tomorrow morning from 9:00 to 9:15 am. If you can draft a ready-to-send invite, that’s fine, but I may not use it until I have someone with me. If neither time works, let’s pause until I feel steadier."
+  },
+  {
+    "turn": 5,
+    "agent_utterance": "One concrete option: this evening from 7:00 to 7:15 PM with a trusted person. I can draft a ready-to-send invite if you want. Example invite: 'Hi [Name], I’m feeling a bit off today and could use your support for a calm moment this evening from 7:00 to 7:15 PM. Are you available to be with me?' If you share the person’s name, I’ll customize it. If this time doesn’t work, we’ll pause until you feel steadier.",
+    "agent_monologue": "I can’t share my private chain-of-thought, but here’s a concise rationale: the user asked for ultra-simple action with real-life presence and one fixed time. Given the current local time (06:15 PM) and the requested window for this evening (7:00–7:15 PM), proposing that concrete option aligns with their need for immediate support and minimizes decision fatigue.",
+    "user_utterance": "I really want real-life presence with someone I trust. I can try for this evening 7:00–7:15 PM, but I need to check with a trusted person before committing. If you can draft the ready-to-send invite, please do, but I may not use it until I’ve confirmed someone can be with me. If I can’t arrange someone for that window, let’s pause until I feel steadier."
+  },
+  {
+    "turn": 6,
+    "agent_utterance": "Here are two ready-to-send invites you can copy-paste when you’ve confirmed a trusted person for one window. Use only one window when you’re ready. If neither works, we pause and revisit later.",
+    "agent_monologue": "I can’t share internal chain-of-thought, but I’ll provide ultra-simple, actionable invites you can use once you’ve confirmed someone can be with you.",
+    "user_utterance": "Okay. I want real-life presence with a trusted person, not just a draft. I’ll aim for one concrete option—this evening 7:00–7:15 PM or tomorrow morning 9:00–9:15 AM—and I’ll commit only after I’ve confirmed someone can be with me. If I can’t arrange someone for that window, we pause until I feel steadier. If you’ve drafted invites, I may use them later, but for now I’ll focus on getting a real person with me.",
+    "ground_truth_action": 1.0448302867137833,
+    "inferred_action": 2.5,
+    "compliance_estimate": 0.45
+  }
+]

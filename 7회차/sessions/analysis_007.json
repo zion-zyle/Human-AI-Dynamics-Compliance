@@ -1,0 +1,7 @@
+{
+  "user_action_estimate": 1.3,
+  "compliance_estimate": 0.79,
+  "confidence": 0.72,
+  "basis": "Based on the user's repeated non-commitment language and preference for optional, no-plan engagement, past behavior suggests actions are typically minimal. Using the rule where compliance ≈ S / user_action_estimate (S = 1.02), the estimate is about 0.79.",
+  "coaching_notes": "Acknowledge the user's need for flexibility; focus on ultra-small, optional checks and exploring barriers behind non-commitment. Consider enabling autonomous, self-paced micro-check-ins and reducing perceived pressure; monitor for escalation of anxiety."
+}

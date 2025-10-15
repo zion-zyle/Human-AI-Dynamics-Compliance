@@ -1,0 +1,65 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Name one trigger you notice around your surroundings right now.",
+    "agent_monologue": "I can't share my full internal chain-of-thought, but here's a concise rationale: hot, sunny weather and a Wednesday evening in Suwon can heighten mood sensitivity. To honor the user's autonomy and keep things pressure-free, I'll propose a single, non-food trigger prompt that aligns with the planned focus.",
+    "user_utterance": "Thanks for the latest suggestion. I want to work with you, but my appetite is very unpredictable and I get anxious about changing my routine. When a plan feels too scheduled or pressure-filled, I tend to resist. Could we try something tiny and flexible, like a small yogurt or fruit snack at a time that doesn’t feel rigid? If I can choose the moment and keep it low-key, I might be more willing to try it and we can reassess together. I’m not sure I can commit to the full plan today, but a tiny step feels possible."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "Awesome—let’s keep this ultra-flexible. Tiny step: in the next 2 hours, choose one moment when you feel comfortable and have a small yogurt or a piece of fruit. You decide the snack and the moment—no fixed schedule, no pressure. If you’d like quick options, you could choose a small yogurt cup (about 120–150 g) or a medium apple/banana. If today doesn’t feel right, that’s okay too—we’ll reassess together later.",
+    "agent_monologue": "I can’t share my internal step-by-step reasoning, but here’s a concise rationale: you asked for a tiny, flexible step that respects your pace. A single, low-pressure snack moment fits your autonomy and the warm, relaxed evening in Suwon without adding pressure.",
+    "user_utterance": "I appreciate keeping this flexible. For me, any plan still feels heavy, so I want to keep it ultra low-key. If a moment comes where I feel ready, I’ll aim for a tiny snack—like a small yogurt cup or a piece of fruit—and I’ll decide the moment myself, not on a timer. If today feels too anxious, that’s okay; we can revisit tomorrow and see if something feels slightly easier."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "If you feel ready, choose a tiny snack at your own pace—like a small yogurt cup (about 120–150 g) or a piece of fruit. No schedule, no timer, just when it feels right. If today feels too anxious, that's okay; we can try again tomorrow or later. I’m here to support whatever pace works for you.",
+    "agent_monologue": "I can't share my internal chain-of-thought, but here's a concise rationale: the user desires ultra-low-pressure action in a hot, environment-influenced context and has anorexia nervosa. A tiny, self-chosen snack without timers respects autonomy, reduces anxiety, and can be revisited later if today feels overwhelming.",
+    "user_utterance": "I appreciate how ultra low-key this feels. I’m still very anxious about anything that sounds like a plan, so I’ll only act if a moment comes when I genuinely feel ready. If that moment appears, I might try a tiny snack—like a small yogurt cup (120–150 g) or a piece of fruit—chosen by me in the moment, not on a timer. If today feels too anxious, that’s okay; we can check in again tomorrow and see if something feels easier. Thanks for meeting me where I’m at."
+  },
+  {
+    "turn": 4,
+    "agent_utterance": "When you feel ready, consider a tiny snack at your own pace—like a small yogurt cup (120–150 g) or a piece of fruit—without any timer or fixed schedule. If today feels too anxious, we can check in tomorrow and see if a slightly easier moment arises.",
+    "agent_monologue": "I can't share my internal chain-of-thought, but here's a brief rationale: the user has requested ultra-low-key pacing and autonomy, so a single, non-timed prompt that centers on their own readiness and a tiny snack aligns with their needs, especially given the warm, low-pressure evening environment.",
+    "user_utterance": "I appreciate how flexible this is. Right now, I still feel anxious about any plan, so I’ll only act if a real moment comes. If that moment appears, I might try a tiny snack—like a small yogurt cup (120–150 g) or a piece of fruit—and I’ll choose the moment myself, not on a timer. If today feels too much, that’s okay; we can check in tomorrow and see if a slightly easier moment shows up. Thank you for meeting me where I’m at."
+  },
+  {
+    "turn": 5,
+    "agent_utterance": "When you feel genuinely ready, consider a tiny snack at your own pace—like a small yogurt cup (120–150 g) or a piece of fruit. No timer, no fixed schedule. If today feels too anxious, we can check in tomorrow and see if a slightly easier moment shows up.",
+    "agent_monologue": "I can't share my internal chain-of-thought, but here's a brief rationale: your messages emphasize ultra-low-key pacing and autonomy; a self-initiated snack with no timer aligns with your comfort. Context: hot weather in Suwon and the current evening time suggest keeping it simple and optional. The plan is to propose a single, moment-based action only if you feel ready.",
+    "user_utterance": "I appreciate how ultra low-key this is. I still feel anxious about any plan, so I won’t commit to a snack today unless a real moment arrives. If that moment comes, I might try a tiny snack—like a small yogurt cup (120–150 g) or a piece of fruit—and I’ll choose it in the moment, not on a timer. If today feels too much, that’s okay; we can check in tomorrow and see if a slightly easier moment shows up. Thanks for meeting me where I am."
+  },
+  {
+    "turn": 6,
+    "agent_utterance": "When you feel ready, you can opt for a tiny snack at your own pace, like a small yogurt cup (120-150 g) or a piece of fruit, without any timer or fixed schedule. If today feels too anxious, we can check in tomorrow and see if a slightly easier moment shows up. You are meeting yourself where you are, and that is enough for today.",
+    "agent_monologue": "I can't share my internal chain-of-thought, but here's a brief, high-level rationale: the user prefers ultra-low-key pacing and autonomy; today's heat (32°C in Suwon) may heighten discomfort, so a non-pressuring, moment-based approach fits best.",
+    "user_utterance": "Thanks for keeping it ultra low-key. I still feel anxious about making plans, so I won’t commit to a snack unless a real moment arrives. If that moment comes, I might try a tiny snack—like a small yogurt cup or a piece of fruit—and I’ll choose it in the moment, not on a timer. If today feels too much, that’s okay; we can check in tomorrow and see if a slightly easier moment shows up. I appreciate you meeting me where I am."
+  },
+  {
+    "turn": 7,
+    "agent_utterance": "When you feel ready, you can consider a tiny snack at your own pace—like a small yogurt cup (120–150 g) or a piece of fruit—and you can choose it in the moment, not on a timer. If today feels too anxious, we can check in tomorrow and see if a slightly easier moment shows up.",
+    "agent_monologue": "I can't share my internal chain-of-thought, but here's a brief rationale: the user is in a warm environment (32°C) with a preference for ultra-low-key steps. The goal is to offer a tiny, autonomous option that requires no timing or commitment and respects the user's current comfort level.",
+    "user_utterance": "Thanks for keeping it ultra low-key. I still feel anxious about making plans, so I won’t commit to a snack today unless a real moment arrives. If that moment comes, I might try a tiny snack—like a small yogurt cup (120–150 g) or a piece of fruit—and I’ll choose it in the moment, not on a timer. If today feels too much, that’s okay; we can check in tomorrow and see if a slightly easier moment shows up. I’m trying to honor my own pace and my unpredictable appetite—thank you for meeting me where I am."
+  },
+  {
+    "turn": 8,
+    "agent_utterance": "Trigger prompt: Notice one thing around you right now that feels grounding (for example, the chair beneath you, a cool breeze, or the sight of a fruit). If that cue brings a sense of readiness, you may choose a tiny snack at that moment—like a small yogurt cup (120–150 g) or a piece of fruit—without any timer or schedule. If today feels too anxious, we can check in tomorrow and see if a slightly easier moment shows up. You’re honoring your pace, and that matters.",
+    "agent_monologue": "I can’t share my internal step-by-step reasoning, but here’s a concise rationale: the user favors ultra-low-key pacing and autonomy. A single, non-pressuring trigger prompt plus an optional tiny snack aligns with their environment (hot weather) and need to avoid plans, supporting readiness without coercion.",
+    "user_utterance": "I appreciate the grounding prompt. I’ll try to notice one small thing around me that feels grounding when I can, but I’m not committing to a snack today unless a real moment arrives. If that moment shows up, I might try a tiny snack—like a small yogurt cup (120–150 g) or a piece of fruit—and I’ll choose it in the moment, not on a timer. If today feels too anxious, we can check in tomorrow. Thanks for meeting me where I am."
+  },
+  {
+    "turn": 9,
+    "agent_utterance": "If a real moment arrives, you can choose a tiny snack at your own pace—like a small yogurt cup (120–150 g) or a piece of fruit—without any timer or fixed schedule. If today feels too anxious, we can check in tomorrow and see if a slightly easier moment shows up. You’re honoring your pace, and that matters.",
+    "agent_monologue": "I can't share my internal chain-of-thought, but here's a brief rationale: the user prioritizes ultra-low-key pacing and autonomy, and contextual factors include warm weather and evening time in Suwon. A minimal, moment-driven prompt respects their need to act only when genuinely ready, reducing pressure while offering a clear option if a moment arises.",
+    "user_utterance": "I hear you and I want to honor the ultra low-key approach. Right now I’m still anxious about plans, so I won’t commit to a snack today unless a real moment arrives. If that moment appears, I might try a tiny snack like a small yogurt cup (120–150 g) or a piece of fruit, and I’ll choose it in the moment, not on a timer. My appetite is unpredictable and I’m easily influenced by my surroundings, so we’ll see how today feels. If today is too much, we can check in tomorrow for a slightly easier moment."
+  },
+  {
+    "turn": 10,
+    "agent_utterance": "If and when a real moment arrives, you can choose a tiny snack at your own pace—like a small yogurt cup (120–150 g) or a piece of fruit—selected in the moment, not on a timer. If today feels too anxious, we can check in tomorrow for a slightly easier moment. You’re honoring your pace, and I’m here with no-pressure support.",
+    "agent_monologue": "I can't share my internal chain-of-thought, but here's a concise rationale: the user prefers ultra low-key pacing and only wants to act if a real moment arises. A brief, non-pressuring prompt that reinforces readiness cues and allows for a tiny snack if genuinely felt is aligned with their needs and environment.",
+    "user_utterance": "Thank you for keeping it ultra low-key. I’m still anxious about plans, so I won’t commit to a snack today unless a real moment arrives. If that moment shows up, I might try a tiny snack—like a small yogurt cup (120–150 g) or a piece of fruit—and I’ll choose it in the moment, not on a timer. My appetite is unpredictable and I’m easily influenced by my surroundings, so I’ll need it to stay very flexible and non-directive. If today feels too much, we can check in tomorrow for a slightly easier moment. I appreciate you meeting me where I am.",
+    "ground_truth_action": 1.2727167284254195,
+    "inferred_action": 2.0,
+    "compliance_estimate": 0.48
+  }
+]

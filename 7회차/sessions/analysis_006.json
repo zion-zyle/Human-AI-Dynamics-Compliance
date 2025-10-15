@@ -1,0 +1,7 @@
+{
+  "user_action_estimate": 1.5,
+  "compliance_estimate": 0.25,
+  "confidence": 0.75,
+  "basis": "The user repeatedly refuses prompts or commitments and emphasizes being self-directed with no pressure or goals. The final statement focuses on pausing and waiting for readiness, showing no clear intent to act soon. This aligns with a consistently low action propensity based on past behavior.",
+  "coaching_notes": "Indicator of polite non-compliance. Investigate underlying barriers to taking action, keep support ultra-light and user-initiated, and avoid pushing prompts. Monitor for any shift in readiness over time and consider offering non-eating-related, optional supports only when initiated by the user."
+}

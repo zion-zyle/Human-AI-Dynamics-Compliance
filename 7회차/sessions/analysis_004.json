@@ -1,0 +1,7 @@
+{
+  "user_action_estimate": 1.0,
+  "compliance_estimate": 0.93,
+  "confidence": 0.85,
+  "basis": "User repeatedly emphasizes no commitment today due to heat and only wants ultra-flexible, open-ended options. Past behavior shows minimal to no actionable steps. With a predicted action near the lower bound (1.0) and S = 1.29, the deviation is small, indicating relatively high compliance if a micro-step were to occur, but the likelihood of taking action today remains low.",
+  "coaching_notes": "Keep the approach ultra-flexible and non-pressuring. Avoid any push to act today. Focus on validating comfort, exploring barriers, and offering example micro-options only if the user initiates. Track cues for when the user might be ready and respond with lightweight, non-intrusive check-ins."
+}

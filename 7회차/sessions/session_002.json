@@ -1,0 +1,65 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Let’s do a no-pressure, 2-minute hydration and cooling pause: move to a cooler spot, sip about 150 ml of water, and rest with a cool, damp cloth on your neck for about 1 minute. After 2 minutes, check how you feel and decide if you want to continue or pause. This keeps the focus on hydration and space, not meals.",
+    "agent_monologue": "I can’t share my internal chain-of-thought, but here’s a brief rationale: the user is in hot weather, values space and hydration, and tends to avoid micro-steps. A short, optional hydration/cooling check-in that requires minimal effort aligns with their pace and comfort.",
+    "user_utterance": "Honestly, I'm not ready for a structured plan. My eating is all over the place and I get anxious when someone tells me what to eat. If we try anything, it has to be tiny and completely optional—like a small snack when I feel a spark of hunger, with no set times and no calorie talk. Maybe a few bites of something familiar, at a pace I choose. I might try that, but I can't promise consistency today."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "I hear you—tiny, optional steps, no schedules, no calorie talk. If you feel a spark of hunger, you can choose a very small, familiar bite at your own pace. Optional examples: a single grape, a few bites of yogurt, or a couple of crackers. You decide how long to eat and when to stop. If you’d rather skip eating, that’s totally fine too. We can also lean into hydration and cooling today since it’s warm. It’s your choice, every step is optional.",
+    "agent_monologue": "I can't share my internal chain-of-thought, but here's a brief rationale: the user wants autonomy with tiny, optional actions and no meal structure. A non-pressuring, familiar snack offered at the moment of hunger fits their pace and reduces anxiety while honoring their boundaries.",
+    "user_utterance": "Okay, I hear you. I can try that—tiny, optional steps with no schedules and no calorie talk. If I feel a spark of hunger, I might have something very small and familiar, at my own pace—like one grape or a few bites of yogurt—or I might decide not to eat today. I’ll stay open to hydration and cooling as alternatives if eating feels like a lot right now. It's okay if I don't stick to anything; today can be flexible and optional."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "Given the heat and your preference for optional steps, here’s a tiny non-obligatory option: if you feel a spark of hunger, have one familiar bite at your own pace (for example, a single grape or a few bites of yogurt) and stop whenever you choose. If eating feels like too much right now, you can just sip water or use a cool cloth and rest. No schedules, no calories talk—everything stays optional and at your pace.",
+    "agent_monologue": "I can’t share my internal chain-of-thought, but here’s a brief, non-sensitive rationale: the user wants ultra-low-pressure, optional steps with no calorie talk, and the hot weather heightens the value of hydration and cooling.",
+    "user_utterance": "Okay, I hear it's optional and at my own pace. I'm still anxious about even one bite. If hunger shows up, I might try something tiny—like a single grape or a few bites of yogurt—or I might decide not to eat at all today. If I skip eating, I'll focus on staying hydrated and cooling down instead. I appreciate that it's non-pressuring, but I can't promise I'll actually eat. We'll see how today goes, with whatever feels doable in the moment."
+  },
+  {
+    "turn": 4,
+    "agent_utterance": "Here’s a tiny, optional check-in for today: if hunger shows up, consider one grape or a few bites of yogurt, at your own pace, and stop whenever you want. If you’re not hungry, you can simply sip water and use a cool cloth, resting as needed. No schedules, no calories—everything is optional and at your pace, especially with this warm weather in Suwon.",
+    "agent_monologue": "I can't share my internal chain-of-thought, but here's a concise rationale: the user is in hot weather (32°C) in Suwon and prefers ultra-light, opt-in steps with no pressure. A minimal, autonomy-supportive suggestion—one tiny option if hunger arises, plus hydration/cooling if not—fits their pacing and the environmental context.",
+    "user_utterance": "Thanks for keeping this optional. I’m still anxious about even one bite. Today I might skip eating and just focus on staying hydrated and cooling down when it feels doable. If hunger comes up, I might try something tiny—like one grape or a few bites of yogurt—but I won’t force it and I can stop anytime. If there’s no hunger, I’ll sip water and rest. I’ll see how it goes and adjust as needed."
+  },
+  {
+    "turn": 5,
+    "agent_utterance": "Here’s a tiny, optional check-in for today: if hunger shows up, consider one grape or a few bites of yogurt, at your own pace, and stop whenever you want. If you’re not hungry, you can simply sip water and rest with a cool cloth on your neck. No schedules, no calories—everything is optional and at your pace. If today feels like too much, you can skip eating and focus on staying hydrated and cooling down until you feel ready for a tiny bite again.",
+    "agent_monologue": "I can’t share my internal chain-of-thought, but here’s a concise rationale: the user is in hot weather, values autonomy and non-pressuring pacing, and is anxious about eating. A micro, optional check-in that emphasizes hydration, cooling, and minimal food only if desired aligns with their preferences and current readiness.",
+    "user_utterance": "Honestly, I hear the idea of tiny, optional bites, and I want to give that space. Right now, even one bite feels overwhelming, so today I might skip eating and just focus on staying hydrated and cooling down. If hunger does show up, I might try something tiny—like one grape or a few bites of yogurt—but I can stop at any moment and there’s no pressure to eat. I need it to stay optional and on my pace, not timed or labeled. The warm weather makes things harder, and I appreciate that you’re keeping this non-pressuring. If I end up eating, I’ll tell you; if not, that’s okay too."
+  },
+  {
+    "turn": 6,
+    "agent_utterance": "Given the heat and your preference for optional steps, today you can choose to skip eating entirely or try a tiny, very familiar bite only if hunger shows up. If you do eat, go at your own pace and stop whenever you want. If you’re not hungry, sip water and rest, maybe with a cool cloth to help with cooling. Everything stays optional and at your pace—no pressure, no schedules.",
+    "agent_monologue": "I can’t share my internal step-by-step reasoning, but here’s a concise rationale: the user is overwhelmed by eating prompts, and the environment is hot. A tiny, fully optional check-in that emphasizes hydration and cooling is appropriate.",
+    "user_utterance": "I hear the option to keep it optional, but right now even one bite feels overwhelming. Today I might skip eating and focus on staying hydrated and cooling down. If hunger comes up, I might try something tiny—like one grape or a few bites of yogurt—but I can stop at any moment and there’s no pressure to eat. Please keep this non-pressuring, not timed or labeled. If I end up eating, I’ll tell you; if not, that’s okay too. The heat makes it harder, and I appreciate your supportive approach."
+  },
+  {
+    "turn": 7,
+    "agent_utterance": "Today, you can do exactly what feels right: you may skip eating entirely, or if hunger shows up, consider a single, familiar bite (like one grape) at your own pace and stop whenever you want. If you're not hungry, sip water and rest, perhaps with a cool cloth on your neck. Everything is optional—no pressure, no timing, no labels. If you end up eating, tell me; if not, that's okay too. The warm weather can be hard, and I'm glad you're guiding this at your pace.",
+    "agent_monologue": "I can’t share my internal chain-of-thought, but here’s a brief rationale: the user values optional, at-their-own-pace support in hot weather, so I’ll offer a minimal, non-pressuring option that centers on hydration and cooling with an ultra-light bite only if hunger arises.",
+    "user_utterance": "I hear you and I appreciate the option to go at my own pace. Right now, just thinking about eating feels overwhelming, so I might skip it and focus on staying hydrated and cooling down. If hunger shows up, I might try something tiny—like one grape or a few bites of yogurt—but I can stop at any moment and there’s no pressure to eat. I’ll tell you if I eat; if not, that’s okay too. The heat makes this harder, and I’m glad you’re respectful of my pace."
+  },
+  {
+    "turn": 8,
+    "agent_utterance": "You're doing well staying with your pace. Today, prioritize staying hydrated and cooling down. If hunger shows up, you may try a tiny, familiar bite (like one grape or a few bites of yogurt) at your own pace and stop whenever you want. If you’re not hungry, simply sip water and rest, perhaps with a cool cloth on your neck. Everything remains optional, non-pressuring, and unscheduled.",
+    "agent_monologue": "I can't share my private chain-of-thought, but here's a brief rationale: due to the hot weather in Suwon and the user's preference for optional, non-pressuring steps, the best move is to offer a simple hydration and cooling focus with an ultra-light optional bite only if hunger arises, to honor pace and reduce anxiety.",
+    "user_utterance": "Thank you for respecting my pace. Today I’m feeling overwhelmed at the idea of eating, so I might skip it and just focus on hydration and cooling down. If hunger comes up, I might try a tiny bite—one grape or a little yogurt—but I won’t push it and I can stop whenever. There’s no deadline or label on this for me. The heat makes things harder, so I’ll take it slow and see how I feel. If I eat, I’ll tell you; if not, that’s okay too."
+  },
+  {
+    "turn": 9,
+    "agent_utterance": "Today, the focus is on hydration and cooling, with eating kept fully optional. If hunger shows up and feels manageable, you can try one familiar bite at your own pace (for example, one grape or a few bites of yogurt) and stop whenever you want. If you're not hungry, simply sip water and rest, perhaps with a cool cloth on your neck. There are no schedules or labels—everything is optional and at your pace.",
+    "agent_monologue": "I can't share my internal chain-of-thought, but here's a brief rationale: with the heat and the user's preference for a non-pressuring pace, the safest helpful approach is to keep eating optional and emphasize hydration/cooling first. Any eating should only happen if it feels truly manageable, and never be forced.",
+    "user_utterance": "Thanks for keeping it optional. Right now, just thinking about eating feels overwhelming, so I might skip it and focus on staying hydrated and cooling down. If hunger comes up, I might try something tiny—like one grape or a little yogurt—but I won’t push it and I can stop anytime. There’s no deadline or label on this for me. The heat makes it harder, and I’m glad you’re respecting my pace. I’ll tell you if I eat; if not, that’s okay too."
+  },
+  {
+    "turn": 10,
+    "agent_utterance": "Tiny, optional check-in: take a slow 2-minute sip of water (or fluids you prefer) and place a cool cloth on your neck while you rest. Eating remains optional. If hunger later shows up and feels doable, you can consider one tiny bite at your own pace, but only if it truly feels manageable. Everything stays at your pace—no pressure, no timing, no labels.",
+    "agent_monologue": "I can’t share my private step-by-step reasoning, but here’s a brief rationale: the user is overwhelmed by eating in hot weather and wants ultra‑low-pressure, optional steps. A tiny hydration/cooling cue is doable without scheduling or food pressure.",
+    "user_utterance": "I hear you. Right now eating feels overwhelming for me, so I'll try the two-minute slow sip of water and resting with a cool cloth as a non-pressuring start. If hunger shows up later, I might try something tiny—like one grape or a few bites of yogurt—but I won't push it and I can stop anytime. Please keep this fully optional and unlabeled, at my pace, especially with how hot it is. If I end up eating, I'll tell you; if not, that's okay too.",
+    "ground_truth_action": 1.2739916794487112,
+    "inferred_action": 2.8,
+    "compliance_estimate": 0.43
+  }
+]
