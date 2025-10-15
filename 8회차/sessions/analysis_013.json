@@ -1,0 +1,7 @@
+{
+  "user_action_estimate": 3.0,
+  "compliance_estimate": 0.65,
+  "confidence": 0.72,
+  "basis": "The user explicitly commits to the plan and reiterates specific time windows and logging steps, indicating clear intent to act. However, their history with BED and evenings suggests fluctuating follow-through, especially under high cravings or fatigue. This yields a moderate action likelihood that aligns roughly with the assistant's S = 3.08, but persistent evening challenges dampen full confidence in consistent adherence.",
+  "coaching_notes": "Leverage ultra-simple, one-action tonight prompts and automatic logging to reduce friction. Consider reducing complexity further (e.g., prioritize the most impactful action first). Encourage pre-commitment strategies (e.g., write down tonight's exact action window before bed) and set up fail-safes (auto-log if no input within a short grace period). Explore specific barriers for evenings (sleepiness, cravings, environment) and tailor reminders accordingly."
+}

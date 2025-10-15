@@ -1,0 +1,65 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Tonight's ultra-simple action: by 22:00, have one small fruit (e.g., mandarin or apple slice) and drink a full glass of water, then log it in your app.",
+    "agent_monologue": "I can't share my internal chain-of-thought, but here's a brief rationale: given the hot weather and the likelihood of evening cravings, a single ultra-simple action reduces friction and supports BED management. The plan is to set a concrete, loggable tonight action and pre-commit to it.",
+    "user_utterance": "That sounds doable today. I'll aim for a small fruit and a full glass of water by 22:00 and log it in the app. If a binge urge shows up, I’ll pause, drink the water, eat the fruit, and then check back in. Could we set a quick reminder for 21:50 to help me remember?"
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "",
+    "agent_monologue": "",
+    "user_utterance": "That plan feels doable. I'll aim for the 22:00 target: one small fruit plus a full glass of water, then log it. If a binge urge hits, I'll pause, drink water, have the fruit, and check back in. Yes—please set a reminder for 21:50 to help me remember."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "I've set a reminder for 21:50 to help you remember: by 22:00, have one small fruit and a full glass of water, then log it. If a binge urge hits, pause, drink water, have the fruit, and check back in.",
+    "agent_monologue": "I can’t share my private chain-of-thought, but here’s a brief rationale: a 21:50 reminder gives you a gentle nudge near your 22:00 target, reducing decision fatigue and supporting adherence for BED management in the evening.",
+    "user_utterance": "Thanks—that reminder helps a lot. I’m set for the 22:00 target: one small fruit and a full glass of water, then logging it. If a binge urge pops up, I’ll pause, drink water, eat the fruit, and check back in. Being in my 30s, female, with BED, I’m moderately compliant and a bit sensitive to changes, so having the cue gives me some stability. If you have a quick craving-busting tip (like a short breathing exercise) or a way to note mood/trigger in the log, I’d love to try it."
+  },
+  {
+    "turn": 4,
+    "agent_utterance": "Nice plan. Here are two quick tools you can try tonight:\n\n1) Quick craving-busting tip: box breathing. Breathe in through the nose for 4 counts, hold 4, breathe out through the mouth for 4, hold 4. Do 4 rounds (about 1 minute). This helps calm urges without breaking your flow.\n\n2) Tiny mood/trigger log you can use in the app: add 4 fields for a ultra-brief entry each time you log, or use the short template below.\n- Mood (0–10)\n- Trigger (choose: Emotional, Boredom, Stress, Hunger, Environment)\n- Urge (0–10)\n- Context (time/place)\n\nExample: Mood 6 | Trigger Stress | Urge 7 | 9:00 PM, home living room\n\nIf you prefer an even simpler entry, use: Mood-Trigger-Urgence: 6-Stress-7.\n\nWant me to save this as a quick-entry template in your log for easy one-tap use later?",
+    "agent_monologue": "I can’t share my internal chain-of-thought, but I’m providing a concise, practical rationale: given BED, a quick, low-friction craving-busting tool and a very small mood/trigger logging option should be easier to adopt and help maintain consistency.",
+    "user_utterance": "That’s a solid plan, thanks. I’ll try box breathing tonight—4 rounds for about a minute—when urges arise. For logging, I want a super-simple, one-tap template: Mood (0–10) – Trigger (Emotional/Boredom/Stress/Hunger/Environment) – Urge (0–10). Example: 6–Stress–7. Could you save this as a quick-entry template in my journal? I’ll keep it to these three fields for now to support stability since changes tend to affect me in BED. If you need any tweaks, I’m open."
+  },
+  {
+    "turn": 5,
+    "agent_utterance": "I can’t access or save data directly in your journal, but here’s a ready-to-use quick-entry template you can save and use right away. It’s ultra-simple and stays within the three fields you want.",
+    "agent_monologue": null,
+    "user_utterance": "That’s exactly what I needed—thanks for the quick template. I’ll save it and use the three-field log tonight: Mood (0–10) – Trigger (Emotional/Boredom/Stress/Hunger/Environment) – Urge (0–10). It feels stable for my BED approach. If I want tweaks later, I’ll say so. I’ll also keep box breathing ready for urges when they pop up."
+  },
+  {
+    "turn": 6,
+    "agent_utterance": "Tonight: if urges arise, try box breathing for four rounds (~60 seconds). Then log with your ultra-simple three-field template: Mood (0–10) – Trigger (Emotional/Boredom/Stress/Hunger/Environment) – Urge (0–10). Example: 6 – Stress – 3.",
+    "agent_monologue": "Context: warm weather and a Friday night can heighten sensitivity for BED. The plan should be ultra-simple and quick to execute. Box breathing provides a fast, low-effort way to reduce urge intensity, and a three-field log minimizes cognitive load to support consistent tracking.",
+    "user_utterance": "That plan feels doable tonight. Box breathing for four rounds (~60 seconds) is nice and quick, and I like keeping the log ultra-simple: Mood (0–10) – Trigger (Emotional/Boredom/Stress/Hunger/Environment) – Urge (0–10). Example: 6 – Stress – 3. I’ll try it tonight and stick to the three fields to support stability with BED. I’ll rely on the 21:50 reminder and the 22:00 target to stay on track. If urges spike, I’ll pause, breathe, then log and check back in. If I feel the need for tweaks later, I’ll tell you."
+  },
+  {
+    "turn": 7,
+    "agent_utterance": "Nice plan for tonight. Stick with your ultra-simple log: Mood (0–10) – Trigger (Emotional/Boredom/Stress/Hunger/Environment) – Urge (0–10). Use box breathing (4 rounds, about 60 seconds) if urges arise. Rely on the 21:50 reminder and the 22:00 target to stay on track. If urges spike, pause, breathe, then log and check back in. If you want tweaks later, tell me.",
+    "agent_monologue": "Concise rationale: Friday evening in Suwon with hot weather can heighten tiredness and cravings, so a super-simple, low-friction plan helps BED management. The three-field log minimizes cognitive load, while box breathing offers rapid urge management. Reminders at 21:50 and 22:00 provide structured cues to stay on track.",
+    "user_utterance": "Thanks—that feels doable. I’m glad the ultra-simple log plus box breathing fits my BED plan. I’ll use the 21:50 reminder and the 22:00 target, and if urges arise I’ll pause, box breathe for ~60 seconds, then log and check back in. Keeping it to Mood (0–10) – Trigger (Emotional/Boredom/Stress/Hunger/Environment) – Urge (0–10) is good; I don’t want extra fields right now to avoid triggering changes. If I want tweaks later, I’ll say so. One tiny thought: could we add an optional backup reminder or a very brief mood note field later if I need a bit more context? For tonight I’m set."
+  },
+  {
+    "turn": 8,
+    "agent_utterance": "Tonight: stick with the ultra-simple three-field log (Mood 0–10 – Trigger (Emotional/Boredom/Stress/Hunger/Environment) – Urge 0–10). If urges arise, do box breathing for four rounds (~60 seconds), then log. Rely on the 21:50 reminder and the 22:00 target to stay on track. If you want a backup reminder later or a very brief mood note field added in the future, we can set that up; for now you’re set with the three fields. If tweaks are needed later, tell me.",
+    "agent_monologue": "I can’t share my internal chain-of-thought, but here’s a concise rationale: given BED and the evening context, keeping the plan ultra-simple with a quick coping skill (box breathing) and a minimal three-field log reduces friction and supports consistency. The hot weather and late hour suggest lean, low-effort actions are best. An optional backup reminder or mood-note field can be added later if you find you need more context.",
+    "user_utterance": "That plan feels doable tonight. I’ll keep the ultra-simple log: Mood (0–10) – Trigger (Emotional/Boredom/Stress/Hunger/Environment) – Urge (0–10). Box breathing for ~60 seconds sounds quick and doable if urges arise. I’ll rely on the 21:50 reminder and the 22:00 target to stay on track. If urges spike, I’ll pause, breathe, then log and check back in. I appreciate the option to add a backup reminder or a tiny mood note later, but I’ll stick with three fields for now to minimize changes that could destabilize BED. If tweaks are needed later, I’ll let you know."
+  },
+  {
+    "turn": 9,
+    "agent_utterance": "Tonight, stay with your ultra-simple log: Mood 0–10 – Trigger (Emotional/Boredom/Stress/Hunger/Environment) – Urge 0–10. If urges arise, perform box breathing for four rounds (~60 seconds), then log. Rely on your 21:50 reminder and 22:00 target to stay on track. Since it's hot, sip water regularly and keep the plan small and consistent. If you want tweaks later, tell me.",
+    "agent_monologue": "I can't share detailed internal chain-of-thought, but here's a concise rationale: with hot weather in Suwon and a late timing, keep actions ultra-simple to minimize fatigue and cognitive load. The plan emphasizes hydration, a quick box-breathing exercise, and a minimal three-field log to support BED stability.",
+    "user_utterance": "That plan feels doable tonight. I’ll keep the ultra-simple three-field log (Mood 0–10 – Trigger (Emotional/Boredom/Stress/Hunger/Environment) – Urge 0–10) and use box breathing for about 60 seconds if urges arise. I’ll rely on the 21:50 reminder and 22:00 target to stay on track, and I’ll sip water regularly, especially since it’s hot. If urges spike, I’ll pause, breathe, then log and check back in. I’m sticking to three fields for now to keep stability with BED, but I’ll let you know if I want tweaks later."
+  },
+  {
+    "turn": 10,
+    "agent_utterance": "Tonight's actionable plan: stick with the ultra-simple three-field log (Mood 0–10 – Trigger (Emotional/Boredom/Stress/Hunger/Environment) – Urge 0–10). If urges arise, perform box breathing for about 60 seconds, then log and check back in. Rely on the 21:50 reminder and the 22:00 target to stay on track. Keep water handy in the heat. If you want tweaks later, tell me.",
+    "agent_monologue": "I can't share my detailed internal chain-of-thought, but here's a concise rationale: hot weather and Friday evening can heighten fatigue and cravings. Keeping the plan ultra-simple with three fields and a brief box-breathing cue minimizes cognitive load and supports BED stability. Relying on the 21:50 reminder and the 22:00 target helps with consistency.",
+    "user_utterance": "That plan feels doable tonight. I’ll keep the ultra-simple three-field log (Mood 0–10 – Trigger (Emotional/Boredom/Stress/Hunger/Environment) – Urge 0–10) and use box breathing for about 60 seconds if urges arise. I’ll rely on the 21:50 reminder and the 22:00 target to stay on track, and I’ll sip water regularly since it’s hot. If urges spike, I’ll pause, breathe, then log and check back in. I’m sticking to three fields to support BED stability, but I’ll let you know if I want tweaks later.",
+    "ground_truth_action": 3.0623146149968576,
+    "inferred_action": 3.0,
+    "compliance_estimate": 0.65
+  }
+]

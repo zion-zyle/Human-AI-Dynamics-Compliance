@@ -1,0 +1,7 @@
+{
+  "user_action_estimate": 3.0,
+  "compliance_estimate": 0.65,
+  "confidence": 0.65,
+  "basis": "The user explicitly commits to a simple three-field log, box breathing, and reminders, which indicates a plausible tonight-only action. However, historical patterns with BED often show variable adherence and preference for keeping plans minimal and revisitable. The stated plan is realistic but not guaranteed to be enacted fully, so a moderate action estimate is warranted.",
+  "coaching_notes": "Keep the plan ultra-simple and tangible tonight. Reinforce micro-commitments (e.g., complete the log within a defined window after 22:00, keep water accessible). Consider offering a one-tap log toggle and a visible countdown to 22:00. If drift occurs, gently reiterate the minimal steps and celebrate small wins to build steady habit formation."
+}

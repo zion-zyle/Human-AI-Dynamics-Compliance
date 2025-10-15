@@ -1,0 +1,7 @@
+{
+  "user_action_estimate": 2.5,
+  "compliance_estimate": 0.45,
+  "confidence": 0.85,
+  "basis": "The user repeatedly states a clear, manageable plan and intent to follow a simple loop, but there is a history in similar contexts of verbally committing without consistent execution. Given the minimal-risk, low-friction plan and heat/late-night timing, the action is likely modest but not guaranteed.",
+  "coaching_notes": "Emphasize micro-commitments and quick feedback. Add simple prompts, reminders, or accountability (e.g., a check-in with a friend) and consider shortening waits or simplifying the tiny options further. Track outcomes to adjust the plan to fit factors like sleep, hunger cues, and environmental heat. If frequent non-adherence emerges, explore underlying barriers and adjust accordingly."
+}

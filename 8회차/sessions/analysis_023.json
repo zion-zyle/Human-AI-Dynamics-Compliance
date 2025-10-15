@@ -1,0 +1,7 @@
+{
+  "user_action_estimate": 3.0,
+  "compliance_estimate": 0.14,
+  "confidence": 0.65,
+  "basis": "The user explicitly commits to a 1-minute breathing reset (3 rounds of box breathing) before logging and to using a minimal log plus a tiny pre-planned option tonight. This shows clear intent and a concrete plan, which suggests moderate engagement. However, their history with BED and prior variability in follow-through means actual execution may lag under fatigue or stress. Using a simple formula based on difference from the prior suggested action (S = 3.48): (S - action) / S = (3.48 - 3.0) / 3.48 ≈ 0.14, indicating modest alignment between intent and past-model expectations.",
+  "coaching_notes": "Encourage concrete cues and accountability to improve adherence. Suggestions: set a fixed nightly reminder, pre-record a 1-minute breathing sequence as a quick-start cue, and keep a visible, easily accessible quick log (one-line or voice memo). Explore barriers (tiredness, stress, time) and create micro-commitments (e.g., 'start breathing before any logging tonight' for the first 30 seconds). Consider pairing with an accountability buddy or app check-in, and practice self-kindness for slips while promptly returning to the plan."
+}

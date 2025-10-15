@@ -1,0 +1,7 @@
+{
+  "user_action_estimate": 3.0,
+  "compliance_estimate": 0.65,
+  "confidence": 0.62,
+  "basis": "The user expresses clear, actionable intent with logging, reminders, and micro-steps, and shows awareness of heat and scheduling. However, past data (not fully shown here) suggests a tendency toward variable follow-through when plans require consistent daily commitment; thus action is likely mid-range rather than fully guaranteed.",
+  "coaching_notes": "Reinforce concrete accountability: automate logging where possible, provide a simple one-tap log after check-ins, and establish a lightweight fallback if reminders drift (e.g., a 2-minute breathing + water routine with retroactive logging). Consider a rolling anchor default (within 60 minutes of bedtime) to minimize disruption and maintain continuity."
+}

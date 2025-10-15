@@ -1,0 +1,7 @@
+{
+  "user_action_estimate": 2.0,
+  "compliance_estimate": 0.65,
+  "confidence": 0.62,
+  "basis": "Past data show the user’s last action score around 1.83 and frequent drift from plans, even when verbally committing to tiny steps. The current message expresses readiness to start tonight with an ultra-tiny plan and optional mood tracking, but history suggests a cautious, low-probability follow-through. Using a conservative estimate (~2.0) reflects the gap between intent and action while acknowledging the explicit plan and minimal friction steps. Compliance is derived from predicted_action / 3.08 ≈ 0.65.",
+  "coaching_notes": "Maintain ultra-tiny defaults and build in external prompts (e.g., simple text reminder) if scores stay low. Encourage mood tracking only if it remains light; otherwise, keep it optional to reduce burden. Use predictable routines (same post-meal steps, fixed reminders) and clear if-then plans for high-stress/social days. After tonight, review what helped (or didn’t) and adjust the next micro-goal accordingly. Consider adding accountability (brief check-in with a friend or coach) if patterns persist."
+}

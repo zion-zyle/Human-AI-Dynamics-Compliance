@@ -1,0 +1,7 @@
+{
+  "user_action_estimate": 3.0,
+  "compliance_estimate": 0.42,
+  "confidence": 0.6,
+  "basis": "The user verbally commits to a concrete post-dinner plan and acknowledges heat and timing/logging challenges. However, prior messages show variability in follow-through and frequent requests to adjust reminders, suggesting cautious engagement rather than reliable adherence. With S = 3.03, the predicted action is middle-of-the-road and compliance is modest (around 0.4–0.5).",
+  "coaching_notes": "Keep expectations modest and reduce friction tonight: a single post-routine reminder, a lightweight 10-minute logging window, and ultra-simple prompts. Encourage micro-goals (e.g., log within 5 minutes of finishing dinner), provide quick auto-logging options, and check in on environmental barriers (heat). If reminders remain intrusive, consider turning off prompts entirely or replacing them with a single accountability check-in after dinner. Track what helps most and adjust gradually."
+}

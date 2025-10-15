@@ -1,0 +1,7 @@
+{
+  "user_action_estimate": 4.0,
+  "compliance_estimate": 0.72,
+  "confidence": 0.65,
+  "basis": "The user proposes meal-specific alerts, trigger notes in logs, and a structured pre-meal cue with clear steps, showing strong planning and commitment. Past behavior in this thread shows generally proactive planning with occasional slips (likely due to heat and context); thus a high but not perfect action expectation.",
+  "coaching_notes": "Support with automated reminders for meals, keep prompts short, and provide a ready-made log template for triggers (e.g., trigger: stressed; emotion: bored; setting: social). Offer quick social-meal pause tips (e.g., order first, take a 15–30s pause, sip water). Add a brief safety check-in if cravings spike 8–10 for two days. Emphasize consistency and self-kindness; adjust urge-window length based on daily energy and context."
+}

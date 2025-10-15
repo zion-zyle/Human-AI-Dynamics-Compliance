@@ -1,0 +1,7 @@
+{
+  "user_action_estimate": 3.0,
+  "compliance_estimate": 0.6,
+  "confidence": 0.72,
+  "basis": "The user repeatedly frames plans as doable and uses 'moderately compliant' language, suggesting mid-level likelihood of action. Past behavior in the thread shows commitment to plans but variable follow-through across nights, so a moderate action estimate (around 3.0) is plausible. Compliance (~0.60) reflects this mixed propensity, acknowledging intent but acknowledging occasional gaps in execution.",
+  "coaching_notes": "Encourage concrete, minimal steps tonight (e.g., log within a fixed 10-minute window, one explicit breathing cycle, and a single reminder). Pair plans with quick accountability: share a quick check-in after bedtime, or set an automatic prompt that cannot be skipped. Consider removing optional steps that may dilute adherence (e.g., cooling strategies) if they tend to be forgotten. Highlight BED-specific triggers and have a simple plan for urges (pause, breathe, 2-minute walk, or reach out to support)."
+}

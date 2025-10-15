@@ -1,0 +1,7 @@
+{
+  "user_action_estimate": 3.0,
+  "compliance_estimate": 0.45,
+  "confidence": 0.65,
+  "basis": "The user explicitly labels themselves as moderately compliant and repeatedly commits to a simple post-dinner routine, but historical follow-through is not guaranteed. A conservative action estimate of 3.0 aligns with their stated mindset; applying the prior S=3.79 yields approximately 0.45 compliance.",
+  "coaching_notes": "Leverage ultra-simple prompts and predictable cues. Consider adding a lightweight post-dinner accountability check (e.g., quick confirmation or brief log). Explore potential barriers (cravings, dinner timing, heat) and adjust reminders or timing accordingly. Encourage reporting tonight's outcome to close the loop and inform plan tweaks."
+}

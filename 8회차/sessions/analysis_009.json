@@ -1,0 +1,7 @@
+{
+  "user_action_estimate": 3.0,
+  "compliance_estimate": 0.75,
+  "confidence": 0.65,
+  "basis": "The user explicitly outlines a concrete after-dinner routine (breathing, wind-down, hydration, craving logging) and notes potential adjustments, showing intent to act. However, their history in similar prompts often reflects planning more than consistent execution, so a moderate action likelihood is most realistic.",
+  "coaching_notes": "Use explicit implementation intentions (e.g., 'If craving occurs after dinner, then perform 2-minute breathing and log before any eating'). Minimize optional steps to reduce cognitive load (hard-code the coping option for tonight). Add simple accountability (check-in reminder, quick journal snippet). Focus on small, repeatable actions and celebrate progress to reinforce adherence."
+}

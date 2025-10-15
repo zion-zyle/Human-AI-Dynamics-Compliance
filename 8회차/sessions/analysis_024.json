@@ -1,0 +1,7 @@
+{
+  "user_action_estimate": 2.5,
+  "compliance_estimate": 0.42,
+  "confidence": 0.65,
+  "basis": "The user verbally agrees to a concrete plan multiple times but has no verified follow-through in the history presented. This pattern—clear plans paired with limited evidence of consistent action—suggests a modest action level rather than high commitment, even though they express intent to report back.",
+  "coaching_notes": "Make compliance easier with micro-commitments (e.g., 1-minute box breathing blocks, 15-second log prompts). Use automatic reminders and a simple, portable template. Establish accountability (brief nightly check-in, or a buddy) to improve follow-through. If a log is missed, trigger a very small next-step (e.g., a 10-second breathing reset) to rebuild momentum and reduce drop-off."
+}

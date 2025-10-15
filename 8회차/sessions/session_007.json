@@ -1,0 +1,65 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Tonight, keep it ultra-simple: after you finish your evening routine, spend just 5 minutes to log one sentence about what you ate and how full you feel, and rate your urge to binge on a 0–10 scale. Then choose one tiny, non-food coping action if urges rise (sip water, do a 60-second stretch, or take a quick cool-down). If you’re too tired, you can log first thing tomorrow morning instead.",
+    "agent_monologue": "I can't share my internal chain-of-thought, but here's a concise rationale: hot weather and a late-hour context can increase urges and fatigue. A super-simple, post-routine micro-goal with minimal logging reduces friction and supports BED-friendly habits without feeling intrusive.",
+    "user_utterance": "That last cue feels a bit more intense, but I can try. I'll do the 5-minute evening log tonight and rate my urge, and I'll pick one tiny non-food coping action if it spikes—water, a 60-second stretch, or a quick cool-down. If I'm too tired, I'll log first thing tomorrow morning. Small steps feel doable."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "Tonight: within 5 minutes after you finish dinner, log one sentence about what you ate and how full you felt, then rate your urge to binge on a 0–10 scale. If urges spike, choose one tiny non-food coping action: sip water, do a quick 60-second stretch, or a brief cool-down. If you’re too tired, you can log first thing tomorrow morning.",
+    "agent_monologue": "I can't share my internal chain-of-thought, but here's a concise rationale: the hot, late-evening context can raise fatigue and affect adherence, so a super-simple, post-dinner plan with a micro coping action minimizes friction and supports small, steady progress.",
+    "user_utterance": "I can try that tonight. Logging after dinner for five minutes to note what I ate, how full I felt, and my urge rating sounds doable, and I like having a tiny coping action ready (water, a quick 60-second stretch, or a brief cool-down) if the urge spikes. If I’m really tired, I’ll log first thing tomorrow morning. A simple reminder or template would help keep it quick, but I’m committed to this small step and I’ll report back how it goes."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "Tonight's simple, high-feasibility plan: after you finish dinner, spend 5 minutes to log one sentence about what you ate and how full you felt, then rate your urge to binge on a 0–10 scale. If urges spike, choose one tiny coping action: sip water, do a quick 60-second stretch, or a brief cool-down. If you're too tired, log first thing tomorrow morning. To keep it quick, use this one-line template: 'Dinner: [food], Fullness: [low/med/high], Urge (0–10): [ ]'.",
+    "agent_monologue": "I can't share my full internal reasoning, but here's a concise rationale: given the hot weather and late hour in Suwon, keep the plan ultra-simple to minimize friction and fatigue. A brief, 5-minute post-dinner log with a 0–10 urge rating and a tiny non-food coping action supports consistency for BED management. The environmental context suggests short prompts and minimal reminders are best, so this keeps action small and doable tonight.",
+    "user_utterance": "That plan feels doable tonight. I like the quick, one-line template and the three tiny coping actions—I'll aim to log after dinner using Dinner: [food], Fullness: [low/med/high], Urge (0–10): [ ] and report back. If the urge spikes, I'll grab water or do a quick stretch or cool-down. If I'm too tired, I'll log first thing tomorrow morning. I'll try to stay consistent, but it's good to know I can adjust if needed."
+  },
+  {
+    "turn": 4,
+    "agent_utterance": "Tonight's quick nudge: after you finish dinner, log with the one-line template: Dinner: [food], Fullness: [low/med/high], Urge (0–10): [ ]; if urges spike, choose one tiny coping action: sip water, do a quick 60-second stretch, or a brief cool-down. If you're too tired, log first thing tomorrow morning. Because it's hot in Suwon, keep a bottle of water nearby to stay hydrated as you log.",
+    "agent_monologue": "Considering Suwon's heat and the late logging window, I chose a minimal, low-friction suggestion that matches the user's preference for a quick post-dinner log and one-click coping actions. Hydration and a brief reset can help with urges in hot conditions; the plan aims to maintain adherence without adding cognitive load.",
+    "user_utterance": "I appreciate the simple plan. I’ll try tonight: log after dinner using the one-line template (Dinner: [food], Fullness: [low/med/high], Urge (0–10): [ ]). I’ll keep a bottle of water handy, especially with the heat in Suwon. If the urge spikes, I’ll pick one tiny coping action—water or a quick stretch. If I’m too tired, I’ll log first thing tomorrow morning. It feels doable and small, and I’ll report back on how it goes."
+  },
+  {
+    "turn": 5,
+    "agent_utterance": "Plan for tonight: after dinner, log with the one-line template: Dinner: [food], Fullness: [low/med/high], Urge (0–10): [ ]; keep a bottle of water handy in Suwon's heat; if urges spike, choose one tiny coping action—water or a quick 60-second stretch; if you're too tired, log first thing tomorrow morning.",
+    "agent_monologue": "I can't share my private step-by-step reasoning, but here's a concise rationale: heat and fatigue can amplify urges; keeping tonight's plan ultra-simple with a quick post-dinner log and a single tiny coping action reduces friction and supports adherence.",
+    "user_utterance": "That sounds doable tonight. I appreciate the simple, actionable plan. I’ll log after dinner using the one-line template and keep a bottle of water handy in Suwon's heat. If urges spike, I’ll choose one tiny coping action—water or a quick stretch. If I’m too tired, I’ll log first thing tomorrow morning. I’ll report back on how it goes and stay flexible if I need to adjust."
+  },
+  {
+    "turn": 6,
+    "agent_utterance": "Tonight's plan: after dinner, log with the one-line template: Dinner: [food], Fullness: [low/med/high], Urge (0–10): [ ]; keep a bottle of water handy in Suwon's heat. If urges spike, choose one tiny coping action—water or a quick stretch. If you're too tired, you can log first thing tomorrow morning. You're doing great—small, consistent steps add up.",
+    "agent_monologue": "I can't share my private chain-of-thought, but here's a concise rationale and plan: given Suwon's heat and a late evening, keep the coaching ultra-simple and action-oriented. A quick post-dinner log within 5 minutes using the one-line template minimizes friction, and a single tiny coping action keeps you prepared for urges without overthinking. If you're tired, it's okay to log tomorrow morning and you can adjust as needed. This approach supports consistency through small, manageable steps.",
+    "user_utterance": "I appreciate the simple, actionable plan. Tonight I’ll aim to log after dinner with the one-line template and keep a bottle of water handy for Suwon’s heat. If urges spike, I’ll choose one tiny coping action—water or a quick stretch—and if I’m too tired I’ll log first thing tomorrow morning. I’ll report back on how it goes and stay flexible if I need to adjust; the small steps feel doable."
+  },
+  {
+    "turn": 7,
+    "agent_utterance": "Tonight's quick nudge: after dinner, log with the one-line template: Dinner: [food], Fullness: [low/med/high], Urge (0–10): [ ]; keep a bottle of water handy in Suwon's heat. If urges spike, choose one tiny coping action—water or a quick stretch. If you're too tired, log first thing tomorrow morning.",
+    "agent_monologue": "I can’t share my full internal chain-of-thought, but here’s a concise rationale: the user is in hot Suwon in the evening, which may increase fatigue and urge fluctuations. A ultra-simple post-dinner log with a single-line template and a tiny coping action reduces friction and supports adherence. Emphasizing water as a readily available tool aligns with the heat and dehydration risk, while offering a fallback to log tomorrow if tired keeps the plan feasible and non-punitive.",
+    "user_utterance": "This feels doable tonight. I’ll go with the quick nudge: log after dinner using the one-line template and keep a bottle of water handy in Suwon's heat. If urges spike, I’ll start with water or a quick stretch, and if I’m exhausted I’ll log first thing tomorrow morning. I might also set a gentle phone reminder to prompt the log so I don’t skip. I’ll report back on how it goes and adjust if needed—small steps, steady progress."
+  },
+  {
+    "turn": 8,
+    "agent_utterance": "Tonight's quick, doable plan: after dinner, log with the one-line template: Dinner: [food], Fullness: [low/med/high], Urge (0–10): [ ]; keep a bottle of water handy for Suwon's heat. If urges spike, choose one tiny coping action—water or a quick stretch. If you're tired, log first thing tomorrow morning. Optional: set a gentle phone reminder to prompt the log about 15 minutes after you finish eating to stay on track. You're doing great—small steps, steady progress. Report back on how it goes.",
+    "agent_monologue": "I can't share my internal chain-of-thought, but here's a concise justification: with the heat in Suwon and a late-evening window, a minimal post-dinner log plus one tiny coping action reduces friction and supports consistency. A light reminder can help, if it doesn't feel burdensome.",
+    "user_utterance": "That plan feels doable and keeps things simple, which helps with BED. I like having a concrete template and a hydration cue for Suwon's heat. I’ll log after dinner using the one-line template, keep water handy, and try the quick stretch if urges spike. I’ll set a gentle reminder for about 15 minutes after I finish eating, and if I’m too tired I’ll log tomorrow morning. I’ll report back on progress and adjust as needed—small steps, steady progress."
+  },
+  {
+    "turn": 9,
+    "agent_utterance": "Tonight's plan: after dinner, log with the one-line template: Dinner: [food], Fullness: [low/med/high], Urge (0–10): [ ]; keep a bottle of water handy in Suwon's heat. If urges spike, choose one tiny coping action—water or a quick stretch. If you're tired, log first thing tomorrow morning. Optional: set a gentle reminder for about 15 minutes after you finish eating to stay on track.",
+    "agent_monologue": "I can't share my internal chain-of-thought, but here's a concise rationale: heat in Suwon and BED considerations suggest a minimal, highly actionable post-dinner routine that minimizes cognitive load, keeps hydration in focus, and uses micro-choices. A single post-dinner log with a hydration cue and an optional reminder can sustain momentum; adjust based on your feedback and experience.",
+    "user_utterance": "That plan feels doable and aligns with what I can manage tonight. I’ll log after dinner using the one-line template and keep water handy for Suwon’s heat. If urges spike, I’ll choose water or a quick stretch, and I’ll use the 15-minute reminder if I’m tired. I’ll report back on progress and adjust if needed—small steps, steady progress."
+  },
+  {
+    "turn": 10,
+    "agent_utterance": "Plan: after dinner, log with the one-line template: Dinner: [food], Fullness: [low/med/high], Urge (0–10): [ ]; keep a bottle of water handy in Suwon's heat. If urges spike, choose one tiny coping action—water or a quick stretch. If you're tired, log first thing tomorrow morning. Optional: set a gentle reminder about 15 minutes after you finish eating to prompt the log. You're doing great—small steps, steady progress.",
+    "agent_monologue": "Context: hot weather in Suwon, BED, user prefers ultra-simple steps with minimal friction. The plan should be concrete, time-bound, and feasible tonight, with a hydration cue and optional reminder to reduce cognitive load and support consistency.",
+    "user_utterance": "Thanks—that plan feels doable. I’ll log after dinner with the one-line template and keep water handy in Suwon’s heat. If urges spike, I’ll use water or a quick stretch. I’ll set the 15-minute reminder if I’m tired and report back on progress. If I’m really tired or busy, I’ll adjust and keep it small. I’m hopeful these steps will help with BED, and I’ll be gentle with myself as I practice.",
+    "ground_truth_action": 3.4452629285786176,
+    "inferred_action": 2.5,
+    "compliance_estimate": 0.4
+  }
+]

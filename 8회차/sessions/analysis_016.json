@@ -1,0 +1,7 @@
+{
+  "user_action_estimate": 3.2,
+  "compliance_estimate": 0.51,
+  "confidence": 0.62,
+  "basis": "The user explicitly asks for a fullness-log template and commits to reporting back after meals, indicating moderate initiative. However, their history shows mixed follow-through with plans, suggesting action is likely but not guaranteed. A mid-range action value (3.2) balances intent with past variability.",
+  "coaching_notes": "Provide a ready-to-use fullness-log template and offer a lightweight daily check-in workflow. Keep templates mobile-friendly and quick to complete. Encourage testing the template this meal and reporting back on what helped or didn’t, so we can refine. Consider adding automated prompts or reminders to reduce friction on busy or travel days."
+}

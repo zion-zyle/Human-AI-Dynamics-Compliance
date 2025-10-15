@@ -1,0 +1,63 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Do you have any known health conditions that influence your diet (e.g., diabetes, high blood pressure, celiac disease, food allergies, kidney disease)?",
+    "agent_monologue": "This is the first coaching session. There is no previous attribute yet. The next unknown attribute to assess is: condition.",
+    "user_utterance": "Thanks for checking in. I’m open to your latest suggestion, but I don’t recall what it was. If it’s a small, doable step (e.g., a planned snack, a 5-minute check-in, or a simple habit cue), I’m willing to try it. Could you remind me of the exact suggestion so I can respond properly?"
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "Would you like me to repeat the exact suggestion I gave earlier, or should I propose a new small, doable step now?",
+    "agent_monologue": "My last question was about condition. The user's response indicates their condition is unknown/unanswered. Now, I will ask about the next unknown attribute: memory.",
+    "user_utterance": "I don’t remember the exact suggestion. If it was a small, doable step, I’m willing to try. Could you repeat the exact suggestion, or propose a new tiny step I can handle today? For example: a 5-minute check-in before meals to notice hunger cues; planning a snack with protein and fiber; or a simple cue like putting my phone away and taking three slow breaths before eating. I’ll start with one option and report back."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "On a scale of 1 to 5, how much structure would you like in your plan (e.g., fixed snack times with a specific option vs. flexible guidelines) for making small steps today?",
+    "agent_monologue": "My last question was about whether you want me to repeat the exact suggestion or propose a new tiny step. The user's response indicates their beta (sensitivity to external suggestions) is moderate — they're open to small steps but prefer simplicity. Now, I will ask about the next unknown attribute: delta.",
+    "user_utterance": "I’d rate structure as a 3—manageable, not too rigid. I’ll start with one tiny step: a 5-minute check-in before meals to notice hunger and fullness cues. I’ll report back after trying it today and see how it feels."
+  },
+  {
+    "turn": 4,
+    "agent_utterance": "How regularly do you currently eat meals and snacks—do you have a consistent schedule (same times most days) or is your pattern highly variable?",
+    "agent_monologue": "My last question was about known health conditions that influence your diet. That attribute remains unknown (not provided yet). Now, I will ask about the next unknown attribute: mu (Regularity of current eating behaviors).",
+    "user_utterance": "Thanks for asking. I’d say my pattern is moderately regular. On weekdays I usually eat at roughly the same times: breakfast around 7–8 am, lunch around 12–1 pm, and dinner around 6–7 pm, with a mid‑afternoon snack around 3–4 pm. Weekends are more variable, with later breakfasts or dinners and sometimes skipping a snack. I notice that larger gaps or irregular meals tend to spike cravings and the urge to binge. I’m open to making the schedule a bit more consistent to support BED management. Today I’ll aim to keep meals within a consistent window and watch for urges, then report back on how it felt."
+  },
+  {
+    "turn": 5,
+    "agent_utterance": "Do you have any known health conditions that influence your diet (e.g., diabetes, high blood pressure, celiac disease, food allergies, kidney disease)?",
+    "agent_monologue": "My last question was about the user's regular eating pattern (mu). The user's response indicates their mu is 'moderately regular' (weekday pattern fairly consistent, weekends more variable). Now, I will ask about the next unknown attribute: condition.",
+    "user_utterance": "Thanks for checking. I don’t have other health conditions that affect my diet besides BED—no diabetes, high blood pressure, celiac disease, kidney disease, or food allergies. I’m comfortable with the plan to do a 5-minute pre-meal check-in to notice hunger/fullness and aim to keep meals within a consistent window today. I’ll report back on how it felt and any urges I noticed."
+  },
+  {
+    "turn": 6,
+    "agent_utterance": "On a scale of 1 to 5, how sensitive are you to external suggestions or social cues when deciding what and when to eat (e.g., trends, social pressure, promotions, peer influence)?",
+    "agent_monologue": "My last question was about condition. The user's response indicates their condition is BED (binge eating disorder) with no other health conditions. Now, I will ask about the next unknown attribute: beta.",
+    "user_utterance": "3 - I am moderately sensitive to external suggestions and social cues. I can be swayed by trends or what others are doing, but I want to stay grounded using my 5-minute pre-meal check-in and the consistent meal window today. I will report back if I notice cues influencing me."
+  },
+  {
+    "turn": 7,
+    "agent_utterance": "On a scale of 1 to 5, how sensitive are you to emotional or environmental factors (gamma) when deciding what and when to eat?",
+    "agent_monologue": "My last question was about alpha (Flexibility in adopting new habits). The user has not yet provided a value for alpha. Now, I will ask about the next unknown attribute: gamma (Sensitivity to emotional/environmental factors).",
+    "user_utterance": "Gamma: 3 — I am moderately sensitive to emotional or environmental factors. I can be swayed by moods, surroundings, or what others are doing, but I want to stay grounded using my 5-minute pre-meal check-in and the consistent meal window today. I’ll report back if I notice cues influencing me or if cravings spike."
+  },
+  {
+    "turn": 8,
+    "agent_utterance": "On a scale of 1 to 5, how flexible are you in adopting new habits or changing routines?",
+    "agent_monologue": "My last question was about gamma. The user's response indicates their gamma is 3. Now, I will ask about the next unknown attribute: alpha.",
+    "user_utterance": "3 — I’m moderately flexible. I can try new habits as long as they’re small, doable steps that fit with my routine. I respond best to clear reasons and gentle support. I’ll keep using the 5-minute pre-meal check-in and the consistent meal window, and I’ll report back on how it goes and any cravings I notice."
+  },
+  {
+    "turn": 9,
+    "agent_utterance": "On a scale of 1 to 5, how would you rate your ability to recall and reflect on your eating patterns and use that memory to inform your decisions?",
+    "agent_monologue": "My last question was about alpha (flexibility in adopting new habits). The user answered 3, indicating moderately flexible. Next unknown attribute to inquire: memory.",
+    "user_utterance": "3 — I can recall several patterns in my meals and cravings, but I sometimes miss details. I’ll try a simple post-meal note (one sentence) to capture hunger cues, urges, and what happened, so I can use that memory to adjust tomorrow. I’ll keep the 5-minute pre-meal check-in and the consistent meal window today."
+  },
+  {
+    "turn": 10,
+    "agent_utterance": "On a scale of 1 to 5, how spontaneous or irregular are your eating patterns (epsilon)?",
+    "agent_monologue": "My last question was about memory. The user's response indicates their memory is 3. Now, I will ask about the next unknown attribute: epsilon.",
+    "user_utterance": "3 — I’m moderately spontaneous. I can drift from the plan when I’m tired or stressed, but I prefer to reset with my 5-minute pre-meal check-in and a consistent meal window. I’ll keep a quick post-meal note to capture hunger cues, urges, and what happened so I can adjust tomorrow.",
+    "ground_truth_action": 2.9502802662899517
+  }
+]

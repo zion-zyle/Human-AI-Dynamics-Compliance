@@ -1,0 +1,7 @@
+{
+  "user_action_estimate": 2.5,
+  "compliance_estimate": 0.4,
+  "confidence": 0.72,
+  "basis": "The user verbally commits to a simple logging routine and hydration reminders, but has historically shown limited consistent execution despite repeated plans. Given the recent emphasis on small steps and contingencies (reminders, flexibility), a mid-low action value around 2.5 is reasonable. Using the formula (S - action) / S with S = 4.14 yields compliance ≈ 0.40.",
+  "coaching_notes": "Acknowledge the plan while strengthening accountability. Encourage ultra-fast micro-commitments (e.g., 1-line log immediately after dinner) and automatic prompts (phone reminders, calendar alerts). Explore barriers (tiredness, BED symptoms) and set up non-judgmental check-ins to bolster adherence. Reinforce progress tracking and celebrate small wins to build momentum."
+}
