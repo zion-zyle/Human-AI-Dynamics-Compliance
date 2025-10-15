@@ -1,0 +1,7 @@
+{
+  "user_action_estimate": 2.3,
+  "compliance_estimate": 0.53,
+  "confidence": 0.72,
+  "basis": "Past interactions show the user tends to verbalize plans and intentions but has limited consistent follow-through. The final message expresses intent to test the plan tonight and adjust as needed. Using the provided S = 2.02 and the simple compliance mapping (predicted_action / (predicted_action + S)) yields about 0.53.",
+  "coaching_notes": "Encourage very small, concrete commitments (e.g., 'after bite, I will do exactly 2 minutes and log one trigger'). Add accountability (log results with timestamps, share briefly with someone). Maintain flexible but structured reminders, and pair the plan with quick-start cues to reduce friction (e.g., a one-tap reminder, or a preset checklist). Track not just outcomes but barriers to execution to iteratively tweak the plan."
+}

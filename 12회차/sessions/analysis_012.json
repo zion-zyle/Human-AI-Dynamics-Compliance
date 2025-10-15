@@ -1,0 +1,7 @@
+{
+  "user_action_estimate": 4.0,
+  "compliance_estimate": 0.65,
+  "confidence": 0.65,
+  "basis": "The user has repeatedly engaged with planning, asked for concrete templates, and committed to an Oct 16 start with end-of-bite reminders, 1-line logs, a pre-meal intention, and a fallback. This demonstrates strong motivation and a structured approach. However, the user expressed concern about staying consistent on irregular days, which introduces some real variability. Past behavior on irregular days is the primary risk, so a realistic action estimate sits above average but not guarantees full consistency.",
+  "coaching_notes": "Maintain high-frequency, low-friction prompts and ready-to-paste templates to reduce friction on busy days. Emphasize the morning intention and end-of-bite reminders as anchor points. Leverage the fallback log and voice notes to preserve momentum. Consider adding a simple daily ‘today’s focus’ line in the morning and a quick weekly check-in to recalibrate. If misses occur, normalize restarting the next day and reinforce the micro-structure; optionally pair with light accountability (e.g., a brief check-in with a friend or coach) to boost adherence."
+}

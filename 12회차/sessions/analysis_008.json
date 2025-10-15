@@ -1,0 +1,7 @@
+{
+  "user_action_estimate": 2.0,
+  "compliance_estimate": 0.35,
+  "confidence": 0.62,
+  "basis": "The user explicitly outlines a practical two-window plan and commits to logging, but prior patterns suggest intentions often outpace consistent execution. While they express willingness to start tonight and review daily, there is a history of planning without guaranteed follow-through, variability in adherence, and reliance on reminders. Thus, a modest action value is more realistic than full commitment.",
+  "coaching_notes": "Strategies to boost actual follow-through: 1) use micro-commitments (start with tonight's log only, keep it extremely simple). 2) set automatic reminders 15–20 minutes before the chosen window and pair them with a specific cue (e.g., after a meal, or when temperature checks) 3) simplify the log (date, window, urge, mood) and consider quick yes/no prompts instead of full entries on busy days 4) implement an implementation intention: If dinner timing is uncertain, default to a pre-planned micro-snack and log actual window used 5) build accountability (share logs with a trusted person or tool) 6) use habit stacking (logting becomes part of a current routine, like after brushing teeth) 7) track compliance weekly to identify patterns and adjust windows as needed."
+}

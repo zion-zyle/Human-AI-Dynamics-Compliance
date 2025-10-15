@@ -1,0 +1,7 @@
+{
+  "user_action_estimate": 3.0,
+  "compliance_estimate": 0.56,
+  "confidence": 0.72,
+  "basis": "The user repeatedly confirms a structured, low-friction plan (three snoozeable reminders, backups, prompts, and weekly readouts) but also emphasizes concerns about nagging reminders and irregular days. This suggests a moderate likelihood of taking action rather than unwavering follow-through, yielding an action estimate around 3.0. Compliance is tempered by the need for lightweight logging and minimal intrusion.",
+  "coaching_notes": "Emphasize ultra-light logging (one-tap log), lightweight snooze options, and easy quick-swaps for shifted workouts. Include a brief post-urge check-in and a simple post-urge plan. Maintain hydration prompts in heat and leverage the Sunday readout to adjust timing. Tailor BED coping prompts to be brief and actionable, with ongoing daily encouragement to reinforce progress."
+}

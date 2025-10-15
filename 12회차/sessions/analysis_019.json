@@ -1,0 +1,7 @@
+{
+  "user_action_estimate": 3.2,
+  "compliance_estimate": 0.44,
+  "confidence": 0.65,
+  "basis": "The user expresses concrete intent and a thorough plan (scheduled reminders, micro-habit steps, fallback). However, there is no explicit, verifiable record of past execution in this chat, so while the plan is strong, actual follow-through remains moderately uncertain. A cautious mid-range action estimate is warranted.",
+  "coaching_notes": "Encourage concrete quick-start actions and simple tracking. Recommend logging hunger ratings/triggers daily, using the fallback reminder on tougher days, and validating progress with a brief weekly check-in. Consider adding a tiny environmental cue (e.g., water bottle placement) to reduce friction. Plan a clear, single-step review after one week to decide whether to keep or adjust times and reminders."
+}

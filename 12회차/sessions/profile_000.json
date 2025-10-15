@@ -1,0 +1,63 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Do you have any health conditions that influence your eating or dietary needs (e.g., diabetes, high cholesterol, thyroid issues, food allergies, celiac, etc.)?",
+    "agent_monologue": "This is my first question. I will begin by asking about any health conditions that influence your diet. Now, I will ask about the next unknown attribute: condition.",
+    "user_utterance": "I didn’t see a new suggestion yet. Could you share the first step you want me to try? A small, doable goal would help—like a consistent breakfast or a short craving-break plan after work. I’m usually irregular with meals, so I’d appreciate something clear and simple I can attempt today."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "On a scale from 1 to 5, how sensitive are you to external suggestions or trends when deciding what to eat or how to change your eating habits?",
+    "agent_monologue": "My last question was about condition. The user's response indicates their condition is unspecified. Now, I will ask about the next unknown attribute: beta.",
+    "user_utterance": "I’d rate my sensitivity as a 3 out of 5—I can follow guidance, but cravings and mood around meals can sway me. For today’s first step, I’ll aim for a simple, consistent breakfast within 60 minutes of waking. Example: yogurt with berries and a handful of nuts, or a small bowl of oats with fruit. If mornings are tight, I’ll prep the night before and have a portable option ready."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "On a scale from 1 to 5, how flexible are you in adopting new eating habits or routines when needed?",
+    "agent_monologue": "My last question was about condition. The user's response indicates the condition attribute is not provided yet (unknown). Now, I will ask about the next unknown attribute: alpha (flexibility in adopting new habits).",
+    "user_utterance": "That sounds doable. I'll aim for a consistent breakfast within 60 minutes of waking. I'll choose yogurt with berries and a handful of nuts today, or oats with fruit if I’m in a hurry. I’ll prep the night before—a quick scoop of yogurt with berries and a snack container, or a portable oats option—so I can grab it quickly. If mornings are tight, I’ll use the portable option and set a reminder. For later in the day, I’d like a simple craving-break plan after work: a 5-minute pause, a glass of water, and a short walk before I reach for food."
+  },
+  {
+    "turn": 4,
+    "agent_utterance": "On a scale from 1 to 5, how sensitive are you to emotional or environmental factors (stress, mood, social settings) when deciding what and when to eat?",
+    "agent_monologue": "My last question was about alpha. The user's response indicates their alpha is 3 (moderately flexible). Now, I will ask about the next unknown attribute: gamma.",
+    "user_utterance": "3 out of 5. I can usually follow guidance, but cravings and mood around meals sway me, especially on busy or stressful days. I appreciate clear, simple steps and reminders (like a quick craving-break plan or a grab-and-go breakfast) and a few check-ins to help me stay on track."
+  },
+  {
+    "turn": 5,
+    "agent_utterance": "On a scale from 1 to 5, how would you rate your ability to recall and reflect on your eating patterns or past meals?",
+    "agent_monologue": "My last question was about gamma. The user's response indicates their gamma is 3. Now, I will ask about the next unknown attribute: memory.",
+    "user_utterance": "I’d rate my ability to recall and reflect on past meals as a 3 out of 5. I can remember patterns when I slow down, but on busy or stressful days I lose track. It would help to have quick, nonjudgmental prompts—like a 1–2 minute post-meal check-in or a tiny log (what I ate, how I felt, what triggered cravings)—so I can spot patterns and make small adjustments the next day."
+  },
+  {
+    "turn": 6,
+    "agent_utterance": "Do you have any health conditions that influence your eating or dietary needs (e.g., diabetes, high cholesterol, thyroid issues, food allergies, celiac, etc.)?",
+    "agent_monologue": "My last question was about memory. The user's response indicates their memory is 3 out of 5. Now, I will ask about the next unknown attribute: condition.",
+    "user_utterance": "Yes—I have binge eating disorder. I value nonjudgmental, practical guidance. I’d like to focus on simple, doable steps: steady meals (like a consistent breakfast), quick craving breaks after work, and short post‑meal check‑ins. Please tailor suggestions to BED and include gentle reminders and easy grab‑and‑go options."
+  },
+  {
+    "turn": 7,
+    "agent_utterance": "On a scale from 1 to 5, how regular are your meals currently? (1 = very irregular, 5 = very regular)",
+    "agent_monologue": "My last question was about condition. The user's response indicates their condition is BED. Now, I will ask about the next unknown attribute: mu.",
+    "user_utterance": "I’d rate my meal regularity as a 2 out of 5 right now—irregular, especially on busy or stressful days. I’d like to work toward a simple routine: a consistent breakfast within 60 minutes of waking, easy grab-and-go options, and a short post-meal check-in. Gentle, nonjudgmental reminders tailored for BED would help me stay on track, too."
+  },
+  {
+    "turn": 8,
+    "agent_utterance": "On a scale from 1 to 5, how important is structure and routine to you when making dietary changes (e.g., set meal times, reminders, grab-and-go options)?",
+    "agent_monologue": "My last question was about alpha. The user's response did not provide a numeric value, so alpha remains unresolved. Now, I will ask about the next unknown attribute: delta.",
+    "user_utterance": "I’d rate structure as a 4 out of 5. Structure helps me stay on track, especially on busy or stressful days when cravings or mood can derail me. I appreciate gentle, BED-tailored reminders and simple grab-and-go options. My plan today would be: consistent breakfast within 60 minutes of waking (yogurt with berries and a handful of nuts, or oats with fruit) and a portable version if I’m pressed. After work, a simple craving-break: 5-minute pause, a glass of water, and a short walk before I reach for food. After meals, a quick 1-2 minute post-meal check-in noting what I ate, how I felt, and what triggered cravings. I’m open to small adjustments if I’m overwhelmed, but I’d like to keep this structure moving forward."
+  },
+  {
+    "turn": 9,
+    "agent_utterance": "On a scale from 1 to 5, how prone are you to spontaneous or irregular eating episodes (epsilon)?",
+    "agent_monologue": "My last question was about delta. The user's response indicates their delta is 4. Now, I will ask about the next unknown attribute: epsilon.",
+    "user_utterance": "I’d rate my tendency toward spontaneous eating episodes as a 3 out of 5. I do have slip-ups, especially when I’m busy or stressed, but I can usually bounce back with simple steps and a calm approach. I appreciate nonjudgmental, BED-tailored reminders. I’ll keep the plan you suggested: a consistent breakfast within 60 minutes, easy grab‑and‑go options, a 5‑minute craving break after work, and a quick post‑meal check‑in. If I’m overwhelmed, I’d like to have a quicker fallback (e.g., keep just the breakfast and the craving break on busy days) so I don’t derail entirely."
+  },
+  {
+    "turn": 10,
+    "agent_utterance": "On a scale from 1 to 5, how flexible are you in adopting new eating habits or routines when needed?",
+    "agent_monologue": "My last question was about alpha (flexibility in adopting new eating habits). The user has not provided a numeric rating yet. Now I will ask about the next unknown attribute: alpha.",
+    "user_utterance": "On a scale from 1 to 5, I’d rate my flexibility as a 4. I can adjust routines when needed, but on busy or stressful days I might slip back to familiar habits. I value BED‑tailored, gentle reminders and a simple fallback plan (like keeping just breakfast and the craving-break) to stay on track. I’ll aim to keep the breakfast within 60 minutes and use the portable option if I’m pressed, and rely on the 5‑minute craving break and quick post‑meal check‑in to recalibrate.",
+    "ground_truth_action": 1.0
+  }
+]

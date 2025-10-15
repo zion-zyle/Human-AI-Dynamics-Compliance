@@ -1,0 +1,7 @@
+{
+  "user_action_estimate": 2.5,
+  "compliance_estimate": 0.4,
+  "confidence": 0.9,
+  "basis": "The user consistently verbalizes doable plans and intent to follow them, but past behavior shows variable execution with tendency to drift or defer. This pattern supports a moderate action likelihood rather than full adherence to every step.",
+  "coaching_notes": "Emphasize concrete, small-step actions and built-in accountability. Consider shortening steps further, locking in exact times for checks, and identifying concrete barriers (e.g., triggers, environment). Use gentle prompts and offer compatibility options (soft reminders, quick check-ins) to sustain engagement without causing prompt fatigue."
+}

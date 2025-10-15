@@ -1,0 +1,7 @@
+{
+  "user_action_estimate": 2.8,
+  "compliance_estimate": 0.28,
+  "confidence": 0.62,
+  "basis": "The user shows clear planning, specific steps, and readiness to start tonight, but their history in this thread (and typical patterns in similar contexts) suggests only modest follow-through rather than consistent execution. The predicted action value of 2.8 reflects cautious engagement rather than full commitment. Compliance is derived from a conservative mapping relative to the agent's last suggestion (S = 3.13), yielding a modest alignment (~0.28).",
+  "coaching_notes": "User is polite and committed in planning but historically demonstrates limited follow-through. Focus on minimal friction actions, lightweight accountability, and optional prompts. Encourage logging even when starting late or skipping meals, and provide quick, non-judgmental feedback loops. Consider integrating small, automated reminders or an explicit start time to boost actual engagement."
+}

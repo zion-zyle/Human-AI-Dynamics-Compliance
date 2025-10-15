@@ -1,0 +1,7 @@
+{
+  "user_action_estimate": 3.0,
+  "compliance_estimate": 0.42,
+  "confidence": 0.65,
+  "basis": "The user explicitly commits to starting this week (printable BED log, 1-week rotation, Sundays optional) and requests a ready-to-print PDF, indicating a real intention to act. However, in past interactions they’ve often verbalized plans without consistent follow-through, so the predicted action is moderate rather than high. The compliance estimate scales relative to the agent’s S value (4.29); given the explicit start but historical variability, a mid-range action is reasonable.",
+  "coaching_notes": "Encourage concrete micro-commitments (e.g., confirm PDF download today, set a specific start date, share staple list within 24 hours). Use reminders and a quick 2-minute daily log to reduce temptation to postpone. Keep the weekly check-in optional but accessible, and continue to layer 1–2 small tweaks at a time to sustain momentum."
+}

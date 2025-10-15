@@ -1,0 +1,7 @@
+{
+  "user_action_estimate": 3.0,
+  "compliance_estimate": 0.53,
+  "confidence": 0.72,
+  "basis": "The user explicitly commits to a clear structure (±60 min windows, 15:30 snack with 5-min pause, urge logging, social scripts) and mentions a fallback. Past behavior appears to be moderate rather than fully consistent, so a mid-range action estimate is realistic. Using a simple compatibility rule with S=2.63 (compliance ≈ action / (action + S)) gives 3.0 / (3.0 + 2.63) ≈ 0.53, aligning with a cautious-but-optimistic compliance expectation.",
+  "coaching_notes": "Maintain a focus on micro-commitments and quick checks (e.g., end-of-day brief log). Watch for disruptions (travel, events) and encourage logging temporary tweaks. Reinforce the value of mood/stress tracking as triggers, and provide quick templates for mood entries to prevent overwhelm."
+}
