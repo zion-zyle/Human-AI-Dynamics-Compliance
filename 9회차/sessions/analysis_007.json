@@ -1,0 +1,7 @@
+{
+  "user_action_estimate": 2.5,
+  "compliance_estimate": 0.4,
+  "confidence": 0.72,
+  "basis": "The user repeatedly emphasizes ultra-simple plans and acknowledges fatigue, but there is limited evidence of consistent real-world execution beyond planning. Past messages show optimism and flexibility more than sustained follow-through.",
+  "coaching_notes": "Treat verbal commitment as a potential trigger for reflection rather than reliable action. Probe barriers (fatigue, busy days, irregular eating) and emphasize ultra-low-friction micro-commitments, lightweight accountability, and environmental cues to reduce friction. Consider enabling easier logging (one-tap, automatic prompts) and short daily check-ins to improve adherence."
+}

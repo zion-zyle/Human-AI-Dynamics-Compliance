@@ -1,0 +1,7 @@
+{
+  "user_action_estimate": 3.0,
+  "compliance_estimate": 0.46,
+  "confidence": 0.65,
+  "basis": "The user articulates a clear, multi-step plan with backup options and coping strategies, which suggests genuine engagement. However, there is limited evidence of actual past adherence in this thread, so a conservative mid-range action value is warranted. Using the last suggestion S = 3.08 yields a mid-range compliance estimate around 0.46 when mapped to action strength.",
+  "coaching_notes": "Keep reinforcing micro-habits (pause, water, 5-minute wait, logging), and use the backup log-later to reduce drop-offs on busy days. Maintain weekly reflections and coping strategies. If logging lapses become common, explore concrete barriers (time, forgetfulness, app friction) and reduce friction further (fewer steps, automated prompts, or batch logging)."
+}

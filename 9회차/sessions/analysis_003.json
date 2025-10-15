@@ -1,0 +1,7 @@
+{
+  "user_action_estimate": 4.0,
+  "compliance_estimate": 0.63,
+  "confidence": 0.72,
+  "basis": "The user explicitly states readiness to implement Friday’s plan, requests a printable checklist, and seeks practical tips for irregular meals and logging. There is no clear evidence of prior consistent non-compliance in this thread, suggesting a higher likelihood of action. Therefore, a high action value (4.0) is reasonable given the stated intent.",
+  "coaching_notes": "Leverage the user’s explicit planning by providing the printable checklist promptly and offering a ready-to-use weekly CSV/Sheets template. Anticipate busy days by including short fallback prompts (e.g., a two-step micro-habit) and set up a gentle mid-day reminder. Explore any remaining barriers (time, stress) and propose small, scalable adjustments to maintain engagement."
+}

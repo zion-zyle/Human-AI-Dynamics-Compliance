@@ -1,0 +1,7 @@
+{
+  "user_action_estimate": 4.0,
+  "compliance_estimate": 0.03,
+  "confidence": 0.65,
+  "basis": "The user consistently articulates a detailed, flexible plan and shows motivation to implement with manageable steps (reminders, logging, micro-habits). However, past data suggests that even with positive intent, actual follow-through can waver on fatigue or busy days. With S = 4.14, the predicted action is high, but the low compliance score reflects potential gaps between intention and execution.",
+  "coaching_notes": "Keep the plan lightweight and anchored: establish a single non-negotiable daily action (e.g., log urge within 15 minutes of urge). Use one micro-habit per urge and a simple tracking method (daily quick note; weekly recap later if easier). Consider a brief accountability check-in a few days after implementation. For fatigue days, reinforce the default urge-only logging with a one-word mood tag if possible. Maintain flexibility but minimize cognitive load (avoid multiple reminders unless truly needed)."
+}

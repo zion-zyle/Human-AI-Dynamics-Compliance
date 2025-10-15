@@ -1,0 +1,7 @@
+{
+  "user_action_estimate": 3.6,
+  "compliance_estimate": 0.86,
+  "confidence": 0.72,
+  "basis": "The user consistently communicates a structured, lightweight plan focused on urges, mood, meal calories/protein, and brief post-snack notes. They express willingness to share daily numbers and review patterns. Past behavior with BED planning tends to be mixed, but the current stance shows intent to follow through and adjust as patterns emerge. Since the predicted action is slightly above the suggested threshold S = 3.48, compliance is likely solid but not guaranteed given real-world variability.",
+  "coaching_notes": "Keep it ultra-simple on busy days (urges, mood, meal calories/protein, quick post-snack note). Encourage daily quick check-ins and a brief end-of-day recap to reinforce pattern spotting. Consider accountability steps (sharing numbers with a buddy or coach). Build in contingency plans for slips (reframe as data for pattern learning and rapid regrouping)."
+}

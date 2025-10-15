@@ -1,0 +1,7 @@
+{
+  "user_action_estimate": 2.8,
+  "compliance_estimate": 0.42,
+  "confidence": 0.65,
+  "basis": "The user repeatedly endorses a lightweight plan and explicit logging prompts, which suggests intent but historical data on similar commitments for BED contexts show variable follow-through. This combination points to a modest action with partial compliance rather than high consistency.",
+  "coaching_notes": "Target micro-commitments and reduce friction (e.g., single-sentence prompts, shorter post-log actions). Establish a quick accountability check (e.g., a brief daily recap or confirmation) and tie prompts to concrete cues (time, location). Consider context-specific coping prompts to address urges, and build in a low-barrier plan for missed days to sustain momentum."
+}

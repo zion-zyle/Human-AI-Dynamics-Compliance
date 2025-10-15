@@ -1,0 +1,65 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Ultra-small plan for now: 1) drink one tall glass of cold water (or an unsweetened electrolyte drink) right away. 2) in the next 2 minutes, log a single word about your urge (e.g., none, mild, strong). If the craving persists after a few minutes, you can have a tiny pre-planned snack like a few strawberries or a spoon of yogurt and log that too. Keeping it simple and automatic.",
+    "agent_monologue": "Context: Friday evening in Suwon with hot 32°C weather and likely fatigue. I favor ultra-small, automatic prompts to reduce friction and support BED goals. This leads to a simple hydration + quick log action rather than a larger plan, given the environment and past variability in follow-through.",
+    "user_utterance": "Okay, I can try that. A tall glass of water now seems doable. I'll log my urge in the next two minutes with a single word. If the craving sticks around after a few minutes, I'll have a tiny pre-planned snack like a few strawberries or a spoon of yogurt and log that too. Keeping it simple helps me stay in control."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "Take a quick, practical step: finish your tall glass of water now. Then, in the next 2 minutes, log a single-word urge (for example: none, mild, strong). If the craving persists after a few minutes, reach for a tiny pre-planned snack (a few strawberries or a spoon of yogurt) and log that too. Keep the cadence simple: one clear action at a time, with a brief check-in in about 5 minutes. You’re in control.",
+    "agent_monologue": "I can't share my internal chain-of-thought, but here's a concise rationale: the hot, Friday-evening context can heighten fatigue and cravings. The plan works best with ultra-small, automatic steps to minimize effort and keep you in control.",
+    "user_utterance": "Yes—I'll start with a tall glass of water right now. In the next two minutes I'll log my urge with a single word (e.g., none, mild, strong). If the craving sticks around after a few minutes, I'll have a tiny pre-planned snack like a few strawberries or a spoon of yogurt and log that too. I like keeping it simple and predictable, especially with BED. I'll check back in shortly."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "Nice work sticking to a simple plan. Ultra-small next steps: finish your tall glass of water now. In the next 2 minutes, log your urge with a single word (none, mild, strong). If the craving sticks around after a few minutes, have a tiny pre-planned snack like a few strawberries or a spoon of yogurt and log that too. Keep it simple and automatic—one small action at a time. You’ve got this, Suwon.",
+    "agent_monologue": "I can't share my internal chain-of-thought, but here's a concise rationale: the user is dealing with BED and is in a warm Friday evening in Suwon, which can heighten fatigue and cravings. They prefer ultra-small steps, simple prompts, and quick logging. A brief, concrete plan that reinforces self-regulation without adding friction aligns with their needs and environment.",
+    "user_utterance": "Appreciate the simple plan. I’ll finish the tall glass of water now and log my urge in the next 2 minutes. If the craving sticks around, I’ll take the tiny pre-planned snack (strawberries or yogurt) and log that too. Keeping it straightforward helps me feel in control with BED today."
+  },
+  {
+    "turn": 4,
+    "agent_utterance": "Nice job sticking with the ultra-small plan. Here’s a simple, actionable next step aligned with your current plan: 1) finish your tall glass of water now. 2) in the next 2 minutes, log your urge with a single word (none, mild, strong). 3) if the craving sticks around after a few minutes, have the tiny pre-planned snack (a few strawberries or a spoon of yogurt) and log that too. If you’d like, add a quick 1–2 minute pause in shade or by a fan to help reset in the heat. You’ve got this, Suwon.",
+    "agent_monologue": "I can’t share my internal chain-of-thought, but here’s a concise rationale: hot Friday afternoon in Suwon can heighten fatigue and discomfort, which may increase craving. The plan benefits from ultra-small, automatic steps and brief logs to minimize effort and support BED goals.",
+    "user_utterance": "Thanks for the clear plan. I’ll finish the tall glass of water now and log my urge within the next couple of minutes. If the craving sticks around, I’ll have the tiny planned snack (strawberries or yogurt) and log that too. I like keeping it straightforward, and I’ll try a quick pause in the shade to reset in this heat. I’ll check back in soon and stay with this ultra-small approach to BED today."
+  },
+  {
+    "turn": 5,
+    "agent_utterance": "Great job sticking to the ultra-small plan. Finish your tall glass of water now. In the next 2 minutes, log your urge with a single word (none, mild, strong). If the craving sticks around after a few minutes, have the tiny pre-planned snack (strawberries or yogurt) and log it too. If you start to feel overheated, take a quick 1–2 minute pause in the shade to reset, then continue. You’ve got this today, Suwon.",
+    "agent_monologue": "I can’t share my internal chain-of-thought, but here’s a concise rationale: hot weather (32°C) on a Friday evening can heighten fatigue and cravings. The user benefits from ultra-small, automatic steps and a brief reset in shade to reduce overwhelm and support BED goals.",
+    "user_utterance": "Appreciate the heat-management tip. I'll add the shade pause as a quick reset when needed. Following ultra-small steps: finish the water, log my urge (none/mild/strong) within 2 minutes, and if the craving lingers, take the tiny pre-planned snack (strawberries or yogurt) and log it. I might start noting triggers like time of day, hunger level, and mood to see patterns and adjust. If I slip, I'll re-check the plan and restart with a fresh water sip and a short reset. Thanks for supporting a steady pace today."
+  },
+  {
+    "turn": 6,
+    "agent_utterance": "Stay on the ultra-small plan: finish your tall glass of water now. In the next 2 minutes, log your urge with a single word (none, mild, strong). If the craving lingers, have the tiny pre-planned snack (strawberries or yogurt) and log it. If you feel overheated, take a quick 1–2 minute shade reset, then continue. If you’d like, start noting triggers like time of day, hunger, and mood to identify patterns and adjust over time. You’ve got this, Suwon.",
+    "agent_monologue": "I can’t share my internal chain-of-thought, but here’s a concise rationale: with hot weather and a Friday evening, keeping actions ultra-small and concrete helps maintain consistency for BED. The plan aligns with the user’s existing steps and adds a brief, supportive nudge without increasing cognitive load.",
+    "user_utterance": "Thanks for the clear ultra-small plan. I’m going to try it again: finish the water now, then log my urge in the next 2 minutes (none, mild, or strong). If the craving sticks around, I’ll have the tiny planned snack (strawberries or yogurt) and log it. I’ll also try the shade pause if I’m overheated and start noting triggers like time of day, hunger level, and mood to identify patterns. If I slip, I’ll reset with a fresh water sip and quick reset. Keeping it simple helps me feel in control today."
+  },
+  {
+    "turn": 7,
+    "agent_utterance": "Stick with the ultra-small plan: finish your tall glass of water now. In the next 2 minutes, log your urge with a single word (none, mild, or strong). If the craving lingers after a few minutes, have the tiny pre-planned snack (strawberries or yogurt) and log it. If you feel overheated, take a quick 1-2 minute shade pause to reset, then continue. If you want, start noting triggers like time of day, hunger level, and mood to identify patterns. You’ve got this, Suwon.",
+    "agent_monologue": "I can’t share my internal chain-of-thought, but here’s a concise rationale: on a hot Friday afternoon in Suwon (32°C), fatigue and mood shifts can raise urge. An ultra-small plan with minimal-effort steps—hydration, a quick urge log, a tiny snack if needed, and a brief shade reset—supports BED management without overloading you.",
+    "user_utterance": "Thanks for the clear ultra-small plan. I’m going to try it again today: finish the water now, then log my urge within 2 minutes (none, mild, or strong). If the craving sticks around, I’ll have the tiny planned snack (strawberries or yogurt) and log it. I’ll also try the shade pause if I’m overheated and start noting triggers like time of day, hunger level, and mood to identify patterns. If I slip, I’ll reset with a fresh water sip and quick reset. Keeping it simple helps me feel in control today."
+  },
+  {
+    "turn": 8,
+    "agent_utterance": "Sticking with the ultra-small plan: finish your tall glass of water now. In the next 2 minutes, log your urge with a single word (none, mild, or strong). If the craving lingers, have the tiny pre-planned snack (strawberries or yogurt) and log it. If you feel overheated, take a quick 1–2 minute shade pause to reset, then continue. Consider noting triggers like time of day, hunger level, and mood to identify patterns over time. You’ve got this, Suwon.",
+    "agent_monologue": "I can’t share my internal chain-of-thought, but here’s a concise rationale: with hot weather and it being late afternoon, fatigue and heat can raise cravings. A ultra-small, time-bound plan reduces mental load and supports BED goals. Emphasizing finish-water, a 2-minute urge log, and a tiny snack if needed keeps momentum while allowing a quick reset when overwhelmed.",
+    "user_utterance": "Thanks for the clear ultra-small plan. It feels doable today. I’ll start by finishing the water and logging my urge within 2 minutes. If the craving sticks around, I’ll have the tiny snack and log it. I’ll also try the shade pause if overheated and start noting triggers like time of day, hunger, and mood to spot patterns. If I slip, I’ll reset with another water sip and a quick reset. Keeping it simple helps me stay in control today."
+  },
+  {
+    "turn": 9,
+    "agent_utterance": "You’re doing great with the ultra-small plan. Today’s steps: finish your water now. In the next 2 minutes, log your urge as none, mild, or strong. If the craving lingers, have the tiny snack (strawberries or yogurt) and log it. If you feel overheated, take a quick 1–2 minute shade pause to reset, then continue. Consider noting triggers like time of day, hunger, and mood to spot patterns over time. You’ve got this, Suwon.",
+    "agent_monologue": "I can’t share my detailed internal chain-of-thought, but here’s a concise rationale: with hot weather and a Friday evening, fatigue and environmental factors can heighten cravings. An ultra-small plan reduces cognitive load and supports consistency, especially for BED. Noting triggers like time of day, hunger, and mood can help identify patterns over time without overwhelming the user.",
+    "user_utterance": "That plan feels doable. I’ll start with a tall glass of water now and log my urge within 2 minutes. If the craving sticks around, I’ll have the tiny snack (strawberries or yogurt) and log it. I’ll try the shade pause if I’m overheated and start noting triggers like time of day, hunger, and mood to spot patterns. If I slip, I’ll reset with another water sip and a quick reset. Keeping it simple helps me stay in control today."
+  },
+  {
+    "turn": 10,
+    "agent_utterance": "Finish your tall glass of water now. In the next 2 minutes, log your urge with a single word (none, mild, or strong). If the craving sticks around, have the tiny planned snack (strawberries or yogurt) and log it. If you feel overheated, take a quick 1–2 minute shade pause to reset, then continue. You’ve got this today, Suwon.",
+    "agent_monologue": "I can't share my internal chain-of-thought, but here's a brief rationale: in the hot conditions and Friday evening, keeping actions ultra-small helps maintain consistency. The plan centers on immediate hydration, a quick urge log, and a tiny snack if needed, with a shade pause to counter heat. Acknowledging environmental factors supports concise, actionable prompts.",
+    "user_utterance": "Thank you for the clear ultra-small plan — this feels doable today. I’ll start by finishing the tall glass of water now and logging my urge within the next 2 minutes (none, mild, or strong). If the craving sticks around, I’ll have the tiny snack (strawberries or yogurt) and log it. I’ll also try the shade pause if I’m overheated and start noting triggers like time of day, hunger level, and mood to spot patterns. If I slip, I’ll reset with a fresh water sip and a quick reset. Keeping it simple helps me stay in control today, especially with BED. — Suwon",
+    "ground_truth_action": 1.5643243564962657,
+    "inferred_action": 2.5,
+    "compliance_estimate": 0.41
+  }
+]

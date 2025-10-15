@@ -1,0 +1,7 @@
+{
+  "user_action_estimate": 3.0,
+  "compliance_estimate": 0.78,
+  "confidence": 0.65,
+  "basis": "The user consistently articulates a simple, actionable plan (water, snack, box breathing, micro-log) and even recognizes BED/irregular eating as factors. However, past behavior shows variability in follow-through on plans, especially under busy or stressful days. With S = 3.84 in the prior suggestion, a mid-range action value (3.0) reflects cautious optimism: they may implement some steps tonight but likely won't flawlessly execute all, given competing demands and prior inconsistencies.",
+  "coaching_notes": "Encourage ultra-simple, verifiable actions (e.g., pre-portioned snack already prepared, a one-line log committed to a fixed place/time). Use reminders or brief check-ins (e.g., a 2pm nudge) and reduce decision fatigue by pre-placing supplies. Emphasize progress over perfection and offer flexible “if-then” prompts (If stressed, then 2-minute breathing and 1-sentence log). Provide supportive accountability without judgment to improve adherence over time."
+}

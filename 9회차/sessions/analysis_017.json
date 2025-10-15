@@ -1,0 +1,7 @@
+{
+  "user_action_estimate": 3.0,
+  "compliance_estimate": 0.48,
+  "confidence": 0.65,
+  "basis": "The user explicitly commits to a single daily reminder window and two-part checks, mentions weekend flexibility, and acknowledges anxiety about consistency. This shows a moderate level of intent to act but with acknowledged barriers and a history (in this conversation) of planning without clear evidence of execution. Using a simple linear mapping consistent with prior example (2.5 -> 0.4) yields about 0.48 for a 3.0 action level. The S value (2.63) is treated as a contextual normalization factor rather than changing the qualitative assessment.",
+  "coaching_notes": "The user tends toward cautious engagement with a plan and may struggle with consistency. Encourage small, trackable wins (e.g., one reminder per day for a week, quick log) and provide easy one-tap actions. Remind them to report back even if they miss a day, normalize slips, and offer supportive language to reduce self-criticism. Consider setting very low-friction reminders and periodic check-ins to sustain momentum."
+}

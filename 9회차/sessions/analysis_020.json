@@ -1,0 +1,7 @@
+{
+  "user_action_estimate": 4.0,
+  "compliance_estimate": 0.58,
+  "confidence": 0.62,
+  "basis": "The user demonstrates strong planning and a proactive stance (6:15 PM ± 30 minutes, water, 60s breathing, Calm template, urge-triggers notes, micro-log option, backup after-meal log, daily/weekly reviews). They repeatedly acknowledge flexibility and willingness to adapt, which suggests action is likely tonight and across the two-week window. However, BED variability and past unobserved behavior introduce some uncertainty, so action is unlikely to be perfect but reasonably probable.",
+  "coaching_notes": "Leverage tonight's sample log prompt to increase accountability. Encourage short, concrete nightly goals (e.g., complete steps 1–4). Provide a quick post-log check-in to address any hiccups (e.g., social events, fatigue). Reinforce use of the flexible window and micro-log to maintain momentum. Consider a brief mid-plan check-in to adjust templates or timing if patterns emerge."
+}

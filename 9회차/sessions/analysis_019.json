@@ -1,0 +1,7 @@
+{
+  "user_action_estimate": 2.5,
+  "compliance_estimate": 0.4,
+  "confidence": 0.75,
+  "basis": "The user articulates a detailed plan (6:00 pm logs, midweek and Sunday checks, pre-log check-in, post-log celebration, 60-second breathing) and intends to test reminders for two weeks. However, prior interactions show a tendency to verbalize intentions without consistent follow-through, and there’s no confirmed logs yet. Thus, a modest action value (2.5) with a relatively low compliance estimate (0.4) aligns with cautious realism.",
+  "coaching_notes": "To boost follow-through, implement concrete anchors (e.g., tie logging to a fixed routine like after dinner or after a shower), use precise calendar reminders with the exact log text, and add a small immediate reward after logging. Schedule a brief check-in after the first week to assess barriers (time, forgetfulness, mood labeling). If missed days occur, have a rapid re-commit plan for the next available log. Track adoption of the pre-log check-in and post-log celebration separately to identify which components drive consistency."
+}

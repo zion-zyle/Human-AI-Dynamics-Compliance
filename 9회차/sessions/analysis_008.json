@@ -1,0 +1,7 @@
+{
+  "user_action_estimate": 3.0,
+  "compliance_estimate": 0.27,
+  "confidence": 0.72,
+  "basis": "The user presents a concrete, immediate plan (start now, have fruit if still hungry, log with one tap) and states intent to share outcomes. However, their history with BED and irregular eating suggests adherence has been variable, so a mid-range action value (around 3.0) is prudent rather than assuming full compliance.",
+  "coaching_notes": "Encourage immediate micro-commitments (e.g., log right after completing the glass of water) and small, single-step checks. Explore barriers that might derail execution (hot weather, cravings, BED triggers) and offer practical tweaks (set a timer, place fruit within sight, use a simple reminder). Consider accountability prompts and a quick post-action reflection to reinforce follow-through."
+}

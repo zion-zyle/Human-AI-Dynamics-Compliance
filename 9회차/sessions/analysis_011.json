@@ -1,0 +1,7 @@
+{
+  "user_action_estimate": 3.0,
+  "compliance_estimate": 0.65,
+  "confidence": 0.65,
+  "basis": "The user expresses clear, concrete intent to test the system for a week, keep the defined defaults, and rely on gentle, non-judgmental prompts. This aligns with moderate engagement based on their explicit plan and history of thorough setup, but without prior data on actual follow-through in this exact context, a middle-ground estimate is prudent. The proximity of the planned reminders to their preferred windows (10–11, 15–16, 19–21) and the explicit intent to log retroactively suggest usable adherence, though BED-related challenges can introduce variability.",
+  "coaching_notes": "Encourage a 1-week trial with explicit micro-commitments (e.g., log within 1 hour of eating, complete post-window check-in after each eating window). Plan for travel/social day templates later, but keep current defaults intact. Reinforce non-judgmental language and a clear escalation path if urges intensify (e.g., reach out for support, adjust prompts gradually). Monitor for early signals of drift (missed windows, delayed logging) and offer a streamlined batch logging option to minimize guilt. If adherence lags, consider shortening retroactive window or adding a brief accountability check-in mid-week."
+}

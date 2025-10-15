@@ -1,0 +1,7 @@
+{
+  "user_action_estimate": 2.5,
+  "compliance_estimate": 0.36,
+  "confidence": 0.62,
+  "basis": "The user repeats planning language and explicit backups but has not demonstrated consistent follow-through in this conversation yet. With no strong signal of past adherence, a mid-low action estimate (2.5/5) is prudent. Compliance is estimated by correlating predicted action with the prior suggestion (S = 3.59): normalized action (2.5/5) × normalized suggestion (3.59/5) ≈ 0.36.",
+  "coaching_notes": "The user shows thoughtful, non-punitive planning and readiness but may still struggle with follow-through. Suggestions: shorten to concrete, testable micro-goals (e.g., 'tonight I will drink 250 ml of water now' and log whether I did it), add a reminder or accountability check (phone ping at a set time), and pre-load backups in easily accessible places. Continue framing around BED-supportive language and heat considerations; offer quick prompts to reassess barriers if tonight doesn’t go as planned."
+}

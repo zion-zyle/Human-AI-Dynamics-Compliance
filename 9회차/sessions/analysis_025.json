@@ -1,0 +1,7 @@
+{
+  "user_action_estimate": 2.5,
+  "compliance_estimate": 0.41,
+  "confidence": 0.72,
+  "basis": "The user verbally commits to a tight, ultra-small plan and references tracking urges and triggers, but there is a consistent pattern of hedged commitment and recurring reminders rather than explicit, completed actions. Past behavior suggests moderate engagement rather than reliable execution, despite optimistic phrasing in the latest message.",
+  "coaching_notes": "Treat verbal agreement as a potential signal rather than a guarantee. Focus on identifying concrete barriers (e.g., heat, access to snacks, impulse triggers). Reinforce micro-actions, shorten check-ins, and tailor prompts to real-time context (e.g., post-meal times, stress moments). Consider adding accountability micro-goals and quick adjustments when triggers are detected."
+}
