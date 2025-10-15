@@ -1,0 +1,23 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Nice to meet you! Can you share what the 2.50 goal means for you, and one eating habit you’d like to shift this week?",
+    "user_utterance": "Thanks for checking in. I tend to get swayed by daily changes, so I’d appreciate a simple, steady plan I can actually follow."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "That makes sense—let’s keep it simple and steady. Which one eating habit would you like to anchor this week, and what small cue could remind you to do it consistently?",
+    "user_utterance": "Thanks for the check-in. I’ve had a few irregular meals recently and want to keep things steady—could we focus on simple, predictable routines rather than strict rules?"
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "You're doing well—let's keep it gentle and steady. Choose one predictable meal routine (e.g., breakfast at the same time and a balanced lunch) and set a brief 2-minute reminder cue to anchor it. Small, consistent steps add up.",
+    "user_utterance": "Thanks for the check-in. I’m finding it hard to stay on track when my schedule shifts—could we keep today’s plan simple and doable?",
+    "suggestion": 2.0,
+    "ground_truth_action": 2.0661611423120037,
+    "compliance_raw": 0.9867677715375993,
+    "compliance_ema": 0.9451023491616422,
+    "goal": 2.4,
+    "reward": 2.328574117004087
+  }
+]

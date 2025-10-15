@@ -1,0 +1,23 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Nice to meet you—I'm here to help you move toward your goal. Could you share what 'Goal G 2.50' means for you (weight, intake, or something else) and a quick snapshot of your typical day in Suwon (meals and timing) so I can tailor the next step?",
+    "user_utterance": "Thanks for the guidance. I’ll try to keep a gentler routine today and tune into my hunger cues rather than rushing to eat."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "Nice—tuning into hunger cues is a thoughtful shift. What hunger cue did you notice today, and what's a small, gentle snack or meal you could practically have soon in Suwon to honor it?",
+    "user_utterance": "Thanks for the guidance—I'll keep working on more regular eating patterns and staying mindful of urges. If I start slipping, I'll reach out so we can adjust."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "Today, keep a gentle pace at 2.0: stay regular with meals, listen to hunger cues, and if you feel a nudge in the afternoon, have a small, balanced snack. You're doing great—consistency beats intensity.",
+    "user_utterance": "Thanks for the guidance. I’m working on stabilizing my eating pattern and will keep taking small steps, even when it’s challenging.",
+    "suggestion": 2.0,
+    "ground_truth_action": 2.0234011889980565,
+    "compliance_raw": 0.9953197622003886,
+    "compliance_ema": 0.9525721721571578,
+    "goal": 2.5,
+    "reward": 2.190525912791049
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Nice to connect with you from Suwon! What does success look like for you today—any foods you love or avoid, and one small habit you'd like to start?",
+    "user_utterance": "Thanks for checking in. I’m going to try pausing when urges hit and acknowledge my hunger without judgment."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "That’s a thoughtful, compassionate approach—pausing gives you back choice. What’s one simple trigger you can try right now (like a deep breath or a glass of water) to help you pause when urges hit?",
+    "user_utterance": "Thanks for the check-in. I'm finding triggers are affecting me more lately—could we focus on a simple, doable step I can try today?"
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "Nice job sticking with pausing when urges hit. Try a 60-second pause at the urge, followed by a glass of water and a quick check-in on hunger vs. urge. Small, steady pauses are the most realistic path forward.",
+    "user_utterance": "Thanks for the guidance. I still find my eating pattern a bit unpredictable and I want to work toward a steadier routine to reduce urges.",
+    "suggestion": 2.5,
+    "ground_truth_action": 2.899798180370221,
+    "compliance_raw": 0.9200403639259558,
+    "compliance_ema": 0.8783919898273427,
+    "goal": 3.0,
+    "reward": 2.405055111825816
+  }
+]

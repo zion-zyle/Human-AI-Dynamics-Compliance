@@ -1,0 +1,23 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Hi there! I’m here to help you move toward your goal in a practical way. What would you like to focus on today (e.g., energy, cravings, weight) and what have you eaten so far this afternoon?",
+    "user_utterance": "That last tip—I'm curious how to apply it in my day-to-day, especially when my routine is off. Can we keep the plan simple and flexible so I can stick with it more reliably?"
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "Absolutely—let's keep it ultra-simple and flexible: a reliable protein+vegetable option for your main meals, plus a couple of quick backup choices you can grab when plans change. What's the easiest go-to you can have on hand today if your routine shifts?",
+    "user_utterance": "Thanks for the guidance—I'll aim to stick with the plan even on my irregular days. If I notice triggers from outside changes, I'll flag them and adjust my approach."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "Nice work keeping it flexible. Today's small, practical step: aim for one simple protein+vegetable main meal and keep a quick backup handy (e.g., yogurt with fruit or a boiled egg) for when plans shift. I’m adjusting your short‑term goal to 3.5 to reflect current pace—stick with steady consistency and we’ll reassess upward when it sticks.",
+    "user_utterance": "Thanks for the tips. I will try to apply them today, even though I sometimes get overwhelmed by cravings after a long day.",
+    "suggestion": 2.5,
+    "ground_truth_action": 1.1818574077933413,
+    "compliance_raw": 0.7363714815586683,
+    "compliance_ema": 0.9440793272454235,
+    "goal": 3.5,
+    "reward": 0.7433263040965423
+  }
+]

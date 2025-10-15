@@ -1,0 +1,23 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Great to connect! Could you share a quick snapshot of your typical meals today and any foods you love or want to avoid to help tailor something practical?",
+    "user_utterance": "Thanks for the guidance today. I’m noticing I get pulled by external cues and want simple, steady steps to navigate cravings without feeling overwhelmed."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "That makes sense—let's keep it ultra-simple by identifying your top craving cues (what situation or feeling tends to trigger you) and choosing a tiny, repeatable alternative you can try next time. Which cue tends to drive cravings most for you today?",
+    "user_utterance": "Thanks for the check-in. I'm hoping to stay consistent today—could you share some quick tips for managing cravings when they pop up?"
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "Nice progress. Try a 2.0-step for cravings: pause when cravings hit, drink a glass of water, and do a quick 2-minute distraction (a short walk or slow breathing) before deciding. Small, repeatable actions add up and keep you in control.",
+    "user_utterance": "Thanks for the guidance. I'm noticing some cravings today but I'll focus on small, steady steps and reach out if I need support.",
+    "suggestion": 2.0,
+    "ground_truth_action": 1.8987603129605348,
+    "compliance_raw": 0.979752062592107,
+    "compliance_ema": 0.9137054950851656,
+    "goal": 2.0,
+    "reward": 2.4644563715429566
+  }
+]

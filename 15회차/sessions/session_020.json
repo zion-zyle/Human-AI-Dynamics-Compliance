@@ -1,0 +1,23 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Great to connect. What's your main goal right now, and what's one small habit you feel you can start this week in Suwon to move toward it?",
+    "user_utterance": "Thanks for checking in. My eating feels a bit irregular lately, and I’d appreciate simple, practical steps to stay calmer and follow a plan that fits my day."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "That makes sense—let’s keep it simple. What's one reliable moment in your Suwon day where you can pause for a breath and choose a steady option before your next meal?",
+    "user_utterance": "Thanks for the check-in. Cravings are challenging today, but I'll try to keep a simple, regular routine and pause before eating to ride out urges."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "Nice work staying engaged. Try a 5-minute pause before your next meal or snack to ride out cravings in Suwon today, then choose a steady option like water and a small fruit. This gentle, regular step can help you feel calmer and more in control.",
+    "user_utterance": "Thanks for the check-in. I'm noticing evening cravings and I want to stay steady by sticking to regular meals and using a quick grounding routine when urges show up.",
+    "suggestion": 2.0,
+    "ground_truth_action": 2.1018482649481025,
+    "compliance_raw": 0.9796303470103795,
+    "compliance_ema": 0.9429455998361509,
+    "goal": 1.8,
+    "reward": 2.3490030213868947
+  }
+]

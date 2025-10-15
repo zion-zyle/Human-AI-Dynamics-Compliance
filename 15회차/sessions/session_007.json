@@ -1,0 +1,23 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "좋아요—현재 목표가 2.50이고 Suwon에서 오후 3시 15분인 상황을 고려해, 오늘 식단에서 가장 큰 고민은 무엇이고 집에 어떤 재료가 남아 있는지 간단히 알려주실 수 있을까요?",
+    "user_utterance": "Thanks for the check-in. I'm noticing some urges lately, but I'm trying to stay with the plan and keep things steady."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "좋아요, 충동이 들 때의 상황을 간단히 알려주실 수 있을까요? 그 정보를 바탕으로 지금 당길 때 바로 적용할 수 있는 작은 대안 하나를 함께 찾아볼게요.",
+    "user_utterance": "Thanks for the check-in. I felt a few intense cravings this evening, but I’m trying to ride them out and stay aligned with my plan."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "오늘은 2.0 수준의 작은 대안으로 시작해 보세요. 예: 물 한 잔, 5분 산책, 4-4-4 심호흡 등. 필요하다면 목표를 2.0으로 약간 낮춰 집중력을 유지하는 것도 도움이 됩니다. 계속 잘 하고 있어요.",
+    "user_utterance": "Thanks for the guidance—I'm noticing evenings are tough with irregular meals. I’d appreciate practical tips to stay steady and prevent urges.",
+    "suggestion": 2.0,
+    "ground_truth_action": 2.0096652034241873,
+    "compliance_raw": 0.9980669593151625,
+    "compliance_ema": 0.9616711295887588,
+    "goal": 2.0,
+    "reward": 2.497926841624046
+  }
+]

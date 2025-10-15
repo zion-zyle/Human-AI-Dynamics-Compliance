@@ -1,0 +1,23 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Great to connect from Suwon this afternoon—what's one small change you're willing to try today to move toward your goal?",
+    "user_utterance": "Thanks for the check-in. I’m noticing some urges today and I’m practicing pausing and sticking to my routine instead of acting on impulse."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "Nice job pausing and sticking to your routine—that's real progress with urges. What's one tiny adjustment you could try in the next hour to reinforce that pause and keep you on track?",
+    "user_utterance": "Thanks for the check-in. I’ll try to keep a steadier routine today and listen more to my hunger cues."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "You're doing great—today aim for a 2-minute pause before deciding on a snack or meal, then check hunger cues before acting. I’ve updated your goal to 2.0 to keep it attainable with your current pace.",
+    "user_utterance": "Thanks for the check-in. I am noticing evening cravings and irregular meals are tough for me, but I want to pause and use the coping strategies you've suggested.",
+    "suggestion": 2.0,
+    "ground_truth_action": 2.093269796153747,
+    "compliance_raw": 0.9813460407692506,
+    "compliance_ema": 0.9516457006503314,
+    "goal": 2.0,
+    "reward": 2.4683537520077996
+  }
+]

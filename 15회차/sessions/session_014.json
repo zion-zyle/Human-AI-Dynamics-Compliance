@@ -1,0 +1,23 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Nice to meet you! What's one meal or snack you enjoy today and what's been the biggest hurdle around eating well lately?",
+    "user_utterance": "Thanks for the guidance — I had a few tough urges this week and felt a bit overwhelmed. Could we adjust things to be gentler on days I’m struggling and focus on small, doable steps?"
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "Absolutely—let’s keep it gentle and pick a single tiny, doable step for today. What’s one small change that feels easiest for you right now (e.g., a quick snack or a glass of water before your next meal)?",
+    "user_utterance": "Thanks for the guidance. I sometimes struggle with cravings and would appreciate a simple, steady routine I can follow today."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "Today's tiny step: drink a glass of water before your next meal or snack, then pause for 2–3 minutes before deciding. This keeps things gentle and doable on tough days. You’re doing great—I’m here to support you.",
+    "user_utterance": "Thanks for the check-in. I'm noticing my meals are still irregular, and I would love practical steps to create a steadier routine without triggering binge urges.",
+    "suggestion": 2.0,
+    "ground_truth_action": 1.9991869850948287,
+    "compliance_raw": 0.9998373970189658,
+    "compliance_ema": 0.9026810712656674,
+    "goal": 2.5,
+    "reward": 2.1670884210955195
+  }
+]

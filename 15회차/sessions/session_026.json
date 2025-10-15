@@ -1,0 +1,23 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Nice to meet you! What's one small, doable change you'd like to try today to move toward your goal, considering your day in Suwon?",
+    "user_utterance": "Thanks for the check-in. I’ll focus on keeping a steadier routine around meals today and reach out if cravings feel overwhelming."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "Nice job prioritizing a steadier meal routine today in Suwon. What small cue or ritual can you set up before your next meal to help you stay on track if cravings pop up?",
+    "user_utterance": "Appreciate the support—I'm glad to keep showing up. Today I'll stay mindful of triggers and aim for small, steady steps."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "Nice steady focus on meals today. Aim for balanced portions at each meal with regular timing. If cravings pop up, take a 5-breath pause and refocus on your plan. You’re doing great—keep nudging toward consistency.",
+    "user_utterance": "Thanks for checking in. Cravings and irregular meals can be tough for me, but I’m aiming for small, steady steps and to stay with my routine.",
+    "suggestion": 2.3,
+    "ground_truth_action": 2.8953609352362157,
+    "compliance_raw": 0.8809278129527568,
+    "compliance_ema": 0.9375021231108166,
+    "goal": 2.4,
+    "reward": 2.0545356809149173
+  }
+]

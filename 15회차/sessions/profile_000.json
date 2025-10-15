@@ -1,0 +1,23 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Hi there—what does Goal 4.00 mean for you today? How is your hunger and energy after lunch, and what simple next step would feel doable right now?",
+    "user_utterance": "Thanks for checking in. I still struggle with binge urges, especially in the evenings when things feel unsettled."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "That sounds really tough—evenings can spark binge urges when things feel unsettled. Would you like to identify tonight's main trigger and try one tiny non-food coping step (like a short walk or a simple breathing check) to see what helps, so we can start shaping a steadier routine?",
+    "user_utterance": "I’m ready for guidance, but I’m dealing with irregular eating lately. Let’s keep tips flexible and easy to fit into my day."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "Tonight, try a tiny non-food coping step: a 5-minute breathing check (box breathing) and, if possible, a short 5-minute walk after dinner. This easy, non-food reset can help reduce evening binge urges. I've adjusted your goal to 3.5 for now to keep it doable.",
+    "user_utterance": "Thanks for the guidance. I’ll aim to start with small, doable steps today and check back on how it feels.",
+    "suggestion": 2.0,
+    "ground_truth_action": 2.0199685566644394,
+    "compliance_raw": 0.9960062886671122,
+    "compliance_ema": 0.9960062886671122,
+    "goal": 4.0,
+    "reward": 1.0257523244016695
+  }
+]

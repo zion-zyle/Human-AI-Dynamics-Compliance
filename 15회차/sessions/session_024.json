@@ -1,0 +1,23 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Nice to meet you. What does the 2.30 goal represent for you today, and what's the first part of your day you'd like help with in your meals?",
+    "user_utterance": "Thanks for checking in. I find my eating feels more out of control on irregular days, and I’d like to focus on small routines to help me ride through those moments."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "Totally get that—irregular days make routines feel harder, so small, steady defaults can anchor you. What's the moment you notice cravings today, and what's one simple pause you could try right then (like a drink of water, a brief stretch, or stepping away) to ride it out?",
+    "user_utterance": "I appreciate the guidance—I'm noticing some progress, but irregular meals and late-evening cravings still challenge me with binge urges. I’d like help with simple, reliable routines and practical coping steps I can use when cravings hit."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "When cravings hit, use a single, repeatable anchor: drink a glass of water, do a 2-minute stretch, or take a 5-minute walk. Do one immediately at the urge to ride out irregular-day and late-evening cravings.",
+    "user_utterance": "I'm noticing urges still pop up, especially as the day drags on, but I’m glad for the guidance and I’ll try a quick grounding technique and a small, intentional snack.",
+    "suggestion": 2.5,
+    "ground_truth_action": 1.9881304598630083,
+    "compliance_raw": 0.8976260919726017,
+    "compliance_ema": 0.9442206156206014,
+    "goal": 2.5,
+    "reward": 2.0518805930752264
+  }
+]

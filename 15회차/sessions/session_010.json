@@ -1,0 +1,23 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Nice to meet you—I'm here to help you move toward your goal. Could you share what 'Goal G: 2.75' means for you today, and what's one small, doable step you want to try this afternoon here in Suwon?",
+    "user_utterance": "Thanks for the guidance. I’m noticing urges and irregular meals when I’m stressed, so I’ll try to pause, use my coping plan, and reach out if I feel overwhelmed."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "That’s a thoughtful, practical plan—pausing and reaching out when stressed is a strong start. What’s one tiny, doable step you can try in the next hour here in Suwon to implement your coping plan?",
+    "user_utterance": "Thanks for checking in. I’m aiming to stay consistent, but urges still show up, so I’d appreciate a simple, doable plan I can follow today."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "You're doing well—try a 2-minute pause when urges hit, use your coping plan, and reach out if it feels overwhelming. This steady, doable step supports your momentum today in Suwon.",
+    "user_utterance": "Thanks for checking in. Today I felt the urge flare up after a stressful moment, but I want to keep things gentle and stick with my simple, steady routine.",
+    "suggestion": 3.0,
+    "ground_truth_action": 1.0,
+    "compliance_raw": 0.6,
+    "compliance_ema": 0.8458728791474422,
+    "goal": 3.0,
+    "reward": 0.6274734583331012
+  }
+]

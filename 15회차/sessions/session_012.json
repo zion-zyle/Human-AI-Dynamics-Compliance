@@ -1,0 +1,23 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Nice to meet you—what does a typical afternoon meal look like for you in Suwon? What small adjustment would feel doable today to move toward your goal?",
+    "user_utterance": "Thanks for checking in. My eating still feels a bit irregular, and I could use some simple strategies to manage cravings and avoid binge urges when I’m stressed."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "Thanks for sharing—what typically triggers cravings when you’re stressed, and would you be open to trying one tiny reset (a quick 5-breath pause and a glass of water) the next time you feel an urge?",
+    "user_utterance": "Today was tough with cravings flaring up after dinner. I’d like some quick strategies to pause and redirect before I binge."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "Nice work staying aware of cravings. Try a tiny reset now: take a 60-second slow-breath pause (4-4-4), drink a glass of water, then check your urge level before eating. Small, doable steps add up.",
+    "user_utterance": "Thanks for the check-in. I'm finding it hard to stick to a routine right now, but I’m open to small, doable changes to help manage urges.",
+    "suggestion": 2.5,
+    "ground_truth_action": 2.2166474323801473,
+    "compliance_raw": 0.9433294864760294,
+    "compliance_ema": 0.8679798963026893,
+    "goal": 3.0,
+    "reward": 1.7553934760036292
+  }
+]

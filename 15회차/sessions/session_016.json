@@ -1,0 +1,23 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Hi from Suwon! What's one small change you want to try today that could move you toward your goal, such as a snack swap or a quick, balanced meal?",
+    "user_utterance": "Thanks for the guidance. Cravings and irregular meals can be tough, but I will do my best to stay consistent."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "That’s a solid intention—what usually triggers your cravings or irregular meals, and what’s a small, doable swap you could try to keep you on track?",
+    "user_utterance": "Thanks for the plan. I notice my eating feels a bit off lately, and I would like to focus on keeping a simple, predictable routine today."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "You're doing well—let's build on momentum with a small, concrete swap today: around 3:30 PM, choose a balanced snack (for example, apple with yogurt or a small handful of nuts) and a glass of water to keep your routine simple and steady.",
+    "user_utterance": "Thanks for the tips. I'm noticing how external cues affect me, and I'll aim to stay steady today even when snacks are tempting.",
+    "suggestion": 2.5,
+    "ground_truth_action": 1.7779874473486839,
+    "compliance_raw": 0.8555974894697368,
+    "compliance_ema": 0.8971938532084303,
+    "goal": 2.2,
+    "reward": 2.1108923749747848
+  }
+]

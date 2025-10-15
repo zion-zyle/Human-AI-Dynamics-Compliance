@@ -1,0 +1,23 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Hi there! What does your 2.00 goal represent for you today, and would you like a quick, local-friendly snack idea for this afternoon in Suwon?",
+    "user_utterance": "Thanks for the check-in. I'm noticing some fluctuations in my meals and want to keep things simple today with easier, regular meals and a quick plan for cravings."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "Sounds good—let’s keep today simple with a repeatable, protein-friendly meal trio and a quick craving hack. What craving are you facing now, and what foods are easy to grab in Suwon?",
+    "user_utterance": "Thanks for the guidance. I notice I get thrown off on stressful days and tend to snack more; could we focus on simple, steady routines that resist those triggers?"
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "Keep today simple with a protein-forward meal trio and a craving plan: include protein at each meal, add a portable protein snack for cravings, and pause with a quick 2-minute breathing exercise before reaching for snacks. This steady routine fits your Suwon context and supports consistency on stressful days.",
+    "user_utterance": "Thanks for the guidance—some days feel easier than others, and I want to keep building steadier eating patterns. I would appreciate simple, calm steps to stay on track without feeling overwhelmed.",
+    "suggestion": 2.3,
+    "ground_truth_action": 2.202087193034847,
+    "compliance_raw": 0.9804174386069694,
+    "compliance_ema": 0.9584436271707815,
+    "goal": 2.0,
+    "reward": 2.420392614562376
+  }
+]

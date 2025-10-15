@@ -1,0 +1,23 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Nice to meet you! Could you share your current weight, your target, and any foods you love or avoid so I can tailor today's approach?",
+    "user_utterance": "Thanks for checking in. I’ll focus on grounding myself before meals and sticking to a regular routine today, especially when urges start to rise."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "That sounds like a solid grounding plan before meals. Want a quick 1-minute pre-meal check-in (breath + hunger scan) you can use today, and is there a particular urge you're most worried about?",
+    "user_utterance": "Thanks for checking in. I’m going to focus on small, doable steps today and tune in to my hunger and emotions without judgment."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "Nice progress today. Your recent actions show a gentle upward trend, so a small, steady target around 2.0 feels doable. Keep the pre-meal grounding, tune into hunger, and take one small actionable step at a time.",
+    "user_utterance": "Thanks for checking in. I’ve been struggling to keep regular meals and the urge to binge after long gaps feels strong—could we focus on simple, practical steps I can start today to manage it?",
+    "suggestion": 2.0,
+    "ground_truth_action": 2.035157638929659,
+    "compliance_raw": 0.9929684722140683,
+    "compliance_ema": 0.9529501743117343,
+    "goal": 2.0,
+    "reward": 2.49111552826188
+  }
+]

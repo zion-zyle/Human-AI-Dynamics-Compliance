@@ -1,0 +1,23 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Nice to meet you! What does your current goal (G=2.00) mean for you today, and are there any foods or meal times in Suwon that I should consider to help you move forward?",
+    "user_utterance": "Thanks for the guidance today. I’m noticing some progress, but the urge to binge still comes up—I'll stay with the plan and reach out if I need extra strategies."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "You're doing great—urge waves are a common part of progress. What tends to trigger the binge urge for you today, and what's one small, alternative strategy you might try right after noticing it?",
+    "user_utterance": "Thanks for the check-in. I’m focusing on keeping regular meals and using my coping strategies when cravings hit, even if I wobble sometimes."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "Nice progress today. Your recent actions show an upward trend and you’re sticking with regular meals and coping strategies. I’m nudging your daily target to 2.3 today. Keep it small and steady—if cravings hit, use your coping plan and reach out for support.",
+    "user_utterance": "Thanks for the guidance. I noticed today's stress sparked cravings, so I'll lean on my routine and reach out when cravings spike.",
+    "suggestion": 2.3,
+    "ground_truth_action": 2.5721413801006006,
+    "compliance_raw": 0.9455717239798799,
+    "compliance_ema": 0.9558692465326012,
+    "goal": 2.3,
+    "reward": 2.3384943903151623
+  }
+]

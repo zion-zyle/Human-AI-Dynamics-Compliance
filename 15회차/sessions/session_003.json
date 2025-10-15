@@ -1,0 +1,23 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Nice to meet you—could you share what Goal G 3.00 means for you today, and any foods or meal times you prefer or want to avoid with your Suwon routine?",
+    "user_utterance": "Thanks for the guidance. I will try to stay consistent today and tune into my urges so I can respond calmly rather than snap to old habits."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "Great job tuning into your urges—that awareness is a solid start. What tends to trip you up around this time, and what's one easy, calming choice you could make in the next hour here in Suwon?",
+    "user_utterance": "Thanks for the guidance. I might feel urges today, but I'll try to stay with the plan and use a quick mindful pause if cravings come up."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "Nice work staying mindful today. Given your recent actions, nudging your goal to 2.5 is a gentle, realistic shift—focus on one small calming choice in the next hour to stay on track.",
+    "user_utterance": "Thanks for the latest guidance. I'm finding it a bit hard to stay consistent with changes right now, but I want to keep trying and notice what helps avoid binge triggers.",
+    "suggestion": 2.5,
+    "ground_truth_action": 2.1062175044356057,
+    "compliance_raw": 0.9212435008871211,
+    "compliance_ema": 0.9346859935676528,
+    "goal": 2.5,
+    "reward": 2.205783214037416
+  }
+]

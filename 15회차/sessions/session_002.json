@@ -1,0 +1,23 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Nice work—what does G 3.50 represent for you? What's one small, doable change you want to try today to move toward that goal?",
+    "user_utterance": "Thanks for checking in. I'm dealing with cravings today and want to stick to a calmer routine and the plan."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "Cravings can be a signal for a calm reset—what's one tiny, soothing action you can try right now (water, a quick walk, or a short breathing break) to stay on track?",
+    "user_utterance": "Thanks for the guidance—I'm trying to apply it, but I still get strong urges in the evenings. Could we talk through practical ways to manage cravings when I'm stressed?"
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "You’re handling cravings thoughtfully. For today, try a moderate calm reset: 5 minutes of slow, diaphragmatic breathing, a glass of water, and a 10-minute gentle walk or stretch. If evenings bring a stronger urge, repeat this quick reset. I’ve updated your goal to 3.0 to keep things steady and achievable right now.",
+    "user_utterance": "Thanks for the guidance. I still struggle with irregular meals and cravings when plans change, but I'll try to stick with the approach and reach out when I need help.",
+    "suggestion": 3.0,
+    "ground_truth_action": 2.5695788735361713,
+    "compliance_raw": 0.9139157747072343,
+    "compliance_ema": 0.9380466167377857,
+    "goal": 3.0,
+    "reward": 2.160245187923224
+  }
+]

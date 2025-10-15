@@ -1,0 +1,23 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Nice to meet you—what's one dietary change you'd like to focus on today to support your goal, and are there any foods you want to include or avoid?",
+    "user_utterance": "I’m still dealing with irregular meals and binge urges, especially in the evenings. I’d appreciate practical, small steps I can actually follow to stay more consistent."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "That makes sense—let's start with one tiny evening change: set a calm cue and have one satisfying non-binge option ready. What's the main trigger you noticed, and which easy step could you try tonight?",
+    "user_utterance": "Thanks for the check-in. I'll stay gentle with my eating pattern and use the coping strategies we covered to handle cravings when they come up."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "Great consistency so far. Tonight, try one small evening habit: set a brief calm cue (e.g., 5 minutes of deep breathing or a relaxing activity) and have one satisfying non-binge option ready. If cravings hit, use the cue and follow your prepared plan—steady steps add up.",
+    "user_utterance": "Thanks for the check-in. I'll keep focusing on regular meals and using your coping strategies when cravings come up.",
+    "suggestion": 2.5,
+    "ground_truth_action": 1.8004771294503312,
+    "compliance_raw": 0.8600954258900663,
+    "compliance_ema": 0.9413559888490203,
+    "goal": 2.5,
+    "reward": 1.7796488472875076
+  }
+]

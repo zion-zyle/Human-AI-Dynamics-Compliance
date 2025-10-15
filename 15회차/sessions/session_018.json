@@ -1,0 +1,23 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Nice to meet you! What's a typical day for you in Suwon right now, and what's one small change you'd like to try this week to move toward your goal?",
+    "user_utterance": "Thanks for checking in. I do notice cravings at certain times, and I'll focus on keeping a steadier eating pattern and reaching out when it gets tough."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "Totally doable—cravings often ride along with specific moments. Which times or situations challenge you most this week, and would trying a quick non-food tactic (like water, a short walk, or a check-in with someone) help you ride them out?",
+    "user_utterance": "Thanks for the check-in. Some days cravings feel strong, and I could use a gentle, simple plan to stay on track without feeling overwhelmed."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "Nice work staying steady. To help with cravings without feeling overwhelmed, try one small non-food tactic right when cravings start: pause for 1–2 minutes and choose one option (drink a glass of water, take a 5-minute walk, or text a supportive friend) before you eat. Do this consistently for a few days to help keep meals regular.",
+    "user_utterance": "Thanks for checking in. I want to stabilize my eating pattern even when things feel unsettled, and I’ll keep focusing on following your guidance more consistently.",
+    "suggestion": 2.0,
+    "ground_truth_action": 1.8843228668529648,
+    "compliance_raw": 0.976864573370593,
+    "compliance_ema": 0.9263373107422512,
+    "goal": 2.0,
+    "reward": 2.4569264700394355
+  }
+]

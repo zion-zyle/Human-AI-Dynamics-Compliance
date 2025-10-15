@@ -1,0 +1,23 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Hi there! To move forward, could you tell me what your 'Current Goal G: 3.00' means for you, and would you prefer something quick today or a small, balanced meal?",
+    "user_utterance": "Thanks for checking in. Cravings have been tough lately, and I could use some quick, supportive tips to stay on track."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "Cravings often signal hunger or emotion—pause briefly to check which it is and respond accordingly; if you're hungry, grab a simple protein snack (like yogurt or nuts), or if you're stressed, try a brief breathing reset. Which craving has been strongest for you today so I can tailor a tiny, doable tip?",
+    "user_utterance": "Thank you for checking in. Cravings still feel unpredictable, but I want to keep pausing and using simple strategies before meals."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "You're doing great—try a quick 2-minute pause, then reach for a small protein snack (yogurt, nuts) plus water. Check your hunger on a 0–10 scale, and use a brief 2-minute breathing reset if cravings feel emotional.",
+    "user_utterance": "Thanks for the guidance today. I’ll try to keep things simple and pause when cravings hit, so I don’t rush into a binge.",
+    "suggestion": 2.5,
+    "ground_truth_action": 1.8111048860350092,
+    "compliance_raw": 0.8622209772070019,
+    "compliance_ema": 0.8491424987593543,
+    "goal": 3.0,
+    "reward": 1.2271667573812728
+  }
+]

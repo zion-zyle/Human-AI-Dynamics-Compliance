@@ -1,0 +1,23 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Hi there! What does 'Current Goal G: 2.00' mean for you today, and what's one small change I can help you with right now to move toward it?",
+    "user_utterance": "Thanks for checking in. I'm trying to be mindful of my triggers today and stay gentle with myself."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "That sounds very mindful and gentle. What's one trigger you noticed today, and what's a tiny, doable swap you could try in the next hour to nourish yourself without pressure?",
+    "user_utterance": "Thanks for the guidance—cravings were present today, but I paused and used a coping step. I want to keep building steadier habits and see what helps me stay on track."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "Nice work staying mindful today. Today's small step is S = 1.9: commit to one tiny, non-pressured coping action when cravings hit (for example, a 2-minute pause, a glass of water, or a short walk). I’ve nudged your goal down to 1.9 to keep it gentle and achievable.",
+    "user_utterance": "Thanks for the guidance. I’ll focus on small, doable steps and reach out if cravings feel overwhelming.",
+    "suggestion": 1.9,
+    "ground_truth_action": 1.717614111219818,
+    "compliance_raw": 0.9635228222439636,
+    "compliance_ema": 0.9337744130425937,
+    "goal": 1.9,
+    "reward": 2.4144466783446754
+  }
+]

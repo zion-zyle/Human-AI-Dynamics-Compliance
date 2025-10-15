@@ -1,0 +1,23 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Hi, I'm glad you're here. What meal or snack felt okay today, and what's the main hurdle you want help with to move toward your goal?",
+    "user_utterance": "Thanks for the guidance. I'll focus on noticing triggers and sticking to regular meals, even on busy days."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "Nice—focusing on triggers and regular meals is a strong move. What's the most common trigger you encountered today, and what's one reliable regular meal you can aim for on busy afternoons?",
+    "user_utterance": "Thanks for the guidance. I'm noticing my day can get off track, and I want to respond to cravings with gentleness and practicality, keeping things simple when my routine shifts."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "Nice job focusing on triggers and regular meals. A gentle next step (S = 2.5) is to set one reliable afternoon meal or snack window and pause for 30 seconds when cravings hit, labeling the craving and choosing a simple, healthy option. This keeps your approach practical and kind to yourself.",
+    "user_utterance": "Thanks for the guidance. I’m noticing my eating feels a bit unpredictable, so I’ll keep sticking to the plan and let you know when I’m struggling.",
+    "suggestion": 2.5,
+    "ground_truth_action": 2.145084882925908,
+    "compliance_raw": 0.9290169765851817,
+    "compliance_ema": 0.9418852746463502,
+    "goal": 2.5,
+    "reward": 2.2514858757582292
+  }
+]

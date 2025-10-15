@@ -1,0 +1,23 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Nice to meet you! What’s the one area you want help with today—meals, snacks, or a smoother routine—and what feels doable right now?",
+    "user_utterance": "Thanks for the check-in. I'll try a small, manageable step today and let you know how it goes."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "Great plan—what's the one small tweak you feel confident trying today (snack, meal tweak, or routine), and how will you know it went well?",
+    "user_utterance": "Thanks for checking in. I’m noticing more irregular meals lately and urges that come up at certain times, and I want to practice pausing before I respond to them."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "Nice work sticking with a small, doable step. Today, try pausing for about 2 minutes before acting on urges, especially in the mid-afternoon window. During the pause, take 4 slow breaths, drink a glass of water, and name one alternative (a short walk, a piece of fruit, or postponing for 15–20 minutes). Record what happened to notice patterns and feel more in control.",
+    "user_utterance": "Thanks for the guidance. Cravings still challenge me, especially on irregular days, but I’ll stay mindful and pause before eating.",
+    "suggestion": 2.5,
+    "ground_truth_action": 3.643592303622836,
+    "compliance_raw": 0.7712815392754327,
+    "compliance_ema": 0.9073410989343028,
+    "goal": 2.75,
+    "reward": 1.4462818707840823
+  }
+]
