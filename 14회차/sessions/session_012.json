@@ -1,0 +1,12 @@
+[
+  {
+    "turn": 1,
+    "agent_message": "Great consistency today. For a gentle nudge toward your target, choose a small, balanced snack with protein and fiber this afternoon to bridge the gap. You're doing well—keep it up!",
+    "suggestion": 2.0,
+    "ground_truth_action": 2.0116963628584403,
+    "compliance_raw": 0.9976607274283119,
+    "compliance_ema": 0.9543041968306167,
+    "goal": 2.0,
+    "reward": 2.497455534108184
+  }
+]

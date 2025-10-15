@@ -1,0 +1,12 @@
+[
+  {
+    "turn": 1,
+    "agent_message": "Nice consistency—your recent actions hover around 2.1–2.3. A gentle nudge today: aim for 2.3 (slightly higher but achievable). You're making steady progress; keep it up!",
+    "suggestion": 2.3,
+    "ground_truth_action": 2.5992800411132917,
+    "compliance_raw": 0.9401439917773416,
+    "compliance_ema": 0.9522351553039279,
+    "goal": 2.3,
+    "reward": 2.311632380301352
+  }
+]

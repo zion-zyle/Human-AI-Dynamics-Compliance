@@ -1,0 +1,12 @@
+[
+  {
+    "turn": 1,
+    "agent_message": "Nice consistency today. For the next session, aim to keep your level around 2.0—it's a small, doable nudge that fits your recent pattern. You're doing great—keep it steady!",
+    "suggestion": 2.0,
+    "ground_truth_action": 1.997793715265089,
+    "compliance_raw": 0.9995587430530178,
+    "compliance_ema": 0.9356987324145495,
+    "goal": 1.9,
+    "reward": 2.4852817057664036
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "turn": 1,
+    "agent_message": "You're doing well; your recent scores cluster around 2.0–2.2. I nudged your goal down slightly to 2.15 to reflect the pattern. Aim for around 2.15 today with small, steady steps—consistent progress will get you there.",
+    "suggestion": 2.15,
+    "ground_truth_action": 2.1576317786288652,
+    "compliance_raw": 0.9984736442742269,
+    "compliance_ema": 0.9652255740855901,
+    "goal": 2.15,
+    "reward": 2.498386280750894
+  }
+]

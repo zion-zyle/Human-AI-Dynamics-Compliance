@@ -1,0 +1,12 @@
+[
+  {
+    "turn": 1,
+    "agent_message": "You’re showing consistent effort. Aim for a steady around 2.0 today to keep momentum without overdoing it.",
+    "suggestion": 2.0,
+    "ground_truth_action": 1.9756330506978086,
+    "compliance_raw": 0.9951266101395617,
+    "compliance_ema": 0.9452575134928418,
+    "goal": 2.0,
+    "reward": 2.4942362521625068
+  }
+]

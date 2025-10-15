@@ -1,0 +1,12 @@
+[
+  {
+    "turn": 1,
+    "agent_message": "Nice consistency lately. Aim for a small, steady step up to 2.25 today to keep progress moving without overhauling your routine.",
+    "suggestion": 2.25,
+    "ground_truth_action": 2.377543407836106,
+    "compliance_raw": 0.9744913184327788,
+    "compliance_ema": 0.967078722955028,
+    "goal": 2.15,
+    "reward": 2.398803625435091
+  }
+]

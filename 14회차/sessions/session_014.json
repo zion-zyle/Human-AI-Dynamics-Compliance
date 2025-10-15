@@ -1,0 +1,12 @@
+[
+  {
+    "turn": 1,
+    "agent_message": "Nice consistency. Let's aim for a steady 2.0 today by sticking to balanced meals and staying hydrated.",
+    "suggestion": 2.0,
+    "ground_truth_action": 2.0727876049319316,
+    "compliance_raw": 0.9854424790136137,
+    "compliance_ema": 0.9502695102578598,
+    "goal": 2.0,
+    "reward": 2.4775164406219137
+  }
+]

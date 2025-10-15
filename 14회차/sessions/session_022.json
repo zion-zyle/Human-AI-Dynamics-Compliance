@@ -1,0 +1,12 @@
+[
+  {
+    "turn": 1,
+    "agent_message": "Nice consistency around your target today. A small, steady nudge can help: aim to push your daily score to about 2.4 by sticking to your usual routine and adding one simple veggie or fiber-rich choice.",
+    "suggestion": 2.4,
+    "ground_truth_action": 1.378181524178484,
+    "compliance_raw": 0.7956363048356968,
+    "compliance_ema": 0.9327902393311618,
+    "goal": 2.25,
+    "reward": 1.4970886274399358
+  }
+]

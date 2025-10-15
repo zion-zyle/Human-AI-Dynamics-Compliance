@@ -1,0 +1,12 @@
+[
+  {
+    "turn": 1,
+    "agent_message": "You're making steady progress. For today, try a moderate step: add a protein-rich afternoon snack (e.g., yogurt + fruit or a handful of nuts) with water to keep you fueled through the afternoon.",
+    "suggestion": 3.0,
+    "ground_truth_action": 2.208912655887882,
+    "compliance_raw": 0.8417825311775764,
+    "compliance_ema": 0.8417825311775764,
+    "goal": 4.0,
+    "reward": 0.9024390136420335
+  }
+]

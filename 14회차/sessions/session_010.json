@@ -1,0 +1,12 @@
+[
+  {
+    "turn": 1,
+    "agent_message": "Great consistency so far today. A small step can add up: aim for 2.1 today by adding one extra healthy choice (e.g., another veggie portion or a water cup). You’re doing well—keep the momentum!",
+    "suggestion": 2.1,
+    "ground_truth_action": 2.039593230005289,
+    "compliance_raw": 0.9879186460010578,
+    "compliance_ema": 0.9461427151318512,
+    "goal": 2.0,
+    "reward": 2.4855690523284
+  }
+]

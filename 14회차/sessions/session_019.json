@@ -1,0 +1,12 @@
+[
+  {
+    "turn": 1,
+    "agent_message": "Nice consistency. For a gentle next step, aim for a small bump to 2.20 today to build momentum without feeling overwhelming. You're doing great!",
+    "suggestion": 2.2,
+    "ground_truth_action": 2.074050231208474,
+    "compliance_raw": 0.9748100462416948,
+    "compliance_ema": 0.9569135565384308,
+    "goal": 2.2,
+    "reward": 2.4512027700818035
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "turn": 1,
+    "agent_message": "Nice steady effort. Today, aim for a small step up to 2.3 on your plan—this gentle increase matches your recent momentum and fits your routine here in Suwon.",
+    "suggestion": 2.3,
+    "ground_truth_action": 2.6362276981072053,
+    "compliance_raw": 0.9327544603785589,
+    "compliance_ema": 0.9434650641811928,
+    "goal": 2.25,
+    "reward": 2.224886080490014
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "turn": 1,
+    "agent_message": "You're making steady effort. For today, aim for a moderate step (S=3.2). Given recent results, lowering your target to 3.5 is sensible to match your current pace.",
+    "suggestion": 3.2,
+    "ground_truth_action": 1.623017466470773,
+    "compliance_raw": 0.6846034932941546,
+    "compliance_ema": 0.8033777237895036,
+    "goal": 3.5,
+    "reward": 0.7288668404191648
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "turn": 1,
+    "agent_message": "You're doing well—steady progress with consistent choices. Aim to stay around 2.0 today for balance and habit strength.",
+    "suggestion": 2.0,
+    "ground_truth_action": 2.0494441039928595,
+    "compliance_raw": 0.9901111792014281,
+    "compliance_ema": 0.9552579461855744,
+    "goal": 2.0,
+    "reward": 2.486448578911145
+  }
+]

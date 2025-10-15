@@ -1,0 +1,12 @@
+[
+  {
+    "turn": 1,
+    "agent_message": "You're doing well—your recent actions are around 2.1. A gentle nudge to 2.4 keeps progress realistic. Try a small, sustainable tweak at the next meal to hit that target.",
+    "suggestion": 2.4,
+    "ground_truth_action": 2.0748820506252796,
+    "compliance_raw": 0.934976410125056,
+    "compliance_ema": 0.8771655012283315,
+    "goal": 2.4,
+    "reward": 2.2845159154624075
+  }
+]

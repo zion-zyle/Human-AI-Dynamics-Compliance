@@ -1,0 +1,12 @@
+[
+  {
+    "turn": 1,
+    "agent_message": "Nice work today. For a steady step, have a small balanced snack now (protein + fiber, e.g., yogurt with berries or egg and nuts) to support your 4.0 goal.",
+    "suggestion": 3.2,
+    "ground_truth_action": 2.1911314117819893,
+    "compliance_raw": 0.7982262823563978,
+    "compliance_ema": 0.8330712814133407,
+    "goal": 4.0,
+    "reward": 0.8551217007546351
+  }
+]

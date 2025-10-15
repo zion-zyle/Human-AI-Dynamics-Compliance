@@ -1,0 +1,12 @@
+[
+  {
+    "turn": 1,
+    "agent_message": "Nice consistency—let's target around 2.1 today to keep progress steady.",
+    "suggestion": 2.1,
+    "ground_truth_action": 1.8794125546952132,
+    "compliance_raw": 0.9558825109390426,
+    "compliance_ema": 0.9524394341126148,
+    "goal": 2.1,
+    "reward": 2.3846415848950824
+  }
+]

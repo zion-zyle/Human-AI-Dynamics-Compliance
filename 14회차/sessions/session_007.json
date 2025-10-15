@@ -1,0 +1,12 @@
+[
+  {
+    "turn": 1,
+    "agent_message": "Nice effort so far. Since recent performance sits a bit below your current goal, let's pick a small, steady target of 2.0 today to build consistency.",
+    "suggestion": 2.0,
+    "ground_truth_action": 2.0193030330843498,
+    "compliance_raw": 0.9961393933831301,
+    "compliance_ema": 0.9009602796592913,
+    "goal": 2.0,
+    "reward": 2.495580586867846
+  }
+]

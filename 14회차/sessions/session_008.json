@@ -1,0 +1,12 @@
+[
+  {
+    "turn": 1,
+    "agent_message": "Nice consistency near your current target. I’m nudging your aim a bit lower today to keep steady progress—focus on one small, doable healthy choice this afternoon.",
+    "suggestion": 1.9,
+    "ground_truth_action": 1.8741376506874825,
+    "compliance_raw": 0.9948275301374965,
+    "compliance_ema": 0.9197337297549324,
+    "goal": 1.9,
+    "reward": 2.4938245739261475
+  }
+]

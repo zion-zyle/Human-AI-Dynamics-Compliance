@@ -1,0 +1,12 @@
+[
+  {
+    "turn": 1,
+    "agent_message": "Nice progress today. Keep a steady, balanced intake to support your recent upward trend.",
+    "suggestion": 3.0,
+    "ground_truth_action": 1.0,
+    "compliance_raw": 0.6,
+    "compliance_ema": 0.8817881242431423,
+    "goal": 2.4,
+    "reward": 0.8112876313815676
+  }
+]

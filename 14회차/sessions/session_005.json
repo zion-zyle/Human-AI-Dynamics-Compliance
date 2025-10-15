@@ -1,0 +1,12 @@
+[
+  {
+    "turn": 1,
+    "agent_message": "Nice steady progress. Today’s gentle nudge is S = 3.0—keep it doable and focused (e.g., add a veggie at lunch).",
+    "suggestion": 3.0,
+    "ground_truth_action": 2.132126614976108,
+    "compliance_raw": 0.8264253229952215,
+    "compliance_ema": 0.8627127740041503,
+    "goal": 2.6,
+    "reward": 2.031521771140824
+  }
+]

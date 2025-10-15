@@ -1,0 +1,12 @@
+[
+  {
+    "turn": 1,
+    "agent_message": "Nice effort so far. Try one small, doable step today: add one extra serving of vegetables with lunch or dinner to keep progress steady.",
+    "suggestion": 2.0,
+    "ground_truth_action": 1.972572349157559,
+    "compliance_raw": 0.9945144698315118,
+    "compliance_ema": 0.8416050729979052,
+    "goal": 3.0,
+    "reward": 1.5164858762335243
+  }
+]

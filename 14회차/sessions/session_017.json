@@ -1,0 +1,12 @@
+[
+  {
+    "turn": 1,
+    "agent_message": "Nice steady effort today. Aim for a small, consistent nudge toward a 2.3 daily habit score. You're doing great—keep it up!",
+    "suggestion": 2.3,
+    "ground_truth_action": 2.1644169138274623,
+    "compliance_raw": 0.9728833827654925,
+    "compliance_ema": 0.9515786649060077,
+    "goal": 2.2,
+    "reward": 2.470985350589153
+  }
+]

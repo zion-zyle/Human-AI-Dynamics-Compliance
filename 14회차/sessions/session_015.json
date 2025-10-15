@@ -1,0 +1,12 @@
+[
+  {
+    "turn": 1,
+    "agent_message": "Great consistency lately. To nudge progress gently, aim for a small step today—target 2.3 by adding one extra vegetable serving or a brief 5-minute walk after lunch.",
+    "suggestion": 2.3,
+    "ground_truth_action": 2.058162703713325,
+    "compliance_raw": 0.9516325407426651,
+    "compliance_ema": 0.9505421163548209,
+    "goal": 2.25,
+    "reward": 2.3974336370607237
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "turn": 1,
+    "agent_message": "You're doing well today. Aim for a gentle nudge to 2.3 by slightly adjusting portions at your next meal (balanced plate with veggies and protein). You're close to your goal—steady, small steps will keep you on track.",
+    "suggestion": 2.3,
+    "ground_truth_action": 2.6545301910680066,
+    "compliance_raw": 0.9290939617863987,
+    "compliance_ema": 0.9462524854411365,
+    "goal": 2.2,
+    "reward": 2.1491141587738074
+  }
+]

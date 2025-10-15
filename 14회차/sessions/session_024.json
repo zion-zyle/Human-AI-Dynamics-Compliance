@@ -1,0 +1,12 @@
+[
+  {
+    "turn": 1,
+    "agent_message": "Nice consistency today. Aim for a small nudge toward 2.3 by adding one simple healthy choice (extra vegetable serving or a brief 10-minute walk). With your steady effort, updating the goal to 2.25 feels appropriate.",
+    "suggestion": 2.3,
+    "ground_truth_action": 2.0584656784334316,
+    "compliance_raw": 0.9516931356866863,
+    "compliance_ema": 0.9465446379316108,
+    "goal": 2.25,
+    "reward": 2.3976621743147826
+  }
+]

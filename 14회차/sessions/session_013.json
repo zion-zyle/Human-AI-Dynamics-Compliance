@@ -1,0 +1,12 @@
+[
+  {
+    "turn": 1,
+    "agent_message": "You're doing well. Let's aim for a gentle step to 2.3 today to maintain momentum with your current routine.",
+    "suggestion": 2.3,
+    "ground_truth_action": 1.750822765110694,
+    "compliance_raw": 0.8901645530221388,
+    "compliance_ema": 0.9414762680689213,
+    "goal": 2.3,
+    "reward": 1.9996201843352694
+  }
+]

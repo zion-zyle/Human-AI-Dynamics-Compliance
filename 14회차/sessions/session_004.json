@@ -1,0 +1,12 @@
+[
+  {
+    "turn": 1,
+    "agent_message": "You're doing well. Given the recent lower numbers, let's set a gentle target of 2.5 today. We can gradually raise the goal as momentum builds.",
+    "suggestion": 2.5,
+    "ground_truth_action": 2.4625144589514525,
+    "compliance_raw": 0.9925028917902905,
+    "compliance_ema": 0.8717846367563823,
+    "goal": 2.5,
+    "reward": 2.490396623283527
+  }
+]
