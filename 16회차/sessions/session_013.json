@@ -1,0 +1,23 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Nice to meet you! What does Goal 2.00 mean for you today, and what's your typical afternoon routine here in Suwon?",
+    "user_utterance": "Thanks for the guidance. I'm feeling some cravings today, but I'll try to follow the plan and aim for steadier meals."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "Cravings are a normal signal—what's the strongest urge right now, and when did you last have a balanced meal? We can tailor your Suwon afternoon routine to help steady them.",
+    "user_utterance": "Thanks for the guidance today. I’ve noticed some external triggers lately and I want to stick with small, doable steps to stay on track."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "You're doing well—today's cravings are normal. Have a small, balanced snack now (for example, yogurt with berries or a handful of nuts) to steady your afternoon appetite, and aim for regular meals this afternoon.",
+    "user_utterance": "Appreciate the check-in. Cravings are kicking in on busy days, can we work on a small, flexible step-by-step approach to manage urges without feeling restricted?",
+    "suggestion": 2.1,
+    "ground_truth_action": 2.002573620525667,
+    "compliance_raw": 0.9805147241051333,
+    "compliance_ema": 0.9107024883112452,
+    "goal": 1.8,
+    "reward": 2.4202064859135217
+  }
+]

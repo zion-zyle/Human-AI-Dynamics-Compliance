@@ -1,0 +1,23 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Nice to connect here in Suwon. What do you usually reach for around 3:45 PM, and what's one small change you'd be willing to try this week to support your goal?",
+    "user_utterance": "Thanks for the check-in. I'm finding it challenging to apply the guidance consistently, but I'm committed to taking small, steady steps."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "I hear you—progress comes from small, steady steps. What's one tiny change you can commit to around this time this week that feels doable and would move you toward your goal?",
+    "user_utterance": "Thanks for the tips. I'm feeling a bit challenged by my irregular days, but I'll keep aiming to follow the plan even when my schedule changes."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "You're doing well. This week, adopt one small, repeatable step around your 3:45 PM window: choose a protein + fiber snack (e.g., yogurt with berries) instead of a higher-calorie option. It’s gentle, fits irregular days, and nudges you toward your goal.",
+    "user_utterance": "Thanks for the guidance. I’m trying to apply it, but I still struggle with consistency—could we focus on one tiny, doable change today to help with my triggers?",
+    "suggestion": 2.5236354493392885,
+    "ground_truth_action": 2.398493462442934,
+    "compliance_raw": 0.9749716026207291,
+    "compliance_ema": 0.6901480281535346,
+    "goal": 3.6,
+    "reward": 1.3290797711575095
+  }
+]

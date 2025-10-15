@@ -1,0 +1,23 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Nice to meet you. What’s the one key focus today toward your goal, and what’s been making it hard lately?",
+    "user_utterance": "Thanks for checking in. I still struggle with binge urges, especially when my schedule feels off, and I'd appreciate practical tips to stay grounded."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "Binge urges tend to spike when schedules shift—great that you want practical grounding tips. Would you like a quick 2-minute grounding check-in and a prepped, protein-rich snack idea to try today?",
+    "user_utterance": "Thanks for the check-in. I'm feeling a bit challenged by cravings today and want to stay steady without feeling overwhelmed."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "You’re doing well by staying aware of cravings. Today, aim for a gentle 2.5-level action: try a 2-minute grounding check-in when urges spike, plus a protein-rich snack to help steady hunger. Keep meals and breaks on a simple, predictable rhythm to reduce schedule-related cravings. Updated goal G' = 2.6.",
+    "user_utterance": "Thanks for checking in. Some days feel disruptive, but I’m still committed to the plan and would welcome practical tips for managing urges and staying on track.",
+    "suggestion": 1.936108667863187,
+    "ground_truth_action": 1.7938125438627552,
+    "compliance_raw": 0.9715407751999137,
+    "compliance_ema": 0.8585136883723938,
+    "goal": 2.6,
+    "reward": 1.7546578241775765
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Nice work staying focused—what's one small, doable adjustment you could try for your next meal or snack today?",
+    "user_utterance": "Thanks for the support. I’ll focus on keeping a steady meal routine today and reach out if urges come up, trying to ride them out without judging myself."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "Nice work focusing on a steady meal routine today—your mindful approach will help you ride out urges without judgment. What's one tiny action you can take in the next hour to support that routine (like a quick prep or a glass of water)?",
+    "user_utterance": "Thanks for checking in. I'm noticing my eating feels a bit irregular today, and I’d love to focus on simple steps to keep cravings in check."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "Nice work staying on track. For the next snack, choose a small balanced option (protein + fiber) like yogurt with fruit or a handful of nuts to curb afternoon cravings and keep your routine steady.",
+    "user_utterance": "Thanks for the feedback. I’ll focus on keeping my meals steady today and reach out if I start to feel a binge urge.",
+    "suggestion": 2.3887655972061137,
+    "ground_truth_action": 2.6070973080618245,
+    "compliance_raw": 0.9563336578288578,
+    "compliance_ema": 0.7727243160122085,
+    "goal": 2.8,
+    "reward": 2.401542241272642
+  }
+]

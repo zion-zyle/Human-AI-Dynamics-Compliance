@@ -1,0 +1,23 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Nice to meet you—what's one simple dietary change you feel ready to try today? And what's been the biggest hurdle to sticking with your plan lately?",
+    "user_utterance": "Thanks for the guidance—I'm noticing some urges tonight, and I’ll try to pause, breathe, and apply the strategies you shared."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "Great job pausing and taking a breath—that helps you regain control when urges rise. What's one quick, non-food strategy you can try in the next 10 minutes if the urge returns?",
+    "user_utterance": "Thanks for the guidance—my eating feels a bit unpredictable, but I want to work toward more consistency. I'll focus on small, doable steps and being gentler with myself as I navigate BED."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "You’re doing great—keep it gentle. For the next step, aim for one small, regular meal pattern and when urges arise, pause, take two slow breaths, and wait 5 minutes before deciding on food. Small, consistent steps beat all-or-nothing tonight.",
+    "user_utterance": "Thanks for the guidance. I’m noticing cravings today, but I want to stay with the plan and use the coping strategies we discussed when they come up.",
+    "suggestion": 1.9868751735035408,
+    "ground_truth_action": 2.020400474592282,
+    "compliance_raw": 0.9932949397822518,
+    "compliance_ema": 0.8326450111213664,
+    "goal": 2.9,
+    "reward": 1.6852528026768085
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Nice to meet you—what's one meal habit around this time you feel ready to adjust this week to move toward your goal? I can help brainstorm practical, Suwon-friendly tweaks that fit your day.",
+    "user_utterance": "Thanks for the guidance—some days I feel more in control, but cravings still pop up. I’ll keep practicing my routine and using the plan when urges come."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "Nice job recognizing cravings—what trigger tends to show up today, and what's one tiny Suwon-friendly swap you could try the next time it hits?",
+    "user_utterance": "Thanks for the guidance today. I notice cravings come up during stress, so I’ll try pausing and checking in with my hunger before eating."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "When cravings hit, try a 3-minute pause: step away from the snack area, take 3 slow breaths, drink a glass of water, and check your hunger level. If you're still hungry after 10 minutes, opt for a small protein snack (e.g., yogurt, tofu, nuts). This gentle Suwon-friendly approach supports stress-related cravings without big changes.",
+    "user_utterance": "Thanks for the guidance—irregular eating and external cues still get to me, but I appreciate the plan. I’ll try to keep meals steady and check in with my hunger before grabbing extra.",
+    "suggestion": 2.3191088233310078,
+    "ground_truth_action": 2.3231297964158304,
+    "compliance_raw": 0.9991958053830354,
+    "compliance_ema": 0.8847681069942317,
+    "goal": 3.0,
+    "reward": 1.947871602638941
+  }
+]

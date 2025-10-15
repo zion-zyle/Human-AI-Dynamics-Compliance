@@ -1,0 +1,23 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Great to connect after your day in Suwon. What does Goal G represent for you today, and what's one small, doable step you could take right now to move toward it?",
+    "user_utterance": "Thanks for the guidance. Irregular meals tend to trigger binge urges, so I’ll focus on a steadier routine and responding calmly to cravings."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "That focus on steadier meals is a strong move. What's one concrete mealtime cue you can set today to anchor your routine, and what will you say to yourself the next time a craving hits?",
+    "user_utterance": "Thanks for the check-in. I'll keep focusing on consistency and will let you know if I hit any challenging moments."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "You're doing solid work on steady meals. A gentle next step: plan three regular meals today (e.g., breakfast by 9:00, lunch by 13:00, dinner by 19:00) and keep portions balanced with protein/fiber. Before cravings, take 5 slow breaths and label the urge—then choose a small, satisfying option (water, fruit, or a protein snack). This steady routine supports your goal without big changes.",
+    "user_utterance": "Thanks for the check-in. I'll focus on grounding myself during cravings and sticking to a steadier routine today.",
+    "suggestion": 2.8,
+    "ground_truth_action": 2.97310125659185,
+    "compliance_raw": 0.9653797486816299,
+    "compliance_ema": 0.9008904353317114,
+    "goal": 2.8,
+    "reward": 2.4211003884500326
+  }
+]

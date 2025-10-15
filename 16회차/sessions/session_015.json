@@ -1,0 +1,23 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Hi there in Suwon. What's one healthy meal or snack you enjoy, and what would make it easier to move toward your goal today?",
+    "user_utterance": "Thanks for the guidance—I'll pick one small, doable step today and see how it fits with my eating rhythm."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "Nice choice! What small step did you pick for today, and when will you try it to fit your eating rhythm?",
+    "user_utterance": "I can see I struggle with staying consistent when life gets busy. I’ll focus on simple, steady routines and give myself grace when plans don’t go as expected."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "You're doing great sticking with a steady plan despite a busy day. Today's gentle step: have a simple, ready snack (like yogurt with fruit or a handful of nuts) in the late afternoon to bridge meals. This keeps your rhythm predictable and moves you forward—one small, doable choice at a time.",
+    "user_utterance": "Thanks for the check-in. I’m noticing cravings today, but I’ll try to pause and use the strategy you suggested to ride it out.",
+    "suggestion": 2.3720288128775433,
+    "ground_truth_action": 2.1662458605488073,
+    "compliance_raw": 0.9588434095342528,
+    "compliance_ema": 0.9323133524139662,
+    "goal": 2.4,
+    "reward": 2.3790809084671025
+  }
+]

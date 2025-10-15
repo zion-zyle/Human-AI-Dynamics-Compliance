@@ -1,0 +1,23 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Nice to meet you—what's one tiny, doable change you're willing to try this week to move toward your goal? Tell me any foods you love or want to avoid so I can tailor ideas.",
+    "user_utterance": "Thanks for the guidance. I'll focus on staying mindful of urges and aiming for a more regular eating pattern today."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "Nice work staying mindful and aiming for a steadier eating rhythm today. What's one fixed mealtime you can commit to, and a simple plan for handling urges if they pop up before that time?",
+    "user_utterance": "Thanks for the guidance. I felt a strong craving after dinner, but I paused and used a grounding technique."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "Nice work staying mindful today. A small, steady target around 2.6 is a gentle nudge to build consistency without pressure—keep your regular meals and use urge-grounding when needed. You’re making solid progress toward your goal.",
+    "user_utterance": "Thanks for checking in—I'm noticing some progress, but binge urges still come up after meals. Could we focus on quick, practical strategies to ride out cravings today?",
+    "suggestion": 3.0731012565918503,
+    "ground_truth_action": 1.785482186978723,
+    "compliance_raw": 0.7424761860773745,
+    "compliance_ema": 0.8692075854808441,
+    "goal": 2.6,
+    "reward": 1.5150913825960113
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Great to connect—what's one small change you feel ready to try today, given your routine in Suwon?",
+    "user_utterance": "Thanks for the guidance today. I'm still dealing with irregular meals and strong urges—do you have quick, practical steps to pause before choosing snacks?"
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "Try this quick pause right now: sip water, take a couple of slow breaths, and ask yourself if you're truly hungry or just reacting to emotion or routine. If the urge lingers, what's one small, doable next step you could take that aligns with your goal today?",
+    "user_utterance": "Thanks for the guidance. I'm feeling a bit on edge today with cravings and would appreciate practical strategies to ride them out without judging myself."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "Nice progress today. Try a gentle level-2.9 action: at snack urges, pause for 3–5 minutes (drink water, take 4–6 slow breaths, check hunger) before deciding. If urges persist, choose a non-food alternative for today. I’ve nudged your goal to 2.9 to match your momentum—you’re doing great.",
+    "user_utterance": "Thanks for the check-in—I'm giving your guidance a real try, but evenings still bring strong urges for me. Could we focus on simple, doable strategies to ride out cravings without judgment?",
+    "suggestion": 3.3286079411082645,
+    "ground_truth_action": 1.302993882552281,
+    "compliance_raw": 0.5948771882888033,
+    "compliance_ema": 0.8561611823970307,
+    "goal": 2.9,
+    "reward": 0.7119495064655493
+  }
+]

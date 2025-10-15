@@ -1,0 +1,23 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "수원에서 오늘 식사나 간식 루틴을 어떤 점이 가장 어렵나요? 그 부분을 같이 다듬어 실천하기 쉬운 한 가지 아이디어를 찾아볼게요.",
+    "user_utterance": "Thanks for the guidance. I'll slow down, check in with my hunger and emotions before eating, and keep a simple routine today."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "멋져요—오늘도 배고픔과 감정을 먼저 확인하는 방향으로 잘 가고 계시네요. 지금 느끼는 가장 강한 욕구가 식사 선택에 어떤 영향을 주는지 한 가지를 짚어볼까요?",
+    "user_utterance": "Thanks for the guidance—I'm glad we’re focusing on steady routines. I still feel a bit overwhelmed by cravings, but I want to try small, manageable steps."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "Nice consistency. Today's gentle step: pause 1–2 minutes before eating to check hunger and emotions, then choose one small satisfying option (like fruit or yogurt) if cravings arise. Slow, steady progress fits today.",
+    "user_utterance": "Thanks for the guidance. I'm feeling some urge to binge today, but I'll focus on my routine and take a calm pause before eating.",
+    "suggestion": 2.2204139656866086,
+    "ground_truth_action": 2.2684488613636744,
+    "compliance_raw": 0.9903930208645868,
+    "compliance_ema": 0.8848895548708324,
+    "goal": 2.5,
+    "reward": 2.4120871061000027
+  }
+]

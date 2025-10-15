@@ -1,0 +1,23 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "수원에서 오늘 식단 중 개선하고 싶은 부분을 간단히 말씀해 주시면, 당신의 생활에 맞춘 실천 가능한 작은 변화 하나를 함께 찾아볼게요.",
+    "user_utterance": "Thanks for checking in. I’ve been sensitive to how changes trigger my eating, so I’d like to try a quick grounding strategy and aim for a steadier routine today."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "좋아요, 오늘은 몸과 마음을 차분하게 가다듬는 아주 간단한 접지 전략부터 시작해볼까요? 지금 당신이 가장 민감하게 먹고 싶은 순간이 언제였는지 알려주시면, 그 순간에 바로 적용할 짧은 실천 하나를 같이 찾아볼게요.",
+    "user_utterance": "Thanks for the support. I'm committed to the plan and will keep working toward regular meals, even when urges show up."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "Nice work today. A gentle next step: keep regular meal times and add a quick 1-minute grounding cue when urges hit (slow breathing and naming 3 things you see). This keeps things steady and doable. Updated goal to 2.4 to reflect your current trend.",
+    "user_utterance": "Thanks for the guidance—my eating has been a bit irregular lately, and I want to focus on smaller, manageable steps today and check in afterward.",
+    "suggestion": 2.385482186978723,
+    "ground_truth_action": 1.9424686754085756,
+    "compliance_raw": 0.9113972976859706,
+    "compliance_ema": 0.8776455279218695,
+    "goal": 2.4,
+    "reward": 2.1280825992047245
+  }
+]

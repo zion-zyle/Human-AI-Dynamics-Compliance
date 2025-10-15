@@ -1,0 +1,23 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Nice to meet you - what is one small change you are ready to start today, and what is getting in the way most right now?",
+    "user_utterance": "Thanks for checking in. I'm hoping for kind, steady guidance to help me manage binge eating and create more regular eating patterns."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "I’m glad you shared that—steady, kind support makes a big difference. When you notice binge urges, what’s one small, non-judgmental change you feel comfortable trying this week to establish a more regular eating pattern?",
+    "user_utterance": "I'm feeling a bit unsettled about my meals lately. Could we focus on simple routines and support to manage binge urges today?"
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "Today’s gentle step: establish one regular eating window and include a small, satisfying snack to bridge gaps (focus on protein + fiber). If a binge urge arises, pause for 2 minutes, take 3 slow breaths, drink a glass of water, and proceed with your next planned bite.",
+    "user_utterance": "I'll give it another try and keep things simple today. Thanks for the nudge.",
+    "suggestion": 3.2,
+    "ground_truth_action": 1.2841336404095482,
+    "compliance_raw": 0.6168267280819096,
+    "compliance_ema": 0.6168267280819096,
+    "goal": 4.0,
+    "reward": 0.6177659441741533
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Nice to meet you. What's a typical day of meals for you in Suwon, and what's the main hurdle you're facing toward your goal today?",
+    "user_utterance": "Thanks for the check-in. I'll try to use your guidance to ride out urges and keep meals a bit more regular today, and I'll tell you how it goes."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "Nice—riding out urges and keeping meals regular is a solid move. What small cue can you try this afternoon when an urge hits (like a quick walk or a glass of water) to stay on track?",
+    "user_utterance": "Thanks for the check-in. Cravings and irregular meals are still tough, but I’ll try sticking to a simple routine and using the coping tools when urges come up."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "Nice work staying with it. Today, aim for a steady effort at level 2.0—keep a simple routine and use your urge-coping tools (water, quick walk) when cravings hit. I’ve nudged your goal to 2.3 to reflect a small, realistic step forward while staying achievable.",
+    "user_utterance": "Thanks for the update. I'm noticing my eating feels irregular on busy days, but I'm committed to sticking with the plan and using the strategies we discussed.",
+    "suggestion": 2.2662458605488074,
+    "ground_truth_action": 2.2997456118332416,
+    "compliance_raw": 0.9933000497431131,
+    "compliance_ema": 0.9445106918797956,
+    "goal": 2.3,
+    "reward": 2.4932999526731074
+  }
+]

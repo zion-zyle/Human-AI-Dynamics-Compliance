@@ -1,0 +1,23 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Hi there—what's one small area you'd like to focus on today (meals, cravings, or energy) to move toward your goal, and what's been making it feel challenging lately? I'm here to help you make a simple, doable start.",
+    "user_utterance": "Thanks for the plan. I'm trying to stay consistent, but binge urges and external triggers still throw me off sometimes."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "That sounds really tough, but recognizing triggers is a strong first step. Would you like to identify your top two triggers for binge urges and choose a simple, quick coping move you can use in the moment?",
+    "user_utterance": "Thanks for the guidance. I felt pulled toward old eating patterns today, but I’ll stay mindful and see how the approach works for me."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "You're doing important work staying mindful today. When urges arise, try a quick coping move (e.g., 5-minute box breathing or a brief walk) and refocus on one small act. With a slight nudge toward your updated goal, small, doable steps add up over time.",
+    "user_utterance": "Thanks for the tips today. I'm finding it a bit hard to stay consistent lately, but I want to keep trying and not let a tough moment derail me.",
+    "suggestion": 2.862981198219799,
+    "ground_truth_action": 1.0,
+    "compliance_raw": 0.6274037603560403,
+    "compliance_ema": 0.6189421345367359,
+    "goal": 3.8,
+    "reward": 0.627994263917023
+  }
+]

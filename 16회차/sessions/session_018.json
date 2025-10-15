@@ -1,0 +1,23 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Great to connect with you. What's your biggest hurdle around meals today, and what's one small change you'd like to try to move toward your goal?",
+    "user_utterance": "I’m noticing some irregular eating lately and urges are still there. I’m ready to try small, steady steps with you to stay mindful."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "I hear you—irregular eating and urges can feel tough, but small, steady steps can help. What's one tiny change you feel ready to test today to start grounding your routine (for example a consistent meal time or a single mindful bite)?",
+    "user_utterance": "I know I’m sensitive to meal cues, so I’ll try to create a calm eating environment today and stick with the plan. I’ll share what helps or challenges as I go."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "Today, try one small, steady step: create a calm eating environment for your next meal (no screens, sit at the table, take 3 mindful breaths before starting). This supports mindful eating and can help reduce urges.",
+    "user_utterance": "Thanks for checking in. I still struggle with irregular eating and external triggers, but I want to stay more consistent with the plan.",
+    "suggestion": 2.82524164131539,
+    "ground_truth_action": 2.3672333150941554,
+    "compliance_raw": 0.9083983347557532,
+    "compliance_ema": 0.9357506368107913,
+    "goal": 2.5,
+    "reward": 2.3821895157641344
+  }
+]

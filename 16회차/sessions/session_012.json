@@ -1,0 +1,23 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Nice to meet you—what does the 2.30 goal look like in your daily eating, and what foods do you enjoy or find challenging right now?",
+    "user_utterance": "Thanks for checking in. Cravings are still challenging, especially when stress spikes, but I’ll try the plan you suggested and let you know how it goes."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "Cravings tied to stress can be tough—what moment today felt most challenging, and would a simple, non-food coping nudge help you ride them more smoothly?",
+    "user_utterance": "Thanks for the guidance today—I'll try to follow the plan even when my schedule gets hectic, and I'll reach out if urges feel overwhelming."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "Suggestion S = 2.0: For the next day, pick one small non-food coping step during stress before cravings (e.g., a 5-minute breathing pause, a short walk, or a glass of water). This gentle, concrete action helps cravings pass and supports your goal without overhauling your routine. You're making steady progress—keep going.",
+    "user_utterance": "Thanks for checking in. I'll focus on sticking to regular meals today and using a couple of quick mindful strategies when cravings show up.",
+    "suggestion": 1.9064518798508763,
+    "ground_truth_action": 1.8387796272044201,
+    "compliance_raw": 0.9864655494707087,
+    "compliance_ema": 0.8932494293627732,
+    "goal": 2.0,
+    "reward": 2.4479798633763017
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Happy to help you tune things up today. What’s your main challenge right now—snacking, meal timing, or choices when eating out—and what would feel doable for you this week?",
+    "user_utterance": "Thanks for the guidance. I'm noticing some restlessness from external cues today, and I'll aim to keep a steady meal pattern and check in if the urge to binge rises."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "Great job staying focused on steady meals. What was the strongest cue you felt just now, and what's one tiny reset you can try in the next hour if the urge to binge comes up?",
+    "user_utterance": "Thanks for the check-in. I’ll aim to keep meals steady and ride out cravings even when daily life gets busy."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "Great job staying steady today. I’ve nudged your target to 2.7 to better fit recent progress. Aim for a 2.7 today: three steady meals + a quick craving reset if urges arise.",
+    "user_utterance": "Thanks for checking in. I'm still struggling with irregular eating and binge urges, and I'd appreciate practical strategies to keep meals steady and cravings manageable.",
+    "suggestion": 2.4198732053040706,
+    "ground_truth_action": 1.5233958995145858,
+    "compliance_raw": 0.820704538842103,
+    "compliance_ema": 0.8302569166655137,
+    "goal": 2.7,
+    "reward": 1.1964166460565755
+  }
+]

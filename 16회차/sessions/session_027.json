@@ -1,0 +1,23 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Nice to meet you—I'm here to help you move toward your goal. What's one small, doable change you feel confident trying today (in your Suwon routine)?",
+    "user_utterance": "Thanks for the check-in. I’ll try to keep things steady today, though I may need a little extra support if my schedule gets disrupted."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "Nice job noting that—staying steady is doable. If your schedule gets disrupted today, what's one quick, flexible swap you feel confident trying to stay on track?",
+    "user_utterance": "Thanks for the check-in. Cravings still come up, but I’m trying to pause and breathe before acting and follow a simple plan instead."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "Nice job staying steady today. Try a 2-minute mindful pause before the next craving and use your simple plan to guide your choice. Small, consistent steps add up over time toward your goal.",
+    "user_utterance": "Thanks for the guidance—I'm navigating BED and my eating still feels irregular. I'll try to stick with gentle, manageable changes and keep you posted.",
+    "suggestion": 2.3,
+    "ground_truth_action": 2.4650874536645513,
+    "compliance_raw": 0.9669825092670897,
+    "compliance_ema": 0.8955129241909136,
+    "goal": 2.3,
+    "reward": 2.426653761629128
+  }
+]

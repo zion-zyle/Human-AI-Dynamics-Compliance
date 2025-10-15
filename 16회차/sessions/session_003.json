@@ -1,0 +1,23 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Nice to meet you. What is one everyday eating habit you'd like to tweak this week to support your goal, and what tiny step could you start today?",
+    "user_utterance": "Thanks for the guidance. I'll aim to be more consistent with meals, even though irregular patterns are tough for me."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "That's a great goal—irregular schedules are common, and small anchors can help. What's one predictable moment you could anchor today (like a steady breakfast or snack) to start building consistency, and how would that feel in your day?",
+    "user_utterance": "Thanks for the guidance. I'll focus on keeping meals regular and noticing triggers without judging myself."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "Great progress toward regular meals. For a gentle next step, anchor one predictable eating moment today (like breakfast at the same time every day, plus a small snack at a consistent time). I’ve nudged your goal to 3.0 to match your current pace—small, steady steps win in the long run.",
+    "user_utterance": "Thanks for the guidance. I'm feeling a bit up-and-down with my meals today, but I’ll try to stick to a regular plan and pause before snacking to reduce urges.",
+    "suggestion": 2.6974611421876706,
+    "ground_truth_action": 2.065050093068131,
+    "compliance_raw": 0.873517790176092,
+    "compliance_ema": 0.7268219805580461,
+    "goal": 3.0,
+    "reward": 1.49935422993364
+  }
+]

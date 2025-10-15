@@ -1,0 +1,23 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Nice to meet you—what does your goal of 2.50 represent for you, and what's one small change you're willing to try this week?",
+    "user_utterance": "I appreciate the check-in. I'm noticing triggers and want to keep things manageable with a small step today."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "Nice—recognizing triggers is a solid start. Which trigger did you notice today, and what's one tiny step you feel ready to try right now to keep things manageable?",
+    "user_utterance": "Thanks for the guidance—I'm noticing urges on busy days, and I want to stick with the plan you suggested to stay grounded."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "You're handling busy days well. Today's gentle nudge: try a small, doable step at 2.4/5 effort (for example, a 10–15 minute walk or a quick grounding pause when urges arise). This keeps things manageable and supports steady progress toward your updated pace.",
+    "user_utterance": "Thanks for the guidance. I'm noticing external changes can throw me off, but I'll stay focused on my plan and reach out when cravings feel overwhelming.",
+    "suggestion": 2.4672333150941554,
+    "ground_truth_action": 1.8152901661467533,
+    "compliance_raw": 0.8696113702105196,
+    "compliance_ema": 0.922522783490737,
+    "goal": 2.4,
+    "reward": 1.935255590863488
+  }
+]

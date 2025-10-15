@@ -1,0 +1,23 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Nice to connect—what's your biggest hurdle today toward your goal, and what meal window do you have in Suwon so I can tailor a simple, tasty option?",
+    "user_utterance": "Thanks for the check-in. I’ll try pausing when I feel urges come up and focus on steady meals today."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "Great choice—pausing when urges come up can keep you steady today. When do urges usually peak for you, and do you have a simple, ready-to-go meal option you can grab in Suwon after 4 PM?",
+    "user_utterance": "Thanks for the guidance. I’m noticing cravings pop up, and I want to keep practicing the strategies you suggest when they do."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "Nice work staying with your plan. Today’s small step: pause for 5 seconds when cravings rise, then grab a ready-to-go meal or snack after 4 PM in Suwon (e.g., yogurt with nuts, fruit + a small protein). Pair your pause with a few deep breaths to reset and keep meals steady.",
+    "user_utterance": "I'm noticing some irregular eating lately and feeling a bit challenged by urges. I'll aim to stay with the plan today and use grounding cues to ride out cravings.",
+    "suggestion": 2.6,
+    "ground_truth_action": 3.2286079411082644,
+    "compliance_raw": 0.8742784117783471,
+    "compliance_ema": 0.9214821809240875,
+    "goal": 2.6,
+    "reward": 1.8846489817098797
+  }
+]

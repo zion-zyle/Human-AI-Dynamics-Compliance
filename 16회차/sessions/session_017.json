@@ -1,0 +1,23 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "What does a typical day look like for you today, and are there foods you love or avoid?",
+    "user_utterance": "Thanks for the guidance. I'll aim for a steadier routine today and reach out if cravings feel overwhelming."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "Nice work aiming for a steadier routine. When do cravings usually hit for you this afternoon, and would you like a couple of simple, ready-to-use strategies to try right in that moment?",
+    "user_utterance": "Thanks for the guidance. I still struggle with irregular meals, but I’ll keep trying the plan and let you know if I need adjustments."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "You’re making steady progress. Target 2.2 today to match your current pace. Focus on regular meals and a small protein-rich snack if cravings hit in the afternoon—this keeps you on track without big jumps. You’ve got this.",
+    "user_utterance": "Thanks for the check-in. I'm still dealing with irregular eating and binge urges, but I want to keep my routine steady and use my coping strategies when cravings come up.",
+    "suggestion": 2.3997456118332416,
+    "ground_truth_action": 2.7252416413153897,
+    "compliance_raw": 0.9349007941035704,
+    "compliance_ema": 0.9425887123245507,
+    "goal": 2.2,
+    "reward": 2.073258171546823
+  }
+]

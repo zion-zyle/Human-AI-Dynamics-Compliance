@@ -1,0 +1,23 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Nice to meet you—could you tell me what your goal G: 2.50 represents and what a typical day looks like for you in Suwon, so I can tailor practical, doable steps?",
+    "user_utterance": "I've been feeling a bit overwhelmed by the recent changes, and I want to keep working toward a steadier routine. I also want help handling triggers more effectively."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "That’s a meaningful goal—let’s start by pinpointing your top triggers and sketching a simple daily rhythm that feels doable in Suwon. Which triggers tend to derail you most, and what would a steadier day look like for you right now?",
+    "user_utterance": "Thanks for the guidance. I’ll aim for regular meals and catching cravings early so I don’t binge."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "Excellent compliance. Let's take a small, steady step: aim for three regular meals with a protein-rich snack if cravings appear, and log them to catch cravings early. Try to time meals around your day in Suwon (breakfast by 9–10, lunch around 1, dinner by 7). This gentle adjustment supports steady progress.",
+    "user_utterance": "Thanks for checking in. I'm noticing some urges today, and I want to stay gentle with myself and focus on small, doable steps.",
+    "suggestion": 2.3684488613636745,
+    "ground_truth_action": 1.4192927473417587,
+    "compliance_raw": 0.8101687771956169,
+    "compliance_ema": 0.8699453993357893,
+    "goal": 2.3,
+    "reward": 1.5007786785711577
+  }
+]

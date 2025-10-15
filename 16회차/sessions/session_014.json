@@ -1,0 +1,23 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Nice to meet you—could you share a quick snapshot of a typical day of meals here in Suwon and one small change you'd like to start this week to support your goal?",
+    "user_utterance": "Thanks for checking in. I still wrestle with irregular meals and binge urges, and I’d appreciate simple strategies to stay steadier day-to-day."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "That helps—irregular meals and binge urges are common; could you share your typical meal times today and your top binge trigger so I can suggest one or two ultra-simple steadiness tweaks?",
+    "user_utterance": "Some days are tougher, especially with irregular meals. I’ll keep following the plan and share what triggers urges so we can adjust."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "Nice work staying engaged. Try adding a small, regular snack around your late-afternoon lull (about 3:30–4:00 PM in Suwon) to steady energy and reduce binge urges. If cravings arise, pause for 2 minutes, have a glass of water, and switch to a quick task to refocus.",
+    "user_utterance": "Thanks for the guidance. Cravings felt strong today, but I’ll aim for regular meals and use the coping strategies you suggested.",
+    "suggestion": 2.2,
+    "ground_truth_action": 2.272028812877543,
+    "compliance_raw": 0.9855942374244914,
+    "compliance_ema": 0.9256808381338945,
+    "goal": 2.2,
+    "reward": 2.477832165405096
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Nice to connect! What does the 2.70 goal refer to (weight, inches, or something else), and what's one small step you feel ready to take today to move toward it?",
+    "user_utterance": "Thanks for the guidance—I'll try to follow it today and let you know what challenges come up with cravings."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "Great job committing today. What craving did you notice most, and what's one small tweak you can try next time it shows up?",
+    "user_utterance": "Thanks for checking in; I'm noticing some evening cravings and would like small, doable steps to stay on track without feeling overwhelmed."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "You're doing great. Tonight's 2.5/5 step: at the first evening craving, have a small protein snack (about 150–200 kcal) or a glass of water and wait 5 minutes before acting. This helps cravings pass with minimal effort and keeps you on track.",
+    "user_utterance": "Thanks for the guidance—I'm glad to have a plan, but I still feel a strong urge around meals. I’ll try to follow the steps and check in on what helps me stay consistent.",
+    "suggestion": 2.280062946524495,
+    "ground_truth_action": 1.6048233640674385,
+    "compliance_raw": 0.8649520835085888,
+    "compliance_ema": 0.792482528956145,
+    "goal": 2.7,
+    "reward": 1.3170091943175082
+  }
+]
