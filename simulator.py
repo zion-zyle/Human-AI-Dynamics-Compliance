@@ -5,15 +5,23 @@ import json
 import requests
 from requests.exceptions import HTTPError, Timeout, ConnectionError as ReqConnectionError
 
+
 class Simulator:
     """
     - 세션당 다중 턴 대화 (기본 10턴)
     - 마지막 턴에서만 숫자 제안/목표 갱신 실행
     - inferred action 제거, GT 기반 compliance(EMA) 사용
-    - UserLlm.format_user_prompt에 의존하지 않고, 시뮬레이터에서 직접 사용자 프롬프트 생성
+    - 시뮬레이터 내부에서 사용자 발화 프롬프트 생성
+    - Goal 블록 정책:
+        * 세션 0 : 초기 G=4.0 고정 (갱신X)
+        * 세션 1~6 : 매 세션 갱신 허용(탐색)
+        * 세션 7 이후 : 5세션 블록 유지 (7~11, 12~16, 17~21, ...) 블록 시작 시점에만 갱신 허용
+    - 상세 로깅:
+        * user.respond() 내부값: compliance, μ(before/after), suggestion, noise, noise_std
+        * 텍스트 로그(simulation_log.txt) & 세션 JSON에 모두 기록
     """
 
-    def __init__(self, user, agent, action_space, total_steps=400, ema_alpha=0.2, turns_per_session=3):
+    def __init__(self, user, agent, action_space, total_steps=400, ema_alpha=0.2, turns_per_session=4):
         self.user = user
         self.agent = agent
         self.action_space = action_space
@@ -37,10 +45,18 @@ class Simulator:
         self.suggestion_trace = []
         self.ground_truth_action_trace = []
         self.reward_trace = []
-        self.compliance_trace = []          # EMA
-        self.compliance_trace_raw = []      # 원시
+        self.compliance_trace = []          # EMA (distance-based)
+        self.compliance_trace_raw = []      # raw (distance-based)
         self.estimated_compliance_trace = []
         self.goal_trace = []
+
+        # 사용자 모델 관점 상세 로깅(신규)
+        self.user_compliance_prob_trace = []   # respond()의 prob compliance
+        self.behavior_mean_before_trace = []   # 응답 전 μ
+        self.behavior_mean_after_trace = []    # 응답 후 μ
+        self.noise_trace = []                  # 샘플링된 noise
+        self.noise_std_trace = []              # 사용된 noise std
+
         self.io_dir = "io_logs"
         os.makedirs(self.io_dir, exist_ok=True)
 
@@ -70,7 +86,7 @@ class Simulator:
 
     def compute_reward(self, suggestion, gt_action, goal):
         """
-        시각화용 간단 보상(정책학습은 제거되었지만 그래프 유지를 위해 계산):
+        시각화용 간단 보상(정책학습 제거 상태에서 그래프 유지를 위해 계산):
         - 순응도(EMA 적용 전 원시값)에 가중치 1.0
         - 목표 근접도 exp(-(gt-goal)^2)에 가중치 1.5
         """
@@ -82,11 +98,7 @@ class Simulator:
 
     # ---------- 공통 LLM 호출 ----------
     def _llm_json(self, model, prompt):
-        payload = {
-            "model": model,
-            "messages": [{"role": "user", "content": prompt}],
-            "response_format": {"type": "json_object"}
-        }
+        payload = {"model": model, "messages": [{"role": "user", "content": prompt}], "response_format": {"type": "json_object"}}
         r = requests.post(self.api_url, json=payload, headers=self.headers, timeout=60)
         r.raise_for_status()
         content = r.json().get("choices", [{}])[0].get("message", {}).get("content", "{}").strip()
@@ -121,7 +133,6 @@ class Simulator:
         beta = profile.get("beta", "Unknown")
         gamma = profile.get("gamma", "Unknown")
 
-        # LLM에 사용자 역할로 자연스러운 응답을 만들게 하는 JSON 지시
         return f"""
         ## 🧑‍⚕️ Dietary Coaching User Profile
         You are a user receiving coaching from an AI to improve your dietary habits.
@@ -159,13 +170,17 @@ class Simulator:
         self.conversation_history = []
         session_log = []
 
-        # 초기/후속 세션에 따른 goal 잠금
-        if first_session:
-            # session 0은 agent.goal_behavior=4.0 고정 (agent.initial_goal_locked=True)
-            pass
+        # ---- Goal 조정 정책 ----
+        # 세션 0: 초기 Goal=4.0 고정 (갱신X)
+        if session_id == 0:
+            self.agent.goal_update_allowed = False
+        # 세션 1~6: 자유 조정
+        elif 1 <= session_id <= 6:
+            self.agent.goal_update_allowed = True
+        # 세션 7 이후: 5세션 블록 유지, 블록 시작에서만 허용
         else:
-            # 이후 세션부터 목표 갱신 허용
-            self.agent.unlock_initial_goal()
+            # 블록 시작 세션 = 7, 12, 17, ...  => (session_id - 7) % 5 == 0
+            self.agent.goal_update_allowed = ((session_id - 7) % 5 == 0)
 
         # 중간 턴들: 코칭 대화
         for t in range(1, self.turns_per_session):
@@ -195,7 +210,7 @@ class Simulator:
                 "user_utterance": user_msg
             })
 
-        # 마지막 턴: 숫자 제안(및 목표 갱신 가능)
+        # 마지막 턴: 숫자 제안(및 블록 정책에 따라 목표 갱신 가능)
         self.agent.run_context = {
             "session_id": session_id,
             "current_turn": self.turns_per_session,
@@ -224,10 +239,22 @@ class Simulator:
             "suggestion": suggestion
         })
 
-        # 사용자 GT 행동 산출
-        gt_action = self.user.respond(suggestion)
+        # 사용자 GT 행동 산출 + 상세 내부값 수집
+        resp = self.user.respond(suggestion, return_details=True)
+        if isinstance(resp, tuple):
+            gt_action, u = resp
+        else:
+            # (호환용) 예외적으로 상세값이 없을 때
+            gt_action, u = resp, {
+                "compliance": None,
+                "behavior_mean_before": None,
+                "behavior_mean_after": None,
+                "suggestion": suggestion,
+                "noise": None,
+                "noise_std": None
+            }
 
-        # compliance 계산 + EMA
+        # distance 기반 compliance + EMA
         comp_raw = self.compute_compliance(suggestion, gt_action)
         comp_ema = comp_raw if not self.compliance_trace else \
             (self.EMA_ALPHA * comp_raw + (1 - self.EMA_ALPHA) * self.compliance_trace[-1])
@@ -235,7 +262,7 @@ class Simulator:
         # 보상(시각화용)
         reward = self.compute_reward(suggestion, gt_action, self.agent.goal_behavior)
 
-        # 로그 적재
+        # --- 트레이스 적재 (신규 + 기존) ---
         self.suggestion_trace.append(suggestion)
         self.ground_truth_action_trace.append(gt_action)
         self.compliance_trace_raw.append(comp_raw)
@@ -243,38 +270,58 @@ class Simulator:
         self.reward_trace.append(reward)
         self.goal_trace.append(self.agent.goal_behavior)
 
+        # 사용자 모델 관점 상세 로깅
+        self.user_compliance_prob_trace.append(u.get("compliance"))
+        self.behavior_mean_before_trace.append(u.get("behavior_mean_before"))
+        self.behavior_mean_after_trace.append(u.get("behavior_mean_after"))
+        self.noise_trace.append(u.get("noise"))
+        self.noise_std_trace.append(u.get("noise_std"))
+
         # 에이전트 사후 업데이트
         self.agent.after_session_update(comp_ema)
         self.estimated_compliance_trace.append(self.agent.estimated_compliance)
 
-        # 세션 저장
+        # 세션 저장(JSON)
         if session_log:
-            session_log[-1]["ground_truth_action"] = gt_action
-            session_log[-1]["compliance_raw"] = comp_raw
-            session_log[-1]["compliance_ema"] = comp_ema
-            session_log[-1]["goal"] = self.agent.goal_behavior
-            session_log[-1]["reward"] = reward
+            session_log[-1].update({
+                "ground_truth_action": gt_action,
+                "compliance_raw": comp_raw,
+                "compliance_ema": comp_ema,
+                "goal": self.agent.goal_behavior,
+                "reward": reward,
+                # 상세 필드 추가
+                "user_compliance_prob": u.get("compliance"),
+                "behavior_mean_before": u.get("behavior_mean_before"),
+                "behavior_mean_after": u.get("behavior_mean_after"),
+                "noise": u.get("noise"),
+                "noise_std": u.get("noise_std")
+            })
 
         self._save_session_log(session_log, session_id, first_session)
         return session_log
 
     def _save_session_log(self, session_log, session_id, first_session):
         os.makedirs("sessions", exist_ok=True)
-        path = f"sessions/{'profile' if first_session else 'session'}_{session_id:03}.json"
+        path = f"sessions/{{'profile' if first_session else 'session'}}_{session_id:03}.json"
         self._save_json(path, session_log)
 
     # ---------- 전체 루프 ----------
     def train(self):
         # Session 0: 초기 목표 4.0 고정
         self.run_session(session_id=0, first_session=True)
-        # 이후 세션: 목표 유동
+        # 이후 세션: 블록 정책에 따라 goal 갱신 허용/차단
         for session_id in range(1, self.total_steps):
             self.run_session(session_id=session_id, first_session=False)
         self.save_log()
 
     def save_log(self, filename="simulation_log.txt"):
         with open(filename, "w") as f:
-            f.write("Step\tSuggestion\tGTAction\tComplianceRaw\tComplianceEMA\tReward\tGoal\n")
+            # 기존 헤더 + 신규 컬럼 추가
+            f.write(
+                "Step\tSuggestion\tGTAction\t"
+                "ComplianceRaw\tComplianceEMA\tReward\tGoal\t"
+                "UserComplianceProb\tMuBefore\tMuAfter\tNoise\tNoiseStd\n"
+            )
             for i in range(len(self.suggestion_trace)):
                 def fmt(val):
                     return f"{val:.4f}" if (val is not None and not (isinstance(val, float) and np.isnan(val))) else "NA"
@@ -285,5 +332,10 @@ class Simulator:
                     f"{fmt(self.compliance_trace_raw[i])}\t"
                     f"{fmt(self.compliance_trace[i])}\t"
                     f"{fmt(self.reward_trace[i])}\t"
-                    f"{fmt(self.goal_trace[i])}\n"
+                    f"{fmt(self.goal_trace[i])}\t"
+                    f"{fmt(self.user_compliance_prob_trace[i] if i < len(self.user_compliance_prob_trace) else None)}\t"
+                    f"{fmt(self.behavior_mean_before_trace[i] if i < len(self.behavior_mean_before_trace) else None)}\t"
+                    f"{fmt(self.behavior_mean_after_trace[i] if i < len(self.behavior_mean_after_trace) else None)}\t"
+                    f"{fmt(self.noise_trace[i] if i < len(self.noise_trace) else None)}\t"
+                    f"{fmt(self.noise_std_trace[i] if i < len(self.noise_std_trace) else None)}\n"
                 )

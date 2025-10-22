@@ -184,7 +184,7 @@ if __name__ == "__main__":
         user = UserLlm(user_profile, model_name="gpt-5-nano")
         agent = Agent(action_space=action_space, user_age = user_profile["age"], user_gender = user_profile["gender"], model_name="gpt-5-nano")
         sim = Simulator(user=user, agent=agent, action_space=action_space,
-                        total_steps=28)
+                        total_steps=56)
         sim.train()
         png_path = plot_simulation(sim, save=True, filename=f"{user_profile['name']}")
         saved_images.append(png_path)

@@ -10,9 +10,11 @@ class Agent:
     """
     경량 에이전트:
     - 정책/보상 수학 모델 제거, LLM(GPT-5 nano)이 대화/제안/목표조정을 판단
-    - 초기 goal=4.0 고정, 이후 세션부터 유동적 갱신 허용
+    - 초기 goal=4.0 고정
+    - 세션 정책에 따라 goal_update_allowed 로 목표 갱신 허용/차단
     - 순응도는 GT 기반 EMA로만 추정치 업데이트
-    - 제안은 항상 최근 GT 행동보다 '조금 더 높게' 내되, EMA 기반 상한으로 급락(불순응) 방지
+    - 제안은 항상 최근 GT 행동보다 '조금 더 높게' 내되, EMA 기반 상한과
+      적응형 스텝 클램프로 compliance 급락을 방지
     """
 
     def __init__(
@@ -29,7 +31,8 @@ class Agent:
 
         # 목표: 초기 4.0 고정 (세션 0)
         self.goal_behavior = 4.0
-        self.initial_goal_locked = True  # 세션 0 동안 잠금
+        self.initial_goal_locked = True          # 세션 0 동안 잠금(정보용)
+        self.goal_update_allowed = False         # ← 시뮬레이터가 세션 규칙에 따라 On/Off
 
         # 상태 추적
         self.estimated_compliance = 0.5
@@ -165,6 +168,7 @@ Guidance:
         - 제안은 항상 최근 GT action보다 '조금 위'에서 시작
         - EMA 기반 상한으로 compliance 급락 방지
         - 그 후 연속 변화 제한(적응형 스텝) 적용
+        - 목표 갱신은 self.goal_update_allowed 가 True일 때만 반영
         """
         history_str = "\n".join([f"{m['role'].capitalize()}: {m['content']}" for m in conversation_history]) or "No history."
         recent_suggestions = [round(float(x), 2) for x in self.suggestion_history[-10:]]
@@ -203,16 +207,14 @@ Guidance:
             min_gap, _ = self._growth_bounds(comp.get("recent_mean"))
             s = max(s, last_gt + min_gap)
 
-        # 5) 목표 갱신 (초기 세션 이후만)
-        if not self.initial_goal_locked and g is not None:
+        # 5) 목표 갱신 (세션 정책에서 허용될 때만)
+        if self.goal_update_allowed and g is not None:
             self.goal_behavior = g
 
         # 6) 최종 범위 보정
-        s = float(np.clip(s, 1.0, 5.0))
+        s = float(np
+        .clip(s, 1.0, 5.0))
         return s, msg
 
     def after_session_update(self, compliance_ema):
         self._update_estimated_compliance(compliance_ema)
-
-    def unlock_initial_goal(self):
-        self.initial_goal_locked = False
