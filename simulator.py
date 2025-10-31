@@ -21,7 +21,7 @@ class Simulator:
         * 텍스트 로그(simulation_log.txt) & 세션 JSON에 모두 기록
     """
 
-    def __init__(self, user, agent, action_space, total_steps=400, ema_alpha=0.2, turns_per_session=4):
+    def __init__(self, user, agent, action_space, total_steps=400, ema_alpha=0.2, turns_per_session=3):
         self.user = user
         self.agent = agent
         self.action_space = action_space

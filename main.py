@@ -109,19 +109,19 @@ if __name__ == "__main__":
     ]
 
     user_profiles = [
-        # {
-        #    "name": "independent_user",
-        #     "age": age_list[2],          # 30대
-        #    "gender": gender_list[1],    # 여성
-        #    "condition": condition_list[4],  # 야식
-        #     "mu": mu_list[2],            # 보통
-        #     "beta": beta_list[0],        # 전혀 영향받지 않음
-        #     "alpha": alpha_list[0],      # 절대 습관을 바꾸지 않음
-        #     "gamma": gamma_list[0],      # 잡식적이며 환경에 둔감함
-        #     "memory": memory_list[2],    # 2주 정도 기억
-        #     "delta": delta_list[4],      # 아주 안정적이어야 바뀜
-        #     "epsilon": epsilon_list[4]   # 항상 예외적 행동
-        # },
+         {
+            "name": "independent_user",
+             "age": age_list[2],          # 30대
+            "gender": gender_list[1],    # 여성
+            "condition": condition_list[4],  # 야식
+             "mu": mu_list[2],            # 보통
+             "beta": beta_list[0],        # 전혀 영향받지 않음
+             "alpha": alpha_list[0],      # 절대 습관을 바꾸지 않음
+             "gamma": gamma_list[0],      # 잡식적이며 환경에 둔감함
+             "memory": memory_list[2],    # 2주 정도 기억
+             "delta": delta_list[4],      # 아주 안정적이어야 바뀜
+             "epsilon": epsilon_list[4]   # 항상 예외적 행동
+         },
         # {
         #     "name": "compliant_user",
         #     "age": age_list[1],          # 20대
@@ -135,19 +135,19 @@ if __name__ == "__main__":
         #     "delta": delta_list[1],      # 조금만 바뀌어도 적응
         #     "epsilon": epsilon_list[1]   # 예외가 거의 없음
         # },
-        {
-            "name": "adaptive_user", 
-            "age": age_list[2],          # 30대
-            "gender": gender_list[1],    # 여성
-            "condition": condition_list[2],  # 폭식
-            "mu": mu_list[1],            # 보통
-            "beta": beta_list[2],        # 보통
-            "alpha": alpha_list[2],      # 가끔 바꿈
-            "gamma": gamma_list[2],      # 보통
-            "memory": memory_list[3],    # 1달 이상 기억
-            "delta": delta_list[2],      # 보통
-            "epsilon": epsilon_list[2]   # 가끔 예외 발생
-        },
+        #{
+        #    "name": "adaptive_user", 
+        #    "age": age_list[2],          # 30대
+        #    "gender": gender_list[1],    # 여성
+        #    "condition": condition_list[2],  # 폭식
+        #    "mu": mu_list[1],            # 보통
+        #    "beta": beta_list[2],        # 보통
+        #    "alpha": alpha_list[2],      # 가끔 바꿈
+        #    "gamma": gamma_list[2],      # 보통
+        #    "memory": memory_list[3],    # 1달 이상 기억
+        #    "delta": delta_list[2],      # 보통
+        #    "epsilon": epsilon_list[2]   # 가끔 예외 발생
+        #},
         # {
         #     "name": "high_noise_user",
         #     "age": age_list[3],          # 40대
@@ -190,4 +190,3 @@ if __name__ == "__main__":
         saved_images.append(png_path)
 
     print("\nSaved plot images:", saved_images)
-
