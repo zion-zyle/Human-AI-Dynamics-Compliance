@@ -44,28 +44,41 @@ class UserLlm:
         self.user_profile = user_profile
         self._initialize_llm_params(model_name)
         self._initialize_numeric_params()
+        self._apply_preset_overrides()   # ← 프리셋(이름/옵션)에 따른 개성 강화
 
+    # ---------- LLM 세팅 ----------
     def _initialize_llm_params(self, model_name: str):
         self.model_name = model_name
         self.api_url = "https://api.openai.com/v1/chat/completions"
         self.api_key = os.getenv("OPENAI_API_KEY")
         self.headers = {"Content-Type": "application/json", "Authorization": f"Bearer {self.api_key}"}
 
+    # ---------- 수치 파라미터 초기화(기본 스케일) ----------
     def _initialize_numeric_params(self):
         # 기본 맵핑
         self.behavior_mean = self._map_text_to_value(MU_LIST, self.user_profile['mu'], 1.0, 5.0)
-        # 순응감도(β) 살짝 완화 → 제안에 더 잘 반응
+
+        # 순응감도(β) 살짝 완화 → 제안에 더 잘 반응 (기본값, 이후 프리셋에서 가감 예정)
         base_beta = self._map_text_to_value(BETA_LIST, self.user_profile['beta'], 0.1, 8.0, reverse=True)
-        self.compliance_sensitivity = 0.7 * base_beta
-        # 적응률 상향(EMA형 이동에 활용)
+        self.compliance_sensitivity = 0.7 * base_beta  # 기본 스케일
+
+        # 적응률(EMA형 이동)
         self.adaptation_rate = self._map_text_to_value(DELTA_LIST, self.user_profile['delta'], 0.03, 0.30, reverse=True)
-        # 노이즈 소폭 축소
+
+        # 노이즈
         self.noise_sensitivity = 0.8 * self._map_text_to_value(EPSILON_LIST, self.user_profile['epsilon'], 0.1, 1.5)
         self.min_noise = 0.02
+
         # 히스토리(표본 유지용)
         self.history: List[float] = []
 
-    def _map_text_to_value(self, option_list: List[str], current_value: str, min_val: float, max_val: float, reverse: bool = False) -> float:
+        # 프리셋 전용 임계값(기본 비활성)
+        self.abrupt_drop_threshold = 0.0  # |S - mu| 임계치
+        self.abrupt_drop_factor = 1.0     # 임계 초과 시 순응 배수
+
+    # ---------- 텍스트 옵션 → 수치 맵핑 ----------
+    def _map_text_to_value(self, option_list: List[str], current_value: str,
+                           min_val: float, max_val: float, reverse: bool = False) -> float:
         try:
             index = option_list.index(current_value)
             total_items = len(option_list)
@@ -76,10 +89,60 @@ class UserLlm:
         except ValueError:
             return (min_val + max_val) / 2
 
-    def compliance_prob(self, suggestion: float) -> float:
-        # 제안-평균 거리 제곱에 대한 가우시안 형태
-        return float(np.exp(-self.compliance_sensitivity * (suggestion - self.behavior_mean) ** 2))
+    # ---------- 프리셋(이름/옵션)에 의한 개성 강화 ----------
+    def _apply_preset_overrides(self):
+        """
+        user_profile["preset"] 또는 name에 포함된 키워드로 개성을 강화합니다.
+        - independent: 제안 둔감, 적응 느림
+        - compliant: 제안 민감, 적응 빠름, 저노이즈
+        - adaptive: 중간값, 순응↑일수록 빠른 적응
+        - resistant: 큰 차이에 순응 급락, 적응 매우 느림
+        - high_noise: 노이즈 큼
+        """
+        def clamp(x, lo, hi): return float(np.clip(float(x), lo, hi))
+        preset_key = (self.user_profile.get("preset") or self.user_profile.get("name") or "").lower()
 
+        if "independent" in preset_key:
+            self.compliance_sensitivity = clamp(self.compliance_sensitivity * 2.0, 0.2, 12.0)
+            self.adaptation_rate = clamp(self.adaptation_rate * 0.5, 0.01, 0.20)
+            self.noise_sensitivity = clamp(self.noise_sensitivity * 1.0, 0.05, 2.0)
+
+        elif "compliant" in preset_key:
+            self.compliance_sensitivity = clamp(self.compliance_sensitivity * 0.35, 0.05, 3.0)
+            self.adaptation_rate = clamp(self.adaptation_rate * 1.8, 0.05, 0.50)
+            self.noise_sensitivity = clamp(self.noise_sensitivity * 0.6, 0.02, 1.0)
+            self.min_noise = 0.01
+
+        elif "adaptive" in preset_key:
+            self.compliance_sensitivity = clamp(self.compliance_sensitivity * 0.8, 0.1, 6.0)
+            self.adaptation_rate = clamp(self.adaptation_rate * 1.2, 0.03, 0.40)
+            self.noise_sensitivity = clamp(self.noise_sensitivity * 0.9, 0.03, 1.5)
+
+        elif "resistant" in preset_key:
+            self.compliance_sensitivity = clamp(self.compliance_sensitivity * 2.5, 0.5, 12.0)
+            self.adaptation_rate = clamp(self.adaptation_rate * 0.5, 0.01, 0.15)
+            self.noise_sensitivity = clamp(self.noise_sensitivity * 0.85, 0.03, 1.2)
+            self.abrupt_drop_threshold = 0.6   # |S - mu|가 이보다 크면
+            self.abrupt_drop_factor = 0.5      # 순응 50% 급락
+
+        elif "high_noise" in preset_key:
+            self.noise_sensitivity = clamp(self.noise_sensitivity * 1.8, 0.2, 3.0)
+            self.min_noise = 0.04
+            self.adaptation_rate = clamp(self.adaptation_rate * 0.9, 0.02, 0.30)
+            self.compliance_sensitivity = clamp(self.compliance_sensitivity * 1.1, 0.1, 8.0)
+
+        # 그 외 프리셋 미지정: 기본 스케일 유지(변경 없음)
+
+    # ---------- 순응 확률 ----------
+    def compliance_prob(self, suggestion: float) -> float:
+        # 기본: 가우시안 형태
+        base = float(np.exp(-self.compliance_sensitivity * (suggestion - self.behavior_mean) ** 2))
+        # 큰 차이(임계 초과) 급락(주로 resistant에서 활성)
+        if self.abrupt_drop_threshold > 0.0 and abs(suggestion - self.behavior_mean) > self.abrupt_drop_threshold:
+            base *= self.abrupt_drop_factor
+        return float(np.clip(base, 0.0, 1.0))
+
+    # ---------- 행동 생성 ----------
     def respond(self, suggestion: float, return_details: bool = False) -> Union[float, Tuple[float, Dict[str, float]]]:
         """
         사용자 행동 샘플을 생성하고, 요청 시 내부값 세트를 함께 반환합니다.
@@ -87,6 +150,7 @@ class UserLlm:
         """
         mean_before = float(self.behavior_mean)
         compliance = self.compliance_prob(suggestion)
+
         noise_std = self.noise_sensitivity * (1 - compliance) + self.min_noise
         noise = float(np.random.normal(0.0, noise_std))
 

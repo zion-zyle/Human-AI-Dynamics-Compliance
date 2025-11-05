@@ -2,7 +2,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 import os
 
-def plot_simulation(simulator, save=False, filename=None):
+def plot_simulation(simulator, save=False, filename=None, base_dir: str | None = None):
     fig, axs = plt.subplots(4, 1, figsize=(12, 12))
 
     # 0) 제안 vs 실제 행동(GT)
@@ -45,7 +45,9 @@ def plot_simulation(simulator, save=False, filename=None):
     plt.tight_layout()
 
     if save and filename:
-        png_dir = "plots"
+        # base_dir/folderX/plots 구조로 저장
+        root = base_dir.strip() if base_dir else ""
+        png_dir = os.path.join(root, "plots") if root else "plots"
         os.makedirs(png_dir, exist_ok=True)
         png_path = os.path.join(png_dir, f"{filename}.png")
         plt.savefig(png_path)

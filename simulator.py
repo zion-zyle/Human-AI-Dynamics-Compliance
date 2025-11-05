@@ -21,7 +21,7 @@ class Simulator:
         * 텍스트 로그(simulation_log.txt) & 세션 JSON에 모두 기록
     """
 
-    def __init__(self, user, agent, action_space, total_steps=400, ema_alpha=0.2, turns_per_session=3):
+    def __init__(self, user, agent, action_space, total_steps=400, ema_alpha=0.2, turns_per_session=3, base_dir: str = ""):
         self.user = user
         self.agent = agent
         self.action_space = action_space
@@ -30,6 +30,10 @@ class Simulator:
 
         self.EMA_ALPHA = ema_alpha
         self.RETRY_STATUS = {429, 500, 502, 503, 504}
+
+        # 추가: 모든 산출물(로그/세션/텍스트 로그)의 루트 디렉터리 (예: "folder1")
+        self.base_dir = base_dir.strip()
+
         self._init_logs()
 
         # 대화 히스토리(세션별로 재설정)
@@ -57,11 +61,19 @@ class Simulator:
         self.noise_trace = []                  # 샘플링된 noise
         self.noise_std_trace = []              # 사용된 noise std
 
-        self.io_dir = "io_logs"
+        # io_logs를 base_dir 하위로 생성
+        self.io_dir = self._join_base("io_logs")
         os.makedirs(self.io_dir, exist_ok=True)
 
+    def _join_base(self, *paths: str) -> str:
+        """base_dir이 지정되면 그 하위 경로를, 아니면 상대 경로를 반환."""
+        if self.base_dir:
+            return os.path.join(self.base_dir, *paths)
+        return os.path.join(*paths)
+
     def _ensure_dir(self, d):
-        os.makedirs(d, exist_ok=True)
+        if d:
+            os.makedirs(d, exist_ok=True)
         return d
 
     def _save_json(self, path, data):
@@ -301,8 +313,9 @@ class Simulator:
         return session_log
 
     def _save_session_log(self, session_log, session_id, first_session):
-        os.makedirs("sessions", exist_ok=True)
-        path = f"sessions/{{'profile' if first_session else 'session'}}_{session_id:03}.json"
+        sessions_root = self._join_base("sessions")
+        os.makedirs(sessions_root, exist_ok=True)
+        path = os.path.join(sessions_root, f"{'profile' if first_session else 'session'}_{session_id:03}.json")
         self._save_json(path, session_log)
 
     # ---------- 전체 루프 ----------
@@ -315,7 +328,9 @@ class Simulator:
         self.save_log()
 
     def save_log(self, filename="simulation_log.txt"):
-        with open(filename, "w") as f:
+        out_path = self._join_base(filename)
+        self._ensure_dir(os.path.dirname(out_path))
+        with open(out_path, "w") as f:
             # 기존 헤더 + 신규 컬럼 추가
             f.write(
                 "Step\tSuggestion\tGTAction\t"
