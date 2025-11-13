@@ -1,0 +1,28 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "좋은 아침이에요! 오늘 아침 식사는 어땠고, 목표를 향해 이번 주에 시도해볼 아주 작은 한 가지 변화는 무엇일지 함께 생각해볼까요?",
+    "user_utterance": "Thanks for the check-in. I still feel the urge to binge when I'm stressed, but I'll try to pause and use a quick grounding technique before eating."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "스트레스로 인한 충동을 알아차린 것만으로도 큰 진전이에요. 충동이 들 때는 몸의 감각에 집중하고 물 한 모금 마시며 잠깐 멈춰 서는 아주 짧은 대처를 함께 해볼까요?",
+    "user_utterance": "Thanks for the guidance today. I’ll try to stick to a steadier meal routine and use the coping strategies when cravings spike, even with external triggers."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "좋은 진전이에요. 스트레스가 올라올 때 즉시 60초 정도의 짧은 대처를 시도해 보세요: 물 한 모금 마시기, 몸 감각에 집중하기, 깊은 호흡. 이 작은 pause를 반복하면 충동 관리에 도움이 됩니다.",
+    "user_utterance": "Thanks for the check-in. I'm hoping to keep meals more regular and lean on the strategies we've discussed when cravings hit.",
+    "suggestion": 3.2,
+    "ground_truth_action": 3.168677444760205,
+    "compliance_raw": 0.9937354889520409,
+    "compliance_ema": 0.9553078380383787,
+    "goal": 3.4689343579278558,
+    "reward": 2.364420871813903,
+    "user_compliance_prob": 0.8848491688369803,
+    "behavior_mean_before": 2.9677480849925595,
+    "behavior_mean_after": 3.0052415171311058,
+    "noise": -0.004578554187485354,
+    "noise_std": 0.08632687874989937
+  }
+]

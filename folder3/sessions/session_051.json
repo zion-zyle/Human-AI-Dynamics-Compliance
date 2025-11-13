@@ -1,0 +1,28 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Nice to meet you! What's one everyday habit you'd like to shift this week, and what's been the biggest hurdle so far?",
+    "user_utterance": "Thanks for the guidance. I sometimes get overwhelmed by binge urges, but I will focus on one small, doable step today."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "Nice plan. What is one tiny step you'd like to try today to interrupt a binge urge, and what will you do immediately when you notice it coming on?",
+    "user_utterance": "Thanks for the guidance. I'll aim for a more regular routine today and be kind to myself if I slip."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "Nice consistency so far today. Try a tiny urge-interruption: when you feel a binge urge, pause for 5 minutes and do a quick 2-minute walk or stretch before deciding what to eat. This gentle, doable step helps break the urge cycle and keeps you moving toward your goal.",
+    "user_utterance": "Thanks for the guidance. I'm noticing some irregular meals lately and want practical steps to stay steady and reduce binge urges when stress spikes.",
+    "suggestion": 4.506537059756439,
+    "ground_truth_action": 4.464848769551925,
+    "compliance_raw": 0.9916623419590973,
+    "compliance_ema": 0.9784977907150056,
+    "goal": 4.521922385025304,
+    "reward": 2.4867841949298186,
+    "user_compliance_prob": 0.765492797493107,
+    "behavior_mean_before": 4.163275218416759,
+    "behavior_mean_after": 4.215985385728671,
+    "noise": 0.03880908393541987,
+    "noise_std": 0.1550761486439704
+  }
+]

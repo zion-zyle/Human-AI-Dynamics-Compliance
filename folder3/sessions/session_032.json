@@ -1,0 +1,28 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Nice to connect this morning from Suwon. What's one small change you feel ready to try today that fits your routine?",
+    "user_utterance": "Thanks for the guidance. Cravings were challenging today, but I want to stick to a simple plan and reach out if I need support."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "Cravings can be tough—great job acknowledging them. What's one small, doable swap you can try today when a craving hits, and where in your routine does it show up most often?",
+    "user_utterance": "Thanks for the guidance. I'll focus on gentler meal timing and acknowledging urges without judgment."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "Nice progress—stay gentle with yourself today. When cravings hit, try a 5-minute pause and a simple swap (like fruit + nuts) to keep you on track.",
+    "user_utterance": "Thanks for the guidance. I am still dealing with irregular meals and cravings when plans change—can we work on small, flexible routines I can actually stick to?",
+    "suggestion": 3.4226553164736235,
+    "ground_truth_action": 3.4832165337816225,
+    "compliance_raw": 0.9878877565384002,
+    "compliance_ema": 0.9682283570262216,
+    "goal": 3.52169579821192,
+    "reward": 2.48566841929227,
+    "user_compliance_prob": 0.8814377570730267,
+    "behavior_mean_before": 3.186765233300603,
+    "behavior_mean_after": 3.241982945616584,
+    "noise": 0.0885288746532227,
+    "noise_std": 0.08829185192593661
+  }
+]

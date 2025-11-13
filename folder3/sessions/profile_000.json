@@ -1,0 +1,28 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Great to hear you're aiming for Goal 4.00. Could you share what that means for you (weight, energy, or a score) and what your typical day of meals looks like here in Suwon?",
+    "user_utterance": "I'm feeling a bit overwhelmed today, and the urge to binge is strong. I want to try sticking with the plan and giving myself grace."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "You're recognizing the urge with grace, and that awareness is a powerful start. Would you be willing to take a short pause to name the craving and choose a simple, doable step for now (like a glass of water and a satisfying snack)?",
+    "user_utterance": "Thanks for checking in. I’d like to start with small, doable steps to make my eating pattern more regular, while staying flexible enough to handle cravings."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "Take a small, doable step: drink a glass of water now and commit to a regular meal or a small, balanced snack within the next 1–2 hours. If cravings come up, pause for 2 minutes, name the craving, and choose a simple snack (e.g., yogurt, fruit, or a handful of nuts). This gentle rhythm supports consistency without pressure.",
+    "user_utterance": "I'm trying to follow the guidance, but cravings hit hard today and I didn't act on it yet.",
+    "suggestion": 2.5,
+    "ground_truth_action": 2.576950737404007,
+    "compliance_raw": 0.9846098525191986,
+    "compliance_ema": 0.9846098525191986,
+    "goal": 4.0,
+    "reward": 1.1825869160667,
+    "user_compliance_prob": 0.5672245624268841,
+    "behavior_mean_before": 2.0,
+    "behavior_mean_after": 2.0895169253300163,
+    "noise": 0.2933384561905647,
+    "noise_std": 0.26927865204211476
+  }
+]

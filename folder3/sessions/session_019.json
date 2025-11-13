@@ -1,0 +1,28 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "수원에서 바로 적용 가능한 현실적인 식단 변화부터 함께 찾아볼게요. 오늘 가장 큰 고민이나 달성하고 싶은 목표를 한 문장으로 알려주실래요?",
+    "user_utterance": "Thanks for the guidance—I'm noticing some evening urges, and I’ll keep my plan simple today and check in if I need support."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "좋아요, 저녁에 가장 강하게 느끼는 유혹은 어떤 상황에서 시작되나요? 그때 적용할 수 있는 아주 작은 대처 한 가지를 같이 찾아볼까요?",
+    "user_utterance": "Thanks for the guidance today. I appreciate the plan and will try to follow it, though I sometimes wrestle with urges—I'll let you know when I need a bit more flexibility."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "You’re doing great with high consistency. A small, realistic step for today is 3.2. If evening urges arise, try one tiny tactic (e.g., a glass of water and a fiber-rich snack, then wait 10 minutes). I’ve updated your goal to 3.2 to reflect your current pattern.",
+    "user_utterance": "Thanks for the guidance. I still struggle with irregular eating, but I want to stay gentle with myself and follow the plan today.",
+    "suggestion": 3.2267699160120347,
+    "ground_truth_action": 2.8924295622730734,
+    "compliance_raw": 0.9331319292522078,
+    "compliance_ema": 0.9329857440571032,
+    "goal": 3.4689343579278558,
+    "reward": 2.00897792911796,
+    "user_compliance_prob": 0.6411960491796109,
+    "behavior_mean_before": 2.784104817192153,
+    "behavior_mean_after": 2.8017052494140176,
+    "noise": -0.17551036739209028,
+    "noise_std": 0.22667107567254413
+  }
+]

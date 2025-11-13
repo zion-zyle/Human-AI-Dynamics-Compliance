@@ -1,0 +1,28 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Nice to meet you—let’s start by learning about your typical day and the foods you enjoy. What’s one small change you’re willing to try this week to move toward your goal?",
+    "user_utterance": "Thanks for the check-in. I'm noticing some days feel off with meals, and I could use a quick strategy to handle urges when they pop up."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "Great awareness—when urges pop up, pause briefly, check if you’re actually hungry, then drink water and choose a satisfying protein-rich snack or fruit. What tends to trigger your urges most during the day here in Suwon?",
+    "user_utterance": "Thanks for checking in. I’m noticing my eating feels a bit up and down, but I want to stay with small, doable steps today rather than making big changes."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "Nice work staying consistent. Today, aim for a target around 4.0–4.1 by pausing for urges, drinking water, and choosing a quick protein-rich snack or fruit.",
+    "user_utterance": "Thanks for the guidance today. My eating has still been a bit irregular, so I'll focus on steadier routines and reaching out when cravings come up.",
+    "suggestion": 4.302583102585202,
+    "ground_truth_action": 4.29364766105189,
+    "compliance_raw": 0.9982129116933376,
+    "compliance_ema": 0.9664807811234433,
+    "goal": 4.479315602040621,
+    "reward": 2.4473851507338873,
+    "user_compliance_prob": 0.7867621224575163,
+    "behavior_mean_before": 3.977398760017472,
+    "behavior_mean_after": 4.033339854223546,
+    "noise": 0.06040617748587827,
+    "noise_std": 0.14282501746447063
+  }
+]

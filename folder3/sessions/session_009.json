@@ -1,0 +1,28 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Happy Wednesday from Suwon—I'm glad you're here. What's one small, doable step you want to focus on today to move toward your goal?",
+    "user_utterance": "Thanks for the check-in. I’m noticing my routine feels off, but I want to keep small, regular meals in place to ease the urge to binge."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "That sounds like a practical anchor for the day. What's one reliable meal time you can commit to today, and what cue will help you pause before reaching for the next snack?",
+    "user_utterance": "Thanks for checking in. I’ve been feeling some urges and irregular meals, and I’d like to focus on simple, doable steps to manage cravings today."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "Nice work staying consistent. Today's small, steady step is to aim for a routine at about 2.6 on your scale: two regular meals with a quick pause before snacks. This supports craving control and keeps momentum today.",
+    "user_utterance": "Thanks for checking in. I’ve been dealing with some urges lately and want to keep moving with small, doable steps even though my routine is a bit irregular.",
+    "suggestion": 2.7317005596461996,
+    "ground_truth_action": 2.511633034795348,
+    "compliance_raw": 0.9559864950298297,
+    "compliance_ema": 0.9277283584120783,
+    "goal": 3.0,
+    "reward": 2.1376968181013942,
+    "user_compliance_prob": 0.6346554657293324,
+    "behavior_mean_before": 2.2839583296822203,
+    "behavior_mean_after": 2.320803130093248,
+    "noise": -0.05648734837135144,
+    "noise_std": 0.23043845173990454
+  }
+]

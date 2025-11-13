@@ -1,0 +1,28 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Good morning from Suwon! To tailor a simple next step, could you share what a typical breakfast looks like today and what's your biggest challenge toward your goal?",
+    "user_utterance": "Thanks for the update—I'm trying to stay steady, but binge urges still show up. I'll keep following a gentle routine and reach out when cravings spike."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "Binge urges can be tough, and I’m glad you’re keeping a gentle routine. What tends to help you ride out cravings in those moments, and what would be a tiny, doable first step you’d like to try?",
+    "user_utterance": "Thanks for the guidance. I will focus on regular meals today and pause when urges arise to avoid binge thoughts."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "Nice work staying steady. Today, aim for a 3.1 by sticking to regular meals and pausing for a moment when urges arise to prevent binge thoughts. Small, consistent steps add up.",
+    "user_utterance": "Thanks for checking in. I'm feeling a bit inconsistent lately and would love a simple, doable step I can stick to today.",
+    "suggestion": 3.3984486804040293,
+    "ground_truth_action": 3.020160364970997,
+    "compliance_raw": 0.9243423369133936,
+    "compliance_ema": 0.9457009253099631,
+    "goal": 3.4689343579278558,
+    "reward": 2.1507226690223544,
+    "user_compliance_prob": 0.643486744088241,
+    "behavior_mean_before": 2.957563201813785,
+    "behavior_mean_after": 2.9677480849925595,
+    "noise": -0.22110679797660984,
+    "noise_std": 0.2253516354051732
+  }
+]
