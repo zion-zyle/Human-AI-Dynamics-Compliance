@@ -1,0 +1,28 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Thanks for sharing your context today. What's the single biggest hurdle you're facing right now—cravings, meal timing, or sticking to a simple plan?",
+    "user_utterance": "Not sure I’m going to follow more tips right now. Tell me a tiny change I could try tonight that won’t derail my routine."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "Tonight, try a tiny change: have a glass of water before your next meal to help with fullness and curb cravings. Does that feel doable, or would you prefer another simple tweak that fits your routine?",
+    "user_utterance": "I hear you, but I’m not convinced these changes will help with my night eating; I’ll stick with my routine for now."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "Tonight's tiny step: drink a glass of water before your next meal to help fullness and curb cravings. I'm nudging your goal to 2.5 to stay aligned with how you're doing right now.",
+    "user_utterance": "I hear you, but I am not easily swayed by tips right now. Keep it simple and do not push.",
+    "suggestion": 2.0891976902301876,
+    "ground_truth_action": 2.048219055414449,
+    "compliance_raw": 0.9918042730368523,
+    "compliance_ema": 0.8810615038233685,
+    "goal": 2.654230069722032,
+    "reward": 2.030759645338915,
+    "user_compliance_prob": 0.8602773140758256,
+    "behavior_mean_before": 1.9732772728381867,
+    "behavior_mean_after": 1.9743228665732093,
+    "noise": -0.02478192274427711,
+    "noise_std": 0.18766722310900924
+  }
+]

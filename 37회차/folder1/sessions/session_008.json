@@ -1,0 +1,28 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Good morning from Suwon—could you share what 'G 2.40' means for you, and what small change you'd be most comfortable trying this week?",
+    "user_utterance": "I hear the tips, but I’m not convinced they’ll stick for me. I’ll go at my own pace and see what feels doable."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "Nice—honoring your pace. What's one tiny change you feel would be doable this week in your daily routine here in Suwon?",
+    "user_utterance": "I hear the tips, but my night eating pattern doesn't bend easily and I'm not ready to change my routine yet."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "Nice job honoring your pace. A tiny, doable shift this week: add a small protein-rich snack mid-morning (e.g., yogurt or nuts) to support fullness and reduce late-night cravings. If that feels like too much, start with a simple habit like drinking a glass of water before meals. We’ll adjust based on how it fits your routine.",
+    "user_utterance": "I hear you, but night eating is stubborn for me and I don’t react to prompts much. I’d prefer something simple and easy to follow.",
+    "suggestion": 2.2,
+    "ground_truth_action": 2.058237484426551,
+    "compliance_raw": 0.9716474968853102,
+    "compliance_ema": 0.9341347176283242,
+    "goal": 2.399912403633608,
+    "reward": 2.306369933641222,
+    "user_compliance_prob": 0.6065997217450736,
+    "behavior_mean_before": 1.9887354944878393,
+    "behavior_mean_after": 1.9895729585705613,
+    "noise": -0.05865100031957591,
+    "noise_std": 0.49208033390591177
+  }
+]

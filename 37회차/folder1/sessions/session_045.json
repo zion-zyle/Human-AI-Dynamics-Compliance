@@ -1,0 +1,28 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Nice to meet you- what's one meal habit you'd like to adjust first, considering your Suwon timetable? Tell me a few foods you enjoy and your usual eating times, so I can tailor simple, practical tweaks.",
+    "user_utterance": "I hear you, but I’m highly resistant to dietary suggestions and night eating hasn’t shifted with quick tips."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "I hear you—you're not into quick diet tips, and night eating hasn't shifted yet. What's one small, non-diet change this week that would feel genuinely doable for you in your Suwon routine?",
+    "user_utterance": "I hear you, but I do things in my own pace and I'm not easily swayed by tips. Let’s keep it simple and workable for me."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "You're showing solid consistency. Let's keep it ultra-tine and doable: try one tiny, non-diet change this week that fits your Suwon routine—like nudging one fixed meal by 15 minutes or adding a small protein at the same time each day. Pick what feels easiest and we’ll build from there.",
+    "user_utterance": "I hear what you’re suggesting, but I’m not ready to change my routines yet. Nighttime eating is stubborn for me.",
+    "suggestion": 2.3,
+    "ground_truth_action": 1.0,
+    "compliance_raw": 0.74,
+    "compliance_ema": 0.8533758115199973,
+    "goal": 2.654230069722032,
+    "reward": 0.8371973320960056,
+    "user_compliance_prob": 0.3245974853094642,
+    "behavior_mean_before": 1.983043297941211,
+    "behavior_mean_after": 1.9732772728381867,
+    "noise": -1.6209240001510803,
+    "noise_std": 0.8304830176286431
+  }
+]

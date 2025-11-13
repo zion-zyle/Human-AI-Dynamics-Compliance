@@ -1,0 +1,28 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Hi there! To tailor things for you, what part of your routine would you like to improve first—meals, cravings, or activity—and do you have any foods you love or avoid in Suwon?",
+    "user_utterance": "I hear you, but my night eating habits are stubborn and I’m not ready to change my routine yet. I’ll keep listening, though I don’t expect big shifts anytime soon."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "That makes sense; night eating can be tough. If you're not ready to change your routine yet, would you try a tiny step like just noting what triggers your late-evening cravings today?",
+    "user_utterance": "I hear you, but I’m not ready to change my routine right now. I’ll decide when I want to try something new."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "Nice job staying engaged. Try a tiny, repeatable step you can handle tonight: log one trigger for your late-evening cravings (when it happened, what you were doing, and where you were). This low-effort note builds awareness without changing your routine. Based on your recent pace, I’m adjusting your goal to 2.4 to better fit what you’ve been achieving. You’re making progress—small steps still move you forward.",
+    "user_utterance": "Late-night urges are my default, and I don't respond well to general tips. Give me something plain and practical that I can actually try.",
+    "suggestion": 2.5246168381438663,
+    "ground_truth_action": 1.8050432020564802,
+    "compliance_raw": 0.8560852727825228,
+    "compliance_ema": 0.8950864285770926,
+    "goal": 2.7530520361822934,
+    "reward": 1.4667204182257287,
+    "user_compliance_prob": 0.040446298468233007,
+    "behavior_mean_before": 1.9894449575027047,
+    "behavior_mean_after": 1.9880060065735667,
+    "noise": -0.20604747706244256,
+    "noise_std": 1.1714644418381206
+  }
+]

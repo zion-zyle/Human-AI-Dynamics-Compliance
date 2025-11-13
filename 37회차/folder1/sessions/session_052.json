@@ -1,0 +1,28 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Nice to meet you! Could you share what Current Goal G: 2.75 means for you and what a typical day of meals looks like here in Suwon?",
+    "user_utterance": "Night eating is stubborn for me, and I don't respond to emotional or big plans. Just tell me something ultra-simple and I'll decide if I'll use it."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "Tonight, when night cravings hit, pause for a moment and sip water before deciding to eat. Is that ultra-simple pause doable for you, and would you like me to keep giving one tiny cue like this?",
+    "user_utterance": "I hear you. I'm not inclined to follow more guidelines right now. Keep it simple and practical."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "Ultra-simple cue: when night cravings hit, pause, drink a glass of water, and wait 3 minutes before deciding to eat. This tiny pause is easy to start now.",
+    "user_utterance": "I hear your latest suggestion, but I'm not sure it will fit my routine or actually help me. I'd rather not overthink it right now.",
+    "suggestion": 2.2,
+    "ground_truth_action": 2.468684581933934,
+    "compliance_raw": 0.9462630836132132,
+    "compliance_ema": 0.9053217595843168,
+    "goal": 2.7530520361822934,
+    "reward": 2.329740586464152,
+    "user_compliance_prob": 0.604505641546609,
+    "behavior_mean_before": 1.9880060065735667,
+    "behavior_mean_after": 1.9937903927180889,
+    "noise": 0.3525270103600934,
+    "noise_std": 0.49459323014406925
+  }
+]

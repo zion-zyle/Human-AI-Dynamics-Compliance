@@ -1,0 +1,28 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Great to connect—it's a Wednesday morning in Suwon. What's the biggest everyday hurdle you'd like help with so I can tailor practical steps for you?",
+    "user_utterance": "I’m not really looking to change my routine right now. I’ll handle it on my own terms."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "I hear you—you can handle it on your terms. When you’re ready, what’s one tiny, non-disruptive tweak you’d be willing to try this week to support your goal?",
+    "user_utterance": "I hear your suggestions, but I'm not convinced they'll work for me. I'll consider things on my own timetable."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "Gentle, doable step: add one extra half-cup serving of vegetables to one meal on two days this week. No routine changes—just a small, steady nudge toward your goal. You’ve got this!",
+    "user_utterance": "I’m not convinced these tips will change my night eating; give me something practical I can actually commit to.",
+    "suggestion": 2.140093229859773,
+    "ground_truth_action": 2.04219261548373,
+    "compliance_raw": 0.9804198771247915,
+    "compliance_ema": 0.9354322591125528,
+    "goal": 2.399912403633608,
+    "reward": 2.3002481888634136,
+    "user_compliance_prob": 0.7793165501279504,
+    "behavior_mean_before": 1.9908876067651027,
+    "behavior_mean_after": 1.991572265648484,
+    "noise": -0.06497340273120178,
+    "noise_std": 0.28482013984645954
+  }
+]

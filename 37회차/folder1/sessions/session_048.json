@@ -1,0 +1,28 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Nice to meet you! What's your typical daily eating pattern right now, and what's the first change you'd like to try?",
+    "user_utterance": "Noted. I’m not changing my routine right now, so I’ll keep doing what I’ve been doing."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "Got it—you’d like to keep your routine for now. What’s one tiny, doable change today—like a protein-rich snack or adding more vegetables—that we could try this week?",
+    "user_utterance": "I hear you, but I need ideas that fit my irregular schedule and don’t feel forced. I’ll consider tweaks only if they feel doable, not another mandate."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "You're doing well staying with your routine. Since your recent actions are a bit below your current goal, let's set a small, feasible target today: score 2.3 on your behavior scale. Pick one tiny change that fits your day—like adding a protein-rich snack or an extra serving of vegetables at a meal when you have a moment, without forcing a schedule. We'll adjust your goal to 2.4 to reflect the gentle move—build consistency at your own pace.",
+    "user_utterance": "Not convinced by generic tips, I need something simple and practical that fits my irregular nights. If you’ve got a plan that could actually work for me tonight, tell me what it is.",
+    "suggestion": 2.3,
+    "ground_truth_action": 2.4996835393062886,
+    "compliance_raw": 0.9600632921387422,
+    "compliance_ema": 0.9028651414176694,
+    "goal": 2.654230069722032,
+    "reward": 2.424660817552362,
+    "user_compliance_prob": 0.3216879019645324,
+    "behavior_mean_before": 1.9817776142577046,
+    "behavior_mean_after": 1.986911439223898,
+    "noise": 0.4155376334209968,
+    "noise_std": 0.8339745176425611
+  }
+]
