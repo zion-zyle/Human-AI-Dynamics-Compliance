@@ -1,0 +1,28 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Nice to connect with you! Tell me what your current eating routine looks like on a typical day in Suwon, and one small change that would feel doable this week.",
+    "user_utterance": "Change feels overwhelming for me, especially with my irregular eating pattern. I might consider your suggestions when the situation feels a bit easier to handle."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "I hear you—irregular patterns can feel overwhelming. What’s one tiny, repeatable anchor you could try this week, like a fixed breakfast or a short 5–10 minute prep on busy days?",
+    "user_utterance": "I hear you, but my days are really unpredictable and I get pulled by what's going on around me. New meal ideas feel risky for me, and I need support that respects my situation."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "You're doing great—let's try one tiny, repeatable anchor today: a 5-minute meal-prep window or a simple portable breakfast at a consistent time (e.g., yogurt + fruit). Small, doable steps build momentum without overwhelm.",
+    "user_utterance": "I hear your guidance, but my eating is really unpredictable and I'm not ready to commit to changes yet. Could we focus on tiny, situational prompts that come up around meals instead of big plans?",
+    "suggestion": 1.5817351553128673,
+    "ground_truth_action": 1.0,
+    "compliance_raw": 0.8836529689374265,
+    "compliance_ema": 0.886310495319423,
+    "goal": 2.0751276191456314,
+    "reward": 1.3558144224586886,
+    "user_compliance_prob": 0.06716831021354426,
+    "behavior_mean_before": 1.1073448697108883,
+    "behavior_mean_after": 1.1045525905324138,
+    "noise": -0.5026939164743166,
+    "noise_std": 0.7494743814130083
+  }
+]

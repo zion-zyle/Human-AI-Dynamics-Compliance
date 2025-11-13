@@ -1,0 +1,28 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Good morning from Suwon! What's one small change you'd like to focus on today (breakfast, snacks, or dinner timing) so I can tailor practical tips for you?",
+    "user_utterance": "I hear you, but external factors derail me a lot and I tend to resist rigid dietary suggestions. I’ll consider it when my situation feels more manageable."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "Totally fair—rigid plans can feel overwhelming when life gets busy. What's one tiny, flexible tweak that feels doable today (for example, a snack you enjoy or a loose breakfast time) that we can build on?",
+    "user_utterance": "Thanks for checking in. My meals are really irregular and I’m highly influenced by what’s going on around me, so I need supports that fit my day-to-day rather than strict rules."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "Nice work staying engaged. Today’s small, flexible tweak: have a light protein-rich mid-morning snack (around now) to bridge the long gap before lunch—think yogurt, a handful of nuts, or cheese with fruit. It fits a busy day and can be adjusted as needed.",
+    "user_utterance": "Thanks for checking in, but my days are so unpredictable that even small changes feel overwhelming right now. I might consider trying something when the situation settles, but right now I need more flexibility.",
+    "suggestion": 1.5983011719187186,
+    "ground_truth_action": 1.0,
+    "compliance_raw": 0.8803397656162563,
+    "compliance_ema": 0.8761405246226249,
+    "goal": 2.5225156758380862,
+    "reward": 1.0280372864010288,
+    "user_compliance_prob": 0.25553302744024475,
+    "behavior_mean_before": 1.2611064196140653,
+    "behavior_mean_after": 1.2531156186099508,
+    "noise": -0.5961646386584324,
+    "noise_std": 0.6021731725417285
+  }
+]

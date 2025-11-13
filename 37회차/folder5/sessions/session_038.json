@@ -1,0 +1,28 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Nice to meet you—I'm here to support you with practical, sustainable choices. What does your typical day look like (meals, snacks, and routine) so we can tailor things without jumping into a plan yet?",
+    "user_utterance": "I'm overwhelmed by the plan and the day's chaos makes it hard to follow. I'll aim for small steps when I'm feeling more settled."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "Totally okay—let's anchor on one tiny, doable step you can commit to today, even on a busy morning. Would you pick something simple like a glass of water with breakfast or a fruit snack?",
+    "user_utterance": "Thanks for checking in. I struggle to follow plans when my eating schedule is all over the place, but I am listening."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "Today’s tiny step: have a glass of water with breakfast and include a piece of fruit. It's small, doable even on a busy morning, and helps you start with a regular rhythm.",
+    "user_utterance": "I hear you, and I know my eating is already unpredictable and shaped by my surroundings. I’ll try to consider what you suggested when I’m in the right moment, but I can’t promise I’ll follow it consistently.",
+    "suggestion": 2.0,
+    "ground_truth_action": 1.0,
+    "compliance_raw": 0.8,
+    "compliance_ema": 0.9046670418524095,
+    "goal": 2.0751276191456314,
+    "reward": 1.2721614535212622,
+    "user_compliance_prob": 0.00010508129608722534,
+    "behavior_mean_before": 1.1599787166201903,
+    "behavior_mean_after": 1.1560788256400327,
+    "noise": -0.598132606029785,
+    "noise_std": 0.8019178264264597
+  }
+]

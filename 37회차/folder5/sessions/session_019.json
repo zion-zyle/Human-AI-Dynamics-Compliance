@@ -1,0 +1,28 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Nice to connect with you. Could you share what the Goal G of 2.08 represents (weight, habit target, or intake), and what is one small change you’d like to try this week?",
+    "user_utterance": "I hear you, but my eating is really unpredictable and I often just go with whatever my environment pushes me to do."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "That makes sense—environmental cues can easily steer our eating. What's one common trigger you notice today (at home, work, or nearby cafés) and what's a tiny change you could try in that moment?",
+    "user_utterance": "That makes sense, but today I feel overwhelmed and I'm not ready to commit to changes. I'll try to think about it when the moment feels a bit less intense."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "You're doing great recognizing overwhelm. Try one tiny, manageable step: when you notice food cues, pause for 60 seconds, drink a glass of water, and then choose one small, non-stressful food option (for example veggies first). This keeps momentum without adding pressure.",
+    "user_utterance": "I hear the suggestions, but sticking to a routine feels really tough with my current day-to-day stuff; I might try again later when things aren’t so pressured.",
+    "suggestion": 1.519629020718872,
+    "ground_truth_action": 1.0,
+    "compliance_raw": 0.8960741958562256,
+    "compliance_ema": 0.8873447744544526,
+    "goal": 2.0751276191456314,
+    "reward": 1.3682356493774877,
+    "user_compliance_prob": 0.15149309787641851,
+    "behavior_mean_before": 1.1230588069229173,
+    "behavior_mean_after": 1.119604836107054,
+    "noise": -0.7310805310088199,
+    "noise_std": 0.6835323974606407
+  }
+]

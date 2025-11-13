@@ -1,0 +1,28 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Good morning! What's one small swap or habit you feel ready to try today to move toward your goal, and what's the biggest hurdle you're facing right now?",
+    "user_utterance": "You're asking me to try something new again, but my eating pattern changes a lot with mood and surroundings, so I need guidance that feels flexible and not pushy. Right now I might not follow a plan, so please keep it simple and non-pushy."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "I hear you—let's keep it simple and flexible, with no pushiness. What's one tiny tweak today that would feel doable no matter your mood or surroundings (like adding a protein at breakfast or a veggie with meals), and how could we adjust if plans change?",
+    "user_utterance": "I hear you, but my eating is very irregular and I feel overwhelmed right now. I’m not sure I can follow this today, even though I want to try."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "Let’s keep today simple and flexible: add a small source of protein at one meal (for example, a boiled egg, yogurt, or tofu) or include a veggie with your main meals. If your mood or plans shift, that’s okay—just aim to stay close to the tweak and try again at the next meal.",
+    "user_utterance": "Thanks for checking in. I struggle because my eating is really irregular and I get swayed by what's happening around me, so it's hard to follow new suggestions.",
+    "suggestion": 1.5797303629314932,
+    "ground_truth_action": 1.0,
+    "compliance_raw": 0.8840539274137014,
+    "compliance_ema": 0.8877713100034202,
+    "goal": 2.0751276191456314,
+    "reward": 1.3562153809349635,
+    "user_compliance_prob": 0.07338582948470668,
+    "behavior_mean_before": 1.113180578093246,
+    "behavior_mean_after": 1.110219346393728,
+    "noise": -0.1798436556017081,
+    "noise_std": 0.7446122813429593
+  }
+]

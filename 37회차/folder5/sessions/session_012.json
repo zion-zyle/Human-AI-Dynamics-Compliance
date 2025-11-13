@@ -1,0 +1,28 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Nice to meet you! What's your biggest hurdle right now—time, cravings, or eating out—and how can I help with simple, local-friendly tweaks today?",
+    "user_utterance": "Okay, I hear you. My days are unpredictable, but I’ll try to use an external cue today to guide me, even if it’s a tiny step."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "Love that approach—what simple external cue would be easiest for you today in Suwon (for example a glass of water before meals or a brief stretch after you eat)?",
+    "user_utterance": "Thanks for checking in—I'm glad you're here, but I still feel pulled by external cues and struggle to follow new dietary steps. Can we keep things very flexible and supportive rather than strict?"
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "Nice job staying flexible today. Try a gentle, doable cue: drink about 250 ml of water 15 minutes before your meals. It's small, easy to fit into your day in Suwon, and can help you tune hunger signals without feeling restrictive.",
+    "user_utterance": "I hear you, but I am easily swayed by what’s going on around me and feel overwhelmed by changes. I will think about your ideas when I am in a calmer moment.",
+    "suggestion": 1.5212582894289004,
+    "ground_truth_action": 1.0,
+    "compliance_raw": 0.8957483421142199,
+    "compliance_ema": 0.8764234734560268,
+    "goal": 2.0751276191456314,
+    "reward": 1.367909795635482,
+    "user_compliance_prob": 0.12337150069878206,
+    "behavior_mean_before": 1.1036704598687415,
+    "behavior_mean_after": 1.10083173664177,
+    "noise": -1.2910857684710926,
+    "noise_std": 0.7055234864535523
+  }
+]

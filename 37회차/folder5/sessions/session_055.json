@@ -1,0 +1,28 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Hi there! What's one routine you can commit to this week in Suwon that feels doable, and what's been the biggest hurdle to reaching your goal lately?",
+    "user_utterance": "That would be nice, but my eating has been so irregular and I get overwhelmed by changes. I need something gentle that fits my routine and doesn't feel like a strict rule."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "That makes sense—let’s keep it gentle and doable. What’s one tiny habit you could try most days that fits your routine (no strict rules), like a consistent snack time or adding one veggie to a meal?",
+    "user_utterance": "Appreciate the check-in. Today my day is chaotic and I’m not sure I can follow a plan, but I’m listening for tiny steps that feel doable when I’m ready."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "Nice work checking in. Try one gentle habit today: add one veggie to one meal or set a consistent snack time—small, doable, and fits your routine in Suwon. I’m adjusting your goal to 2.0 so it stays realistic as you build momentum.",
+    "user_utterance": "Thanks for checking in. Right now I'm feeling overwhelmed by changes and the situation around me, so I can't commit to new suggestions, but I might consider them if the environment feels easier later.",
+    "suggestion": 1.5932519023190144,
+    "ground_truth_action": 1.6047238448778582,
+    "compliance_raw": 0.9977056114882312,
+    "compliance_ema": 0.9004535419957462,
+    "goal": 2.5225156758380862,
+    "reward": 1.6437566722675043,
+    "user_compliance_prob": 0.2494960244601539,
+    "behavior_mean_before": 1.2531156186099508,
+    "behavior_mean_after": 1.2638243624566259,
+    "noise": 0.26674557570784485,
+    "noise_std": 0.6068941088721597
+  }
+]

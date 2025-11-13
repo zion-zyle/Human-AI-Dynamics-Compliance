@@ -1,0 +1,28 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Great to chat with you—you're aiming for goal G of 2.08. What's one small, doable change you’d like to start today to move toward that (for example adding a veggie at breakfast or choosing a hydrating snack)?",
+    "user_utterance": "Thanks for the suggestions. I still feel overwhelmed and pulled toward my old patterns by the people and situations around me."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "That sounds really tough—and it’s normal to feel pulled back by familiar people and situations. What’s one tiny cue you could put in place today—like pausing before you respond or stepping away for a moment when you notice the trigger—to help you choose your goal over old habits?",
+    "user_utterance": "I hear you. A strict plan feels overwhelming with my irregular eating; I’d prefer smaller, flexible steps."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "You're doing great—today's gentle step is to pause for 1 minute before replying when you feel pulled by old patterns, then choose one small flexible change (like adding a veggie at breakfast or a hydrating snack). Given the pace, I've nudged your goal to 1.9 to keep it achievable. You’ve got this.",
+    "user_utterance": "I hear you, but following new eating ideas feels nearly impossible most days, and I’m easily swayed by my surroundings—I'll think about it when things quiet down.",
+    "suggestion": 1.5831234452581069,
+    "ground_truth_action": 2.2993446389049965,
+    "compliance_raw": 0.856755761270622,
+    "compliance_ema": 0.8768116971387927,
+    "goal": 2.0751276191456314,
+    "reward": 2.2832100348141884,
+    "user_compliance_prob": 0.05445186009204406,
+    "behavior_mean_before": 1.0906434736927133,
+    "behavior_mean_after": 1.1217098302465802,
+    "noise": 1.1818847147024707,
+    "noise_std": 0.7594186454080215
+  }
+]
