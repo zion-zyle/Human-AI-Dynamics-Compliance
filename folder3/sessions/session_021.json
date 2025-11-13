@@ -1,0 +1,28 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Nice to meet you! What's your main food goal or challenge today, and what quick, local meals do you actually enjoy in Suwon?",
+    "user_utterance": "Thanks for checking in. I'm finding it a bit hard today, but I'm trying to stick to my routine and reach out if I feel overwhelmed."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "I hear today feels tough—what's one small, doable step you can try right now to get back to your routine, maybe a quick Suwon-friendly snack you actually enjoy?",
+    "user_utterance": "Thanks for the check-in. I’m aiming for more regular meals and practicing self-compassion when cravings hit, even if things feel a bit off."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "You're doing great. Today's gentle target: 3.2. Focus on three regular meals with a small, mindful snack for cravings, and practice self-compassion if things feel off.",
+    "user_utterance": "Thanks for the guidance. I want to stay consistent, but I could use one small, flexible step today to avoid feeling overwhelmed.",
+    "suggestion": 3.4068635221114594,
+    "ground_truth_action": 3.0250175788688125,
+    "compliance_raw": 0.9236308113514706,
+    "compliance_ema": 0.9405871001961658,
+    "goal": 3.4689343579278558,
+    "reward": 2.1553402614984547,
+    "user_compliance_prob": 0.5267423351966775,
+    "behavior_mean_before": 2.8752178052839357,
+    "behavior_mean_after": 2.897859665241292,
+    "noise": -0.13024053279416467,
+    "noise_std": 0.29259641492671384
+  }
+]

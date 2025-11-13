@@ -1,0 +1,28 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Nice to connect with you in Suwon. What's one small, doable change you'd like to try today to move toward your goal, and what's been the biggest challenge for you lately?",
+    "user_utterance": "Thanks for the guidance—I'll stay mindful of my triggers today and work on keeping meals regular, with a simple plan for cravings if they pop up."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "Nice work—staying mindful of triggers and keeping meals regular with a simple cravings plan is a strong start. Which trigger are you most likely to face today, and what's one tiny, immediate move you can do when cravings hit?",
+    "user_utterance": "Thanks for the check-in. I'm noticing my meals still feel a bit irregular, but I'm staying open to steady, gentle changes and not letting triggers derail me."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "Nice steady effort so far. Today's small step: aim for a 4.2 today by keeping meals regular and using your simple craving plan. If you feel ready, you can gently stretch toward a 4.4.",
+    "user_utterance": "Thanks for the guidance. I’ll do my best to stick with the plan, and I might reach out if cravings get tough.",
+    "suggestion": 4.471922385025304,
+    "ground_truth_action": 4.534916820634249,
+    "compliance_raw": 0.987401112878211,
+    "compliance_ema": 0.9752066529039826,
+    "goal": 4.479315602040621,
+    "reward": 2.482771030242012,
+    "user_compliance_prob": 0.714938585300793,
+    "behavior_mean_before": 4.087275088635863,
+    "behavior_mean_after": 4.163275218416759,
+    "noise": 0.17264253807794452,
+    "noise_std": 0.18419537486674323
+  }
+]

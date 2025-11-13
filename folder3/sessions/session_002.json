@@ -1,0 +1,28 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Good morning from Suwon. What does a typical day look like for you, and do you have any dietary preferences or time constraints I should know to suggest a simple first step?",
+    "user_utterance": "I'm noticing my eating can still be a bit unpredictable, but I'm aiming to follow your guidance more consistently. What small, non-judgmental adjustments can I start with when cravings hit?"
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "Notice cravings without judgment, take a quick pause, sip water or tea, and try a small, satisfying swap (like a protein or fiber-rich snack) before reaching for a larger treat. What kinds of snacks do you usually reach for, so I can tailor safer swaps to your tastes?",
+    "user_utterance": "Thanks for the update. I’ll keep working on steady, mindful meals and noticing urges early before they lead to binge episodes."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "Nice work staying mindful. For a moderate next step, try a 3.0-level adjustment when cravings hit: pause for a moment, drink water, and reach for a small protein- or fiber-rich snack within 15 minutes. This keeps you moving toward steadier eating without feeling restrictive. I've updated your goal to 3.0 to better fit your current pace.",
+    "user_utterance": "Thanks for the guidance. I notice stress and external cues tend to push me off track, but I want to stay more consistent with the plan.",
+    "suggestion": 3.0,
+    "ground_truth_action": 2.628690002620278,
+    "compliance_raw": 0.9257380005240556,
+    "compliance_ema": 0.9586439211830721,
+    "goal": 2.8123336931597662,
+    "reward": 2.3759940156937356,
+    "user_compliance_prob": 0.16588536831916786,
+    "behavior_mean_before": 2.110006073415878,
+    "behavior_mean_after": 2.169873947796207,
+    "noise": 0.37104695889117045,
+    "noise_std": 0.5004500278481594
+  }
+]

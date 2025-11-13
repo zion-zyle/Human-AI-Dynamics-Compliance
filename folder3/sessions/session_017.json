@@ -1,0 +1,28 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "좋아요, 오늘의 목표를 더 잘 이해하기 위해 지금 가장 어려운 점이 무엇인지 알려줄래요? 그에 맞춰 한 가지 작은 시작점부터 같이 생각해볼게요.",
+    "user_utterance": "Thanks for checking in. I'm noticing ups and downs with my eating lately and would appreciate simple, compassionate strategies to ride out cravings without feeling overwhelmed."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "갈망이 다가올 때 보통 어떤 상황이나 생각이 먼저 떠오르나요? 지금 바로 시도해볼 수 있는 아주 작은 시작점을 함께 찾아볼게요.",
+    "user_utterance": "I've been noticing triggers around meals and external cues, and I'm trying to stick with the plan even when my routine feels irregular."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "Great job sticking with it. When cravings hit, try a tiny reset: pause for 2 minutes, have a glass of water, and then decide the next small step (e.g., a fruit or a quick walk). Small, repeatable moves add up and keep you in control.",
+    "user_utterance": "Thanks for the guidance. I'll focus on more regular meals and identifying binge triggers, and I'll update you on how it goes.",
+    "suggestion": 3.3,
+    "ground_truth_action": 2.6780376840415205,
+    "compliance_raw": 0.8756075368083042,
+    "compliance_ema": 0.9170405934501893,
+    "goal": 3.4689343579278558,
+    "reward": 1.6780842512617746,
+    "user_compliance_prob": 0.44776716872955,
+    "behavior_mean_before": 2.7047950665188356,
+    "behavior_mean_after": 2.7009599589915276,
+    "noise": -0.2932706103560361,
+    "noise_std": 0.33808611081177925
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Good morning from Suwon! What's one small, doable change you’d like to focus on today to move toward your goal?",
+    "user_utterance": "Thanks for the guidance. I'll try to apply these ideas consistently and stay mindful of urges, especially when external cues make me want to binge."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "That’s a strong start—mindful awareness is powerful. What’s one specific trigger you might face today, and what quick non-food action could you try next time you notice it?",
+    "user_utterance": "Thanks for the check-in. I'm staying mindful today and could use a few strategies to handle urges and keep me on track."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "Nice momentum today. Aim for a steady 4.0 today by using a quick urge-management tactic (pause 2 minutes, drink water, or take a short walk) when cravings arise. Your consistency is paying off.",
+    "user_utterance": "Thanks for the check-in. I'm still dealing with urges and irregular meals, and I’d love practical strategies to manage binge triggers and establish a steadier eating pattern.",
+    "suggestion": 4.176346503066566,
+    "ground_truth_action": 3.8648495638501874,
+    "compliance_raw": 0.9377006121567243,
+    "compliance_ema": 0.9571118147729883,
+    "goal": 4.328318329717058,
+    "reward": 2.1477507695903477,
+    "user_compliance_prob": 0.8243862052113267,
+    "behavior_mean_before": 3.884544823634042,
+    "behavior_mean_after": 3.880987579368528,
+    "noise": -0.2602525389655252,
+    "noise_std": 0.12115354579827586
+  }
+]
