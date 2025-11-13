@@ -1,0 +1,28 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Good morning from Suwon—what's one small change you'd like to try today to move toward your goal?",
+    "user_utterance": "Thanks for checking in. Evening cravings are tough, but I’m trying to stay with my routine and reach out if I need support."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "Evening cravings are tough—would you like to pick one simple coping move (like a glass of water, a quick walk, or a snack you actually enjoy in moderation) to try tonight and tell me how it works for you?",
+    "user_utterance": "Thanks for the check-in. I’m dealing with irregular meals, but I’m trying to follow the plan and stay mindful of triggers that lead to binge thoughts."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "You're doing well—for tonight, try a moderate, simple coping move: drink a full glass of water when cravings hit and take a 10-minute walk after dinner. It’s gentle, consistent, and keeps you on track.",
+    "user_utterance": "Thanks for checking in. I felt a strong urge today and want to practice grounding and keep meals steady moving forward.",
+    "suggestion": 2.964304781900087,
+    "ground_truth_action": 3.281522116001061,
+    "compliance_raw": 0.9365565331798053,
+    "compliance_ema": 0.9253824256022047,
+    "goal": 3.0,
+    "reward": 2.3222634328576794,
+    "user_compliance_prob": 0.550663503978731,
+    "behavior_mean_before": 2.451406183532766,
+    "behavior_mean_after": 2.5788420011072017,
+    "noise": 0.5476813931055661,
+    "noise_std": 0.278817821708251
+  }
+]

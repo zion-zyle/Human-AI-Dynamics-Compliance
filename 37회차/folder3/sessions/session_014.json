@@ -1,0 +1,28 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Hi there! I’m glad you’re here—what’s one small change you’d like to try today to support your goal, given your morning routine in Suwon?",
+    "user_utterance": "Thanks for checking in. I’m finding binge urges come up when meals feel unpredictable; can we focus on small, steady routines and practical steps I can try right away?"
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "I hear you—let's start with a tiny, predictable routine today. Which meal would you like to anchor first, and what simple snack do you have handy in Suwon right now?",
+    "user_utterance": "Thanks for checking in. I’m dealing with irregular eating lately and some strong cravings, and I’d appreciate practical strategies to handle them without bingeing."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "Great momentum. Since your actions are trending up, let’s nudge your target a bit and keep a steady routine today. Choose one anchor meal (for example breakfast around 8:30–9:00 in Suwon) and pair it with a simple, ready snack to head off cravings. Maintain a predictable mealtime today to build greater stability.",
+    "user_utterance": "Thanks for the guidance today. I'll focus on steady routines and tuning into my body's hunger and fullness cues rather than chasing perfection.",
+    "suggestion": 3.418934357927856,
+    "ground_truth_action": 2.9315293442558334,
+    "compliance_raw": 0.9025189972655955,
+    "compliance_ema": 0.9208097399348829,
+    "goal": 3.014304781900087,
+    "reward": 2.392276467465891,
+    "user_compliance_prob": 0.20176477889707717,
+    "behavior_mean_before": 2.5788420011072017,
+    "behavior_mean_after": 2.6208028765761244,
+    "noise": 0.1831862945215877,
+    "noise_std": 0.47978348735528364
+  }
+]

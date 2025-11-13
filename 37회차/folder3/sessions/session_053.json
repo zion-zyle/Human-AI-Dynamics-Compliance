@@ -1,0 +1,28 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Nice to meet you—what’s one small change you’d like to try today to support your goal? And what does a typical day look like for you here in Suwon?",
+    "user_utterance": "Thanks for the guidance—it's helping. Cravings still show up, but I'll keep sticking to steady routines and follow the strategies you propose."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "Nice work sticking with it—cravings can still show up, but steady routines make a difference. What's one tiny cue you can try today in Suwon to slow a craving when it hits (and we can keep it simple)?",
+    "user_utterance": "Thanks for the check-in. Some days are tougher with cravings, but I’m committed to staying steady and using small, calming steps."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "Great job staying steady today. Use a simple, calming cue to slow cravings (for example, a 5-minute walk or a glass of water before meals) to keep you moving toward your target. You're close—keep the routine consistent.",
+    "user_utterance": "Thanks for the latest guidance. My eating has been a bit irregular, but I’m committed to sticking with the plan and using the coping strategies when cravings arise.",
+    "suggestion": 4.714799771794583,
+    "ground_truth_action": 4.450410137211775,
+    "compliance_raw": 0.9471220730834384,
+    "compliance_ema": 0.9737380637460089,
+    "goal": 4.694056790279501,
+    "reward": 2.360668038597044,
+    "user_compliance_prob": 0.6467447090555407,
+    "behavior_mean_before": 4.276446854751571,
+    "behavior_mean_after": 4.304807693132737,
+    "noise": -0.10953914733642604,
+    "noise_std": 0.22347504758400857
+  }
+]

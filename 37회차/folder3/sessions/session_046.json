@@ -1,0 +1,28 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Delighted to meet you! What's one small, doable change you'd like to try this week to feel steadier with meals here in Suwon?",
+    "user_utterance": "Thanks for the check-in. I’m noticing stress and irregular meals lately, and I’d love a simple, gentle plan to help me stay steady between meals."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "That gentle goal makes a lot of sense—let's ground it in a tiny, doable routine you can keep on busy days here in Suwon. Could you share when stress tends to spike between meals and what quick, handy snacks you usually have on hand?",
+    "user_utterance": "Thanks for the check-in. I’m noticing cravings feel tougher at times, but I’ll keep using the strategies we discussed and aim for steadier eating moments."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "You're doing well. A gentle step today: add a small protein + fiber snack mid-morning (around 10:30) and sip water to bridge meals. This helps steady energy and cravings while keeping your routine doable in Suwon.",
+    "user_utterance": "Thanks for the guidance today. Cravings came up after a busy day, so I’m leaning on small, predictable steps and checking in when I feel overwhelmed.",
+    "suggestion": 4.429315602040621,
+    "ground_truth_action": 3.9154712490444035,
+    "compliance_raw": 0.8972311294007566,
+    "compliance_ema": 0.949650363681089,
+    "goal": 4.328318329717058,
+    "reward": 2.1621682274592686,
+    "user_compliance_prob": 0.5905120128763827,
+    "behavior_mean_before": 3.947382170491534,
+    "behavior_mean_after": 3.942357454805076,
+    "noise": -0.3164984021836045,
+    "noise_std": 0.2558650805832036
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Nice to meet you—what's one small daily habit you want to start today to move toward your goal? For example, adding more vegetables to your next meal or having a glass of water first thing in the morning.",
+    "user_utterance": "Thanks for the guidance. I'll try to apply it, and I'm hoping it helps me feel more in control even when meals feel unpredictable."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "I hear you—on unpredictable days, a simple, repeatable cue can help you feel more in control. What's one daily moment in your routine where we could add a tiny, flexible backup habit?",
+    "user_utterance": "Thanks for the update. I know external cues can push me toward binge thoughts, so I’ll try to pause and stay grounded before meals."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "Try a small, repeatable cue today: pause for 2 breaths before each main meal to help stay grounded and reduce impulsive choices. It’s simple, doable, and builds a sense of control on unpredictable days. If 2 breaths feels easy, you can gradually increase. For now, we’ll update your goal to 3.5 to match this pace.",
+    "user_utterance": "Thanks for checking in. I’m finding that external stress makes sticking to the plan harder, and I’d appreciate some simple tips to ride out cravings today.",
+    "suggestion": 2.7623336931597664,
+    "ground_truth_action": 2.241896676471443,
+    "compliance_raw": 0.8959125966623354,
+    "compliance_ema": 0.9668704013478261,
+    "goal": 3.2,
+    "reward": 1.4949106861059949,
+    "user_compliance_prob": 0.3581928715994463,
+    "behavior_mean_before": 2.0895169253300163,
+    "behavior_mean_after": 2.110006073415878,
+    "noise": -0.08861841898776962,
+    "noise_std": 0.389680905958719
+  }
+]

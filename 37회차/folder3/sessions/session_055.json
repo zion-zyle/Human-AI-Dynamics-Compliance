@@ -1,0 +1,28 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Nice to meet you—what's one small change you’d feel good trying today to move toward your goal, given your routine here in Suwon?",
+    "user_utterance": "Thanks for the guidance. I’ll try to follow the plan today and let you know if urges come up."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "Nice work committing to today. If urges come up, what's one small adjustment you can try right now, and would you like a quick check-in from me later to support you?",
+    "user_utterance": "Thanks for checking in. I notice I get pulled toward snacks after stressful days, and I’d like to keep things simple and doable, even when outside influences are strong."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "Great work staying consistent. Today's small nudge: aim for a 4.8—slightly above yesterday, focusing on simple, repeatable steps to keep urges in check (e.g., quick fruit or water when stress hits). You’re doing well; keep it up.",
+    "user_utterance": "Thanks for the check-in. I notice irregular meal times tend to heighten cravings, so I’ll focus on a steadier routine and use my coping strategies when cravings spike.",
+    "suggestion": 4.8,
+    "ground_truth_action": 4.6293704677654075,
+    "compliance_raw": 0.9658740935530815,
+    "compliance_ema": 0.97263209260698,
+    "goal": 4.764799771794583,
+    "reward": 2.4386132104106713,
+    "user_compliance_prob": 0.6764481339332307,
+    "behavior_mean_before": 4.384844272565037,
+    "behavior_mean_after": 4.425427885445541,
+    "noise": -0.03630512191470329,
+    "noise_std": 0.20636587485445915
+  }
+]

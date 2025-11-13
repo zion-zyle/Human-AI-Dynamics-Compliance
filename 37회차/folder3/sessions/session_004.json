@@ -1,0 +1,28 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Nice to meet you in Suwon! What does Goal 3.05 mean for you—more energy, a specific weight target, or something else—and what's one small change you're ready to try today?",
+    "user_utterance": "Thanks for checking in. I’m trying to stay a bit more consistent, but I still feel pulled by emotions; any small, doable steps to help me stay steady today would be really helpful."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "Let's try a tiny pause when emotions pull you toward food: name the feeling and check if you're truly hungry. If it's comfort you’re after, pick a quick non-food soothing option—like a short walk, water, or a deep breath—to ride out the urge.",
+    "user_utterance": "Thanks for checking in. I still deal with irregular meals and cravings, but I’m ready to lean on your plan and stay steady today."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "You're showing solid consistency. Let's set today's gentle target to 2.9 to align with your current pace. Focus on three steady meals and a quick 60-second pause when cravings hit, then choose a non-food soothing option if emotions rise. You're doing great—keep going.",
+    "user_utterance": "Thanks for the check-in. I'm noticing urges and some irregularity in my meals, but I want to keep working on steady routines without judging myself.",
+    "suggestion": 2.601896676471443,
+    "ground_truth_action": 2.6551925499381754,
+    "compliance_raw": 0.9893408253066535,
+    "compliance_ema": 0.9406089660188164,
+    "goal": 3.08,
+    "reward": 2.241668223290866,
+    "user_compliance_prob": 0.6345280378451564,
+    "behavior_mean_before": 2.1540555864168978,
+    "behavior_mean_after": 2.235148705766833,
+    "noise": 0.21696923538253093,
+    "noise_std": 0.23051185020118992
+  }
+]

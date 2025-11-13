@@ -1,0 +1,28 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Good morning! What does your typical day look like today in Suwon, and what small change would you like to start with to move toward your goal?",
+    "user_utterance": "Thanks for the guidance today. I’ll try to follow the plan and note what feels tricky so we can adjust."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "Nice job noting the tricky parts. Is there a specific time today where your plan tends to slip, and what's one simple tweak we can try right now to support you?",
+    "user_utterance": "I appreciate the steady guidance. When the day gets irregular, I’ll try to stay aligned with the plan and not let cravings derail me."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "Great consistency so far. For today, aim for a 3.6 by adding a small buffer: include a protein-rich breakfast and a 5–10 minute activity after lunch to curb cravings. This keeps you steady and nudges your progress upward.",
+    "user_utterance": "Thanks for the guidance—I'm noticing irregular meals and urges pop up, and I want to keep things manageable. Could we focus on a small, doable plan that helps me handle external cues without feeling overwhelmed?",
+    "suggestion": 3.606512895792426,
+    "ground_truth_action": 3.556950553690828,
+    "compliance_raw": 0.9900875315796804,
+    "compliance_ema": 0.9748436899198352,
+    "goal": 3.6137894572643967,
+    "reward": 2.4852493595952527,
+    "user_compliance_prob": 0.8048177943945484,
+    "behavior_mean_before": 3.297093337967612,
+    "behavior_mean_after": 3.3435238357345813,
+    "noise": 0.010830849652112505,
+    "noise_std": 0.13242495042874014
+  }
+]

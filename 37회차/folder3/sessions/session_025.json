@@ -1,0 +1,28 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Good morning from Suwon—what's one small, doable change you feel would move you toward your goal today?",
+    "user_utterance": "Thanks for the guidance today. I'll focus on keeping meals more regular and using the quick strategies you suggested to manage cravings, even on busy days."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "Nice to hear you're focusing on regular meals and craving strategies. What's one anchor meal you can lock in today, and which quick tactic will you use if a busy moment comes up?",
+    "user_utterance": "Thanks for checking in. I’ll stay mindful of urges and try to follow the plan even when things feel unpredictable."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "You're doing well—let's keep it steady today. Aim for S=3.2 by sticking to one anchor meal and using a quick craving delay when urges hit. If you stay consistent, we can nudge your goal slightly to 3.3 later.",
+    "user_utterance": "I'm noticing binge urges pop up when I'm stressed or off my routine, and I could use gentle, flexible strategies that don't feel restrictive.",
+    "suggestion": 3.339600421719831,
+    "ground_truth_action": 3.4098243156205266,
+    "compliance_raw": 0.9859552212198609,
+    "compliance_ema": 0.9614373146746752,
+    "goal": 3.4689343579278558,
+    "reward": 2.4807233709249243,
+    "user_compliance_prob": 0.7760385755979285,
+    "behavior_mean_before": 3.0052415171311058,
+    "behavior_mean_after": 3.076378428188023,
+    "noise": 0.14510739043390308,
+    "noise_std": 0.14900178045559317
+  }
+]

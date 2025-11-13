@@ -1,0 +1,28 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Good morning! I’m here to help you move toward your goal—what does 'Goal G: 3.00' represent for you today, and what's one small step we can start with this morning?",
+    "user_utterance": "Thanks for checking in—I'm noticing my eating still feels a bit unpredictable, but I'm trying to stick with small, regular steps and reach out if cravings get strong."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "You're doing great noticing cravings and aiming for regular habits—that awareness is a strong foundation. What's one small, practical move you can try today when cravings peak (for example, a glass of water, a quick 5-minute walk, or a protein snack)?",
+    "user_utterance": "Today my cravings were tough after an irregular day. I'd appreciate some practical, small steps to help me keep meals more steady."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "Nice work staying aware of cravings. Today, choose a small, steady step: have a breakfast with protein and fiber, drink a glass of water before meals, and if cravings hit, take a 5-minute walk or snack on a protein source. Go for a gentle effort level of 2.8 to anchor your day.",
+    "user_utterance": "Thanks for the check-in. I'm noticing some progress and will try to stick to my routine today, especially when urges come up.",
+    "suggestion": 2.8,
+    "ground_truth_action": 3.1323677619839123,
+    "compliance_raw": 0.9335264476032175,
+    "compliance_ema": 0.9225888987078045,
+    "goal": 3.0,
+    "reward": 2.4074735171080386,
+    "user_compliance_prob": 0.5974997713997404,
+    "behavior_mean_before": 2.323478313307252,
+    "behavior_mean_after": 2.451406183532766,
+    "noise": 0.5241678498107247,
+    "noise_std": 0.2518401316737495
+  }
+]
