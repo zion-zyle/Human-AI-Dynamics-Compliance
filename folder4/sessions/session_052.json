@@ -1,0 +1,28 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Welcome! With your goal in mind, what's one small change you'd like to try today in Suwon, and what's been the biggest obstacle so far?",
+    "user_utterance": "Thanks for the guidance. I'm feeling pulled by stress and triggers around snacking, so I’ll aim for steadier meals and fewer impulsive choices."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "You're aiming for steadier meals—great focus, especially with stress. What small cue would you like to attach today in Suwon to pause before snacking—something simple like a glass of water, a breath, or a quick step outside?",
+    "user_utterance": "Thanks for the update. I'm feeling a bit vulnerable to cravings today, but I’m aiming to stay on track with regular meals and mindful choices."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "You're doing well. To counter cravings today, try a 60-second snack pause: drink a glass of water and take two slow breaths before you decide. Keep meals regular and consider adjusting your goal to 3.0 for now; we can revisit as you feel more steady.",
+    "user_utterance": "Thanks for the guidance. I can get pulled off track by stress or cravings, and I’m easily influenced by my surroundings; I’d appreciate a simple, doable plan I can actually stick to on tough days.",
+    "suggestion": 2.5,
+    "ground_truth_action": 2.5007506600674922,
+    "compliance_raw": 0.9998498679865016,
+    "compliance_ema": 0.867752293527284,
+    "goal": 3.25,
+    "reward": 1.8554865196747097,
+    "user_compliance_prob": 0.9311889485585496,
+    "behavior_mean_before": 2.348800350579057,
+    "behavior_mean_after": 2.3616752393544767,
+    "noise": 0.011154866921725888,
+    "noise_std": 0.15395110118704183
+  }
+]

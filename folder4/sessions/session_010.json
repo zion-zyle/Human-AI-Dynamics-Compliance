@@ -1,0 +1,28 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "좋아요, 현재 목표가 2.37로 보이는데 이 목표를 달성하기 위해 지금 식습관에서 바꾸고 싶은 부분이 무엇인가요? 수원에서 실천하기 쉬운 작은 변화부터 함께 시작해볼까요?",
+    "user_utterance": "Thanks, coach. I'm dealing with a stress trigger right now and my eating feels a bit chaotic; I could use a simple plan to stay steady when emotions run high."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "지금 스트레스 트리거가 구체적으로 어떤 상황인지 함께 짚어볼까요? 그에 맞춰 가장 쉽게 적용할 수 있는 짧은 멈춤 방법부터 함께 찾아보겠습니다.",
+    "user_utterance": "I'm feeling pulled by stress and an irregular schedule today, but I'll aim for a steadier meal routine and not let triggers derail me."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "Great awareness. Try a small, steady step: aim for a regular meal every 3-4 hours with a protein component. If stress spikes, pause 2 minutes and have a simple balanced snack (protein + fiber) to steady energy. You’ve got this.",
+    "user_utterance": "Appreciate the guidance. I still struggle with irregular meals and emotional triggers, but I'll try to keep it simple and stick to one steady habit today.",
+    "suggestion": 2.4575700611848923,
+    "ground_truth_action": 2.068455126975859,
+    "compliance_raw": 0.9221770131581933,
+    "compliance_ema": 0.8914770202632877,
+    "goal": 2.55,
+    "reward": 2.1117324363606627,
+    "user_compliance_prob": 0.4317088100253492,
+    "behavior_mean_before": 1.938569538979987,
+    "behavior_mean_after": 1.946728461175085,
+    "noise": -0.0941715098477426,
+    "noise_std": 0.9810902105980217
+  }
+]

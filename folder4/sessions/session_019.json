@@ -1,0 +1,28 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Nice to meet you! What's your main goal today (e.g., more energy, gentle weight change), and what's a typical breakfast you enjoy in Suwon?",
+    "user_utterance": "I’m trying to improve my blood sugar regulation, but emotional triggers and irregular meals push me off track. Can we keep it simple with one small, doable change today to build consistency?"
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "One tiny change today: pick one regular meal and add a protein source to help steady your blood sugar. Want me to tailor a quick option that fits your Suwon routine?",
+    "user_utterance": "Thanks for the guidance. I struggle with consistency and emotional triggers, but I’ll do my best to stick closer to the plan today."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "Today’s small step: add a protein source to one regular meal to help stabilize your blood sugar. For example, include a boiled egg or yogurt with breakfast, or tofu/chicken at lunch. Keep meals at similar times today and notice how it affects your energy. You’ve got this!",
+    "user_utterance": "I'm really triggered today and my eating feels all over the place; can we focus on a simple, doable plan I can stick to right now?",
+    "suggestion": 2.290280988837652,
+    "ground_truth_action": 2.2506110539685307,
+    "compliance_raw": 0.9920660130261758,
+    "compliance_ema": 0.8845749938175321,
+    "goal": 3.05,
+    "reward": 1.783778021524368,
+    "user_compliance_prob": 0.8322213932648355,
+    "behavior_mean_before": 2.0476028789341996,
+    "behavior_mean_after": 2.063922444981481,
+    "noise": 0.0010462602956035176,
+    "noise_std": 0.31784137275343244
+  }
+]

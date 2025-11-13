@@ -1,0 +1,28 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Good morning from Suwon—what one dietary habit would you like to focus on today to feel steadier and more energized?",
+    "user_utterance": "Thanks for the guidance. I want to follow it, but I am really vulnerable to triggers and my irregular eating makes sticking to a plan tough."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "That sounds really tough—let's build a gentle, flexible habit you can actually stick with even when triggers hit. What’s your most reliable cue right now, and what’s one tiny change you feel able to try today?",
+    "user_utterance": "Thanks for the guidance. My eating is a bit irregular and stress tends to derail me, so could we keep things simple and doable?"
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "Nice work staying mindful. Today's small, doable step (S=2.0) is to anchor one reliable habit even on tough days: choose a simple change you can keep consistently, such as adding a protein at your first meal or having a small snack every 3-4 hours to reduce gaps and triggers. We'll keep it gentle and flexible. I’ve nudged your goal to 3.0 to reflect your current pace; steady progress matters more than perfection, and we can adjust again as you feel steadier.",
+    "user_utterance": "Thanks for the plan, cravings and my irregular schedule usually derail me, but I’ll aim to follow it as best as I can.",
+    "suggestion": 2.8973584566376656,
+    "ground_truth_action": 1.0,
+    "compliance_raw": 0.6205283086724669,
+    "compliance_ema": 0.6050662229571604,
+    "goal": 3.3000000000000003,
+    "reward": 0.6280909490620034,
+    "user_compliance_prob": 0.06638995118072279,
+    "behavior_mean_before": 1.964772764950323,
+    "behavior_mean_after": 1.9196331127525394,
+    "noise": -2.734173443351817,
+    "noise_std": 1.586058240844723
+  }
+]

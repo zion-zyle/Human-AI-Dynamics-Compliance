@@ -1,0 +1,28 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Good morning! I'm here to help you move toward your goal - what's one part of your current eating routine you'd like to adjust this week (for example breakfast or snacks)?",
+    "user_utterance": "Appreciate the guidance; with my irregular eating and cravings, I need simple, repeatable steps that I can actually stick to, even on tough days."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "I hear you—let's lock in one ultra-simple, repeatable habit you can do daily, even on tough days. Which craving is hardest for you, and what's a tiny, repeatable swap we could try first?",
+    "user_utterance": "I'm feeling stressed and environments are pulling me off course today, so sticking to meals is tough. Can we set a simple plan I can follow on a chaotic day?"
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "On a chaotic day, lock in one tiny, repeatable habit you can follow: choose a simple protein+fiber snack at a set time (for example yogurt with berries) or drink a large glass of water before meals. Keep it non-negotiable and easy to do, so cravings don’t derail you. You’re making progress.",
+    "user_utterance": "Thanks for the guidance. I'm feeling the pull of my irregular schedule and emotional triggers today, but I want to stay on track.",
+    "suggestion": 1.9132154881734216,
+    "ground_truth_action": 1.8965516186816869,
+    "compliance_raw": 0.996667226101653,
+    "compliance_ema": 0.7418536943974225,
+    "goal": 2.843911648170644,
+    "reward": 1.6080537462010316,
+    "user_compliance_prob": 0.99295655208112,
+    "behavior_mean_before": 1.8656067395770415,
+    "behavior_mean_after": 1.8683125897829542,
+    "noise": -0.016328539750513033,
+    "noise_std": 0.0516639497536653
+  }
+]

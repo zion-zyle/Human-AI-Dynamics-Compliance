@@ -1,0 +1,28 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "좋아요! 현재 생활 패턴에서 가장 어려운 식습관이 무엇인지 함께 짚어보고, 오늘 달성 가능한 작은 목표를 함께 정해볼까요?",
+    "user_utterance": "Thanks for the guidance. I tend to get pulled off track by stress and external cues, so I’ll focus on keeping things simple and sticking to a regular routine."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "좋아요, 스트레스와 외부 신호에도 지키기 쉬운 아주 작은 루틴 하나를 오늘 함께 정해볼까요? 그 루틴이 바로 실행되도록 네가 느끼는 가장 가능성 높은 시작 순간이나 상황을 함께 짚어보자.",
+    "user_utterance": "Thanks for the plan. I’m feeling vulnerable to emotional triggers, but I’ll try to stick to a steadier routine and report back on how it goes."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "오늘은 큰 변화 없이 지키기 쉬운 한 가지 루틴에 집중해 보세요. 제안은 2.9로 설정했고, 스트레스가 많을 때도 실행하기 쉬운 작은 실행 하나를 선택해 매일 시도해보는 게 좋습니다. 예를 들어 식사 간격을 일정하게 유지하기, 물을 충분히 마시기, 외식 시 채소를 한 끼에 한 가지 추가하기처럼 간단한 규칙 중 하나를 고릅니다. 진행 상황을 오늘 중에 공유해주면 필요 시 조정하겠습니다. 또한 현실적으로 목표를 맞추기 위해 G를 3.0으로 약간 낮췄습니다.",
+    "user_utterance": "Thanks for checking in. I’ve been struggling with consistency and emotional triggers lately, so I’d like something simple and doable that supports my glycemic goals without feeling overwhelming.",
+    "suggestion": 2.9,
+    "ground_truth_action": 3.636273933669993,
+    "compliance_raw": 0.8527452132660014,
+    "compliance_ema": 0.8333945637375597,
+    "goal": 3.25,
+    "reward": 2.144830683074928,
+    "user_compliance_prob": 0.33624809268974437,
+    "behavior_mean_before": 2.3088173885911614,
+    "behavior_mean_after": 2.3866433583471647,
+    "noise": 1.128672519561268,
+    "noise_std": 1.1391731585057832
+  }
+]

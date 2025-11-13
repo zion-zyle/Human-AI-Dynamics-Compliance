@@ -1,0 +1,28 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Nice to connect from Suwon. What's one small change you'd like to try today to move toward your goal and make meals easier and more satisfying?",
+    "user_utterance": "Thanks for the guidance. I'm feeling a bit vulnerable to emotional triggers today, but I want to stay consistent and reset after any slip."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "You're doing something important by acknowledging the triggers—staying present now sets you up to reset gracefully. Want to name one trigger you want to prepare for today and choose a compassionate reset to try after a slip?",
+    "user_utterance": "Today I’m feeling stressed and my plan slipped away. I need a simpler, trigger-proof routine to help me keep meals more regular."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "You're doing great. Today, try a small, trigger-proof routine: 3 regular meals on a simple schedule and one easy snack. If you slip, pause 2 minutes and reset with the next planned meal.",
+    "user_utterance": "Appreciate the guidance—I'm feeling the pressure from triggers and my irregular eating, but I want to stay more consistent today. I’ll focus on simple, steady choices when cravings hit.",
+    "suggestion": 2.674138625333287,
+    "ground_truth_action": 1.7966814008637364,
+    "compliance_raw": 0.8245085551060899,
+    "compliance_ema": 0.8060507167730152,
+    "goal": 3.25,
+    "reward": 1.005977663311708,
+    "user_compliance_prob": 0.6852093251072124,
+    "behavior_mean_before": 2.325969082034012,
+    "behavior_mean_after": 2.286834313518218,
+    "noise": -0.7678566989572585,
+    "noise_std": 0.5612933576224562
+  }
+]

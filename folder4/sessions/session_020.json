@@ -1,0 +1,28 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Nice to connect from Suwon—what's one small, doable change you want to try today to move toward goal G 3.05, and what's been the biggest hurdle?",
+    "user_utterance": "Thanks for the guidance. I sometimes slip with irregular meals and get pulled in by emotional triggers, but I’ll aim for a steadier routine and reach out when I’m feeling overwhelmed."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "Nice insight. What’s one tiny, repeatable anchor you can start today (like a consistent breakfast) and a simple way you’ll reach out when you’re feeling overwhelmed?",
+    "user_utterance": "Thanks for the guidance—stress and unexpected events tend to throw me off, but I want to stay consistent and not let triggers derail me."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "Today’s tiny, steady step: establish a fixed breakfast time (for example 8:00–8:30) and plan a simple, healthy snack to keep meals consistent. If overwhelm hits, do a 1‑minute check‑in and reach out to someone you trust. Small, regular anchors beat irregular meals. You’re making progress—keep going.",
+    "user_utterance": "Thanks for the guidance. I get pulled off track by stress and emotional moments—what’s a simple reset I can use when that happens?",
+    "suggestion": 2.6,
+    "ground_truth_action": 3.4652866714277195,
+    "compliance_raw": 0.8269426657144561,
+    "compliance_ema": 0.873048528196917,
+    "goal": 3.05,
+    "reward": 2.0893267817082686,
+    "user_compliance_prob": 0.40812088419672027,
+    "behavior_mean_before": 2.063922444981481,
+    "behavior_mean_after": 2.1505005539817836,
+    "noise": 1.1825797806940648,
+    "noise_std": 1.0201518157702312
+  }
+]

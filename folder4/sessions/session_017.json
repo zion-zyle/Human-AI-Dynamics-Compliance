@@ -1,0 +1,28 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Nice to meet you! What does a typical day of meals look like for you lately, and what's one small change you're willing to try this week?",
+    "user_utterance": "I'm feeling a bit triggered by my environment and my meals have been a bit off lately. Can we keep the plan simple and doable today so I don't get overwhelmed?"
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "I hear you—let's keep it simple today. What's one tiny change you can commit to right now that won't feel overwhelming?",
+    "user_utterance": "Thanks for checking in. I struggle with irregular meals and emotional triggers, so I need a simple, doable plan I can actually stick to today."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "Nice work staying engaged today. Today's gentle step: have three regular meals and one small, easy snack if you feel hungry or triggered (keep it simple with familiar foods you enjoy). This helps steady energy and mood without overwhelming you.",
+    "user_utterance": "Thanks for the guidance. I tend to slip with irregular meals, especially when emotional triggers hit, so I’ll try to stick to a steadier routine.",
+    "suggestion": 2.076088553059435,
+    "ground_truth_action": 2.045019330287731,
+    "compliance_raw": 0.9937861554456592,
+    "compliance_ema": 0.8679077249098504,
+    "goal": 3.05,
+    "reward": 1.5401221934193767,
+    "user_compliance_prob": 0.9999377684296745,
+    "behavior_mean_before": 2.071621313292694,
+    "behavior_mean_after": 2.069287061918333,
+    "noise": -0.031068944768358343,
+    "noise_std": 0.04010305548045899
+  }
+]

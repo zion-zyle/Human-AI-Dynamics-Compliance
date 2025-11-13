@@ -1,0 +1,28 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Good morning from Suwon! What's one area you'd like to focus on today to move toward your goal—breakfast choices, easy meals, or snacks?",
+    "user_utterance": "Thanks for checking in. I'm feeling a bit overwhelmed by today's stress, and I tend to slip when emotions spike, so I'll keep meals steady and simple."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "I hear you—stress can derail meals, so keeping it ultra-simple is smart. Do you want help identifying a couple of reliable, quick, balanced options you can reach for when emotions spike?",
+    "user_utterance": "Thanks for checking in. I'm feeling pretty susceptible to triggers today and could use a simple, steady plan to stay on track."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "You're doing well. Today, aim for a steady, ultra-simple target around 3.0—choose one reliable, quick balanced option for each meal and keep portions consistent. Small, consistent steps beat today’s stress. You’ve got this.",
+    "user_utterance": "I'll try to keep a steadier eating pattern, especially when stress or triggers come up. Thanks for the guidance—I'll stay honest about what's causing me to slip.",
+    "suggestion": 3.0,
+    "ground_truth_action": 2.6982644610816218,
+    "compliance_raw": 0.9396528922163243,
+    "compliance_ema": 0.8785284078472199,
+    "goal": 3.25,
+    "reward": 2.045988171738716,
+    "user_compliance_prob": 0.2792214638507253,
+    "behavior_mean_before": 2.360397842211475,
+    "behavior_mean_after": 2.379360890586832,
+    "noise": 0.15927596809035183,
+    "noise_std": 1.2336092558631988
+  }
+]

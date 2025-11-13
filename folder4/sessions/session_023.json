@@ -1,0 +1,28 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Good morning from Suwon! I’m here to help you move toward your goal—what does your morning look like today, and are there meals you’d like to include or avoid?",
+    "user_utterance": "Thanks for the check-in. I tend to be triggered by stress and have irregular meals, so I’ll try to stay more steady and rely on simple, doable habits on busy days."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "I hear you—on stressful, busy days, steady, simple habits can really help. What's one small habit you feel you could commit to today (for example a regular breakfast time or a predictable snack)?",
+    "user_utterance": "Appreciate the check-in. I get pulled off-track by stress and cravings, so keeping today simple and steady would help."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "Morning! On busy days, a steady, simple habit helps. Today try one small step: have a balanced breakfast within the next hour (e.g., yogurt with fruit or a peanut-butter toast) and sip water throughout the morning. Keep the effort at a 3—meaning doable and consistent, not perfect.",
+    "user_utterance": "I’m having a tough time with irregular meals and stress pulling me off track. I’d really appreciate simpler, steadier steps to help my glycemic regulation.",
+    "suggestion": 3.1051893052118476,
+    "ground_truth_action": 1.0,
+    "compliance_raw": 0.5789621389576305,
+    "compliance_ema": 0.7926532455172011,
+    "goal": 3.05,
+    "reward": 0.6013993410084967,
+    "user_compliance_prob": 0.05874756048864914,
+    "behavior_mean_before": 2.1518098490142714,
+    "behavior_mean_after": 2.098305345314956,
+    "noise": -4.053803178362031,
+    "noise_std": 1.5987140398307969
+  }
+]

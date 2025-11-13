@@ -1,0 +1,28 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Good morning from Suwon! What's one eating habit you'd like to focus on today—more veggies, regular meals, or a healthy snack—to help you move toward your goal?",
+    "user_utterance": "I hear you, coach. Today was chaotic and I got pulled into snacking—I'll stay focused on small, steady steps to avoid those triggers."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "Sounds like a chaotic day—recognizing triggers is a big win. What's one small, easy-to-prep snack you can keep handy to help you pause cravings when they hit?",
+    "user_utterance": "Thanks for the guidance. I'm feeling a bit reactive today and would appreciate a simple, steady routine I can actually stick to when stress or cravings hit."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "Great job staying aware today. Let's keep it steady: target a 3.0 as your next action—pick a simple prepped snack and pause 1–2 minutes before eating (e.g., apple with almonds or yogurt). If stress spikes, take a quick breath and return to the snack plan. Updated goal: 3.0.",
+    "user_utterance": "I appreciate the check-in. I'm having a tougher time staying consistent when stress hits, so I could use simple, steadying meal ideas.",
+    "suggestion": 2.907680848853455,
+    "ground_truth_action": 2.9351293976711346,
+    "compliance_raw": 0.9945102902364641,
+    "compliance_ema": 0.8746685570044981,
+    "goal": 3.1551893052118474,
+    "reward": 2.4236015294454782,
+    "user_compliance_prob": 0.23306565022855283,
+    "behavior_mean_before": 2.224284435930421,
+    "behavior_mean_after": 2.262741685335563,
+    "noise": 0.5515687323989459,
+    "noise_std": 1.3100432832215165
+  }
+]

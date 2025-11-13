@@ -1,0 +1,28 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "좋아요, 지금의 목표를 향해 한 걸음씩 가고 있어요. 오늘 실천하기 쉬운 한 가지 작은 습관이나 고민거리가 있다면 들려주세요.",
+    "user_utterance": "Thanks for the guidance. When stress or mood dips, I slip with my meals—I'll aim for a simple, regular eating plan and ready-to-go snacks today."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "좋은 방향이에요. 스트레스가 오를 때 가장 흔한 상황을 함께 짚어보고, 오늘 바로 실행할 수 있는 간단한 대처 하나를 같이 만들어볼까요?",
+    "user_utterance": "Appreciate the guidance—I can get pulled off track by emotional triggers and irregular meals, but I’ll keep things simple and aim for steady routines."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "스트레스가 와도 쉽게 지킬 수 있는 한 가지를 오늘 실천해요: 규칙적인 식사 3끼를 가능한 같은 시간에, 미리 준비한 간식 1개를 두고 필요 시 바로 꺼낼 수 있게 두기. 예: 바나나+견과, 요거트, 작은 샌드위치처럼 간단한 간식. 식사 후 현재의 배고픔/감정을 1–5로 짧게 체크해 보세요. 작은 습관이 점차 큰 변화를 만듭니다.",
+    "user_utterance": "Thanks for the guidance. I'll try to be more consistent with meals and focus on small, doable steps today, since emotional triggers can throw me off.",
+    "suggestion": 2.4,
+    "ground_truth_action": 2.494462905302458,
+    "compliance_raw": 0.9811074189395084,
+    "compliance_ema": 0.9094030999985319,
+    "goal": 2.55,
+    "reward": 2.4764879932769155,
+    "user_compliance_prob": 0.5269172879377311,
+    "behavior_mean_before": 1.946728461175085,
+    "behavior_mean_after": 1.983423106471323,
+    "noise": 0.3088978341903865,
+    "noise_std": 0.8234249711751174
+  }
+]

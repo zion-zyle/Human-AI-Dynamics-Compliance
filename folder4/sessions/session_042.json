@@ -1,0 +1,28 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Nice to meet you! Could you share what 'Goal 3.25' means for you (weight, energy, or another target) and what's one small change you're ready to try today?",
+    "user_utterance": "Thanks for the guidance. I’m feeling pulled by stress and quick snacks, so can we keep a simple, quick plan I can actually follow when triggers hit?"
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "Love that—let’s keep it ultra-simple. What’s your strongest trigger right now, and what’s one tiny, doable response you can commit to the next time it shows up (for example a quick drink of water, a short walk, or a protein-forward snack)?",
+    "user_utterance": "I'm trying my best, but emotional triggers and irregular meals derail me. Could we keep guidance simple and immediately doable today?"
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "Nice progress. Today's ultra-simple step: at the next stress trigger, pause for 30 seconds, drink a glass of water, and if still hungry, reach for a protein-rich snack. Do this 2–3 times today. You're doing great—small, doable moves add up.",
+    "user_utterance": "I'm feeling the stress lately and meals have been a bit irregular. I want to keep things simple and steady today.",
+    "suggestion": 3.0,
+    "ground_truth_action": 2.0979068857985963,
+    "compliance_raw": 0.8195813771597192,
+    "compliance_ema": 0.8515758694882883,
+    "goal": 3.25,
+    "reward": 1.2173624729118373,
+    "user_compliance_prob": 0.3397371322552291,
+    "behavior_mean_before": 2.4116237083992487,
+    "behavior_mean_after": 2.3931831303037265,
+    "noise": -0.5136100965960584,
+    "noise_std": 1.1333953089853406
+  }
+]
