@@ -1,0 +1,28 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Great to connect. What's one healthy meal you enjoy here in Suwon that we could anchor today, and what's one small tweak you'd like to try this week?",
+    "user_utterance": "Thanks for the guidance—I'll try to tune into my hunger cues and keep a simple plan today. If cravings hit, I’ll name the trigger and pause before eating."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "Nice plan—what hunger cue will you start with today, and is there a Suwon-friendly meal you'd like to anchor around that pause?",
+    "user_utterance": "Thanks for the update. I'll keep leaning into a steadier routine and plan ahead to handle cravings."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "You're doing well. Let's aim for a small nudge to 3.7 today by sticking to hunger cues, pausing before eating, and anchoring a simple Suwon-friendly meal (protein + veggies + a modest portion of rice). If cravings arise, name the trigger and pause briefly.",
+    "user_utterance": "Thanks for the check-in. I notice I drift off track when I’m distracted, so I want to keep things simple and stay mindful before meals.",
+    "suggestion": 3.7,
+    "ground_truth_action": 3.678686526718571,
+    "compliance_raw": 0.9957373053437142,
+    "compliance_ema": 0.9875977928691565,
+    "goal": 3.6569565898174496,
+    "reward": 2.495029187303466,
+    "user_compliance_prob": 0.9001965957565751,
+    "behavior_mean_before": 3.3744799307604296,
+    "behavior_mean_after": 3.4603207029603134,
+    "noise": 0.011174537778235185,
+    "noise_std": 0.03155753531657979
+  }
+]

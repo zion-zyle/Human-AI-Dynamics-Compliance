@@ -1,0 +1,28 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Good morning! I’m here to help you move toward your goal with simple, doable steps—what would you like to focus on today (e.g., breakfast routine, snacks, or a plan that fits your Suwon schedule)?",
+    "user_utterance": "Thanks for the steady guidance. I still feel urges to overeat, especially when stressed, but I want to keep following the plan."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "You're doing great—stress can spike urges, and staying with the plan shows real commitment. What's one stressor today, and what's a tiny, soothing next action you could try right now (e.g., a glass of water, a quick walk, or a breathing moment)?",
+    "user_utterance": "Thanks for the steady guidance—I felt a bit off with cravings today, but I’m ready to reset. Any quick strategies for handling late-night urges when I’m away from my usual routine?"
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "You're doing great—consistently near your goal. For handling late-night urges away from your routine, try a small, structured kit: carry a protein-rich snack or yogurt, drink a glass of water, and do a quick 5-minute wind-down (breathing or light walk) when cravings hit. This keeps you near the target with a manageable step (S=4.0). If you want, we can adjust your daily plan slightly later, but for now this is a gentle, high-lidelity move.",
+    "user_utterance": "Thanks for the steady guidance; I'm staying on track most days, but late-night cravings still challenge me. Can we tweak triggers and my routine to handle those better?",
+    "suggestion": 5.0,
+    "ground_truth_action": 5.0,
+    "compliance_raw": 1.0,
+    "compliance_ema": 0.9989475256272395,
+    "goal": 5.0,
+    "reward": 2.5,
+    "user_compliance_prob": 0.9999594314947657,
+    "behavior_mean_before": 4.993605768523219,
+    "behavior_mean_after": 4.995504816750268,
+    "noise": 0.0054421354534228625,
+    "noise_std": 0.0100087627971306
+  }
+]

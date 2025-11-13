@@ -1,0 +1,28 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Nice to meet you—what's one small, doable change you can commit to today? Also, what's your current biggest hurdle toward your goal so I can tailor a simple step for you.",
+    "user_utterance": "That tip sounds helpful, but my eating is pretty irregular—I'll need some reminders to stay on track."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "Regular reminders can really help with irregular eating. Do you prefer phone alerts, calendar prompts, or simple notes, and where would you want them to pop up (home, work, or on the go)?",
+    "user_utterance": "I gave that suggestion a try, but I still feel strong urges to snack when my day gets off schedule. Can we adjust the plan to fit my irregular eating pattern?"
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "Nice progress. To fit your irregular days, try adding three flexible reminders aligned with your usual meal times and a quick 2-minute pre-snack check when cravings hit. Keep it simple and adjust as needed.",
+    "user_utterance": "Okay, I hear you. My eating tends to be irregular, but I’ll give the plan a real shot and let you know how it goes.",
+    "suggestion": 2.605776213071667,
+    "ground_truth_action": 2.3934152997258,
+    "compliance_raw": 0.9575278173308266,
+    "compliance_ema": 0.9905813693746987,
+    "goal": 3.2,
+    "reward": 1.7401433118666678,
+    "user_compliance_prob": 0.6962396102056261,
+    "behavior_mean_before": 2.001715535282285,
+    "behavior_mean_after": 2.1003814086622445,
+    "noise": -0.028871206401111082,
+    "noise_std": 0.07561224419558477
+  }
+]

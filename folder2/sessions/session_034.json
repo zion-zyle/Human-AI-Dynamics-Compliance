@@ -1,0 +1,28 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Hi there, I’m glad you reached out. What does Goal 5.00 mean for you today, and what would you most like to focus on—cravings, energy, or meals?",
+    "user_utterance": "Thanks for the tips, coach. Cravings still hit on busy days, and my eating is a bit irregular—what quick steps should I try next time?"
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "On busy days, take a brief pause to check if you’re hungry, hydrate, and then grab a portable protein+fiber snack (like yogurt with fruit, nuts, or a hard-boiled egg) to calm cravings and keep irregular meals on track.",
+    "user_utterance": "Appreciate the check-in. My eating still feels a bit irregular, but I’ll keep taking small, steady steps and stay mindful of external cues."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "Excellent momentum—set S = 4.95 for today. When cravings hit, pause 2–3 seconds, hydrate, then grab a portable protein+fiber snack (yogurt+fruit, nuts, or a hard-boiled egg) to keep meals steady. You’re near the 5.0 target and trending up.",
+    "user_utterance": "Thanks for the steady guidance. I still struggle with irregular meals and cravings, but I’m ready to stay more consistent and use your cues to steer me back when I’m feeling overwhelmed.",
+    "suggestion": 5.0,
+    "ground_truth_action": 4.987741716020864,
+    "compliance_raw": 0.9975483432041727,
+    "compliance_ema": 0.9942294790992128,
+    "goal": 5.0,
+    "reward": 2.497322961848951,
+    "user_compliance_prob": 0.9837060627743979,
+    "behavior_mean_before": 4.871328108043836,
+    "behavior_mean_after": 4.905621269463957,
+    "noise": -0.010161712248903358,
+    "noise_std": 0.01351949044073006
+  }
+]

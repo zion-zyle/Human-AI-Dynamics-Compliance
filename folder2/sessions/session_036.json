@@ -1,0 +1,28 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Nice to meet you! What meal or time tends to derail your day today in Suwon, and what's one small, doable change you'd like support with?",
+    "user_utterance": "Appreciate the guidance. I'll aim to keep my meals steady and watch cravings without letting them derail me."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "Nice job setting a steady goal. Which moment today are cravings most likely to spike for you, and what's one tiny tweak you're open to trying in that moment?",
+    "user_utterance": "I appreciate the guidance—I'll keep aiming for a steadier routine and stay mindful of cravings as they arise."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "Excellent consistency today in Suwon. For a gentle nudge, aim for a 4.9/5 effort: keep meals steady and curb cravings by adding a quick protein-rich bite at your next snack or meal within the next hour.",
+    "user_utterance": "Thanks for the steady guidance. I'm staying on track and will set up a simple plan to handle cravings today.",
+    "suggestion": 5.0,
+    "ground_truth_action": 4.998804386363823,
+    "compliance_raw": 0.9997608772727646,
+    "compliance_ema": 0.995618767551093,
+    "goal": 5.0,
+    "reward": 2.4997587330363467,
+    "user_compliance_prob": 0.9948140846838733,
+    "behavior_mean_before": 4.927612024525873,
+    "behavior_mean_after": 4.948701330154137,
+    "noise": -0.0008202157254615088,
+    "noise_std": 0.01112015770828336
+  }
+]

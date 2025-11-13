@@ -1,0 +1,28 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "좋아요! 오늘의 일정이나 현재 식사 습관 중 바꾸고 싶은 부분이 무엇인지 간단히 알려줄래요? 함께 현실적이고 작은 시작점을 찾아볼게요.",
+    "user_utterance": "Thanks for the update—I'll keep working toward a steadier eating pattern and flag cravings early so we can adjust before they derail me."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "좋아요, 규칙적인 식사에 초점을 맞추려는 의지가 멋져요. 오늘 중 cravings가 가장 강하게 찾아오는 순간을 몇 가지 예로 떠올려 보고, 그때 바로 쓸 수 있는 간단한 대처 아이디어를 함께 찾아볼까요?",
+    "user_utterance": "Thanks for the guidance. I'm noticing some improvements, but overeating still trips me up when things get busy."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "오늘은 바쁜 시간대 overeating을 줄이기 위한 한 가지 작고 구체적인 실행부터 시도해볼게요: 150–200 kcal의 단백질 간식을 미리 준비해 두고, cravings가 느껴질 때 5분 지연 규칙을 적용하기. 이 두 가지를 함께하면 과식 위험을 낮추고 규칙적인 식사 패턴에 더 가까워질 거예요. 현재 추세가 좋아 보이니 목표를 살짝 올려도 좋습니다.",
+    "user_utterance": "Thanks, coach. I’m aiming for more consistency and will keep following the plan even when life gets busy or tempting factors pop up.",
+    "suggestion": 3.7667560964361093,
+    "ground_truth_action": 3.7379424008241386,
+    "compliance_raw": 0.9942372608776059,
+    "compliance_ema": 0.9889256864708464,
+    "goal": 3.75,
+    "reward": 2.4940191981827597,
+    "user_compliance_prob": 0.9110341420846575,
+    "behavior_mean_before": 3.4603207029603134,
+    "behavior_mean_after": 3.5391065676257036,
+    "noise": -0.00155140793577118,
+    "noise_std": 0.02921662530971398
+  }
+]

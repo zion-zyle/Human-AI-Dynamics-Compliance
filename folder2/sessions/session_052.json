@@ -1,0 +1,28 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Hi! In Suwon right now, what's one small change you'd like to try today to move toward your goal, and what would feel most doable with your schedule?",
+    "user_utterance": "Thanks for the guidance—I've been sticking to your tips most days, even when cravings pop up. I’ll keep aiming for a steadier routine and speak up early when I feel tempted so we can adjust."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "Nice work sticking with the plan—your step to speak up early is a strong move. What's one specific moment today when cravings tend to hit, and how would you like me to help you respond in that moment?",
+    "user_utterance": "Thanks for the steady guidance—cravings still challenge me at times, but I’m aiming to stay consistent. If there are practical triggers or quick fixes you want me to try, I’m ready to work on them."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "Wonderful consistency. Today, add a tiny craving-coping move: when cravings hit, take a 5-minute walk or do 2 minutes of box breathing before deciding what to eat. It’s short, doable, and can keep your routine steady.",
+    "user_utterance": "Thanks for the check-in—I'm aiming to keep a steady routine and manage cravings when they pop up. I'll try simple, quick adjustments to stay on track.",
+    "suggestion": 5.0,
+    "ground_truth_action": 4.987729739765437,
+    "compliance_raw": 0.9975459479530875,
+    "compliance_ema": 0.9983555087925619,
+    "goal": 5.0,
+    "reward": 2.4973201260239724,
+    "user_compliance_prob": 0.9999403391110897,
+    "behavior_mean_before": 4.992245732410324,
+    "behavior_mean_after": 4.990904522604871,
+    "noise": -0.012269797608065666,
+    "noise_std": 0.010012886752004624
+  }
+]

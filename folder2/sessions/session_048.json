@@ -1,0 +1,28 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Happy to help you reach your goal. Could you share what 'Goal 5.00' represents for you and describe your typical day and meals here in Suwon so I can tailor practical next steps?",
+    "user_utterance": "Thanks for the steady guidance. I’m planning to stay on track today, though cravings pop up—do you have quick reset tips if I slip?"
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "Cravings happen, and a quick reset can help: drink a glass of water, take 5–10 slow breaths, and wait 10 minutes before deciding. If you still want something, would you like me to suggest quick, protein-rich snack options you can grab here in Suwon?",
+    "user_utterance": "Thanks for the guidance. Cravings still pop up with my irregular meals, but I’ll stick to the plan and keep a simple, healthy backup option handy."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "Nice work staying on track today. Quick reset: drink a glass of water, take 5 slow breaths, and wait 10 minutes before deciding. If craving persists, grab a quick protein-rich snack (e.g., yogurt, egg, or nuts) available locally in Suwon to bridge to your next meal.",
+    "user_utterance": "Thanks for the steady guidance. I still struggle with urges and irregular meals, but I’m trying to follow your tips as best I can.",
+    "suggestion": 5.0,
+    "ground_truth_action": 4.994327631821397,
+    "compliance_raw": 0.9988655263642794,
+    "compliance_ema": 0.9986428386577062,
+    "goal": 5.0,
+    "reward": 2.4988172634996006,
+    "user_compliance_prob": 0.9999499675712455,
+    "behavior_mean_before": 4.9928989810547275,
+    "behavior_mean_after": 4.993323279717816,
+    "noise": -0.005672012897377569,
+    "noise_std": 0.010010807004610963
+  }
+]

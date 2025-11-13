@@ -1,0 +1,28 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "좋아요! 수원에서의 일상에 맞춰 실용적으로 시작해볼게요. 현재 식사 습관이나 에너지 레벨에 대해 한두 가지를 간단히 공유해줄래요?",
+    "user_utterance": "Thanks for the guidance. I stuck with most of it today, but cravings got to me a bit at the end—I'll work on a quick plan to ride them out."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "수원에서의 하루에 맞춰 잘 버텨내고 계신 게 느껴져요. 지금 가장 강하게 느껴진 욕구가 언제 시작됐는지 짚어보고, 같은 상황이 오면 두세 가지 대처 아이디어를 함께 찾아볼까요?",
+    "user_utterance": "Thanks for the steady guidance. I mostly followed it today, but cravings surfaced later—I'll work on a steadier routine to manage them."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "Amazing consistency today. Keep your routine solid with a slightly flexible approach (S=4.5) to help ride out cravings if they pop up—quick plan: water, a short walk, or a protein snack. You’re in a strong rhythm!",
+    "user_utterance": "Appreciate the steady guidance; I’m sticking with the plan most days, but cravings pop up after stressful moments, so I want a simple way to handle them.",
+    "suggestion": 5.0,
+    "ground_truth_action": 4.987590097887117,
+    "compliance_raw": 0.9975180195774234,
+    "compliance_ema": 0.9982339584138284,
+    "goal": 5.0,
+    "reward": 2.497287028859143,
+    "user_compliance_prob": 0.9999173771450239,
+    "behavior_mean_before": 4.990874671320198,
+    "behavior_mean_after": 4.989899193310627,
+    "noise": -0.01240914815217499,
+    "noise_std": 0.01001784653667483
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Nice to meet you! Could you share what 'Goal G' represents for you, and give a quick snapshot of a typical day in Suwon (meals, work rhythm, and any local constraints) so I can tailor the next step?",
+    "user_utterance": "Thanks for the steady guidance—the routines help, and I'll keep sticking with the plan even when things get busy and cravings pop up."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "Nice to hear you're sticking with it. Could you tell me what 'Goal G' means for you and describe a typical busy Suwon day so I can tailor the next step?",
+    "user_utterance": "Thanks for the guidance. I’m sticking with the plan, but irregular meals and cravings still pop up—could use a small tweak for social settings."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "Nice progress. For social meals today, use S=4.0: choose one protein-rich option, eat slowly, and check fullness before seconds. This small tweak helps you stay on track while enjoying the moment.",
+    "user_utterance": "Thanks, coach. Cravings have been popping up with busy days, but I’m staying on track and sticking to the routine.",
+    "suggestion": 5.0,
+    "ground_truth_action": 5.0,
+    "compliance_raw": 1.0,
+    "compliance_ema": 0.9986844070340495,
+    "goal": 5.0,
+    "reward": 2.5,
+    "user_compliance_prob": 0.9999179167997101,
+    "behavior_mean_before": 4.990904522604871,
+    "behavior_mean_after": 4.993605768523219,
+    "noise": 0.0064286527534999065,
+    "noise_std": 0.01001772997126262
+  }
+]

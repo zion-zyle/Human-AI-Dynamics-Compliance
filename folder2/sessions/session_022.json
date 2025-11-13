@@ -1,0 +1,28 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Great to connect! What does 'Goal 4.10' mean for you right now, and what's the first area you want to focus on today (breakfast, snacks, or hydration)?",
+    "user_utterance": "Thanks for the guidance, coach. I'll stay consistent and work on taming cravings as they come today."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "Nice—taming cravings today is a strong, practical focus. When a craving arises, which one tends to show up first, and would you like a simple, in-the-moment cue to use before you react?",
+    "user_utterance": "Thanks for the guidance. I'll focus on small, steady steps today and set up my day to avoid grazing when things get busy."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "Great progress staying with cravings today. Today's gentle push is S = 3.9—slightly higher effort while staying doable. When a craving hits, take a 60-second pause, sip water, and try a quick 2-minute movement before deciding. If that feels smooth, we can edge your goal up to 4.2. You've got this.",
+    "user_utterance": "Appreciate the check-in. External cues are still nudging me, but I’m aiming for more consistency with the plan and sticking with it when I can.",
+    "suggestion": 4.256167297279487,
+    "ground_truth_action": 4.251094506498133,
+    "compliance_raw": 0.9989854418437293,
+    "compliance_ema": 0.9922835171868025,
+    "goal": 4.213505700733132,
+    "reward": 2.4968675609141857,
+    "user_compliance_prob": 0.8977074576301086,
+    "behavior_mean_before": 3.9263887696017554,
+    "behavior_mean_after": 4.01789394962062,
+    "noise": 0.028661093233800856,
+    "noise_std": 0.03209518915189654
+  }
+]

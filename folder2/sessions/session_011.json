@@ -1,0 +1,28 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Good morning from Suwon! What’s one meal you can commit to today that feels doable and enjoyable while keeping your goal in mind?",
+    "user_utterance": "Thanks for checking in. I'm feeling a few cravings today, and I'll focus on keeping meals regular and taking a mindful pause before reaching for seconds."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "Nice work staying mindful—that pause can blunt cravings quickly. What's the strongest craving right now, and what's one tiny, doable pause you can try before reaching for seconds (like a glass of water or a 3-minute walk)?",
+    "user_utterance": "Got it—cravings are tough, but I’ll stick to small, doable steps today and keep you posted."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "Great job staying mindful today. To navigate cravings, try a 3-minute pause before seconds and include a protein-rich option at your next meal. Small, doable steps like this keep you moving toward your goal without feeling restrictive.",
+    "user_utterance": "Thanks for the guidance. I sometimes slip into irregular meals, but I’ll stay mindful and keep taking small, doable steps to stay on track.",
+    "suggestion": 3.427869109667639,
+    "ground_truth_action": 3.3820574964104715,
+    "compliance_raw": 0.9908376773485665,
+    "compliance_ema": 0.9833162514463044,
+    "goal": 3.3511610595307793,
+    "reward": 2.4894064758446435,
+    "user_compliance_prob": 0.8556280311690457,
+    "behavior_mean_before": 3.0314635663055975,
+    "behavior_mean_after": 3.128073497058256,
+    "noise": 0.01141823549351441,
+    "noise_std": 0.04118434526748612
+  }
+]

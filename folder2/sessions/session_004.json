@@ -1,0 +1,28 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Nice to connect from Suwon—what does goal G 2.85 represent for you, and what does a typical weekday meal look like right now?",
+    "user_utterance": "Thanks for the guidance. I'll work on a more regular routine and staying mindful of urges today."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "Nice progress—sticking to a regular routine and staying mindful of urges is a strong foundation. What's one small, doable action you can commit to today to move toward your goal?",
+    "user_utterance": "Thanks for the guidance—external cues still pull me in sometimes, but I’ll stay steady with my routine today."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "Nice steady progress—today's small step of 2.6 fits your current momentum. Keep your routine and mindful urges steady; small, consistent wins add up. If you slip a bit, that’s a cue to adjust gently and keep moving forward.",
+    "user_utterance": "Thanks for the guidance. I'll stick to my routine and work on not letting cravings derail me.",
+    "suggestion": 2.7758198931645914,
+    "ground_truth_action": 2.7437944710280795,
+    "compliance_raw": 0.9935949155726976,
+    "compliance_ema": 0.9794701725683826,
+    "goal": 2.9499999999999997,
+    "reward": 2.431150827130306,
+    "user_compliance_prob": 0.8095764423143065,
+    "behavior_mean_before": 2.3144155072282713,
+    "behavior_mean_after": 2.429799124799314,
+    "noise": 0.055836842565264715,
+    "noise_std": 0.0511314884601098
+  }
+]
