@@ -1,0 +1,28 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Good morning! Here in Suwon, what's one small, doable tweak you'd like to try today to move toward your goal?",
+    "user_utterance": "I hear the plan, but I’m not feeling ready to change my night-eating pattern. I’ll stick with my current routine and revisit when I’m actually ready."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "I hear you—it's totally okay to move at your own pace. If you’re open, we can pick a tiny daytime habit to support your goal that doesn’t touch your night routine, just to keep momentum.",
+    "user_utterance": "I hear you, but I’m not convinced changing my routine will help since my night eating tends to happen no matter what you suggest."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "You're staying engaged—great job. Today's tiny daytime tweak: drink a 250 ml glass of water about 30 minutes before lunch. It's simple, won't affect your night routine, and can help with fullness and energy. If this feels doable, we can build from it tomorrow.",
+    "user_utterance": "I hear you, but I’m not sure I can change. Night eating habits feel stubborn and I don’t really react to outside cues.",
+    "suggestion": 2.392777313795003,
+    "ground_truth_action": 2.1472122273504692,
+    "compliance_raw": 0.9508869827110933,
+    "compliance_ema": 0.8912021013089433,
+    "goal": 2.654230069722032,
+    "reward": 2.110861475179404,
+    "user_compliance_prob": 0.1442871804994604,
+    "behavior_mean_before": 1.9770217992305614,
+    "behavior_mean_after": 1.9784823996691214,
+    "noise": 0.11020223714630246,
+    "noise_std": 1.0468553834006475
+  }
+]

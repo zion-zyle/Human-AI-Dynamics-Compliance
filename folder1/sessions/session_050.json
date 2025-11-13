@@ -1,0 +1,28 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Nice to meet you! Could you share a quick snapshot of your typical meals and what 'Goal 2.65' means for you (weight or another target) so I can suggest a small, sustainable first step?",
+    "user_utterance": "I hear you, but I'm not sure I can follow through tonight. I tend to push back on changes even when you suggest them."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "I hear you—it's common to resist changes tonight. What's one tiny, non-pressuring step you feel you could realistically try tonight to move toward your goal a little easier?",
+    "user_utterance": "I hear you, but I'm not convinced these suggestions will fix my night eating. I'd rather go my own way for now."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "Tonight, try one tiny, doable step: have a glass of water before your next meal and choose a small protein-rich bite if you’re hungry. No need to overhaul your routine—consistency over perfection builds real momentum.",
+    "user_utterance": "Night eating is stubborn for me, and I’m not easily swayed by this advice, but I’ll keep listening and try to figure out what might work.",
+    "suggestion": 2.5919044402186517,
+    "ground_truth_action": 2.4318180033311636,
+    "compliance_raw": 0.9679827126225024,
+    "compliance_ema": 0.904836717525735,
+    "goal": 2.7530520361822934,
+    "reward": 2.320914327043875,
+    "user_compliance_prob": 0.01638957355554737,
+    "behavior_mean_before": 1.9860468790811054,
+    "behavior_mean_after": 1.9894449575027047,
+    "noise": 0.43584137718760974,
+    "noise_std": 1.2003325117333434
+  }
+]

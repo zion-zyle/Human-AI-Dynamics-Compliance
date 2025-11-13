@@ -1,0 +1,28 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Nice to meet you—what's one simple nutrition habit you'd like to focus on this week, and what's been the biggest hurdle so far?",
+    "user_utterance": "I hear you. Night eating is stubborn for me, so I’ll keep doing things my own way."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "I hear you—night eating can be stubborn. What's a trigger you've noticed lately, and what's one tiny change you could try tonight that fits your rhythm?",
+    "user_utterance": "I hear the suggestions, but I’m not convinced they’ll help tonight. I’ll stick with what feels doable for me and see how it goes."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "You're making steady progress. Tonight, try a small, doable change: set a 9:00 PM cut-off for eating and, if hungry afterward, opt for a small protein snack (like yogurt) with a glass of water. This keeps night eating in check without big changes. Based on recent patterns, lowering your goal slightly to 2.4 aligns with your pace. You’ve got this.",
+    "user_utterance": "I hear you, but I'm not ready to change my night eating pattern yet.",
+    "suggestion": 2.243501591138958,
+    "ground_truth_action": 2.044702164981653,
+    "compliance_raw": 0.960240114768539,
+    "compliance_ema": 0.8810149114344844,
+    "goal": 2.654230069722032,
+    "reward": 1.9947635187828214,
+    "user_compliance_prob": 0.4485804436305906,
+    "behavior_mean_before": 1.9759619992639137,
+    "behavior_mean_after": 1.9767088167120435,
+    "noise": -0.051272863094315564,
+    "noise_std": 0.6817034676432914
+  }
+]

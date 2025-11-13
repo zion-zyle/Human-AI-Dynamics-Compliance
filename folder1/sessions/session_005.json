@@ -1,0 +1,28 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "좋아요! Suwon에서의 일상과 현재 식습관 중에서 가장 개선하고 싶은 부분이 무엇인지 함께 이야기해 주세요. 예를 들어 바쁜 아침에 힘든 점이나 간식 습관에 대해 알려주실 수 있을까요?",
+    "user_utterance": "Yeah, not changing my night eating pattern just yet. I’ll bring it up if I want guidance."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "좋아요, 밤 식사 패턴은 천천히 다뤄도 되니 오늘 바로 시도해볼 수 있는 한 가지 작은 변화부터 함께 찾아볼까요? 지금 아침 루틴이나 간식 습관 중 가장 번거로운 점을 알려주시면 그에 맞춰 간단한 아이디어를 같이 생각해볼게요.",
+    "user_utterance": "Noted. I’m not chasing a stricter plan right now and will stick with what feels doable."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "오늘은 아주 작은 변화로 시작해 보세요. 예를 들어 아침에 물 한 잔 더 마시고 간식은 과일 한 개로 바꾸는 것처럼 부담 없이 시도해 보면 좋습니다.",
+    "user_utterance": "Not convinced this will help, but I’ll think about it when I’m ready. I’m sticking to my own pace and won’t be swayed by more tweaks.",
+    "suggestion": 2.3,
+    "ground_truth_action": 1.5400932298597727,
+    "compliance_raw": 0.8480186459719545,
+    "compliance_ema": 0.9241853546094929,
+    "goal": 2.3785351129972363,
+    "reward": 1.5906766110960808,
+    "user_compliance_prob": 0.3540271533527427,
+    "behavior_mean_before": 1.9955124820169559,
+    "behavior_mean_after": 1.9908876067651027,
+    "noise": -0.5632161013801622,
+    "noise_std": 0.7951674159767089
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Good morning! What does your typical breakfast look like today, and is there a specific challenge you’d like to tackle first?",
+    "user_utterance": "I hear you, but I don’t rely on moods or surroundings. I’ll try a simple, practical tweak that fits into my routine."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "Love that you want a simple, routine-friendly tweak—what’s the simplest change you can fit in today (for example, adding a protein source to breakfast or swapping a sugary drink for water), and how will you try it?",
+    "user_utterance": "Not convinced these tips fit how my nights work. I’m sticking with my current routine and won’t adjust based on recommendations."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "You’re showing strong consistency. Keep it simple today with a steady, moderate tweak at level 2.0 (for example, adding a protein source at breakfast or swapping one sugary drink for water). You’ve got this.",
+    "user_utterance": "I hear you, but my nights are unpredictable and I need something simple and practical that actually fits my schedule.",
+    "suggestion": 2.0,
+    "ground_truth_action": 2.0061925971832606,
+    "compliance_raw": 0.9987614805633479,
+    "compliance_ema": 0.9252452307618813,
+    "goal": 2.4,
+    "reward": 2.2832759955301642,
+    "user_compliance_prob": 0.9965886189745007,
+    "behavior_mean_before": 1.9825326502208522,
+    "behavior_mean_after": 1.9828869440770824,
+    "noise": 0.006252184968863059,
+    "noise_std": 0.02409365723059918
+  }
+]

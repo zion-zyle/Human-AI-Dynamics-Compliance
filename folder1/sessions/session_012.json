@@ -1,0 +1,28 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Nice to meet you! What's one small change you can try today in Suwon to support your goal, and what foods do you enjoy that we can adapt rather than restrict?",
+    "user_utterance": "Not convinced this will help, but keep it simple and at my pace. I won’t be swayed by pressure—just give me practical steps."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "Great—let’s keep it ultra-simple. Which everyday meal today in Suwon would you like to tweak (for example, add a veggie or choose a higher-protein option) without changing your pace?",
+    "user_utterance": "I hear the plan, but I’m skeptical it’ll fix my night eating. I’ll try, but don’t expect major changes."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "Today’s tiny nudge: add a protein-rich item to one meal (e.g., egg or yogurt) and a veggie side. It’s simple, keeps pace, and may help with night snacks. You’re doing well—stick to small, doable steps.",
+    "user_utterance": "I hear you, but late-night hunger doesn’t really line up with these tips for me; I’ll keep going with my own rhythm for now.",
+    "suggestion": 2.5,
+    "ground_truth_action": 1.5916288749294176,
+    "compliance_raw": 0.8183257749858835,
+    "compliance_ema": 0.9133636401597512,
+    "goal": 2.4,
+    "reward": 1.5986866798710766,
+    "user_compliance_prob": 0.05235030121787866,
+    "behavior_mean_before": 1.9867994693871256,
+    "behavior_mean_after": 1.9836805351813005,
+    "noise": -0.42203679682046696,
+    "noise_std": 1.1571796385385458
+  }
+]

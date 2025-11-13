@@ -1,0 +1,28 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "좋아요! Suwon에서의 일상을 고려해 함께 현실적인 방향으로 움직이고 싶어요. 오늘 식사나 간식에서 가장 큰 어려움이 무엇인지 한 가지 알려주실 수 있을까요?",
+    "user_utterance": "I hear your suggestions, but I am not ready to change my night eating pattern yet. I will bring it up when I want a different approach."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "좋아요, 밤 섭식은 나중에 다루기로 하고, 지금 바로 적용 가능한 한 가지 작은 변화를 함께 찾아볼까요? 오늘 식사나 간식 중 가장 큰 어려움 한 가지를 공유해 주세요.",
+    "user_utterance": "I hear you, but I tend to resist strict plans. Let’s keep it simple with a tiny adjustment to my nights instead of a big overhaul."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "Tonight, try a tiny night-time tweak: after dinner, drink a glass of water and wait 5 minutes before any snack. If still hungry, choose a small protein option or herbal tea. A gentle step that fits your pace in Suwon.",
+    "user_utterance": "I hear you, but I'm not ready to try new strategies tonight. I’ll see if my motivation changes later.",
+    "suggestion": 2.4954602975917144,
+    "ground_truth_action": 2.3198377580319796,
+    "compliance_raw": 0.964875492088053,
+    "compliance_ema": 0.9410374895164161,
+    "goal": 2.55,
+    "reward": 2.3874815625672894,
+    "user_compliance_prob": 0.0555770738085208,
+    "behavior_mean_before": 1.9874895004545088,
+    "behavior_mean_after": 1.9901206444636512,
+    "noise": 0.30411672709240317,
+    "noise_std": 1.1533075114297753
+  }
+]

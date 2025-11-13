@@ -1,0 +1,28 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "좋은 아침이에요! 오늘의 식단이나 생활 습관에서 함께 다듬고 싶은 부분이 있을까요?",
+    "user_utterance": "Got it. I’m not easily swayed by advice, so keep it straightforward and low-pressure; I’ll engage when it feels doable."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "좋아요, 부담 없이 오늘 한 가지 작은 변화로 시작해볼까요? 예를 들어 간식 대신 과일 한 개를 선택하는 식으로요.",
+    "user_utterance": "I hear you, but I’m not convinced by more changes. I’d prefer small, practical tweaks that fit my night-eating pattern without feeling like a lecture."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "오늘은 밤에 간식의 아주 작은 변화를 시도해 보세요. 밤 시간의 과식 위험을 낮추기 위해 간식 대신 물 한 잔과 단백질이 조금 들어간 소량 간식으로 시작해 보세요(예: 무가당 그릭 요거트 조금, 계란 반쪽 등). 천천히 반응을 확인하고 필요하면 양을 조절하며 목표를 조금씩 맞춰나가요.",
+    "user_utterance": "I hear you, but my night-eating pattern is stubborn and I need something that actually fits my irregular schedule, not generic tips.",
+    "suggestion": 2.19540456304723,
+    "ground_truth_action": 2.227844458267318,
+    "compliance_raw": 0.9935120209559825,
+    "compliance_ema": 0.9350779888735068,
+    "goal": 2.55,
+    "reward": 2.3456417345676384,
+    "user_compliance_prob": 0.6077932095885956,
+    "behavior_mean_before": 1.9845558167611312,
+    "behavior_mean_after": 1.9874895004545088,
+    "noise": 0.11513620526322761,
+    "noise_std": 0.4906481484936853
+  }
+]

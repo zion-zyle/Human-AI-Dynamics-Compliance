@@ -1,0 +1,28 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "수원에서 바쁜 아침에도 실천하기 쉬운 작은 변화부터 함께 시작해볼까요? 지금 식사에서 가장 어렵다고 느끼는 부분을 알려주시면 거기에 맞춰 도와드리겠습니다.",
+    "user_utterance": "I hear you, but late-night eating is how I operate; I'm not ready to change right now."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "그럴 수 있어요. 늦은 밤에 가장 자주 드시는 상황이나 그때의 감정을 한 단어로 말해주실 수 있을까요, 그 정보를 바탕으로 아주 작은 시작점을 함께 찾아볼게요.",
+    "user_utterance": "I hear you, but I doubt these suggestions will change my night eating. Keep it brief and practical, and don’t rely on mood or environmental cues."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "자정 직전 물 한 잔 마시고 5분 기다린 뒤, 여전히 배고프면 소량의 과일이나 요거트로 간단히 대체하는 작은 습관을 시도해 보세요. 큰 변화 없이도 늦은 밤 식습관에 천천히 변화를 줄 수 있습니다.",
+    "user_utterance": "I hear you, but I’m not feeling motivated to tweak my routines right now. I’ll keep things as they are and decide what to adjust later.",
+    "suggestion": 1.600366246952068,
+    "ground_truth_action": 1.0327363662708815,
+    "compliance_raw": 0.8864740238637627,
+    "compliance_ema": 0.8630020899454425,
+    "goal": 2.654230069722032,
+    "reward": 0.9946737198596479,
+    "user_compliance_prob": 0.19396867208529506,
+    "behavior_mean_before": 1.9830329493109395,
+    "behavior_mean_after": 1.974523266690893,
+    "noise": -0.8760712309322488,
+    "noise_std": 0.9872375934976461
+  }
+]

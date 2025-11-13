@@ -1,0 +1,28 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Nice to meet you—what does a typical day look like for you in Suwon? What's one small, doable change you'd like to start today to move toward your goal?",
+    "user_utterance": "I hear your suggestion, but I'm not ready to change my routine yet. Let's revisit this later."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "Totally understand—when you’re ready, what’s one tiny tweak you’d actually enjoy trying this week, and we’ll check in about it later?",
+    "user_utterance": "I hear you, but night eating is stubborn for me and I don’t easily change my habits."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "Nice consistency so far. Tonight’s tiny tweak: when night hunger hits, drink a glass of water and wait 10 minutes; if still hungry, have a small protein-rich snack (about 100–150 kcal) no later than 9:30 PM. This keeps change light while targeting late-night eating. We’ll check in on how it goes.",
+    "user_utterance": "I hear you, but I’m not sure I’m ready to change right now. We can talk again later when I feel more ready to try.",
+    "suggestion": 2.140133944354881,
+    "ground_truth_action": 2.547223927387227,
+    "compliance_raw": 0.9185820033935308,
+    "compliance_ema": 0.888565603737401,
+    "goal": 2.654230069722032,
+    "reward": 2.401504489684106,
+    "user_compliance_prob": 0.7349703568717528,
+    "behavior_mean_before": 1.9743228665732093,
+    "behavior_mean_after": 1.9817776142577046,
+    "noise": 0.4510348338035324,
+    "noise_std": 0.33803557175389665
+  }
+]

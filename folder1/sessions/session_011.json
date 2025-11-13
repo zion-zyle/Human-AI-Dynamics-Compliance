@@ -1,0 +1,28 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Nice to meet you—could you share what the 2.40 goal represents for you (weight, timing, or another metric) so I can tailor our next steps? And what's one small change today that would feel doable?",
+    "user_utterance": "Got it. I’m not really ready to commit to changes, but I’ll keep listening and see if anything feels doable."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "I hear you, no pressure to commit. When you’re ready, what’s one tiny change that would feel doable today, and where in your routine could you fit it?",
+    "user_utterance": "I hear you, but I'm still not convinced. Let's keep it simple and practical."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "You're doing well staying engaged. Let's try a gentle, 2.3-level step today: pick one tiny adjustment that fits your routine and feels doable. No need to overhaul—consistency adds up over time. I'm here to support you.",
+    "user_utterance": "I hear you, but my nights are irregular and I’m not changing that just yet. Give me something simple that fits my routine, not more advice I won’t follow.",
+    "suggestion": 2.3,
+    "ground_truth_action": 2.376826953907174,
+    "compliance_raw": 0.9846346092185652,
+    "compliance_ema": 0.9371231064532182,
+    "goal": 2.4,
+    "reward": 2.483829340350776,
+    "user_compliance_prob": 0.3242372653746938,
+    "behavior_mean_before": 1.9828869440770824,
+    "behavior_mean_after": 1.9867994693871256,
+    "noise": 0.2911201397630327,
+    "noise_std": 0.8309152815503676
+  }
+]

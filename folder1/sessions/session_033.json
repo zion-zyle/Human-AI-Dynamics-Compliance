@@ -1,0 +1,28 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Nice to meet you. What's one part of your current eating routine you'd like to adjust first, and what's been the biggest hurdle?",
+    "user_utterance": "I hear you, but night-time eating is tough for me and I'm resistant to big changes. Can we keep it simple with small, practical tweaks that don’t feel overwhelming?"
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "Nice—let's start with one tiny tweak. After dinner, try a tall glass of water (or herbal tea) instead of reaching for a late-night snack—how does that feel, and would you like to try it tonight?",
+    "user_utterance": "I hear you, but I’m not feeling motivated to change my routine right now. Night eating still feels out of my control."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "You’re doing great. Tonight’s tiny tweak: drink a full glass of water after dinner and wait 10 minutes before considering snacks. This keeps things simple and doable, and helps you regain control without feeling overwhelmed.",
+    "user_utterance": "Not convinced big changes will help, but I'll listen if you give me something simple to try tonight. Keep it brief and focus on one tiny, practical step.",
+    "suggestion": 2.1423509194397625,
+    "ground_truth_action": 1.9625795755131563,
+    "compliance_raw": 0.9640457312146787,
+    "compliance_ema": 0.9159416746229362,
+    "goal": 2.654230069722032,
+    "reward": 1.8937253035957258,
+    "user_compliance_prob": 0.7034545911836411,
+    "behavior_mean_before": 1.9651323418518465,
+    "behavior_mean_after": 1.9650997279402975,
+    "noise": -0.12721798838594386,
+    "noise_std": 0.3758544905796308
+  }
+]
