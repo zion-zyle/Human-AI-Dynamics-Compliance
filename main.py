@@ -63,7 +63,7 @@ if __name__ == "__main__":
     age_list = [
         "Teenager (10s)",
         "Young adult (20s)",
-        "Adult (30s)",
+        "Adult (30s)",  
         "Middle-aged (40s)",
         "Older adult (50+)"
     ]
@@ -143,7 +143,7 @@ if __name__ == "__main__":
             "age": age_list[2],          # 30대 
             "gender": gender_list[1],    # 여성 
             "condition": condition_list[4],  # 야식 
-            "mu": mu_list[2],            # 보통 
+            "mu": mu_list[1],            # 보통 
             "beta": beta_list[0],        # 전혀 영향받지 않음 
             "alpha": alpha_list[0],      # 절대 습관을 바꾸지 않음 
             "gamma": gamma_list[0],      # 잡식적이며 환경에 둔감함 
@@ -156,13 +156,13 @@ if __name__ == "__main__":
             "age": age_list[1],          # 20대 
             "gender": gender_list[0],    # 남성 
             "condition": condition_list[1],  # 과식 
-            "mu": mu_list[3],            # 조금 규칙적임 
-            "beta": beta_list[4],        # 매우 민감하게 반응 
-            "alpha": alpha_list[4],      # 즉시 반응함 
-            "gamma": gamma_list[4],      # 환경 변화에 매우 취약함 
-            "memory": memory_list[4],    # 장기 기억함 
-            "delta": delta_list[1],      # 조금만 바뀌어도 적응 
-            "epsilon": epsilon_list[1]   # 예외가 거의 없음 
+            "mu": mu_list[1],            #   
+            "beta": beta_list[2],        #  
+            "alpha": alpha_list[1],      #  
+            "gamma": gamma_list[2],      #  
+            "memory": memory_list[3],    #  
+            "delta": delta_list[2],      # 
+            "epsilon": epsilon_list[1]   # 
         }, 
         {
             "name": "adaptive_user", 
@@ -178,7 +178,7 @@ if __name__ == "__main__":
             "epsilon": epsilon_list[2]   # 가끔 예외 발생
         },
         { 
-            "name": "high_noise_user", 
+           "name": "high_noise_user", 
             "age": age_list[3],          # 40대 
             "gender": gender_list[0],    # 남성 
             "condition": condition_list[5],  # 당 조절 문제 
@@ -202,8 +202,8 @@ if __name__ == "__main__":
             "memory": memory_list[0],    # 거의 기억 못함 
             "delta": delta_list[3],      # 웬만해선 안 바뀜 
             "epsilon": epsilon_list[3]   # 예외가 많음 
-        },
-              # <-- 계속해서 여기에 dict를 추가하면 됨
+        }
+                     # <-- 계속해서 여기에 dict를 추가하면 됨
     ]
 
     # --- 실행 ---

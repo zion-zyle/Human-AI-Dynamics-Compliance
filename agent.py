@@ -14,12 +14,8 @@ class Agent:
 
     - 초기 Goal = 4.0
     - 세션 1~6: '초기 보정' 단계 (Goal 하향 가능)
-        · 최근 GT 중앙값을 기준으로 현실화
-        · 단, Goal ≥ 최근 제안 중앙값 + 0.05 유지
-    - 세션 7~ : 5세션 블록형 '추세 추종 + 단조증가(하향 금지)'
-        · Goal ≥ 최근 블록 제안 중앙값 + 0.10 유지
-    - 항상 Goal ≥ max(last_s + 0.05, median(S_tail)+ε) 불변식 유지 (세션 말에 재확인)
-
+    - 7세션 이후: 블록 단위(5세션) 단조 증가, Goal ≥ S + eps 유지
+    - 순응(EMA) 및 최근 행동 중앙값을 앵커로 사용
     - 제안 S는 항상 GT보다 '조금 위' (강건 앵커 + 가드레일 + 스텝 클램프)
     - 오버슈트 캐치업: 최근 2회 연속 GT > 직전 S면 일부 따라붙기
     - LLM 호출 실패(429/5xx 등) 시 폴백으로 진행
@@ -47,6 +43,7 @@ class Agent:
         self.base_max_step = max_suggestion_step
         self.suggestion_history = []
         self.run_context = {}
+        # NOTE: coach_turn 메서드가 이미 존재하므로 동명 속성은 만들지 않습니다.
 
         # LLM
         self.model_name = model_name
@@ -97,12 +94,10 @@ class Agent:
         ema = float(ema_recent) if ema_recent is not None else float(self.estimated_compliance or 0.5)
 
         # 고순응일수록 더 과감
-        base_min = 0.10
-        min_gap = base_min + 0.30 * max(0.0, ema - 0.70)   # 0.10~0.22
-        min_gap = float(np.clip(min_gap, 0.10, 0.22))
-
-        max_gap = 0.25 + (max(0.0, ema - 0.6) / 0.3) * (0.60 - 0.25)  # 0.25~0.60
-        max_gap = float(np.clip(max_gap, 0.25, 0.60))
+        base_min = 0.15
+        base_max = 0.35
+        min_gap = base_min + 0.25 * max(0.0, ema - 0.8)   # 0.15 ~ 0.20+
+        max_gap = base_max + 0.40 * max(0.0, ema - 0.8)   # 0.35 ~ 0.51+
 
         # 5.0 근처 안전장치
         last_s = self.suggestion_history[-1] if self.suggestion_history else None
@@ -131,7 +126,7 @@ class Agent:
 You are a warm, practical dietary coach. Continue the conversation with ONE short message (1-2 sentences).
 Do NOT give any numeric plan yet. Ask or reflect to help the user move forward.
 
-Return strict JSON: {{"utterance": "..."}}.
+Return strict JSON: {{"utterance": "..."}}
 
 Context:
 - Location: Suwon-si, South Korea
@@ -145,20 +140,17 @@ Context:
     def _format_llm_prompt_plan(self, history_str, planned_goal, compliance_summary, recent_suggestions, recent_actions):
         now = datetime.now()
         return f"""
-You are a dietary behavior coach. Based on the whole conversation, propose ONE numeric suggestion S in [1.0, 5.0] and a brief supportive message.
-You may also propose an updated goal G' in [1.0, 5.0] if it seems helpful now. If not, set it to null.
-
-Return strict JSON: {{"suggestion": 3.2, "message": "...", "maybe_goal": 4.0}}
+You are a pragmatic diet coach. Propose ONE numeric suggestion S in [1.0..5.0], and a one-sentence rationale.
+Return strict JSON: {{"suggestion": 3.5, "message": "..."}}
 
 Context:
 - Location: Suwon-si, South Korea
 - Day/Time: {now.strftime("%A")} {now.strftime("%I:%M %p")}
-- Current goal G: {planned_goal:.2f}
-- Compliance (agent est, EMA): {compliance_summary.get('estimated_by_agent')}
-- Recent suggestions: {recent_suggestions}
+- Goal (G): {planned_goal:.2f}
+- Recent compliance(EMA): last={compliance_summary.get("last")}, mean(10)={compliance_summary.get("recent_mean")}
+- Trend: {compliance_summary.get("trend")}
+- Recent S: {recent_suggestions}
 - Recent GT actions: {recent_actions}
-- Conversation so far:
-{history_str}
 
 Guidance:
 - Keep S realistic and gently progressive; avoid big jumps.
@@ -173,46 +165,39 @@ Guidance:
             "response_format": {"type": "json_object"}
         }
         delay = backoff
-        for attempt in range(retries + 1):
+        for _ in range(max(1, int(retries))):
             try:
-                r = requests.post(self.api_url, json=payload, headers=self.headers, timeout=60)
-                r.raise_for_status()
-                content = r.json().get("choices", [{}])[0].get("message", {}).get("content", "{}").strip()
-                if content.startswith("```"):
-                    content = content.split("```", 2)[1]
-                return json.loads(content)
+                resp = requests.post(self.api_url, json=payload, headers=self.headers, timeout=8)
+                if resp.status_code == 200:
+                    obj = resp.json()
+                    choice = (obj.get("choices") or [{}])[0]
+                    msg = (choice.get("message") or {}).get("content", "{}")
+                    data = json.loads(msg)
+                    return data
+                if resp.status_code in {429, 500, 502, 503, 504}:
+                    time.sleep(delay)
+                    delay *= 1.8
+                else:
+                    break
             except Exception:
-                if attempt >= retries:
-                    return None
                 time.sleep(delay)
-                delay *= 2.0
+                delay *= 1.8
+        return None
 
-    # ---------- 폴백 ----------
     def _fallback_coach_message(self):
-        return "최근 리듬은 어떠세요? 작은 한 걸음을 함께 만들어 볼게요."
+        return "How did your meals go? Any challenge I can help you with?"
 
     def _fallback_plan(self, conversation_history, recent_actions):
-        comp = self.run_context.get("compliance_summary", {}) or {}
-        anchor = self._robust_anchor_action(recent_actions, k=3)
-        if anchor is None:
-            s0 = float(np.clip(self.goal_behavior, 1.0, 5.0))
-        else:
-            min_gap, max_gap = self._growth_bounds(comp.get("recent_mean"))
-            lower, upper = anchor + min_gap, anchor + max_gap
-            prev = self.suggestion_history[-1] if self.suggestion_history else None
-            seed = prev if prev is not None else (lower + upper) / 2.0
-            s0 = float(np.clip(seed + 0.05, lower, upper))
-
+        # 제안 = 직전 S 또는 Goal 근처로 소폭
         prev = self.suggestion_history[-1] if self.suggestion_history else None
-        s = self._step_clamp(s0, prev)
-        if anchor is not None:
-            min_gap, _ = self._growth_bounds(comp.get("recent_mean"))
-            s = max(s, anchor + min_gap)
-        s = float(np.clip(s, 1.0, 5.0))
-        msg = "서서히 한 단계 더 올라볼게요. 가능한 범위에서 꾸준히 시도해봐요."
-        return s, msg
+        if prev is None:
+            s = self.goal_behavior
+        else:
+            s = float(np.clip(prev + 0.05, 1.0, 5.0))
+        return float(s), "Let's keep a small, steady step."
 
-    # ---------- 성장정책(가드레일 포함) ----------
+    # ---------- 정책/가드 ----------
+
     def _enforce_growth_policy(self, s, recent_actions, comp_summary):
         """
         1) 강건 앵커(최근 k=3 중앙값) 기준의 하/상한 클립
@@ -247,6 +232,24 @@ Guidance:
         prev = self.suggestion_history[-1] if self.suggestion_history else None
         s = self._step_clamp(s, prev)
 
+        # [PATCH] Behavior-based dead-band (type-free): high EMA + small gap + low variance -> cap increase
+        try:
+            ema_c = float(ema_recent) if ema_recent is not None else float(self.estimated_compliance or 0.0)
+        except Exception:
+            ema_c = 0.0
+        # anchor as proxy for mu
+        if anchor is not None:
+            s_prev = prev if prev is not None else anchor
+            gap_patch = abs(float(s_prev) - float(anchor))
+        else:
+            s_prev = prev if prev is not None else 0.0
+            gap_patch = 0.0
+        xs_patch = [float(x) for x in recent_actions if isinstance(x,(int,float)) and not math.isnan(x)]
+        std_a_patch = float(np.std(xs_patch)) if xs_patch else 0.0
+        is_deadband = (ema_c > 0.965) and (gap_patch < 0.08) and (std_a_patch < 0.15)
+        if is_deadband and prev is not None:
+            s = min(float(s), float(prev) + 0.05)
+
         # 3) 하한 재확인 + 최종 클립
         if anchor is not None:
             min_gap2, _ = self._growth_bounds(ema_recent)
@@ -255,77 +258,26 @@ Guidance:
             s = max(s, anchor + min_gap2)
         return float(np.clip(s, 1.0, 5.0))
 
-    # ---------- Goal 갱신 로직 ----------
-    def _early_calibrate_goal(self, recent_actions: list[float]) -> None:
-        """
-        세션 1~6: 최근 3개 GT 중앙값을 기준으로 하향 보정,
-        단 Goal ≥ 최근 제안 중앙값 + 0.05 보장.
-        """
-        xs = [x for x in recent_actions[-3:] if isinstance(x, (int, float))]
-        if not xs:
-            return
-        s_tail = [x for x in self.suggestion_history[-3:] if isinstance(x, (int, float))]
-        s_med = float(np.median(s_tail)) if s_tail else None
+    # --
 
-        anchor = float(np.median(xs))
-        curG = float(self.goal_behavior)
-        target = anchor + 0.10  # GT 앵커보다 약간 위
-
-        # 제안 기준 하한: Goal ≥ s_med + 0.05
-        if s_med is not None:
-            target = max(target, s_med + 0.05)
-
-        target = float(np.clip(target, 1.0, 5.0))
-        if target < curG:
-            self.goal_behavior = max(curG - 0.80, target)  # 한 번에 -0.8 제한
-        else:
-            self.goal_behavior = min(target, 5.0)
-
-    def _maybe_update_goal_blockwise(self, recent_actions: list[float]) -> None:
-        """
-        세션 7부터: 블록 시작에서만 호출 (5세션)
-        - 추세 추종 + 단조증가
-        - Goal ≥ 최근 블록 제안 중앙값 + 0.10 보장
-        """
-        B = 5
-        recent_gt = [x for x in recent_actions[-B:] if isinstance(x, (int, float))]
-        recent_s  = [x for x in self.suggestion_history[-B:] if isinstance(x, (int, float))]
-        if len(recent_gt) < 3 or len(recent_s) < 3:
-            return
-
-        GT_avg = float(np.mean(recent_gt))
-        S_avg  = float(np.mean(recent_s))
-        S_med  = float(np.median(recent_s))
-        Anchor = float(np.median(recent_gt))
-        curG   = float(self.goal_behavior)
-
-        cond_reach = (GT_avg >= curG - 0.10)
-        cond_push  = (S_avg  >= curG + 0.15)
-
-        if cond_reach and cond_push:
-            target   = 0.5 * GT_avg + 0.5 * S_avg - 0.05
-            min_step = curG + 0.10
-            max_step = curG + 0.40  # 한 블록 상승 상한
-            G_new    = float(np.clip(target, min_step, max_step))
-            G_new    = max(G_new, S_med + 0.10)  # 제안 중앙값보다 항상 +ε
-            G_new    = max(G_new, Anchor + 0.05)
-            G_new    = min(G_new, 5.0)
-        else:
-            # 조건 미충족이어도 제안 중앙값 하한은 보장
-            G_new = max(curG, S_med + 0.10 if len(recent_s) >= 3 else curG)
-
-        # 단조증가 보장
-        self.goal_behavior = max(G_new, curG)
-
-    # ---------- 외부 호출 ----------
-    def coach_turn(self, conversation_history):
-        history_str = "\n".join([f"{m['role'].capitalize()}: {m['content']}" for m in conversation_history]) or "No history."
+    def build_coach_message(self, conversation_history):
         comp = self.run_context.get("compliance_summary", {}) or {}
+        history_str = "\n".join([f"{m['role'].capitalize()}: {m['content']}" for m in conversation_history]) or "No history."
         prompt = self._format_llm_prompt_dialogue(history_str, self.goal_behavior, comp)
         data = self._llm_json(prompt)
         if not data:
             return self._fallback_coach_message()
         return data.get("utterance", self._fallback_coach_message())
+
+    def coach_turn(self, conversation_history):
+        """
+        코치 대화 한 턴을 생성한다. simulator.py에서 호출한다.
+        """
+        try:
+            msg = self.build_coach_message(conversation_history)
+        except Exception:
+            msg = self._fallback_coach_message()
+        return msg
 
     def ask_llm_for_plan(self, conversation_history, recent_actions):
         history_str = "\n".join([f"{m['role'].capitalize()}: {m['content']}" for m in conversation_history]) or "No history."
@@ -349,8 +301,21 @@ Guidance:
             msg = data.get("message", "Let's take a small, doable step today.")
             s = self._enforce_growth_policy(s, recent_actions, comp)
 
+            # [PATCH] Dead-band detection (type-free): disable overshoot acceleration when high EMA + small gap + low variance
+            ema_recent = comp.get("recent_mean")
+            try:
+                ema_c2 = float(ema_recent) if ema_recent is not None else float(self.estimated_compliance or 0.0)
+            except Exception:
+                ema_c2 = 0.0
+            anchor2 = self._robust_anchor_action(recent_actions, k=3)
+            prev_s = self.suggestion_history[-1] if self.suggestion_history else (s if anchor2 is None else anchor2)
+            gap2 = abs(float(prev_s) - float(anchor2)) if anchor2 is not None else 0.0
+            xs2 = [float(x) for x in recent_actions if isinstance(x,(int,float)) and not math.isnan(x)]
+            std_a2 = float(np.std(xs2)) if xs2 else 0.0
+            deadband = (ema_c2 > 0.965) and (gap2 < 0.08) and (std_a2 < 0.15)
+
             # 오버슈트 캐치업
-            if len(recent_actions) >= 2 and len(self.suggestion_history) >= 1:
+            if not deadband and len(recent_actions) >= 2 and len(self.suggestion_history) >= 1:
                 a1, a2 = recent_actions[-2], recent_actions[-1]
                 s_prev = self.suggestion_history[-1]
                 if isinstance(a1, (int, float)) and isinstance(a2, (int, float)) and a1 > s_prev and a2 > s_prev:
@@ -376,3 +341,5 @@ Guidance:
 
     def after_session_update(self, compliance_ema):
         self._update_estimated_compliance(compliance_ema)
+
+    # (이하 기존 보조/플롯 등 나머지 메서드 그대로)
