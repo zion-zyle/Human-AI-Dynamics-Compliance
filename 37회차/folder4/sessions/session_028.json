@@ -1,0 +1,28 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Good morning! What's one small change you'd like to try today to move toward your goal, given your schedule here in Suwon?",
+    "user_utterance": "Thanks for the guidance. I still get pulled off track by stress and social situations, so I’ll focus on keeping meals steadier."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "That makes sense—stress and social events can throw meals off, so let's anchor with a reliable main at regular times plus a quick protein-backed snack when you're out. Which upcoming day or event would you like us to tailor this steadier-meal approach for first?",
+    "user_utterance": "Thanks for checking in. I'm struggling with irregular meals and emotional triggers, and I want a simple, practical plan to stay more consistent."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "Nice progress. A simple, steady move today is to anchor your three meals at consistent times (e.g., breakfast 8–9, lunch 12–1, dinner 7–8) in Suwon, and carry a quick protein snack (yogurt, nuts, boiled egg) for moments of stress or social pressure. This gentle adjustment supports steadier intake and keeps you near your goal.",
+    "user_utterance": "I’m feeling a bit overwhelmed today, but I’ll try to keep meals steady and avoid unplanned snacks.",
+    "suggestion": 3.0213129097984965,
+    "ground_truth_action": 2.8837745544595075,
+    "compliance_raw": 0.9724923289322022,
+    "compliance_ema": 0.894233311390039,
+    "goal": 3.1551893052118474,
+    "reward": 2.365965258008359,
+    "user_compliance_prob": 0.16621396104647881,
+    "behavior_mean_before": 2.262741685335563,
+    "behavior_mean_after": 2.294518470083891,
+    "noise": 0.4949477411700824,
+    "noise_std": 1.420749680507031
+  }
+]

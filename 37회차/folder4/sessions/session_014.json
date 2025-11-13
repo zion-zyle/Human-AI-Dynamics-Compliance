@@ -1,0 +1,28 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Hi there, glad you reached out. To tailor a simple step for you, what does a typical weekday look like in Suwon (wake-up time, breakfast habit), and what's one obstacle you'd like to tackle?",
+    "user_utterance": "Thanks for the check-in. I’ll aim to keep meals more regular and plan for quick, trigger-proof options when emotions run high."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "Nice plan—aiming for regular meals and quick, trigger-proof options. What's a likely high-emotion moment today, and what's one simple, prepped option you can have ready to reach for?",
+    "user_utterance": "Today I'm feeling the pull of emotional triggers and my irregular eating pattern, so sticking to a plan feels extra tough. Can we keep things simple with small, repeatable steps and quick, practical options I can actually reach for?"
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "You're doing well—keep it simple and repeatable. Today's step is a moderate nudge (2.9). When emotions spike, reach for a quick prepped option (e.g., yogurt with berries or a small handful of nuts) and try to have your next regular meal within 30 minutes of your usual time. Updated goal to 2.9 for steady progress.",
+    "user_utterance": "Thanks for the guidance. I'm feeling triggered by today's environment, so I'll lean on a simple plan and reach out if I need extra support.",
+    "suggestion": 2.9,
+    "ground_truth_action": 1.5716366504708041,
+    "compliance_raw": 0.7343273300941608,
+    "compliance_ema": 0.8706157423918566,
+    "goal": 2.8499999999999996,
+    "reward": 1.0269861617996798,
+    "user_compliance_prob": 0.12372019769800516,
+    "behavior_mean_before": 2.0813985707964906,
+    "behavior_mean_after": 2.0562656648181856,
+    "noise": -0.6110394509826144,
+    "noise_std": 1.4911193526121034
+  }
+]

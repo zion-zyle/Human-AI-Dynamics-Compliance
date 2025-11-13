@@ -1,0 +1,28 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Good morning from Suwon! What would you like to focus on today - easier meals, steadier energy, or a specific goal you want to move toward?",
+    "user_utterance": "Thanks for checking in. I'm feeling stressed and easily pulled off track, so I could really use a simple, steady routine I can actually stick to."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "I hear you—let’s anchor a tiny, repeatable routine you can actually stick to. Can you share a typical weekday schedule (work hours, meals, commute) so I can suggest one dependable habit that fits your day?",
+    "user_utterance": "Thanks for the guidance—I sometimes get pulled off track by stress and irregular meals, but I’ll focus on steady options and guard against late-night snacking."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "Nice steady step today. Try a simple, repeatable routine you can keep this week—e.g., fixed breakfast, a predictable snack window, and a plan to guard late-night snacking. Small, consistent choices compound over time.",
+    "user_utterance": "Thanks for the guidance. I’m trying to keep a simpler routine today because stress and social cues easily derail my eating, and I want to stay on track.",
+    "suggestion": 2.2841877354310958,
+    "ground_truth_action": 2.0074180619873254,
+    "compliance_raw": 0.944646065311246,
+    "compliance_ema": 0.8780706074724626,
+    "goal": 2.3708838795773652,
+    "reward": 2.259016386245704,
+    "user_compliance_prob": 0.6711221983954349,
+    "behavior_mean_before": 1.9265800012269396,
+    "behavior_mean_after": 1.9325070871659376,
+    "noise": -0.15916042798191782,
+    "noise_std": 0.5846216394571598
+  }
+]

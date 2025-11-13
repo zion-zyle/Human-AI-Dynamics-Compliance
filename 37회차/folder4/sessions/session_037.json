@@ -1,0 +1,28 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Good morning! What's one eating habit you'd like to improve first today—breakfast routine, snacks, or how you feel after meals—and what does a typical day look like for you in Suwon?",
+    "user_utterance": "Thanks for the guidance. I tend to get pulled off track by cravings and irregular days—do you have quick, simple tips to stay steady without feeling deprived?"
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "Two quick anchors: when cravings hit, pause briefly and drink water, then reach for a ready-to-eat protein snack to stabilize your blood sugar. Which part of your day tends to derail you most so I can tailor a tiny, doable tweak?",
+    "user_utterance": "Thanks for the guidance, I’m feeling a bit on edge lately with my schedule. I’ll aim for a more regular pattern and pause before reaching for snacks when emotions run high."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "Great job staying engaged. A gentle nudge: when cravings pop, pause 60 seconds, drink water, then grab a protein snack (yogurt, egg, nuts) to steady your blood sugar. Try anchoring meals with a regular breakfast around 8–9 AM and a consistent afternoon snack to smooth energy and mood. Small, steady steps build momentum today.",
+    "user_utterance": "Appreciate the guidance. I'm feeling pretty pulled by stress and triggers lately, so I need simple, doable steps I can actually stick to.",
+    "suggestion": 2.766501528407831,
+    "ground_truth_action": 2.88470258246021,
+    "compliance_raw": 0.9763597891895242,
+    "compliance_ema": 0.8632472867549437,
+    "goal": 3.25,
+    "reward": 2.288976855449288,
+    "user_compliance_prob": 0.5405974646332617,
+    "behavior_mean_before": 2.3223889773434157,
+    "behavior_mean_after": 2.360397842211475,
+    "noise": 0.32222748599956175,
+    "noise_std": 0.8007705985673186
+  }
+]

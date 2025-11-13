@@ -1,0 +1,28 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Nice to meet you—what's one small, doable change you can try today to move toward your goal, given your routine in Suwon?",
+    "user_utterance": "Today I'm feeling stressed, and the urge to snack is strong. I'll aim to keep meals steady and watch for triggers, but I might wobble."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "That sounds tough—when the urge to snack hits, could you try a brief pause (a breath, a glass of water, or a quick stretch) to reset before you decide?",
+    "user_utterance": "Thanks for the guidance—I'm finding consistency hard, especially when emotions or my environment pull me off track. Could we focus on a super simple routine I can actually follow most days?"
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "Aim for a calm, steady 3/5 effort today: when urges hit, pause for 30 seconds, drink a glass of water, and do a quick 5-minute walk or stretch before deciding on snack. Keep meals regular and note triggers to build consistency.",
+    "user_utterance": "Thanks for checking in. I’m feeling pulled by triggers today and could use a simple, steady routine to stay on track.",
+    "suggestion": 3.0,
+    "ground_truth_action": 2.1566772894754855,
+    "compliance_raw": 0.8313354578950971,
+    "compliance_ema": 0.7729541724428789,
+    "goal": 3.25,
+    "reward": 1.2852304324688508,
+    "user_compliance_prob": 0.2592325403930079,
+    "behavior_mean_before": 2.342041047935437,
+    "behavior_mean_after": 2.3317999175806525,
+    "noise": -0.35592812907796945,
+    "noise_std": 1.266710913109179
+  }
+]

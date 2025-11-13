@@ -1,0 +1,28 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Good morning! To tailor this well, what's a typical day like right now, and what's one small change you feel ready to try this week?",
+    "user_utterance": "I'm really vulnerable to emotional triggers, and my meals still get irregular. I'll keep a simple daily routine and a ready-to-go snack plan to stay on track."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "That’s a solid, doable starting point. What’s one emotional trigger you want to map this week, and what’s a simple, grab-and-go snack you already feel confident with?",
+    "user_utterance": "Thanks for the tips. I’m feeling pretty vulnerable to stress and my irregular eating lately, and I want simple, doable steps to stay on track."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "Nice work staying on track. Let's keep it simple: stick with a daily routine and your ready-to-go snack. Aim for a steady effort level of 3.0 today—consistent, doable, and scalable.",
+    "user_utterance": "I'm having trouble keeping meals consistent, and emotional triggers push me off track. I want to do better, but I need practical strategies to manage stress and cravings.",
+    "suggestion": 3.0,
+    "ground_truth_action": 2.795560001957445,
+    "compliance_raw": 0.959112000391489,
+    "compliance_ema": 0.8986301966724486,
+    "goal": 3.25,
+    "reward": 2.1792322221159077,
+    "user_compliance_prob": 0.3376088122231145,
+    "behavior_mean_before": 2.4099137077465724,
+    "behavior_mean_after": 2.432546358049037,
+    "noise": 0.1864279619740507,
+    "noise_std": 1.1369198069585225
+  }
+]

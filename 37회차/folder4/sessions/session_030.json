@@ -1,0 +1,28 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Good morning! What does your typical breakfast look like today, and what's one small change you'd like to try this week to support your goal?",
+    "user_utterance": "I’ve been wobbling with consistency, especially when stress slips in. I’ll aim for simple, steady meals and a plan for when urges pop up."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "Great focus. Shall we quickly map your stress moments for the week and identify a few simple, reliable meals or snacks you can rely on when urges pop up?",
+    "user_utterance": "I get pulled off track by stress and triggers, but I want to reset today with a simple, steady plan. What quick steps can I follow to stay consistent?"
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "Great acknowledgment. Implement one simple, repeatable breakfast and a quick urge plan you can use this week: try yogurt + berries + a small handful of nuts every morning, and add a 2-minute box breathing (inhale 4, hold 4, exhale 4). When stress spike hits, pick one of these do-able steps rather than both. This keeps progress steady and doable.",
+    "user_utterance": "I appreciate your guidance. Today the triggers feel tough, so I’ll try to keep things simple and steady.",
+    "suggestion": 3.0,
+    "ground_truth_action": 2.7952328630516523,
+    "compliance_raw": 0.9590465726103304,
+    "compliance_ema": 0.8649357048122254,
+    "goal": 3.1551893052118474,
+    "reward": 2.2767580040848965,
+    "user_compliance_prob": 0.15790137403537552,
+    "behavior_mean_before": 2.230661189819529,
+    "behavior_mean_after": 2.259343080941792,
+    "noise": 0.44309201800588627,
+    "noise_std": 1.434515324597418
+  }
+]

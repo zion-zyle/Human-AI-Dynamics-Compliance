@@ -1,0 +1,28 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Great to connect. What's the biggest hurdle you're facing toward your goal right now, and what does a typical day of meals look like for you?",
+    "user_utterance": "I appreciate the check-in. I'm feeling stressed and vulnerable to cravings right now, so I'll aim for a quick, calming pause before deciding what to eat."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "Let's take a quick calming pause to ground ourselves. What's the craving you're feeling right now, and what's a tiny, doable step you can take in this moment?",
+    "user_utterance": "I’m really feeling the struggle with consistency, especially when stress or triggers hit. Could we keep things simple with a repeatable routine that I can actually stick to?"
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "Nice work prioritizing a calming pause. Let's keep it simple and repeatable: when cravings hit, pause for 60 seconds, then choose a small, balanced option (protein + fiber) and take a slow, deep breath. This gentle nudge can improve consistency without adding stress.",
+    "user_utterance": "Thanks for the latest guidance. I want to follow it, but emotional triggers and irregular meals make consistency tough.",
+    "suggestion": 2.4653464467025703,
+    "ground_truth_action": 2.7121317535054126,
+    "compliance_raw": 0.9506429386394315,
+    "compliance_ema": 0.8349691611462985,
+    "goal": 3.25,
+    "reward": 2.0738217139896955,
+    "user_compliance_prob": 0.9054022716219813,
+    "behavior_mean_before": 2.286834313518218,
+    "behavior_mean_after": 2.3223889773434157,
+    "noise": 0.26367214908999637,
+    "noise_std": 0.196653838193999
+  }
+]

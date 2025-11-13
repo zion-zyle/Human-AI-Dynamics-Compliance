@@ -1,0 +1,28 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Good morning! What does your current goal G 4.00 mean for you today, and what's one small change I can help you with this morning?",
+    "user_utterance": "Today I am feeling a bit overwhelmed, and my meals were a little irregular. I would really appreciate simple, doable guidance I can actually follow."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "That sounds tough, and you're not alone—one small, doable change today can make a real difference. What's one easy habit you can commit to this morning, like a simple grab-and-go breakfast you actually enjoy?",
+    "user_utterance": "Thanks for the check-in. I struggle with irregular meals and emotional triggers, so I’ll stay mindful and follow your guidance."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "I know today feels overwhelming. Let’s keep it simple: pick one meal and add a protein + fiber (e.g., yogurt with fruit and nuts, or a veggie wrap with lean protein) to help regulate appetite. This should take about 5 minutes to plan or prep. If mornings are tough, use a grab-and-go option you already enjoy.",
+    "user_utterance": "Thanks for the guidance—I'm trying, but stress and my environment make consistency tough. I want to stick with a simple routine when I can, and I'll tell you what trips me up.",
+    "suggestion": 3.2,
+    "ground_truth_action": 1.206003507641669,
+    "compliance_raw": 0.6012007015283338,
+    "compliance_ema": 0.6012007015283338,
+    "goal": 4.0,
+    "reward": 0.6018113730865796,
+    "user_compliance_prob": 0.011213464895048634,
+    "behavior_mean_before": 2.0,
+    "behavior_mean_after": 1.964772764950323,
+    "noise": -0.8074526502323894,
+    "noise_std": 1.6774305021337994
+  }
+]

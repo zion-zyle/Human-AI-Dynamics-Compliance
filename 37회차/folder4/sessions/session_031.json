@@ -1,0 +1,28 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Good morning! What's one hurdle you're facing today toward your goal, and what's a simple, doable step you'd like to try?",
+    "user_utterance": "Appreciate the guidance—I'm trying to stay consistent, but stress and irregular meals derail me easily; any tips to keep a steadier routine?"
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "That makes sense—let's establish one steady mealtime you can keep every day and a tiny evening prep habit to reduce morning stress. Which part of your day tends to go off-track the most right now?",
+    "user_utterance": "Thanks for the guidance. I'm noticing strong triggers lately and I'm trying to stay on track despite irregular meals."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "You're doing great—try a small, repeatable step: have a reliable breakfast within the first hour of waking and prep a simple snack for the afternoon. This steady routine reduces stress and supports consistency without overwhelming your day.",
+    "user_utterance": "Thanks for the latest guidance. I’m trying to stick with it, but my irregular eating and emotional triggers keep throwing me off.",
+    "suggestion": 2.9,
+    "ground_truth_action": 5.0,
+    "compliance_raw": 0.58,
+    "compliance_ema": 0.8079485638497803,
+    "goal": 3.1551893052118474,
+    "reward": 0.6298936573510636,
+    "user_compliance_prob": 0.27804810062373275,
+    "behavior_mean_before": 2.259343080941792,
+    "behavior_mean_after": 2.413023664794559,
+    "noise": 3.555095552735591,
+    "noise_std": 1.2355523453670985
+  }
+]

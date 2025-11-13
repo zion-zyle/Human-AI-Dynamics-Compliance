@@ -1,0 +1,28 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Good morning! Tell me what a typical morning and snack look like for you right now, and what is the one small change you’d like to start with this week to move toward your goal.",
+    "user_utterance": "Appreciate the guidance. I know emotional triggers can derail me, so I’ll keep things simple and use quick check-ins to stay on track."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "Nice work—let's keep it ultra-simple. Do you want me to propose a tiny, 1-2 question check-in you can use now and at snack times to catch triggers, like 'Am I hungry or emotional right now?'",
+    "user_utterance": "Thanks for the guidance. I'm going to aim for a steadier meal pattern today, even though emotional and environmental triggers make it tough."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "Nice work staying focused on ultra-simple check-ins. Today, try a 2-minute hunger vs. emotion check-in before each snack and aim for meals 4–5 hours apart to help steady your pattern.",
+    "user_utterance": "Thanks for the guidance. When emotions spike I tend to slip with my meals, but I want to stay steadier.",
+    "suggestion": 2.9706156258896135,
+    "ground_truth_action": 1.1211490946563087,
+    "compliance_raw": 0.630106693753339,
+    "compliance_ema": 0.8414079878626991,
+    "goal": 3.1551893052118474,
+    "reward": 0.6540550768255066,
+    "user_compliance_prob": 0.24039080761891526,
+    "behavior_mean_before": 2.294518470083891,
+    "behavior_mean_after": 2.230661189819529,
+    "noise": -1.3358969167405716,
+    "noise_std": 1.2979128225830763
+  }
+]
