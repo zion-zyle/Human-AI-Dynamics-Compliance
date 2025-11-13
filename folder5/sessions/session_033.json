@@ -1,0 +1,28 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "좋은 아침이에요! 현재 목표가 2.08인 걸로 알고 있는데, 지금 식습관에서 가장 개선해보고 싶은 한 가지가 무엇인지 말씀해 주실 수 있을까요?",
+    "user_utterance": "I hear you, but changing meals feels overwhelming with my irregular patterns, and I’m easily pulled in by what’s happening around me."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "그런 불규칙한 패턴과 주변 상황에 쉽게 흔들리는 점이 이해돼요. 먼저 최근에 가장 자주 흐트러지는 순간이 언제였는지 함께 짚고, 그 순간에 바로 쓸 수 있는 아주 작은 대안을 하나 만들어볼까요?",
+    "user_utterance": "My days are unpredictable and I’m easily influenced by what's around me, so sticking to a plan feels tough. I’ll try to follow your guidance when I can find a moment in my day that feels doable."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "지금은 아주 작은 변화로 시작하는 게 중요해요. 제안 S를 1.8로 설정해, 주변 상황에 흔들려도 바로 쓸 수 있는 한 가지를 오늘부터 시도해 보세요(예: 물 한 잔 더 마시거나 과일 한 조각 추가). 부담을 줄이기 위해 목표도 G'를 1.8로 조정했습니다. 천천히 지속하면 점차 나아질 거예요.",
+    "user_utterance": "I hear you - it's really hard to stick with these ideas when my appetite and routine are all over the place. I want to try small, flexible steps, but I'm quick to resist when I'm tired or stressed.",
+    "suggestion": 1.8,
+    "ground_truth_action": 1.0,
+    "compliance_raw": 0.84,
+    "compliance_ema": 0.9019333273378934,
+    "goal": 2.0751276191456314,
+    "reward": 1.312161453521262,
+    "user_compliance_prob": 0.0027544536080891377,
+    "behavior_mean_before": 1.1416314986486702,
+    "behavior_mean_after": 1.1381697217576674,
+    "noise": -1.1822537930194092,
+    "noise_std": 0.7998460172784743
+  }
+]

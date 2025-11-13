@@ -1,0 +1,28 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Nice to meet you—I'm here to support your goal today. What's feeling most challenging in your routine right now (hunger between meals, meal planning, or cooking) and what's a small, doable first step you could try today?",
+    "user_utterance": "Thanks for checking in—I'm still resistant and want to pace things very slowly. I'd prefer to keep things flexible and avoid strict plans while I figure out what works for me."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "I hear you—taking it slow and staying flexible is a solid plan. What's one tiny, doable adjustment today that wouldn't feel restrictive, like a simple snack or easy meal tweak?",
+    "user_utterance": "I hear you, but I’m not ready to change yet. My eating feels unstable and is strongly shaped by the moment and my surroundings."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "You're doing well with a slow, flexible approach. Today, try a tiny, non-restrictive snack when hunger hits between meals (no strict timing). This gentle step helps stability without pressure. I've updated your goal to 1.9 to keep pacing comfortable.",
+    "user_utterance": "Thanks for checking in, but my mood and daily schedule keep pulling me away from any plan today. Can we keep things ultra-flexible and focus on small, non-pressured adjustments when I feel ready?",
+    "suggestion": 1.5823098803072217,
+    "ground_truth_action": 1.5456511493127432,
+    "compliance_raw": 0.9926682538011042,
+    "compliance_ema": 0.9075820470157593,
+    "goal": 2.0751276191456314,
+    "reward": 2.1259524389872704,
+    "user_compliance_prob": 0.06463337665099587,
+    "behavior_mean_before": 1.1045525905324138,
+    "behavior_mean_after": 1.1159992915791248,
+    "noise": 0.4102194919225552,
+    "noise_std": 0.7514566994589211
+  }
+]

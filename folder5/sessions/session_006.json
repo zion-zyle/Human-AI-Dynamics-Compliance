@@ -1,0 +1,28 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "좋은 아침이에요! 현재 목표 1.58이 어떤 뜻인지와 오늘의 식사나 활동에서 먼저 다루고 싶은 부분이 무엇인지 알려주실 수 있을까요?",
+    "user_utterance": "You're right—my eating is really all over the place and I’m easily pulled in by what’s happening around me. I’ll try to consider your ideas when I’m in a situation where I feel able to, especially with others or when stress is high."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "그럴 때가 정말 힘들죠. 한 가지 작은 실천으로, 사람들 앞이나 스트레스가 몰릴 때 지금 배고픔과 포만 신호를 5초 멈춰 확인하는 습관부터 시작해볼까요?",
+    "user_utterance": "I hear you, but my eating is really irregular and I'm easily swayed by what's going on around me; I'll think about your advice when I feel ready."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "오늘의 한 걸음으로, 식사 직전이나 간식 직전에 5초만 멈춰 배고픔과 포만 신호를 확인해 보세요. 주변 상황에 흔들려도 이 짧은 확인이 더 의식적인 선택으로 이어지도록 도와줄 거예요. 작은 목표를 꾸준히 유지하는 데 집중합시다.",
+    "user_utterance": "I hear you, but my days are so unpredictable and I tend to resist changes. Could we focus on tiny, doable steps that fit what I can manage right now?",
+    "suggestion": 1.6,
+    "ground_truth_action": 1.3913850252142437,
+    "compliance_raw": 0.9582770050428487,
+    "compliance_ema": 0.908294206739686,
+    "goal": 1.6347649383443386,
+    "reward": 2.3720066154437855,
+    "user_compliance_prob": 0.02204128560581818,
+    "behavior_mean_before": 1.036170979978115,
+    "behavior_mean_after": 1.0450201633274128,
+    "noise": 0.34278652877297794,
+    "noise_std": 0.78476371465625
+  }
+]

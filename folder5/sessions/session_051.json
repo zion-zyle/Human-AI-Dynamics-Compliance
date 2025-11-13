@@ -1,0 +1,28 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Nice to meet you—what's one meal or snack you're considering today, and what's your main focus for moving toward goal G this week?",
+    "user_utterance": "Thanks for the check-in. I know consistency helps, but I get overwhelmed and resist changes—I'll respond better when the environment feels supportive and low-pressure."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "I hear you—let’s keep things low-pressure and supportive; what’s one tiny, doable tweak we can set up today to make healthy choices easier without feeling overwhelmed?",
+    "user_utterance": "You're trying to help, and I appreciate it, but my eating feels really unstable and I’m easily swayed by my environment. I’ll think about your suggestion when today feels calmer."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "Nice steady work. Today's small, doable tweak (S = 2.0): add one fruit or veggie to a snack or drink water with meals. Keep it low-pressure and easy to maintain. Given your pace, I’m updating your goal to 2.3 to reflect progress.",
+    "user_utterance": "Honestly, I’m not sure I can follow through—my days are so irregular and I’m easily swayed by what’s happening around me.",
+    "suggestion": 2.16270500045656,
+    "ground_truth_action": 1.0,
+    "compliance_raw": 0.767458999908688,
+    "compliance_ema": 0.8688043435395851,
+    "goal": 2.5225156758380862,
+    "reward": 0.9151565206934605,
+    "user_compliance_prob": 4.4295600916944245e-05,
+    "behavior_mean_before": 1.2808755570367738,
+    "behavior_mean_after": 1.2740289120711827,
+    "noise": -0.8893283644588512,
+    "noise_std": 0.801965360840083
+  }
+]

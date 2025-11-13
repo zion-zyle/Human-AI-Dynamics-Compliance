@@ -1,0 +1,28 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "좋아요, Suwon에서 오늘 시작하셨군요. 현재 목표를 더 잘 도와드리려는데, 포만감/에너지/식습관 중 어떤 부분을 먼저 다듬고 싶으신가요?",
+    "user_utterance": "Thanks for checking in. Right now I’m feeling uncertain about changes, so I’d like to take things slowly and follow what feels doable in the moment rather than pushing for a plan."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "천천히 가는 마음이 아주 좋아요. 오늘 바로 시도해볼 수 있는 아주 작은 한 가지를 함께 골라볼까요—예를 들어 물 한 잔 더 마시기부터 시작해볼까요?",
+    "user_utterance": "I know there are suggestions, but my days are chaotic and I get overwhelmed by outside pressures. I’ll consider it, but I can’t promise to follow through."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "천천히 시작해요. 오늘은 아주 작은 한 가지를 선택해 실천해보세요. 부담 없이 가능한 목표를 택해 오늘부터 시도해 보세요.",
+    "user_utterance": "I hear you, but today my schedule and mood are making it really hard to stick with a plan. I might try a small step later if I feel a bit more capable.",
+    "suggestion": 1.5,
+    "ground_truth_action": 1.0,
+    "compliance_raw": 0.9,
+    "compliance_ema": 0.8811387787648215,
+    "goal": 2.0751276191456314,
+    "reward": 1.372161453521262,
+    "user_compliance_prob": 0.14778102972761264,
+    "behavior_mean_before": 1.10083173664177,
+    "behavior_mean_after": 1.098010750750542,
+    "noise": -0.862226898817207,
+    "noise_std": 0.6864352347530068
+  }
+]

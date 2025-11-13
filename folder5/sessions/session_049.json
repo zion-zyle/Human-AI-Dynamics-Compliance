@@ -1,0 +1,28 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Nice to meet you—what's one small change you feel confident trying today to support your goal, given your routine here in Suwon?",
+    "user_utterance": "You're right, my eating is so irregular and I get pulled by what's happening around me. I know I’m resistant, so I’ll need something that fits into my day and mood, not a strict plan."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "I hear you—let's pick one flexible anchor you can use today that fits your mood and schedule, like a quick protein snack when you notice your appetite rising. What's one moment today where you could pause and choose that easier option instead of grabbing what's around you?",
+    "user_utterance": "I appreciate the guidance, but I tend to get overwhelmed by strict plans. I need something small, flexible, and easy to fit into my day."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "Nice progress—keep it flexible. Today's one small anchor: have a quick protein snack (yogurt, nuts, or a boiled egg) when you notice appetite rising. It fits your day in Suwon and nudges you toward your goal without a strict plan.",
+    "user_utterance": "I hear you, but my eating is really irregular and shaped by the stuff happening around me—it's hard to stick to plans; can we keep things simple and flexible?",
+    "suggestion": 2.162480114514886,
+    "ground_truth_action": 2.03654662488931,
+    "compliance_raw": 0.9748133020748848,
+    "compliance_ema": 0.9260142144179296,
+    "goal": 2.5225156758380862,
+    "reward": 2.1592877704660642,
+    "user_compliance_prob": 3.406401034370028e-05,
+    "behavior_mean_before": 1.2683267922038501,
+    "behavior_mean_after": 1.2870527884863612,
+    "noise": 0.7681893742374398,
+    "noise_std": 0.8019733619439112
+  }
+]

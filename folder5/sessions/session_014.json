@@ -1,0 +1,28 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "좋은 아침이에요! 현재 목표 G가 구체적으로 무엇을 뜻하는지와 오늘의 식사 상황이나 선호하는 음식 스타일을 간단히 알려주실 수 있을까요?",
+    "user_utterance": "That guidance feels overwhelming right now. I need it to be ultra-flexible and fit my day with tiny, non-forced changes."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "좋아요, 너무 큰 계획은 버거울 수 있어요—먼저 아주 작은 변화부터 시작해볼게요. 지금 바로 어떤 선택으로 채소를 조금 더 포함시키거나 물을 더 마시는 식의 변화를 함께 시도해볼까요?",
+    "user_utterance": "I hear your suggestions, but I struggle to follow plans when things get chaotic. Can we keep it flexible and small so it fits my daily mood and surroundings?"
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "오늘은 아주 작은 변화로 시작해 보세요. 예를 들어 채소를 한 접시 더 먹기나 물을 한 잔 더 마시는 식의 변화를 시도해 보세요. 현재 속도에 맞춰 목표를 살짝 낮춰 유지하기 쉽도록 조정했습니다. 꾸준함이 곧 큰 변화로 이어집니다.",
+    "user_utterance": "Noted. My eating's really all over the place and I get pulled by what's going on around me, so I'm not sure a plan will stick.",
+    "suggestion": 1.588168548243946,
+    "ground_truth_action": 1.0,
+    "compliance_raw": 0.8823662903512108,
+    "compliance_ema": 0.8813842810820994,
+    "goal": 2.0751276191456314,
+    "reward": 1.354527743872473,
+    "user_compliance_prob": 0.05596347700700385,
+    "behavior_mean_before": 1.098010750750542,
+    "behavior_mean_after": 1.0954880412800936,
+    "noise": -1.1025155080154427,
+    "noise_std": 0.758236560980523
+  }
+]

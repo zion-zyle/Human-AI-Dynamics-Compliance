@@ -1,0 +1,28 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Nice to meet you—what does a typical day look like for you here in Suwon, and what's the first change you'd like to try to move toward your goal?",
+    "user_utterance": "I know you're trying to help. My meals are really irregular and external pressures make it hard to commit to anything new."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "That makes sense—irregular meals are tough with busy days. What's one tiny, doable anchor you could try this week (like a simple breakfast or a portable snack) to start bringing some consistency?",
+    "user_utterance": "Thanks for checking in, but on tough days external pressures and my unpredictable appetite derail any plan. If we keep things optional and flexible instead of a strict routine, I might try a bit."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "Nice work staying engaged. Try one tiny, flexible anchor: a portable protein snack in the morning (about 200 kcal) when feasible. Optional on tough days—consistency over perfection; we’ll adjust as needed.",
+    "user_utterance": "I’m feeling overwhelmed by these suggestions today. I need something very doable that fits my irregular routine, not a rigid plan.",
+    "suggestion": 1.5801106839619283,
+    "ground_truth_action": 1.1729372187863032,
+    "compliance_raw": 0.9185653069648749,
+    "compliance_ema": 0.8851624191040093,
+    "goal": 2.0751276191456314,
+    "reward": 1.5832234704298631,
+    "user_compliance_prob": 0.08033289326179649,
+    "behavior_mean_before": 1.1217098302465802,
+    "behavior_mean_after": 1.1230588069229173,
+    "noise": 0.014402721687091377,
+    "noise_std": 0.739179677469275
+  }
+]

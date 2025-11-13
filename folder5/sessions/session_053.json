@@ -1,0 +1,28 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Nice to meet you! What's one small dietary change you feel ready to try today, given your routine in Suwon?",
+    "user_utterance": "I hear you, and my days can be really unpredictable, so I’ll see what small step I can manage when I’m feeling a bit steadier."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "That makes sense—when you feel steadier, what’s one tiny, repeatable cue you can try today to nudge a healthier choice? For example, keeping a bottle of water nearby or adding a veggie to one meal.",
+    "user_utterance": "I know the plan makes sense, but today my mood and surroundings won’t cooperate. Can we keep things tiny and flexible so it actually fits my situation?"
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "Today’s tiny, repeatable step: add one serving of vegetables to one meal. It’s small, easy to fit into your day in Suwon, and you can do it even when plans are unsettled. You’ve got this.",
+    "user_utterance": "I’m feeling overwhelmed by plans right now and I need to be heard before trying changes. Can we slow things down and talk about what might feel doable today?",
+    "suggestion": 1.6336336012663715,
+    "ground_truth_action": 1.0,
+    "compliance_raw": 0.8732732797467258,
+    "compliance_ema": 0.8750907143742169,
+    "goal": 2.5225156758380862,
+    "reward": 1.0209708005314981,
+    "user_compliance_prob": 0.20279593590399295,
+    "behavior_mean_before": 1.26899279085757,
+    "behavior_mean_after": 1.2611064196140653,
+    "noise": -0.8857158795318895,
+    "noise_std": 0.6434135781230775
+  }
+]

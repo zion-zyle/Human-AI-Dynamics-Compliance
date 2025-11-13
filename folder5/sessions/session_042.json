@@ -1,0 +1,28 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Nice to meet you—I'm here to support practical, sustainable progress toward your goal. What does the 'G: 2.08' target mean for you, and what's one small change you'd like to start today?",
+    "user_utterance": "I hear you, but my appetite has been all over the place. External factors keep pulling me away from meals, and I’m not confident I can follow your guidance today."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "That sounds tough—on busy days, one simple, grab-and-go snack at a consistent time can help steady your appetite, even if you can’t follow a full meal plan today. What’s one tiny option you could reliably have within the next few hours?",
+    "user_utterance": "I hear you, but my eating has been really unstable and I'm easily swayed by what's around me. Maybe we could try small, situational tweaks rather than big changes."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "You’re doing well focusing on small, doable tweaks. Today, aim for one reliable grab-and-go snack at a consistent time (e.g., mid-morning) to help stabilize your appetite. Tiny, steady steps add up—you’ve got this.",
+    "user_utterance": "You're right, today it's especially hard with the chaotic meals and outside pressures. I'll focus on the smallest, easiest step I can manage right now.",
+    "suggestion": 1.3599999999999999,
+    "ground_truth_action": 1.036851044079019,
+    "compliance_raw": 0.9353702088158038,
+    "compliance_ema": 0.9121572152135036,
+    "goal": 2.0751276191456314,
+    "reward": 1.4457739902444127,
+    "user_compliance_prob": 0.6301122934708201,
+    "behavior_mean_before": 1.1638161508780631,
+    "behavior_mean_after": 1.158771320955586,
+    "noise": -0.2505829619112011,
+    "noise_std": 0.30925218650581865
+  }
+]

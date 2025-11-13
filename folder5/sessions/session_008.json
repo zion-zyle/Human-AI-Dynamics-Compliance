@@ -1,0 +1,28 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Nice to connect from Suwon—what is one small change you are willing to try this week to move toward your goal? Also, are there foods you love or avoid so I can tailor suggestions.",
+    "user_utterance": "I hear you, but my eating feels unpredictable and I get overwhelmed by strict plans. Can we keep things tiny and flexible and revisit ideas later?"
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "Absolutely—let’s keep it tiny and flexible. Tell me one very small change you’d feel okay trying this week, and we’ll check in again soon to see how it lands.",
+    "user_utterance": "I hear you, and I want to try, but social settings and outside hints make it really hard for me to eat regularly."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "Nice work staying flexible. This week, try one tiny, doable change: have a small protein snack at a consistent time (like yogurt or a handful of nuts around 10:30 am), even in social settings. If that feels okay, we can build on it next week. I've nudged your goal to 1.6 to reflect your current pace.",
+    "user_utterance": "I struggle to keep a routine and I get pulled in by what's around me. I need something gentle and flexible that fits my real life.",
+    "suggestion": 1.5,
+    "ground_truth_action": 1.9327152428818382,
+    "compliance_raw": 0.9134569514236324,
+    "compliance_ema": 0.9047996825981256,
+    "goal": 1.6847649383443386,
+    "reward": 2.3240154928005095,
+    "user_compliance_prob": 0.08238308501894948,
+    "behavior_mean_before": 1.0438955581927578,
+    "behavior_mean_after": 1.0673453658810292,
+    "noise": 0.8512443936821538,
+    "noise_std": 0.7375764275151814
+  }
+]

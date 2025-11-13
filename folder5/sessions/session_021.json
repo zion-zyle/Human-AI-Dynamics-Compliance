@@ -1,0 +1,28 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "좋아요, Suwon에서의 일상과 식습관에 맞춰 차근히 돕겠습니다. 현재 목표 G 2.08이 어떤 목표를 뜻하는지 간단히 알려주시고, 식단에 대한 선호나 제약이 있나요?",
+    "user_utterance": "Thanks for the suggestion, but I’m not sure I can follow it today. My appetite shifts a lot and I’m very sensitive to what's happening around me, so can we focus on what feels doable in the moment?"
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "좋아요, 지금 이 순간 당신이 가장 쉽게 할 수 있는 한 가지를 함께 찾겠습니다. 물 한 잔이나 아주 소량의 간식처럼 가볍게 시작해볼까요?",
+    "user_utterance": "I’m glad you checked in. I’m feeling a bit resistant today, but I can try to notice what in my surroundings makes eating harder and talk about what I can manage."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "지금은 아주 작은 시작이 가장 현실적이에요. 물 한 잔 마시기나 아주 소량의 간식으로 시작해 보세요. 주변 환경이 다소 민감해도 부담 없이 할 수 있는 수준이고, 천천히 확장해 나가면 좋습니다. Suwon의 바쁜 아침에도 적용하기 쉬운 간단한 선택으로 오늘을 시작해 보세요.",
+    "user_utterance": "I’m feeling overwhelmed by these changes and I want to take things at my own pace. Can we talk about options that fit my day-to-day routine and don’t feel like pressure?",
+    "suggestion": 1.5,
+    "ground_truth_action": 1.0,
+    "compliance_raw": 0.9,
+    "compliance_ema": 0.8887006556508499,
+    "goal": 2.0751276191456314,
+    "reward": 1.372161453521262,
+    "user_compliance_prob": 0.1712200626614727,
+    "behavior_mean_before": 1.116506667409399,
+    "behavior_mean_after": 1.113180578093246,
+    "noise": -0.7001773472387035,
+    "noise_std": 0.6681059109987283
+  }
+]
