@@ -1,0 +1,28 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Good morning from Suwon! To tailor this well, could you tell me what your G 3.25 goal means for you and what a typical day of eating looks like right now?",
+    "user_utterance": "Appreciate the guidance. I'll try to stay more consistent with meals and cues, and I'll keep you posted on what triggers cravings."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "Nice job committing to consistency. What's one concrete cue you'd like to track today (hunger, timing, cravings), and what's a small adjustment you feel ready to try this week?",
+    "user_utterance": "Cravings are still tough, but I’ll try to follow the plan and keep things simple today. If you have quick, low-effort tips to handle snack urges when I’m with friends, I’d appreciate them."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "Nice progress today. When you’re with friends and cravings hit, try a simple 3.0-level move: pause for 60 seconds, sip water, and choose one small, healthier option or share a portion. This keeps you in control without making the moment awkward. Your trend is moving toward your goal—steady and doable.",
+    "user_utterance": "Thanks for the guidance—I'll aim to stick to a steadier meal plan and use your strategies to curb grazing today.",
+    "suggestion": 3.1557150996305046,
+    "ground_truth_action": 3.1170237483200958,
+    "compliance_raw": 0.9922617297379183,
+    "compliance_ema": 0.9763860881393508,
+    "goal": 3.25,
+    "reward": 2.4659708362892503,
+    "user_compliance_prob": 0.8329535979941148,
+    "behavior_mean_before": 2.726524080067929,
+    "behavior_mean_after": 2.832815594200769,
+    "noise": 0.03300346428075692,
+    "noise_std": 0.046082022833271195
+  }
+]

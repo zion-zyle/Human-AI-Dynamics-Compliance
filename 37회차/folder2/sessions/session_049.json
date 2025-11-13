@@ -1,0 +1,28 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "목표가 5.00이라고 들었어요. 지금 가장 큰 도전이 무엇인지 한 가지를 알려주실 수 있을까요? 그에 맞춰 실용적인 한 걸음부터 함께 시작해봐요.",
+    "user_utterance": "I'm sticking with the plan and noticing some progress, but I still feel the urge to eat at irregular times. I'll stay mindful and follow your guidance."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "좋아요, 규칙적인 식사 습관으로 가려는 의지가 멋져요. irregular한 식사의 주요 유발 요인 한 가지를 알려주시면, 그것에 맞춘 실용적인 한 걸음부터 함께 시작해볼게요.",
+    "user_utterance": "Thanks for the steady guidance. I'm feeling more in control today and will keep focusing on regular meals and mindful choices."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "Excellent consistency at 5.0. Keep prioritizing regular meals and mindful choices today; you’re in a strong rhythm.",
+    "user_utterance": "Thanks for the steady guidance, coach. I’m sticking with the plan most days and will keep pushing for consistency even when cravings spike.",
+    "suggestion": 5.0,
+    "ground_truth_action": 5.0,
+    "compliance_raw": 1.0,
+    "compliance_ema": 0.9989142709261649,
+    "goal": 5.0,
+    "reward": 2.5,
+    "user_compliance_prob": 0.9999557678686444,
+    "behavior_mean_before": 4.993323279717816,
+    "behavior_mean_after": 4.9953062217857775,
+    "noise": 0.018199993383275957,
+    "noise_std": 0.010009554140372816
+  }
+]

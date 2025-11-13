@@ -1,0 +1,28 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "좋아요! 지금의 식사 습관이나 가장 어려운 점이 무엇인지 알려줄래요? 그 정보를 바탕으로 시작점 하나를 같이 찾아보겠습니다.",
+    "user_utterance": "Got it—I'll keep focusing on consistency and let you know if I hit any tough moments."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "멋져요—꾸준함에 초점을 맞추고 계시네요. 이번 주에 특히 도전이 되는 순간 한 가지를 떠올려보고, 그때 어떤 간단한 대안이 도움이 될지 함께 생각해볼까요?",
+    "user_utterance": "Thanks for the consistent guidance — I stayed close to the plan today, though I still felt some urges. I’d appreciate quick strategies for handling cravings when I’m out with friends."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "멋져요—지금 흐름이 매우 좋습니다. 오늘 친구들과 외출할 때 바로 적용할 한 가지 간단 전략은: 물 한 잔 먼저 마시고, 단백질과 채소가 있는 식사를 선택하고, 간식은 과일로 대체하는 것. 이 작은 루틴이 cravings 관리에 도움이 될 거예요.",
+    "user_utterance": "Thanks for the steady guidance. I'm noticing triggers around irregular meals, and I'm aiming to stay consistent with mindful choices.",
+    "suggestion": 5.0,
+    "ground_truth_action": 4.99266813042855,
+    "compliance_raw": 0.99853362608571,
+    "compliance_ema": 0.9973444008439432,
+    "goal": 5.0,
+    "reward": 2.498452993785858,
+    "user_compliance_prob": 0.9993045834627221,
+    "behavior_mean_before": 4.973521859698026,
+    "behavior_mean_after": 4.979206324881948,
+    "noise": -0.007313456234807635,
+    "noise_std": 0.010150209972052026
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "좋은 아침이에요! 현재 목표가 5.00이라고 하셨는데, 이 수치가 무엇을 의미하는지와 지금 식습관에서 가장 개선하고 싶은 부분은 무엇인지 간단히 알려주실 수 있나요?",
+    "user_utterance": "Thanks for the consistency—I'm sticking with the plan most days, but evening snacking still gets to me. Do you have quick, non-judgmental tweaks I can try when cravings hit?"
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "갈망이 들 때는 먼저 물 한 잔을 마시고 5분 정도 기다려 보세요. 그 사이에 단백질 간식이나 과일 같은 건강한 대체안을 미리 준비해 두면 충동이 진정되는 데 도움이 될 거예요.",
+    "user_utterance": "Thanks for the steady coaching. I still deal with evening cravings and irregular meals, but I'm trying to stay on track and follow the plan as best I can."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "멋진 흐름이에요. 저녁 간식 욕구를 다루기 위해 S=3.5의 한 걸음: 7:30pm 전후에 150–200 kcal의 단백질 간식으로 대체해 보세요. 예: 그릭 요거트 150g + 과일 한 조각, 또는 삶은 달걀 하나. 물 한 잔 마시고 5분 기다리기 루틴도 함께 유지하면 cravings가 가라앉는 데 도움이 됩니다. 이렇게 작은 변화로도 점진적으로 식습관이 안정될 거예요.",
+    "user_utterance": "Thanks for the steady guidance—cravings are still tough for me, and I’ve mostly stuck with the plan but I tend to graze after meals. Any quick tips to handle that?",
+    "suggestion": 5.0,
+    "ground_truth_action": 5.0,
+    "compliance_raw": 1.0,
+    "compliance_ema": 0.9985871667310628,
+    "goal": 5.0,
+    "reward": 2.5,
+    "user_compliance_prob": 0.9998987695321658,
+    "behavior_mean_before": 4.989899193310627,
+    "behavior_mean_after": 4.9928989810547275,
+    "noise": 0.00936293865135343,
+    "noise_std": 0.01002186578105218
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Good morning from Suwon! What's one small, doable change you’d like to try today to move toward your goal, and what’s felt most challenging lately?",
+    "user_utterance": "Thanks for the latest guidance—I'm sticking with it and noticing a bit less grazing. Evening cravings are still tough, but I’ll keep following the plan."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "Nice progress on grazing—what’s one small adjustment you could try tonight to ease those evening cravings?",
+    "user_utterance": "Thanks for the guidance. I notice cravings spike when my day is off, so I’ll focus on simple routines to stay steady today."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "Nice momentum—you're trending up. Tonight, try a simple, practical adjustment: a 10-minute wind-down and a protein-rich snack with water to blunt evening cravings. This gentle shift supports your rising goal.",
+    "user_utterance": "Thanks for the guidance—I'll give it a go and keep you posted on what helps me manage cravings and my irregular meals.",
+    "suggestion": 3.5,
+    "ground_truth_action": 3.42339834437138,
+    "compliance_raw": 0.984679668874276,
+    "compliance_ema": 0.9835889349318988,
+    "goal": 3.4778691096676386,
+    "reward": 2.4802356685438567,
+    "user_compliance_prob": 0.8717459220447452,
+    "behavior_mean_before": 3.128073497058256,
+    "behavior_mean_after": 3.2101602992358247,
+    "noise": -0.028900564926704335,
+    "noise_std": 0.037702880838335034
+  }
+]

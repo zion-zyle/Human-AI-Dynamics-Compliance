@@ -1,0 +1,28 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Good morning from Suwon! To tailor guidance for your goal, could you share what a typical day of meals looks like for you and one challenge you’d like to move past?",
+    "user_utterance": "Cravings still pop up after work. I'll try to stick with the plan and take a quick pause before deciding."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "Great job pausing after work—that moment of awareness is a big win. What typically triggers your post-work cravings, and would a brief pause with water or a quick distraction help you ride it out and choose something aligned with your goal?",
+    "user_utterance": "Appreciate the check-in. I'm noticing cravings around certain times, but I'm trying to follow the plan and build a steadier routine even with some external temptations."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "Cravings after work are common. Your pause and water habit is a strong step. Aim for a steady effort of 3.0: pause 60 seconds, drink water, and then choose a small, healthier option if still hungry. You're trending upward; keep this momentum.",
+    "user_utterance": "Thanks for checking in. I'm noticing some cravings lately and would appreciate simple, doable steps to stay on track without feeling overwhelmed.",
+    "suggestion": 3.0,
+    "ground_truth_action": 2.777046275665761,
+    "compliance_raw": 0.9554092551331521,
+    "compliance_ema": 0.9746579890813366,
+    "goal": 2.8795957563987336,
+    "reward": 2.4397173170725788,
+    "user_compliance_prob": 0.7242567748821339,
+    "behavior_mean_before": 2.429799124799314,
+    "behavior_mean_after": 2.5187124977866526,
+    "noise": -0.06572469604137177,
+    "noise_std": 0.06956053662545907
+  }
+]

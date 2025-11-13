@@ -1,0 +1,28 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Good morning! To tailor guidance, what's a typical day like for you here in Suwon, and are there any foods you love or avoid?",
+    "user_utterance": "Got it—I'll try to apply the latest guidance. Cravings still come up, but I'll report back how it goes and we can adjust if needed."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "Cravings are a normal part of the process—thanks for sticking with it. When do you notice them peaking today, and what's one small, tasty swap you feel ready to try to ride them out?",
+    "user_utterance": "I'll keep aiming for steady steps today, even with cravings pulling me. I'll check in if I need adjustments."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "Nice work staying steady today. If cravings spike, try a small, nourishing swap to ride them out (e.g., fruit instead of a high-sugar snack). Aim for a daily effort score around 3.0 today—you're making steady progress.",
+    "user_utterance": "Thanks for the tips. I’ll try to stay with the plan and watch for triggers that usually lead to overeating.",
+    "suggestion": 2.7995957563987335,
+    "ground_truth_action": 2.6241755969929996,
+    "compliance_raw": 0.9649159681188533,
+    "compliance_ema": 0.9854482891235297,
+    "goal": 2.655776213071667,
+    "reward": 2.4634188173650147,
+    "user_compliance_prob": 0.6156284126846883,
+    "behavior_mean_before": 2.1003814086622445,
+    "behavior_mean_after": 2.2260505394625874,
+    "noise": 0.09333796930738042,
+    "noise_std": 0.09302426286010733
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Hi there, welcome! What does your Goal 4.31 represent for you, and what did you eat today so I can help you move forward with practical tweaks?",
+    "user_utterance": "Got it—I'll keep following the plan today and mention any cravings or tricky moments so we can adjust."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "Nice—what cravings or tricky moments have you noticed so far today, and what easy options do you have at home or nearby to help you ride them out?",
+    "user_utterance": "Thanks for the check-in—I felt the urge to snack after a busy day, but I’ll steer back to a regular meal pattern and plan a satisfying alternative when cravings hit."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "Nice steady progress—keep riding this momentum today. Stick to regular meals, and have a satisfying, portion-controlled snack ready for cravings. Hydrate, pause 5 minutes when urges hit, and revisit your plan if needed.",
+    "user_utterance": "I’m noticing some progress, but those post-meal cravings still hit hard. Any strategies to ride out those urges without feeling deprived?",
+    "suggestion": 4.438092054780285,
+    "ground_truth_action": 4.400203763774844,
+    "compliance_raw": 0.9924223417989116,
+    "compliance_ema": 0.9933431382654134,
+    "goal": 4.35,
+    "reward": 2.4886464753327315,
+    "user_compliance_prob": 0.890783864382922,
+    "behavior_mean_before": 4.096687935921426,
+    "behavior_mean_after": 4.1819095361601,
+    "noise": -0.0006014524599233487,
+    "noise_std": 0.03359068529328885
+  }
+]

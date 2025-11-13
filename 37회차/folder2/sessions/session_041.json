@@ -1,0 +1,28 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "Nice to meet you—what's one small, doable change you'd like to focus on today, and are there any foods you want to include or avoid this morning?",
+    "user_utterance": "Thanks for the steady guidance. I'm noticing I can stay more consistent even when things get busy, and I'll keep leaning into small, sustainable steps."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "Love the focus on small, sustainable steps. What's one tiny change you can commit to today that would be easy to fit into your busy morning in Suwon?",
+    "user_utterance": "Thanks for the check-in. I'm noticing cravings after meals and tougher evenings, but I'm sticking with a simple plan and trying to pause before reaching for more."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "Great consistency so far. Try a small 3-minute pause after meals to check true hunger before snacking. If still hungry, opt for a protein-rich option (e.g., yogurt, nuts) or a glass of water. This gentle nudge keeps momentum without big changes and fits your busy mornings in Suwon.",
+    "user_utterance": "Thanks for the check-in, coach. I'm staying on track and noticing the plan helps with cravings. Do you have quick tips for today if urges spike?",
+    "suggestion": 5.0,
+    "ground_truth_action": 5.0,
+    "compliance_raw": 1.0,
+    "compliance_ema": 0.9983004165401237,
+    "goal": 5.0,
+    "reward": 2.5,
+    "user_compliance_prob": 0.9997879555480567,
+    "behavior_mean_before": 4.9853807219035895,
+    "behavior_mean_after": 4.989722187157607,
+    "noise": 0.008350714720167535,
+    "noise_std": 0.010045801601619761
+  }
+]

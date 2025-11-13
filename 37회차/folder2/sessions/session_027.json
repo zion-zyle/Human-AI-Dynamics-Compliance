@@ -1,0 +1,28 @@
+[
+  {
+    "turn": 1,
+    "agent_utterance": "좋아요, Suwon에서의 식단 목표를 함께 조금씩 구체화해볼까요? 지금 가장 큰 도전이나 불편함은 무엇이며, 오늘 실천 가능한 한 가지 작은 변화로 시작해볼까요?",
+    "user_utterance": "Thanks for the update. Cravings and irregular meals still trip me up, but I’ll stick to simple, doable changes and check in on how I feel."
+  },
+  {
+    "turn": 2,
+    "agent_utterance": "좋아요, 크레이빙과 불규칙한 식사가 여전하다고 느끼시네요. 이번 주에 가장 자주 드는 욕구 타이밍이나 상황을 한 가지만 짚어보고, 그때 바로 실천할 수 있는 아주 작은 대안을 함께 생각해볼까요?",
+    "user_utterance": "Appreciate the tips—cravings can sneak up, but I’ll work on sticking to the plan even when outside cues pull me in."
+  },
+  {
+    "turn": 3,
+    "agent_utterance": "오늘은 cravings가 나타날 때 30분 이내에 단백질 간식을 하나 챙기고 물 한 잔을 먼저 마신 뒤 2분 정도의 짧은 호흡으로 이완해보세요. 간단한 변화지만 규칙적인 단백질 섭취가 불규칙한 식사를 줄이고 포만감을 높이는 데 도움이 됩니다. 현재 트렌드를 반영해 목표를 4.6으로 소폭 상향하는 것을 권합니다.",
+    "user_utterance": "Thanks for the check-in - cravings after work have been tough, but I'm noticing some patterns. I'll stay consistent today and try a quick swap when they hit.",
+    "suggestion": 4.6660601476825505,
+    "ground_truth_action": 4.66625444264877,
+    "compliance_raw": 0.999961141006756,
+    "compliance_ema": 0.9949546267628194,
+    "goal": 4.637621219541814,
+    "reward": 2.49873185280039,
+    "user_compliance_prob": 0.9146613993352253,
+    "behavior_mean_before": 4.366230116776797,
+    "behavior_mean_after": 4.45153519862468,
+    "noise": 0.025781370240993234,
+    "noise_std": 0.02843313774359134
+  }
+]
