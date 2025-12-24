@@ -1,56 +1,67 @@
+from typing import List, Optional
+import math
+
 import matplotlib.pyplot as plt
-import numpy as np
-import os
 
-def plot_simulation(simulator, save=False, filename=None, base_dir: str | None = None):
-    fig, axs = plt.subplots(4, 1, figsize=(12, 12))
 
-    # 0) 제안 vs 실제 행동(GT)
-    axs[0].plot(simulator.suggestion_trace, label='Agent Suggestion (numeric)')
-    if simulator.ground_truth_action_trace:
-        axs[0].scatter(range(len(simulator.ground_truth_action_trace)), simulator.ground_truth_action_trace,
-                       label='GT User Action', s=12)
-    if simulator.goal_trace:
-        axs[0].plot(simulator.goal_trace, linestyle=':', label='Goal (dynamic)')
-    axs[0].set_ylabel("Value (1~5)")
-    axs[0].set_title("Suggestion vs GT Actions (with Goal)")
-    axs[0].legend()
-    axs[0].grid(True)
+def _ema(xs: List[float], alpha: float = 0.3) -> List[float]:
+    if not xs:
+        return []
+    out = [xs[0]]
+    for i in range(1, len(xs)):
+        out.append(alpha * xs[i] + (1 - alpha) * out[-1])
+    return out
 
-    # 1) Reward
-    axs[1].plot(simulator.reward_trace, label='Reward')
-    axs[1].set_ylabel("Reward")
-    axs[1].set_title("Reward Dynamics")
-    axs[1].legend()
-    axs[1].grid(True)
 
-    # 2) Compliance (GT 기반)
-    axs[2].plot(simulator.compliance_trace_raw, label='Compliance (raw)')
-    axs[2].plot(simulator.compliance_trace, label='Compliance (EMA)', linestyle='--')
-    axs[2].plot(simulator.estimated_compliance_trace, label='Estimated Compliance (agent)', linestyle='-.')
-    axs[2].set_ylabel("Compliance")
-    axs[2].set_title("Compliance Over Time (GT-based)")
-    axs[2].legend()
-    axs[2].grid(True)
+def plot_simulation(
+    suggestions: List[float],
+    actions: List[float],
+    rewards: List[float],
+    compliances: List[float],
+    est_compliances: Optional[List[float]] = None,
+    title_suffix: str = "user",
+    out_path: str = "simulation_plot.png",
+) -> None:
+    n = len(suggestions)
+    xs = list(range(n))
 
-    # 3) 목표 변화
-    if simulator.goal_trace:
-        axs[3].plot(simulator.goal_trace, label='Goal')
-    axs[3].set_ylabel("Goal")
-    axs[3].set_title("Goal Over Time")
-    axs[3].legend()
-    axs[3].grid(True)
+    reward_ema = _ema(rewards, alpha=0.3)
+    comp_ema = _ema(compliances, alpha=0.3)
+    est_comp = est_compliances if est_compliances is not None else [float("nan")] * n
 
-    plt.xlabel("Session")
+    fig = plt.figure(figsize=(14, 11))
+
+    # 1) suggestion vs action
+    ax1 = fig.add_subplot(3, 1, 1)
+    ax1.plot(xs, suggestions, label="Agent Suggestion (numeric)")
+    ax1.scatter(xs, actions, s=18, label="GT User Action")
+    ax1.set_title(f"Suggestion vs Action — {title_suffix}")
+    ax1.set_ylabel("Value (1~5)")
+    ax1.set_ylim(1.0, 5.0)
+    ax1.grid(True, alpha=0.35)
+    ax1.legend(loc="upper right")
+
+    # 2) reward
+    ax2 = fig.add_subplot(3, 1, 2)
+    ax2.plot(xs, rewards, alpha=0.35, label="Reward (raw)")
+    ax2.plot(xs, reward_ema, label="Reward (EMA, α=0.3)")
+    ax2.set_title("Reward Dynamics (smoothed)")
+    ax2.set_ylabel("Reward")
+    ax2.grid(True, alpha=0.35)
+    ax2.legend(loc="upper right")
+
+    # 3) compliance
+    ax3 = fig.add_subplot(3, 1, 3)
+    ax3.plot(xs, compliances, alpha=0.35, label="Compliance (raw)")
+    ax3.plot(xs, comp_ema, label="Compliance (EMA, smoothed)")
+    ax3.plot(xs, est_comp, linestyle="--", label="Estimated Compliance (agent)")
+    ax3.set_title("Compliance Dynamics")
+    ax3.set_xlabel("Session")
+    ax3.set_ylabel("Compliance")
+    ax3.set_ylim(0.0, 1.0)
+    ax3.grid(True, alpha=0.35)
+    ax3.legend(loc="lower right")
+
     plt.tight_layout()
-
-    if save and filename:
-        # base_dir/folderX/plots 구조로 저장
-        root = base_dir.strip() if base_dir else ""
-        png_dir = os.path.join(root, "plots") if root else "plots"
-        os.makedirs(png_dir, exist_ok=True)
-        png_path = os.path.join(png_dir, f"{filename}.png")
-        plt.savefig(png_path)
-        return png_path
-
-    plt.show()
+    plt.savefig(out_path, dpi=180)
+    plt.close(fig)
